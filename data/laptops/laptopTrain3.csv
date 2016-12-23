@@ -1,0 +1,1529 @@
+	polarity	text	category	aspect term
+0	 positive	This computer is absolutely AMAZING!!!	 laptop	null
+1	 positive	10 plus hours of battery...	 battery	;battery
+2	 positive positive	super fast processor and really nice graphics card..	 hardware graphics	;processor;graphics card
+3	 positive positive	and plenty of storage with 250 gb(though I will upgrade this and the ram..)	 harddisk memory	;storage;250 gb;ram
+4	 positive positive	This computer is really fast and I'm shocked as to how easy it is to get used to...	 laptop laptop	null
+5	 positive	I've only had mine a day but I'm already used to it...	 laptop	null
+6	 positive positive	GET THIS COMPUTER FOR PORTABILITY AND FAST PROCESSING!!!	 weight hardware	;portability;processing
+7	 positive positive	the laptop was really good and it goes really fast just the way i thought it would of run.	 laptop laptop	null
+8	 positive	i would really recommend to any person out there to get this laptop cause its really worth it.	 laptop	null
+9	 positive positive	and its really cheap and you wont regret buying it.	 price laptop	null
+10	 positive positive positive	As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;	 weight laptop laptop	;portability;longevity;use
+11	 positive positive positive	without a big ol' clunky machine in my backpack, I feel like I can do programming homework anywhere.	 laptop weight laptop	null
+12	 positive positive	I highly recommend this computer for students looking for a solid machine to get them through college.	 laptop laptop	null
+13	 positive	A great feature is the spotlight search: one can search for documents by simply typing a keyword, rather than parsing tens of file folders for a document.	 os	;feature
+14	 negative	Oh my goodness-I am not a happy camper.	 laptop	null
+15	 negative	My HP is very heavy.	 laptop	null
+16	 negative	Not easy to carry.	 weight	;carry
+17	 negative negative	The battery has never worked well.	 battery battery	;battery;worked
+18	 negative	The battery gets so HOT it is scary.	 battery	;battery
+19	 negative	Yet, HP won't do anything about the problem.	 service	null
+20	 negative	I returned the computer to HP and they kept it for 3 months.	 service	null
+21	 negative	When I got the computer back and realizwed it still was not correct HP told me it was out of warranty and now it was my problem.	 service	;warranty
+22	 negative	So, you can imagine how unhappy I am with this item.	 laptop	null
+23	 negative	Currently if I use the laptop I can't sit it on my lap because it will burn my legs.	 laptop	;legs
+24	 negative	Well, they don't care a bunch.	 service	null
+25	 negative	But, at the same time they (the company) would not and could not do anything about my problem.	 service	null
+26	 negative	I would  say if you want to buy one of these machines be careful.	 laptop	null
+27	 negative	And, if you are going to deal with HP be careful.	 laptop	null
+28	 negative	In my house, HP is a nasty word.	 laptop	null
+29	 positive	Since I purchased my Toshiba netbook, I have been very pleased with it, I have a laptop and a desktop.	 laptop	null
+30	 positive	The netbook is easier for me to take to bed and carry around with me.	 weight	null
+31	 neutral neutral	The screen takes some getting use to, because it is smaller than the laptop.	 display display	;screen
+32	 positive	I have not have any problems.	 laptop	null
+33	 positive	The Notebook PC,Toshiba Qosmio is the best gift my father could have ever gotten me.	 laptop	null
+34	 positive	He gave me this PC about 3 years ago and up to this point im still sitting here using it.	 laptop	null
+35	 positive	Its still going.	 laptop	null
+36	 positive	It is in the best condition and has a really high quality.	 laptop	;quality
+37	 positive	This is something i would deffinately reccomend to someone.	 laptop	null
+38	 positive	You will not regret buying such a great thing like this!	 laptop	null
+39	 positive	It can't get any better.	 laptop	null
+40	 positive	Waited on getting this computer, but it has been a great change.	 laptop	null
+41	 positive	Ease of use is just one of the benefits I love about my Mac.	 laptop	;use
+42	 positive positive	This laptop meets every expectation and Windows 7 is great!	 laptop os	;windows 7
+43	 positive positive positive	It's fast, it's easy easy easy to set up, easy to hook to my wireless network.	 laptop laptop laptop	;set;hook;wireless network
+44	 positive	It's even easy to hook up to other wireless networks.	 laptop	;hook up;wireless networks
+45	 neutral	The battery doesn't last long but I'm sure an upgrade battery would solve that problem.	 battery	;battery;battery
+46	 positive	I don't use my laptop in a way though that needs a long battery life so it's perfect for me.	 battery	;battery life
+47	 positive positive positive positive	Most everything is fine with this machine: speed, capacity, build.	 laptop laptop harddisk laptop	;speed;capacity;build
+48	 negative	The only thing I don't understand is that the resolution of the screen isn't high enough for some pages, such as Yahoo!Mail.	 display	;resolution of the screen;yahoo
+49	 positive positive	I bought it for really cheap also and it's AMAZING.	 price laptop	null
+50	 positive	Recommended to people as their first laptop.	 laptop	null
+51	 positive	Plain and simple, it(laptop) runs great and loads fast.	 laptop	;runs;loads
+52	 positive positive positive	Easy to carry, can be taken anywhere, can be hooked up to printers,headsets.	 weight laptop laptop	;carry
+53	 positive positive	I'm already hooked on the sleek look and dependability that this laptop has shown.	 laptop laptop	;look;dependability
+54	 neutral	Being a PC user my whole life, it's taking a bit of time to adapt to the OS of a Mac but I'm finding my way around.	 os	;os
+55	 positive positive	The unibody design is edgy and durable.	 laptop laptop	;unibody design
+56	 positive	The LED backlit display makes my pictures pop so much more.	 display	;led backlit display
+57	 positive positive	I'm learning the finger options for the mousepad that allow for quicker browsing of web pages.	 mouse laptop	;mousepad;browsing;web pages
+58	 positive	A key contributor that led me to Mac is the art aspect.	 laptop	;art aspect
+59	 positive	They have developed excellent proprietary software for editing video and pictures and I'm looking forward to utilizing these tools on the regular.	 software	;software;editing;tools
+60	 positive positive	I'm excited to learn more about what this powerful machine has to offer and encourage others to do the same.	 laptop laptop	null
+61	 negative positive	It's more expensive but well worth it in the long run.	 price laptop	null
+62	 positive positive positive	Great product, very easy to use and great graphics.	 laptop laptop graphics	;product;use;graphics
+63	 negative	One drawback, I wish the keys were backlit.	 keyboard	;keys
+64	 positive neutral	I'm glad I bought this laptop, it was worth the few ($100) extra dollars.	 laptop price	null
+65	 positive positive	It had most of the features and all of the power that I wanted to replace my desktop machine.	 laptop laptop	;features;power
+66	 neutral positive	I wasn't really as concerned about portability (it's a very large laptop) but it's not hard to move around or take on a trip which was a pleasant surprise.	 laptop weight	;portability
+67	 positive	I'm very happy with this machine!	 laptop	null
+68	 positive positive positive	I love the size, keyboard, the functions.	 laptop keyboard laptop	;size;keyboard;functions
+69	 positive	I don't really have a complaint.	 laptop	null
+70	 positive positive positive	It is easy to use, good quality and good price.	 laptop laptop price	;use;quality;price
+71	 positive	Perfect trifecta!	 laptop	null
+72	 positive	I would recommend this product.	 laptop	null
+73	 negative negative	The salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it.	 software laptop	;software
+74	 neutral	This is my first Dell I heard their customer service was lacking and that they were working on improving it!	 service	;customer service
+75	 negative	The DVD burner broke after burning 3 DVD'd during that time!	 hardware	;dvd burner
+76	 negative	They sent me a replacement part and without informing me are requiring that I return it within 15 days or contact them and let them know the broken part will be returned later.	 service	null
+77	 negative	If this is an improvement in Customer Service then I would hate too see what it was before!	 service	;customer service
+78	 negative	I spoke to 4 different people and was told they needed to transfer me to a 5th person!	 service	null
+79	 negative	Needless to say I told them No and have a nice day and hung up!	 service	null
+80	 negative negative	I can guarantee this will be the last Dell I will ever purchase!	 laptop laptop	null
+81	 negative negative	Breaking within 1 year of purchase and speaking to 4+ people to report the damaged part will be returned late!	 laptop service	null
+82	 negative	I do not recommend this company or their products!!!!	 laptop	null
+83	 positive	So far, a great product.	 laptop	null
+84	 negative	High price tag, however.	 price	;price tag
+85	 neutral	Still trying to learn how to use it.	 laptop	;use
+86	 negative	it is the worst computer dell ever made.	 laptop	null
+87	 negative negative	it is hard to fix and makes it a hassle to own one.	 laptop laptop	null
+88	 negative	breaks easily.	 laptop	null
+89	 positive	only good thing is the graphics quality.	 graphics	;graphics quality
+90	 positive positive	There are so many wonderful features and benefits to the new MacBook!	 laptop laptop	;features
+91	 positive	No Viruses!	 laptop	;viruses
+92	 positive positive	This laptop is fast and you will literally learn all you can do with this dynamo by just watching the online tutorials.	 laptop laptop	;online tutorials
+93	 positive	I am loyal to Apple.	 laptop	null
+94	 positive	I am very Happy!	 laptop	null
+95	 negative	This just keeps having it's hard drive replaced!	 harddisk	;hard drive
+96	 negative	Acer won't replace the laptop.	 service	null
+97	 negative	the manufacturer's warranty only covers replacement/repair of parts.	 service	;warranty
+98	 negative	This thing is a lemon.	 laptop	null
+99	 positive	This MacBook is an outstanding product with great value.	 laptop	;value
+100	 positive positive	Its ease of use and the top service from Apple- be it their phone assistance or bellying up to the genius bar- cannot be beat.	 laptop service	;use;top service;genius bar
+101	 positive positive	Suffice it to say, my MacBook Pro keeps me going with its long battery life and blazing speed.	 battery laptop	;battery life;speed
+102	 neutral	It does run a little warm but that is a negligible concern.	 laptop	null
+103	 negative negative	I have had nothing but problems since the day I took it out of the box!	 laptop laptop	null
+104	 negative	My first problem was with the pre-loaded Norton Firewall/Security program.	 software	;norton firewall security program
+105	 negative	It would not let me connect to my Wifi system where I lived.	 laptop	;wifi system
+106	 negative	It took Toshiba tech support 4 calls and 4 different techs to correct the problem.	 service	;toshiba tech support
+107	 negative	"Then just the other day, my left ""mouse"" button snapped!"	 mouse	;left mouse button
+108	 negative	Being only 2 months old, I am not a happy camper!	 laptop	null
+109	 negative	Buyer Beware.	 laptop	null
+110	 negative	this one, in my opinion, might be a lemon!	 laptop	null
+111	 negative negative	It rarely works and when it does it's incredibly slow.	 laptop laptop	null
+112	 negative	I have had to take it to the geek squad guys to get it fixed because it has had viruses 3 times and i have not even had it for more then 4 months!	 laptop	null
+113	 negative	*IF YOU ARE LOOKING FOR A GOOD LAPTOP, THIS IS NOT IT!	 laptop	null
+114	 positive positive	Like the price and operation.	 price laptop	;price;operation
+115	 negative negative negative	Some features arent friendly ( volume wheel, sound quality, etc.	 laptop laptop laptop	;features;volume wheel;sound quality
+116	 positive neutral	But, for the cost this is a winner.	 laptop price	;cost
+117	 positive	I absolutely love my mac!	 laptop	null
+118	 positive	I can't imagine my life without it anymore!	 laptop	;life
+119	 positive negative	I've haven't had any major problems with the laptop except that the plastic piece that covers the usb port wires have all come off.	 laptop hardware	;usb port wires
+120	 negative	Apparently they are defective since they are not securely attached.	 hardware	null
+121	 negative	I can barely use any usb devices because they will not stay connected properly.	 laptop	;usb
+122	 negative	I called Toshiba and they want me to be without my laptop for about two weeks while they look at the problem.	 service	;look
+123	 negative	I think I might rather suffer for something that is simple to fix in my opinion.	 service	null
+124	 negative	I bought this laptop Was the worst Laptop I've ever bought.	 laptop	null
+125	 negative negative	I spent alot of money on this product and its been a nightmare.	 price laptop	null
+126	 negative	And having to deal with the company has been a even worse nightmare.	 service	null
+127	 negative	They sent it back with a huge crack in it and it still didn't work.	 service	;work
+128	 negative	And that was the fourth time ive sent it to them to get fixed.	 service	null
+129	 negative	Its been a year and am still waiting to see what there going to do about my laptop.	 service	null
+130	 negative	So if anyones looking to buy a computer or laptop you should stay far far away from any that have the name TOSHIBA on it...	 laptop	null
+131	 positive	I saved for this laptop for 3 months and I can tell you personally it was worth the wait.	 laptop	null
+132	 positive positive	The display on this computer is the best I've seen in a very long time, the battery life is very long and very convienent.	 display battery	;display;battery life
+133	 negative positive	A little pricey but it is well, well worth it.	 price laptop	null
+134	 positive	It is amazing.	 laptop	null
+135	 negative	In the first moth of owning this computer its hardrive failed which had to be replaced.	 harddisk	null
+136	 negative negative	After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating.	 battery battery	;hard drive;battery
+137	 negative negative negative	Then after 4 or so months the charger stopped working so I was forced to go out and buy new hardware just to keep this computer running.	 hardware hardware hardware	;charger;hardware
+138	 negative negative	A tip for people looking into this computer: DO NOT BUY IT save up a bit more money and buy a computer that will last.	 laptop laptop	null
+139	 positive	Has a 5-6 hour battery life.	 battery	;battery life
+140	 positive positive	It is easy to use and lightweight.	 laptop laptop	;use
+141	 positive positive	Was very much worth the price i paid.	 laptop price	;price
+142	 negative	This netbook went bad on me after 3 days.	 laptop	null
+143	 negative	There is a blank lighted screen when I start and that is all.	 display	null
+144	 negative negative	Three weeks after I bought the netbook, the screen quit working.	 display display	;screen
+145	 negative	I baby my electronics so I know for a fact it was defective and not anything that I did to it.	 display	null
+146	 negative negative positive	Overall I feel this netbook was poor quality, had poor performance, although it did have great battery life when it did work.	 laptop laptop battery	;quality;performance;battery life
+147	 positive positive positive	Took the netbook on a vacation trip and I was able to do whatever I wanted to do without lugging a much heavier laptop.	 weight laptop laptop	null
+148	 negative negative	The So called laptop Runs to Slow and I hate it!	 laptop laptop	;runs
+149	 negative	Do not  buy it!	 laptop	null
+150	 negative	It is the worst laptop ever	 laptop	null
+151	 positive positive	The image is great, and the soud is excelent.	 display laptop	;image;soud
+152	 positive	i love ths notebook.	 laptop	null
+153	 positive	I love the glass touchpad.	 mouse	;glass touchpad
+154	 positive	Easy learning curve.	 laptop	null
+155	 positive	Also the display is exceptional!	 display	;display
+156	 positive	I have loved this since i took it out of the box.	 laptop	null
+157	 positive	The battery is really long.	 battery	;battery
+158	 positive negative	the features are great, the only thing it needs is better speakers.	 laptop laptop	;features;speakers
+159	 positive	Small and light weight.	 laptop	;light weight
+160	 negative negative	Speakers too small to be of any real use.	 laptop laptop	;speakers
+161	 positive positive	Keyboard good sized and wasy to use.	 keyboard keyboard	;keyboard;sized
+162	 positive	I like it!	 laptop	null
+163	 positive positive positive	Meets my needs perfectly and is light enough for this senior to carry without affecting my arthritis.	 laptop laptop weight	null
+164	 negative	Needless to say, not to happy with the product.	 laptop	;product
+165	 positive	This is a great machine!	 laptop	null
+166	 positive positive	The design is awesome, quality is unprecedented.	 laptop laptop	;design;quality
+167	 positive positive positive positive	Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.	 laptop laptop price laptop	;look;price;performance
+168	 positive	It is by far one of the greatest investments I have ever made.	 laptop	null
+169	 positive positive	Am very glad I bought it, great netbook, low price.	 laptop price	;price
+170	 positive	Very good quality and well made.	 laptop	;quality
+171	 positive positive	Great pick for portability and affordability.	 weight price	;portability;affordability
+172	 positive	The black model also has a very nice seamless appearance - one of the better looking notebooks I've seen.	 laptop	;appearance
+173	 negative positive	The only problem is a lack of screen resolutions!	 display laptop	;screen resolutions
+174	 positive positive	If you need an affordable, entry-level laptop, this will fit the bill.	 price laptop	null
+175	 negative negative	I dislike the weight and size, cubersome.	 weight laptop	;weight;size
+176	 negative negative	I dislike the quality and the placement of the speakers.	 laptop laptop	;quality;placement;speakers
+177	 neutral	Overall, it's ok.	 laptop	null
+178	 negative	"Laptop is advertised as a 15"" but the casing looks like that of a 17""."	 laptop	;casing
+179	 negative negative	This laptop is very large and barely fits in any carrying cases.	 laptop weight	null
+180	 positive neutral	Peformance is good for the price.	 laptop price	;peformance;price
+181	 negative positive	If you're not wanting to be mobile, this is a good laptop to sit on a desk.	 weight laptop	null
+182	 negative	Had to have this computer repaired twice in the first 5 months after purchasing it.	 laptop	null
+183	 negative	Not good for a person who gets online daily.	 laptop	null
+184	 neutral	May be better for the occasional web surfer.	 laptop	;web
+185	 positive	I just got this laptop for college, and so far I am very happy with it.	 laptop	null
+186	 positive	It is so much easier to use	 laptop	;use
+187	 positive positive positive positive	Good keyboard, long battery life, largest hard drive and windows 7.	 keyboard battery harddisk os	;keyboard;battery life;hard drive;windows 7
+188	 positive	And Toshiba is a quality supplier.	 laptop	;quality
+189	 positive	I love this little one.	 laptop	null
+190	 positive	The keyboard has a wonderful nature feel.	 keyboard	;keyboard
+191	 positive	great battery life.	 battery	;battery life
+192	 positive	Keyboard is reasonable size.	 keyboard	;keyboard;size
+193	 negative positive	Small screen somewhat limiting but great for travel.	 display weight	;screen
+194	 negative	Charger seems large for this class of computer.	 hardware	;charger
+195	 positive neutral positive	Great Laptop for the price, works well with action pack games.	 laptop price laptop	;price;works;action pack games
+196	 negative negative	The only thing that I have, is the key broad is a little dark to see the letters, would help if it was a little lighter then it is.	 keyboard keyboard	;key;letters
+197	 positive	but other then that I would give this product a 4 in hafe stars.	 laptop	null
+198	 positive	Good for every day computing and web browsing.	 laptop	;web browsing
+199	 positive	A great computer for light home use and business use.	 laptop	;use
+200	 neutral	Might not make the avid gamer happy but I don't really think that is what this computer is designed for.	 laptop	null
+201	 positive positive positive	Crisp screen, great battery life, and plenty of storage.	 display battery harddisk	;screen;battery life;storage
+202	 positive	Very happy.	 laptop	null
+203	 positive positive	He loves it and it is easy to use and well the schools start teaching the kids early about computers so it was easy for him to get started.	 laptop laptop	;use
+204	 positive	I would recomend this acer to parents and grandparents it can really help them in school.	 laptop	null
+205	 negative	MY ONLY PROBLEM IS I CAN NOT REG. THE PRODUCT KEY.	 laptop	;product key
+206	 negative	IT WANT TAKE IT, IT KEEP SAYING ERROR.	 laptop	null
+207	 positive	HELP, HELP, OTHER THAN THAT GETS A GREAT LITTLE WONDER.	 laptop	null
+208	 positive positive	It's fast and has excellent battery life.	 laptop battery	;battery life
+209	 positive	The screen shows great colors.	 display	;screen;colors
+210	 positive positive	I was surprised with the performance and quality of this HP Laptop.	 laptop laptop	;performance;quality
+211	 positive	the speed is fine.	 laptop	;speed
+212	 positive positive	But with A WAY Bigger Screen, and IS able to connect to an HDMI.	 display laptop	;screen
+213	 positive	Love it.	 laptop	null
+214	 positive positive	I would recommend this computer to anyone searching for the perfect laptop, and the battery life is amazing.	 laptop battery	;battery life
+215	 negative	I BOUGHT THIS LAP TOP AND THE CHARGE TIME DOSEN'T LAST AS LONG AS THEY SAY IT WILL MORE LIKE 2 HOURS	 battery	;charge time
+216	 positive	This computer is the ideal college companion.	 laptop	null
+217	 positive positive	It's software and speed enable it to do amazing things.	 laptop software	;software;speed
+218	 negative	I am not happy at all with the product I purchased.	 laptop	null
+219	 neutral negative	"A cheaper price should not equal a ""cheap"" product."	 price laptop	;price
+220	 negative	It was over rated!	 laptop	null
+221	 positive	The Toshiba laptop was a great purchase.	 laptop	;toshiba laptop
+222	 positive positive	The price was very good, and the product is top quality.	 price laptop	;price;quality
+223	 positive positive	The delivery was fast, and I would not hesitate to purchase this laptop again.	 laptop laptop	;delivery
+224	 positive positive	It has easy to use features and all the speed and power I could ask for.	 laptop laptop	;use;features;speed;power
+225	 positive positive	True quality at a great price!	 laptop price	;quality;price
+226	 positive positive	I am enjoying it and the quality it provides is great!	 laptop laptop	;quality
+227	 positive positive	Toshiba is a great brand, even though I haven't had it for a long time, I am very happy with it!	 laptop laptop	null
+228	 positive	The screen graphics and clarity, and sharpness are great.	 display	;screen graphics;clarity;sharpness
+229	 positive	I've already recommended this laptop to a friend who eye'd the computer when I took it out of my bag.	 laptop	null
+230	 positive	I like the laptop overall.	 laptop	null
+231	 negative	The only thing i can say is that the touch pad doesnt work like it should all the time.	 mouse	;touch pad
+232	 negative negative	Sometimes you really have to tap the pad to get it to work	 mouse mouse	;pad
+233	 positive neutral	This is a great little computer for the price.	 laptop price	;price
+234	 positive positive	Simple to use, and great graphics.	 laptop graphics	;use;graphics
+235	 positive	It has everything I would need for a home computer.	 laptop	null
+236	 positive	I'm very impressed.	 laptop	null
+237	 positive positive	It was secure and easy to navigate.	 laptop laptop	;navigate
+238	 positive	It is everything that I would want in a computer.	 laptop	null
+239	 positive positive	Besides the great look, it is a great machine.	 laptop laptop	;look
+240	 positive	Once again apple stands alone at the top of the charts.	 laptop	null
+241	 positive	I enjoy very much my new Toshiba, purchased specifially for attending online schooling.	 laptop	null
+242	 positive	I have found it very easy to use, very imformative, wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs.	 laptop	;use;features;programs
+243	 positive	I have found also, it is very easy to be able to access wireless internet access; without having to have extra equipment and/or complicated routes to take to be able to do so.	 laptop	;access;internet access;routes
+244	 positive positive positive	I also love the small, convenient size of my laptop, making it a perfect tool for my academic studies.	 laptop laptop laptop	;size
+245	 positive	I am very pleased with my purchase!	 laptop	null
+246	 positive	This laptop serves all my needs.	 laptop	null
+247	 positive positive	Screen size is perfect for portable use in any environment.	 display weight	;screen size;use
+248	 positive positive	Price and purpose is awesome!	 price laptop	;price
+249	 positive	I have been very pleased with the performance of this laptop.	 laptop	;performance
+250	 positive	The battery life seems to be very good, and have had no issues with it.	 battery	;battery life
+251	 positive	Great product.	 laptop	null
+252	 positive	The laptop was very easy to set up.	 laptop	;set up
+253	 positive	Everything was so easy.	 laptop	null
+254	 positive	They were able to set-up with labtops themselves within a few minutes.	 laptop	null
+255	 positive positive	It works fine with our wireless and they've had not problems.	 laptop laptop	;works
+256	 positive positive	It's a great product for a great price!	 laptop price	;price
+257	 positive	Waited on getting this computer, but it has been a great change.	 laptop	null
+258	 positive	Ease of use is just one of the benefits I love about my Mac.	 laptop	;use
+259	 positive	The service I received from Toshiba went above and beyond the call of duty.	 service	;service
+260	 positive positive positive	My friend reports the notebook is astonishing in performance, picture quality, and ease of use.	 laptop display laptop	;performance;picture quality;use
+261	 positive positive	It is extremely portable and easily connects to WIFI at the library and elsewhere.	 weight laptop	;connects;wifi
+262	 positive	Just what the doctor ordered.	 laptop	null
+263	 positive positive	I cannot be happier with the service or product.	 service laptop	null
+264	 negative	power supply went bad after 2 weeks --	 hardware	;power supply
+265	 negative	after much effort and 10 days ASUS replaced it	 service	null
+266	 negative	The WiFi is very weak.	 laptop	;wifi
+267	 negative	Summary: Spend your money elsewhere	 laptop	null
+268	 positive positive positive	This is a nicely sized laptop with lots of processing power and long battery life.	 laptop hardware battery	;sized;processing power;battery life
+269	 positive	Love it so far.	 laptop	null
+270	 positive	The Toshiba Net book operates very well.	 laptop	;toshiba net;operates
+271	 negative	The only objection I have is that after you buy it the windows 7 system is a starter and charges for the upgrade.	 os	;windows 7 system
+272	 positive positive positive positive	I bought this netbook for traveling, and it's great - light, functional, and meets my needs.	 laptop laptop weight laptop	;light
+273	 negative positive	The touchpad is extremely sensitive, which is the only drawback.	 mouse laptop	;touchpad
+274	 positive	Otherwise, I love it!	 laptop	null
+275	 negative	I wasn't really sure I wanted to spend that kind of money!	 price	null
+276	 positive positive	It Was a great deal after all.	 laptop price	null
+277	 positive	I LOVE it!	 laptop	null
+278	 positive	I should have bought one a long time ago.	 laptop	null
+279	 neutral	Not enough time for me to give it 5 stars!	 laptop	null
+280	 positive	I've had the MacBook Pro 15 for about three weeks, and it really is a great computer.	 laptop	null
+281	 neutral	I have only had PCs with Windows before so this takes a little getting use to.	 os	;windows
+282	 positive positive	The real stand out on this computer is the feel of the keyboard and it's speed.	 keyboard laptop	;keyboard;speed
+283	 positive positive	It is fast booting up , shutting down, and connection with the internet.	 laptop laptop	;booting up;connection;internet
+284	 negative	The one thing I wish it had was a detailed hardcopy manuel.	 laptop	null
+285	 neutral	I think the manual is somewhere on the hard drive, but I rather have a hard copy.	 laptop	;manual;hard drive
+286	 positive	If what you need is a machine to do some surfing, email checking, word processing, and watching a movie or two, this is the machine you want.	 laptop	;word processing
+287	 positive positive	It's priced very reasonable and works very well right out of the box.	 price laptop	;priced;works
+288	 positive positive positive	Nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours, or at the hotel taking care of some last minute details and documents.	 laptop weight laptop	;system
+289	 negative	the screen/video resolution won't increase to a higher resolution then 1024 x 60	 display	;screen video resolution;resolution
+290	 neutral	That being said, it still runs video in full screen decently.	 display	;runs;screen
+291	 neutral	The sound is a bit quiet if you're on a plane, this can easily be overcome with a decent pair of head phones.	 laptop	;sound
+292	 positive	Bottom line, I doubt you'd be overly disappointed if you invest in this machine.	 laptop	;bottom line
+293	 neutral positive	Yes, I thought the expese was a little much, but I now realize you get what you pay for.	 price laptop	null
+294	 positive positive positive	I love my Apple, it is quick and easy to use.	 laptop laptop laptop	;use
+295	 positive	I've had to call Apple support to set up my new printer and have had wonderful experiences with helpful, english speaking (from Vancouver) techs that walked me through the processes to help me.	 service	;apple support;processes
+296	 positive positive	I can't say enough of how satisfied I am with their product and help aftermarket.	 laptop service	;product
+297	 positive positive	Money and time well spent!	 laptop price	null
+298	 positive	Highly recommended!	 laptop	null
+299	 positive positive positive	"The 13"" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product."	 price laptop laptop	;shipping;price
+300	 positive positive	The Macbook arrived in a nice twin packing and sealed in the box, all the functions works great.	 laptop laptop	;twin packing;functions
+301	 negative	Speakers doesn't sound that great.	 laptop	;speakers
+302	 positive	Love the speed, especially!	 laptop	;speed
+303	 positive	So glad I decided to upgrade!	 laptop	null
+304	 negative	I've owned this labtop for less then two months, already the mouse button has broke.	 mouse	;mouse button
+305	 negative	Still under warrenty so called Toshiba, no help at all.	 service	;warrenty
+306	 negative	I'm stuck w/ a broken computer.	 laptop	null
+307	 negative negative	Will not buy another Toshiba, this is my second, not happy w/ either.	 laptop laptop	null
+308	 positive positive positive	I love its solid build, light wt and excellent battery life (for now).	 laptop laptop battery	;build;battery life
+309	 positive positive	Excellent LED monitor and well equipped.	 display laptop	;led monitor;equipped
+310	 positive	I love the Apple products.	 laptop	;apple products
+311	 positive	The Toshiba Mini Notebook, Model NB 305-N410BL, is a great little computer.	 laptop	null
+312	 positive positive positive positive	It is easy to use, its keyboard easily accommodates large hands, and its weight is fantasic.	 keyboard keyboard laptop laptop	;use;keyboard;weight
+313	 positive	Upgrading from Windows 7 Starter, thru Windows 7 Home Premium, to Windows 7 Professional was a snap;	 laptop	;windows 7 starter;windows 7 home premium;windows 7 professional
+314	 positive	both upgrades were quickly accomplished after purchasing the necessary Product Key.	 laptop	;upgrades;product key
+315	 positive	Other installed features, such as certain printer software, are also most attractive.	 laptop	;features;printer software
+316	 negative negative	Ever since I bought this laptop, so far I've experience nothing but constant break downs of the laptop and bad customer services I received over the phone with toshiba customer services hotlines.	 laptop service	;customer services;toshiba customer services
+317	 negative negative	I constantly had to send my laptop in for services every 3 months and it always seems to be the same problem that they said they had already fixed.	 laptop service	;services
+318	 negative	Toshiba customer services will indirectly deal with your problems by constantly tranferring you from one country to another, and I am not kidding you, I called different hours of the day and you'll get someone else from another country trying to get you to tell them your life story all over again, since they make it sound like they don't have your history list of your calls right in front of them.	 service	;toshiba customer services;sound
+319	 negative	It's a long and tirring process that after a while it seems like their game plan was to wear you out so you would want to give up on contacting them.	 service	;game plan
+320	 negative	And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).	 service	;memory stick;memory;memory stick
+321	 negative negative	Long story short, since I experience so many problems with my laptop every since I bought it from day one, I didn't ask for a new laptop or a refund of what I pay for a crapy laptop, but just an extension of my laptop warranty for another year, they made a big deal of out that and after so many calls and complaints about their products and services, they finally gave in.	 laptop service	;extension;warranty;products
+322	 negative negative	Was this product worth my time and money to ever want to purchase another products that is toshiba or relating to toshiba?	 laptop laptop	null
+323	 negative	I'll rather be out of date then spend more money on toshiba.	 laptop	null
+324	 negative	Remember to do your research first before consider buying a toshiba product.	 laptop	;toshiba product
+325	 positive	All I can say is W-O-W.	 laptop	null
+326	 positive	This laptop is insane!!!	 laptop	null
+327	 positive positive	It's so nice to look at and the keys are easy to type with.	 laptop keyboard	;look;keys
+328	 positive	I bought a protector for my key pad and it works great :)	 keyboard	;key pad;works
+329	 positive positive	This is definitely a computer worth the money;	 laptop price	null
+330	 neutral neutral	The mouse is a little bit different than what you're used to though- it has one big flat panel and one full bar (instead of two separate ones) to click with- but you get used to it quite quickly.	 mouse mouse	;mouse;panel
+331	 positive	AND the best part is that it even comes with a free printer (when they have a certain promotion/offer going, of course)!	 laptop	null
+332	 positive positive	Overall, this laptop is definitely a keeper with its simple yet stylish design and its array of fantastic colors to choose from.	 laptop laptop	;design;colors
+333	 positive	The Apple team also assists you very nicely when choosing which computer is right for you :)	 service	;apple team
+334	 positive positive	Obviously, this Macbook is P-E-R-F-E-C-T for me because it does exactly what I need in an easy-to-function way.	 laptop laptop	;function
+335	 positive	DEFINITELY recommended!!!	 laptop	null
+336	 positive neutral	Not a bad laptop, it's a bit slow, but gets the job done.	 laptop laptop	null
+337	 negative negative	The lcd screen stopped working on mine after 10 months.	 display display	;lcd screen
+338	 negative	I could not find a phone number anywhere to call an actual live person for tech support and had to result the their online chat.	 service	;tech support;online chat
+339	 negative	upon giving them the serial number the first thing I was told, was that it was out of warranty and I could pay to have it repaired even though I had the receipt in front of me proving it still had 2 months left on the warranty.	 service	;warranty;warranty
+340	 negative	even though I had the receipt in front of me proving it still had 2 months left on the warranty.	 service	;warranty
+341	 negative	Dealing with the support drone on the other end of the chat was sheer torture.	 service	;support drone;chat
+342	 negative	English must have been his third or fourth language.	 service	null
+343	 negative	His language was so bad I swore I was taking the turing test, and it was failing.	 service	null
+344	 negative	after trying to get some help he disconnected on me.	 service	null
+345	 negative	After 4 days, being denied 6 times and told off once, I managed to get through and was able to send them a scanned copy of the receipt.	 service	null
+346	 negative	Then they had me jump through many hoops and questions to see if they could find another way to invalidate me.	 service	;hoops
+347	 negative	After they found no other way, they told me to courier it to them(since they don't allow the use of the post office) at my expense, and sent me a 4 page list of very specific packaging instructions to follow or it wouldn't be covered.	 service	;use;packaging
+348	 negative	I managed to comply with these too and now have to wait and see if they can find another way to screw me.	 service	null
+349	 negative	They really do have the worlds very worst repair service.	 service	;repair service
+350	 negative	This computer gets very hot, before shutting down.	 laptop	null
+351	 negative negative	It is not ideal for children because of the temp.	 laptop laptop	;temp
+352	 negative	I Contacted HP  about this situation and was given excuses, without results.	 service	null
+353	 negative	They didn't even try to assist me or even offer a replacement.	 service	null
+354	 negative	I will never purchase a HP again ever.	 laptop	null
+355	 positive	Let's just get this out of the way, I love Apple!	 laptop	null
+356	 positive	But the Macbook is the best!	 laptop	null
+357	 positive	It is super easy to use.	 laptop	;use
+358	 positive positive	All you have to do is turn it on and it works.	 laptop laptop	;works
+359	 positive	It is very durable, I am pretty rough when it comes to electronics and it has taken it all with no reprecutions yet.	 laptop	null
+360	 neutral	I don't do any high tech stuff on it, just write papers, check mail, and sometimes play games, so I can't reccomend it if you are in the computer field.	 laptop	;mail;games
+361	 positive	In the past four years I've had it I have never once gotten a virus.	 laptop	null
+362	 neutral positive	I did have to replace the battery once, but that was only a couple months ago and it's been working perfect ever since.	 battery battery	;battery
+363	 positive positive positive	I would definitely reccomend this if you are in the market for an easy to use, stylish, fun, awesome computer.	 laptop laptop laptop	;use
+364	 positive positive positive	Also it is very good for college students who just need a reliable, easy to use computer.	 laptop laptop laptop	;use
+365	 positive	This laptop does everything I need it to very well.	 laptop	null
+366	 positive positive	The best thing about this laptop is the price along with some of the newer features.	 price laptop	;price;features
+367	 positive positive	The screen is bright and the keyboard is nice;	 display keyboard	;screen;keyboard
+368	 positive positive	I find myself using the 10-key more than I thought I would.	 keyboard keyboard	null
+369	 positive	Battery is lasting about 6 hours as I am surfing the web on Sundays while checking football scores and watching funny Youtube videos.	 battery	;battery;web
+370	 positive	For those that care about noise this thing doesn't really make any;	 laptop	;noise
+371	 positive	the i3 processor doesn't seem to run hot and the fan rarely turns on.	 hardware	;i3 processor;fan
+372	 negative negative	I took off a star because the machine has a lot of junk software on it.	 laptop software	;software
+373	 negative	I wish Toshiba would allow their customers to select an option that only boots the OS at setup and removes all the unnecessary stuff.	 laptop	;toshiba;os;setup
+374	 negative neutral	Once I removed all the software the laptop loads in 15-20 seconds.	 software laptop	;software;loads
+375	 negative	This is not a serious gaming laptop or a serious media machine;	 laptop	null
+376	 neutral neutral	my niece and nephew have played a few web games and it runs anything that doesn't require a dedicated video card.	 laptop graphics	;video card
+377	 positive	Overall I am very satisfied with the purchase.	 laptop	null
+378	 positive neutral positive	Great, quick laptop for the money.	 laptop price laptop	null
+379	 positive positive	Right size and weight for portability.	 laptop weight	;size;weight;portability
+380	 negative	Battery life needs more life.	 battery	;battery life
+381	 negative	Battery is not upgradable to a longer life battery.	 laptop	;battery;battery
+382	 positive	I love everything about it.	 laptop	null
+383	 negative	The only downfall is the battery only last 1.5-2.0 hrs when not plugged in.	 battery	;battery
+384	 negative	I would like at least a 4 hr. battery life.	 battery	;battery life
+385	 positive	Otherwise, all other features are a 1	 laptop	;features
+386	 positive	This mac is great!	 laptop	null
+387	 positive positive positive	lightweight, long battery life, excellent transition from PC;	 laptop battery laptop	;battery life
+388	 negative	THIS HAS BEEN NOTHING BUT A HEADACHE SINCE WE PURCHASED IT.	 laptop	null
+389	 negative	I will NEVER buy (Refurbished) again, I don't cae how cheap it is.	 laptop	null
+390	 negative	Just don't waste your time and money on this.	 laptop	null
+391	 negative	I tried giving it 0 stars but I had to choose at least one, but IMO NO STARS	 laptop	null
+392	 negative	Summary: Dont buy HP.	 laptop	null
+393	 negative	If you buy, pray you dont have major prolems.	 laptop	null
+394	 negative	Runs Hot	 laptop	;runs
+395	 negative negative	I thought we were paying for quality in our decision to buy an Apple product.	 laptop laptop	;quality;apple product
+396	 negative	After a little more than a year of owning my MacBook Pro, the monitor has completely died.	 display	;monitor
+397	 positive	This purchase opened me to the world of Macbooks, and I am impressed with the intuition of the design, the beauty of the product, and the excellent technological advances associated with it.	 laptop	;design
+398	 positive	Then 2 of my nephews were going into music and both fell in love with the MacBook Pro.	 laptop	null
+399	 positive	Now they are believers in the product.	 laptop	null
+400	 positive positive positive	It is easy to use, has great screen quality, and every so light weight.	 laptop display laptop	;use;screen quality;weight
+401	 positive	This little netbook is helping me get work done!	 laptop	;work
+402	 positive	I homeschool my kids and with this netbook next to my desk we get to teaching and illustrating without skipping a beat.	 laptop	null
+403	 positive positive	I am first time Mac Buyer and am amazed at features and ease of use the Mac offers.	 laptop laptop	;features;use
+404	 positive positive positive positive	I bought it for my mom and she reports that the battery life lasts all day for her, it's very lightweight, and the response for the computing she's doing (Internet focused activity: mail, research, etc.) is excellent;	 battery laptop laptop laptop	;battery life;internet
+405	 positive positive	The overall build quality of the unit is excellent and she'd recommend it to anyone else looking for a netbook.	 laptop laptop	;build quality
+406	 neutral	If you're looking for something to fly through those massive spreadsheets or play a graphics-intensive game, you'd be better off getting a machine aimed at that segment of the market.	 laptop	;graphics
+407	 positive positive	previous laptops were pc's, still have them, but the mac osx is a clean and smooth operating system.	 os os	;mac osx;operating system
+408	 neutral positive	still testing the battery life as i thought it would be better, but am very happy with the upgrade.	 battery laptop	;battery life
+409	 positive positive	Probably as good as you can get in a netbook, does everything I ask for and has some very good unexpected pluses.	 laptop laptop	null
+410	 positive	Has met or exceeded my needs for a compact travel device.	 weight	;travel device
+411	 positive	So far, so good!	 laptop	null
+412	 positive positive neutral	I've been impressed with the battery life and the performance for such a small amount of memory.	 battery laptop memory	;battery life;performance;memory
+413	 negative	I don't understand why only Windows 7 Starter is included.	 os	;windows 7 starter
+414	 positive	Strong performance in this device makes use of fun and a strong sense of the era of speed	 laptop	;performance;speed
+415	 positive positive	This device serves all modern requirements is a very strong game and is very useful for designers.	 laptop laptop	;game
+416	 positive positive	Enjoy that Toshib force and durability unparalleled	 laptop laptop	;durability
+417	 negative	Needs longer lasting battery, More than 1 to 2 Hrs.	 battery	;battery
+418	 neutral negative	Needs Power and Mouse Cable to Plug in back instead of side, In the way of operating a mouse in small area.	 mouse laptop	;power;mouse cable;mouse
+419	 positive	For the use it was purchased for it is a good Laptop.	 laptop	;use
+420	 positive positive positive	Comfterbale to use light easy to transport.	 laptop laptop weight	;use;transport
+421	 positive positive positive	"I love this product because it is Toshiba and its 15.6""."	 laptop laptop laptop	null
+422	 neutral	It has no camera but, I can always buy and install one easy.	 laptop	null
+423	 negative	I had a USB connect but, i can't use it because it is not compatible.	 laptop	;usb connect
+424	 negative	That's the downside for me.	 laptop	null
+425	 positive	But, I would recommend this product.	 laptop	null
+426	 positive neutral	Satisfy what I paid for it.	 laptop price	null
+427	 positive positive	Good monitor and performed well.	 display laptop	;monitor;performed
+428	 positive	I am using the external speaker- sound is good.	 laptop	;external speaker;sound
+429	 positive	Best thing is I can use existing 32 bit old programs.	 laptop	;programs
+430	 positive	I recommend for word processing and internet users.	 laptop	;word processing;internet users
+431	 positive	The games included are very good games.	 software	;games;games
+432	 positive	I would highly recommend this one to my friends	 laptop	null
+433	 positive positive	I bought this laptop because of the performance to price ratio.	 laptop price	;performance;price
+434	 positive	It works great for general internet use, Microsoft Office apps, home bookkeeping, etc.	 laptop	;works;internet use;microsoft office apps
+435	 neutral positive	It doesn't have a lot of frills, but I didn't need any, and being able to buy what I needed, and not more than I needed was very important.	 laptop laptop	null
+436	 positive	This computer I used daily nice compact design.	 laptop	;design
+437	 positive	Excellent speed for processing data.	 laptop	;speed;processing
+438	 positive	And if you are a game player it works with World Of Warcraft wonderfully.	 laptop	;game player
+439	 positive	All in all great item highly recommend it.	 laptop	null
+440	 positive	i would have to say that overall its great!	 laptop	null
+441	 negative negative negative positive	Aside from the trial software and the short battery life, lack of a webcam, its great.	 software battery laptop laptop	;trial software;battery life;webcam
+442	 positive positive	Fast, great visual!	 laptop display	;visual
+443	 negative	Oh yea, has no numeric pad on the side.	 keyboard	;numeric pad
+444	 positive neutral	2nd Best computer in the world  only one way this computer might become the best is that it needs to upgrade patches  to make less easier for people to hack into	 laptop laptop	null
+445	 positive positive	My favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.	 laptop laptop	;vga port;screen
+446	 positive	Great wifi too.	 laptop	;wifi
+447	 negative neutral	The screen is a little glary, and I hated the clicking buttons, but I got used to them.	 display mouse	;screen;clicking buttons
+448	 positive neutral	Overall for the money this is a good deal.	 laptop price	null
+449	 negative	There is no number pad to the right of the keyboard which is a bummer.	 keyboard	;pad;keyboard
+450	 negative negative	The speakers are terrible and are probably the cheapest ones I have ever seen in a laptop so if your planning to listen to music I suggest you get something better.	 laptop laptop	;speakers
+451	 neutral negative	while the keyboard itself is alright, the plate around it is cheap plastic and makes a hollow sound when using the mouse command buttons.	 keyboard laptop	;keyboard;plate;sound;mouse command buttons
+452	 positive positive	I am overall very pleased with my toshiba satellite, I like the extra features, I love the windows 7 home premium.	 laptop os	;features;windows 7 home premium
+453	 positive positive	The battery life has not decreased since I bought it, so i'm thrilled with that.	 battery battery	;battery life
+454	 positive positive	I also love the design, the looks, the feel, and the my toshiba feature is wonderfull.	 laptop laptop	;design;looks;feel;toshiba feature
+455	 positive	I would easly reccomend this laptop to a friend.	 laptop	null
+456	 negative	Couldnt not use it.	 laptop	null
+457	 negative	Tried to make a recovery disk wouldnt get passed the first recovery disk.	 laptop	;recovery disk;recovery disk
+458	 negative	defective software.	 software	;software
+459	 negative	returned it to walmart.	 laptop	null
+460	 negative	I would like to have volume buttons rather than the adjustment that is on the front.	 laptop	;volume buttons
+461	 negative negative	I also had a problem with the touchpad that caused the mouse pointer to jump all over the screen.	 mouse mouse	;touchpad;mouse pointer;screen
+462	 positive	I went to Toshiba online help and found some suggestions to fix it.	 service	;toshiba online help
+463	 positive	One of them seems to have worked.	 service	null
+464	 positive neutral	Its a good laptop for its value.	 laptop price	;value
+465	 positive	Registration/1st use is easy.	 laptop	;1st use
+466	 negative negative	Features like the font are very block-like and old school.	 laptop laptop	;features;font
+467	 negative	Would like more trendy, high tech features.	 laptop	;features
+468	 negative	The start menu is not the easiest thing to navigate due to the stacking.	 os	;start menu;navigate
+469	 negative	Keys stick periodically and I havent had the laptop for 45 days yet.	 keyboard	;keys
+470	 positive	Came fully loaded - good.	 laptop	null
+471	 positive	Seems to slow down occassionally but can run many applications (ie Internet tabs, programs, etc) simultaneously.	 laptop	;applications;internet tabs;programs
+472	 positive positive neutral	I'm really impressed with the quality and performance for the price of the computer.	 laptop laptop price	;quality;performance;price
+473	 positive positive	Graphics are clean and sharp, internet interfaces are seamless.	 graphics laptop	;graphics;internet interfaces
+474	 negative neutral	Only issue is that it is a little slow, and I'm fixing that by adding more RAM.	 laptop memory	;ram
+475	 negative	Sound card is limited though.	 laptop	;sound card
+476	 positive positive	The laptop is very lightweight, can easily carry around in a knapsack full of text books and it barely adds any weight.	 laptop weight	;weight
+477	 positive	It is small enough to fit in one of my purses!	 laptop	null
+478	 positive neutral	Windows 7 Starter is terrific (no you can't change the background) but I don't need to, I use it just for school work.	 os os	;windows 7 starter
+479	 positive positive	The battery life is amazing, the versitility is outstanding.	 battery laptop	;battery life;versitility
+480	 positive	The ease of set up was terrific.	 laptop	;set up
+481	 positive	I was even able to uninstall McAffe and install one of my Symantec licenses with a no issues whatsoever.	 laptop	;symantec licenses
+482	 negative	I had to adjust my mousepad sensitivity, because it is very sensitive.	 mouse	;mousepad sensitivity
+483	 positive	Keyboard is great, very quiet for all the typing that I do.	 keyboard	;keyboard
+484	 positive	Screen is crystal clear, yes it's small - but it's a netbook!	 display	;screen
+485	 positive positive	Awesome laptop and the perfect size to carry around in college.	 laptop weight	;size
+486	 positive	I couldn't believe how long the battery lasted on a single charge.	 battery	;battery
+487	 positive	I loaded windows 7 via Bootcamp and it works flawlessly!	 os	;windows 7;bootcamp;works
+488	 positive	Simply amazing computer!!	 laptop	null
+489	 positive negative	I really like the Mac 15.4in. Notebook, but its very pricey.	 laptop price	;mac 15 4in
+490	 positive positive positive	Love the graphics, awesome programs (including Garageband), and really cool default background.	 graphics laptop software	;graphics;programs;garageband;default background
+491	 negative	But, like I said before, the only reason I don't currently have a Mac laptop is because all of their laptops are too pricey.	 price	null
+492	 positive neutral	Waiting for the i7 was well worth it, great value for the price.	 laptop price	;i7;value;price
+493	 positive positive	Bigger HD, better graphics card, and a bid HD.	 harddisk graphics	;hd;graphics card
+494	 positive	There is nothing to complain about the system.	 laptop	;system
+495	 positive	I have used PC's and converting to this MacBook Pro was easy.	 laptop	null
+496	 positive	If you have the money I suggest going for the i7.	 laptop	;i7
+497	 positive	I occassionaly use it for work via VPN and it has not given me any problems.	 laptop	;work;vpn
+498	 positive positive positive	The screen is nice and the images comes very clear, the keyboard and the fit just feels right.	 display keyboard laptop	;screen;keyboard
+499	 positive	I consider myself an average user and this computer serves my need.	 laptop	;user
+500	 positive	The price is another driving influence that made me purchase this laptop.	 price	;price
+501	 positive positive	I'ts nice to have the higher-end laptops, but this fits my budget and the features I need.	 laptop price	;features
+502	 positive	I normally dont participate in reviews/surveys but this laptop has not given me any problems and hope to share my thoughts...	 laptop	null
+503	 positive	another satisfied customer.	 laptop	;customer
+504	 positive	The apple MacBook is the best investment that I have ever made.	 laptop	null
+505	 positive	The newer MacBook that I have purchased is one of the best computers.	 laptop	null
+506	 positive	I am a college student and it has been very useful.	 laptop	null
+507	 positive	It has all the features that are necessary for college and if not they are able to be added onto the computer.	 laptop	;features
+508	 positive positive	It has a lot of memory and a great battery life.	 memory battery	;memory;battery life
+509	 positive positive	It is sleek and lightweight and charges quickly when needed.	 laptop battery	;charges
+510	 positive positive	Its white color is stylish for college students and easy to take to carry and take to classes.	 laptop weight	;color
+511	 positive	Iphoto is great for adding pictures right to facebook and other social networking sites.	 software	;iphoto
+512	 positive	The internet capabilities are also very strong and picks up signals very easily.	 laptop	;internet capabilities;signals
+513	 positive	I have never had to shut down the computer unexpectedly and the computer has never froze on me.	 laptop	null
+514	 positive positive	The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.	 display keyboard	;screen;keyboard;use
+515	 positive	Overall, this is a wonderful computer and definitly worth the purchase!	 laptop	null
+516	 positive	The graphics are stunning.	 graphics	;graphics
+517	 positive	It's wonderful for computer gaming.	 laptop	;gaming
+518	 positive	I would definitely suggest this laptop!	 laptop	null
+519	 positive	It is very user friendly and not hard to figure out at all.	 laptop	null
+520	 positive positive positive positive	It has many great programs, such as ILife, iPhotos and others.	 laptop software software software	;programs;ilife;iphotos
+521	 positive	iLife is easily compatible with Microsoft Office so you can send and receive files from a PC.	 software	;ilife;microsoft office
+522	 positive positive	In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations.	 software software	;design tools;pages
+523	 positive	This comes in very handy for me as an educator.	 software	null
+524	 positive	iPhotos is an excellent program for storing and organizing photos.	 software	;iphotos;program
+525	 positive	It allows you to automatically upload photos to your Facebook account with one click.	 software	null
+526	 positive	In addition, there is photo detection software that will allow you to group all the photos together based upon the people in the picture.	 software	;photo detection software;picture
+527	 positive	If you are looking for something reliable, this is the laptop for you.	 laptop	null
+528	 negative	This computer was awful!	 laptop	null
+529	 negative negative negative	I will never buy another computer from Dell ever again do to how awful it worked and how I was treated by the company.	 laptop laptop service	null
+530	 negative negative	The computer first started malfunctioning 3 months after purchasing it.	 laptop laptop	null
+531	 negative	It does not keep internet signals no matter where you bring it.	 laptop	;internet signals
+532	 negative	The system it comes with does not work properly, so when trying to fix the problems with it it started not working at all.	 os	;system
+533	 negative	When calling Dell for help, reurn, or a new computer they were not useful and left it up to myself to figure out what to do with it.	 service	null
+534	 negative	One year of trying to fix the computer by myself, with help of friends, and even help from computer experts I have given up on trying to fix it.	 laptop	null
+535	 negative	This computer was awful, I would never recomend it to another person.	 laptop	null
+536	 negative	Those moments in thime where you want to throw something against the wall?	 laptop	null
+537	 negative	Yeah, I wanted to throw that lap top out the window and light it on fire.	 laptop	;window
+538	 negative	That's how frustrating it was.	 laptop	null
+539	 positive	It is so simple to use, I use it more than my desktop.	 laptop	;use
+540	 positive positive	It is well worth the money it cost, Very good investment.	 laptop price	;cost
+541	 positive	The new Macbook Pro 15 inch i7 is nothing short of amazing.	 laptop	;15 inch i7
+542	 positive	The speed is incredible and I am more than satisfied.	 laptop	;speed
+543	 negative	THIS LAPTOP WAS BAD FROM THE FIRST DAY OF USE----BROUGHT IT BACK TO STORE FOR RETURN OF MONEY.	 laptop	null
+544	 negative	NOW AM VERY APREHENSIVE ABOUT TOSHIBA LAPTOPS.	 laptop	null
+545	 negative	WILL NOT EVERY BUY ANOTHER--------LOU	 laptop	null
+546	 positive neutral	This is a great value for the money.	 laptop price	;value
+547	 positive	This is a great computer.	 laptop	null
+548	 positive	We haven't had any problems with it at all.	 laptop	null
+549	 negative	The body is a bit cheaply made so it will be interesting to see how long it holds up.	 laptop	;body
+550	 positive positive	Overall though, for the money spent it's a great deal.	 laptop price	null
+551	 positive	But let me tell you, the mac book pro is so professional.	 laptop	null
+552	 positive	Its very nice and once you learn the features you will be so happy to have such a sophisticated computer.	 laptop	;features
+553	 positive	For example, when my husband turns the light out while I'm on the computer. the screen brightness automatically adjusts.	 display	;screen brightness
+554	 positive	It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.	 keyboard	;keyboard
+555	 positive	Oh, it is such a great piece of equipment.	 laptop	null
+556	 neutral	Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.	 software	;office;features;functioning;programs
+557	 positive positive	I get a ton of compliments on its size, and speaking as someone who regularly commutes on a bus, I can attest to the fact that this is the perfect size computer if you're restricted to the width of your body for computing room.	 laptop weight	;size;size;width
+558	 positive	Very long-life battery (up to 10-11 hours depending on how you configure power level settings).	 battery	;battery;power level settings
+559	 neutral positive	I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.	 laptop laptop	;memory;base;windows 7 starter;win 7 home;runs
+560	 positive	I play a lot of casual games online, and the touchpad is very responsive.	 mouse	;touchpad
+561	 positive positive positive	I wouldn't play a first-person shooter with this, mind, but if you wanted to run MS Office, email, chat, download a video, listen to music from a certain fruit-named music store, and were looking for a highly portable yet powerful netbook to do that all in, I'd highly recommend checking this out.	 weight laptop laptop	;ms office email chat;video
+562	 negative	The downside to this netbook is pretty much the same for any netbook: screen size is not something I'd stare at for the entire 10-11 hours of battery life five days a week.	 display	;screen size;battery life
+563	 neutral	Additional caveat: the base installation comes with some Toshiba-specific software that may or may not be to a user's liking.	 software	;base installation;software
+564	 positive positive positive	Everything from the design to the OS is simple and to the point.	 laptop os laptop	;design;os
+565	 positive	LOVE IT LOVE IT LOVE IT!	 laptop	;it
+566	 positive	It really is perfect for work and play.	 laptop	;play
+567	 positive	I am able to play 720p and 1080p media files just fine with it.	 laptop	;720p;1080p media files
+568	 positive positive	Everything I have tried has worked and I never have to carry the wall charger cause the battery is so awesome.	 laptop battery	;worked;wall charger;battery
+569	 negative	The only thing that isn't perfect about this netbook is the speakers, they are not loud at all but I expected that.	 laptop	;speakers
+570	 positive neutral	I upgraded it's RAM to 2GB, I am very happy with it.	 laptop memory	;ram
+571	 positive	lots of preloaded software.	 laptop	;preloaded software
+572	 negative negative	the only problem is that i had to add 1 gb RAM, the computer was kinda slow.	 memory laptop	;1 gb ram
+573	 positive	tosiba has a good reputation, my llast computer was an acer.	 laptop	null
+574	 positive	this is starting off good.	 laptop	null
+575	 positive	What a great little laptop.	 laptop	null
+576	 positive	Maybe not the cutting edge (Satellite L455D) but it is a workhorse.	 laptop	;cutting edge satellite l455d
+577	 positive	I bought it to use in college and it is perfect.	 laptop	null
+578	 positive	I dual boot with Linux and that other security-prone OS and it performs flawlessly.	 laptop	;linux;security;os;performs
+579	 positive positive	I made a perfect decision when I bought the Toshiba!	 laptop laptop	;toshiba
+580	 positive neutral	Excellent product for the money.	 laptop price	null
+581	 positive positive	No problems, no lock ups, no disappointments.	 laptop laptop	null
+582	 neutral neutral	Not super fancy, but not super expensive either.	 laptop price	null
+583	 positive	Highly recommend for daily use.	 laptop	null
+584	 positive negative	The Computer itself is a good product but the repair depot stinks.	 laptop service	;repair depot
+585	 negative	I have had to send in my laptop three times to get it fixed.	 service	null
+586	 negative	Toshiba does not send any one out unless you have paid extra to have the on site repair done.	 service	null
+587	 negative	I would tell the technician I knew exactly what was wrong with it but they did not listen and I had to go through a bunch of junk to get them to tell me I needed to send the computer in.	 service	null
+588	 negative	This computer that I have has had issues with the keyboard where it lost half the keyboard functions.	 keyboard	;keyboard;keyboard functions
+589	 negative	As well as having the plug in the computer come loose.	 hardware	null
+590	 negative	So having the AC plug go out on me and get lose or I could actually here it inside my computer on two of the three times is not good.	 hardware	;ac plug
+591	 negative	It still seems to be a little lose now but so far seems to be hanging in there.	 hardware	null
+592	 positive	The Mac Book Pro performs flawlessly.	 laptop	null
+593	 positive	Never had a single problem, and don't have to worry about viruses.	 laptop	null
+594	 positive	While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops.	 laptop	;gaming;applications
+595	 positive	Worth the investment and truly a fine piece of equipment.	 laptop	null
+596	 positive positive	Right out of the box, this little netbook did everything I asked of it, including streaming the everyday video you're bound to encounter checking mail and websites (my biggest complaint previously).	 laptop laptop	null
+597	 positive positive positive	It even has a great webcam, and Skype works very well.	 laptop laptop software	;webcam;skype
+598	 positive positive	The fact that you can spend over $100 on just a webcam underscores the value of this machine.	 laptop laptop	;webcam;value
+599	 neutral	The Windows 7 Starter is, in my opinion, a great way to think about using your netbook: basics, basics, basics.	 os	;windows 7 starter
+600	 negative positive positive	I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.	 os price laptop	;openoffice;firefox;price
+601	 positive	This netbook is a perfect supplementary computer to another laptop or desktop (my wife and I have another laptop), or if you are a user who uses the computer for simple tasks.	 laptop	;tasks
+602	 positive positive	I use this for my tutoring business, and since I'm always bouncing from student to student, it is ideal for portability and battery life (yes, it gets the 8 hours as advertised!).	 weight battery	;portability;battery life
+603	 positive positive	ASUS has done an outstanding job of evolving their netbooks, and I would recommend this to anyone who both understands their needs and how netbooks can fit them.	 laptop laptop	null
+604	 neutral	little short on RAM but you get what you pay for.	 memory	;ram
+605	 negative negative	the hinge design forced you to place various connections all around the computer, left right and front.	 laptop laptop	;hinge design
+606	 negative negative negative negative	the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.	 hardware mouse laptop laptop	;headphone;mic jack;touch pad;touch pad;headphones;mic
+607	 negative negative	Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.	 laptop laptop	;cords;power;cords;mic;network connection;cords
+608	 positive negative negative	I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.	 os laptop laptop	;windows 7;ergonomics;connections
+609	 positive negative	I was happy with My purchase of a Toshiba Satellite L305D-S5934 laptop until it came time to have it repaired under the Toshiba Warranty.	 laptop service	;toshiba warranty
+610	 positive negative	The computer was shipped to their repair depot  on june 24 and returned on July 2 seems like a short turn around time except the computer was not repaired when it was returned.	 laptop service	;repair depot
+611	 negative	They were totally unconcerned that the computer was not correctly repaired in the first place.	 service	null
+612	 negative	The computer is currently in West Verginia doe to the method of shipping choosen by Toshiba.	 laptop	;shipping
+613	 negative	The computer could have been shipped by Priority Mail through the USPS for the same cost and arrived by Noon on Tue.	 laptop	;usps;cost
+614	 negative	Instead it is sitting in West Verginia waiting for UPS to take two days to send Me a box and Two days for them to ship the computer some 691 miles by air? to Louisville Ky.	 laptop	null
+615	 negative	And Toshiba is totally unconcerned.	 service	null
+616	 negative	The reaction of Toshiba is there is nothing you can do about it so just sit back and except the fact that you are powerless and it is mind over matter.	 service	null
+617	 negative	We don't Mind and You don't Matter.	 service	null
+618	 negative negative	I would not recommend the purchase of this modle of Toshiba Computer or any Toshiba product for that matter.	 laptop laptop	;toshiba product
+619	 negative	When it come time for warranty service to Toshiba you don't matter.	 service	;warranty service
+620	 negative negative	Windows Vista makes this computer almost unusable for online service.	 os laptop	;windows vista;online service
+621	 negative	I've tried going back to XL but there still problems.	 laptop	null
+622	 negative	The technical service for dell is so 3rd world it might as well not even bother.	 service	;technical service
+623	 negative	Just a bunch of idiots who's English as a 5th language is forced at best.	 service	;5th language
+624	 negative	I'm all for saving money but Dell needs to step it up.	 laptop	null
+625	 positive	Good price.	 price	;price
+626	 neutral	Basic computer.	 laptop	null
+627	 neutral	Didn't work when shipped from Walmart.com but went into a store and exchanged for a working laptop (same make/model).	 laptop	null
+628	 positive	It has worked fine.	 laptop	;worked
+629	 positive	Handles all my basic media needs easily.	 laptop	null
+630	 positive positive	Can listen to my music and watch my videos with ease and with a great display.	 display laptop	;display
+631	 positive positive	It is speedy when connected wirelessly to any network regardless if the connection is weak or not.	 laptop laptop	;connection
+632	 positive	It's a great prodcut to handle basic computing needs.	 laptop	;prodcut;computing
+633	 positive	It has served my needs quite nicely for the most part.	 laptop	null
+634	 positive positive	The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown.	 memory laptop	;2 gb of ram;windows 7
+635	 negative	My one complaint with this laptop is that I've noticed an electronic fuzz sound coming out of the headphone jack when headphones are plugged in.	 hardware	;headphone jack
+636	 negative neutral	This is likely due to poor grounding and isolation between the components, and I'm hoping that it can be fixed with a ground loop isolator, but I still expected better product quality for this price range.	 hardware price	;grounding;components;ground loop isolator;product quality;price range
+637	 positive neutral	Other than that, I would recommend this to someone in need of a cheap laptop with semi-decent gaming capabilities.	 price laptop	;gaming capabilities
+638	 positive	Let me start with the good:So awesome.	 laptop	null
+639	 positive positive positive	Great OS, fabulous improvements to the existing line bumping up the processor speed and adding the thunderbolt port.	 os hardware laptop	;os;processor speed;thunderbolt port
+640	 positive	This one has had the same effect.	 laptop	null
+641	 positive	The improvements to the OS have been relatively gradual, but substantive.	 os	;os
+642	 positive positive	The Unibody construction is solid, sleek and beautiful.	 laptop laptop	;unibody construction
+643	 positive positive	It is everything I'd hoped it would be from a look and feel standpoint, but somehow a bit more sturdy.	 laptop laptop	null
+644	 negative	For the not so good, I got the stock screen - which is VERY glossy.	 display	;screen
+645	 positive positive	It's still beautiful and has better color reproduction than I could ever expect from a notebook.	 display display	;color reproduction
+646	 neutral	The reflectiveness of the display is only a minor inconvenience if you work in a controlled-lighting environment like me (I prefer it dark) or if you can crank up the brightness.	 display	;display;lighting;brightness
+647	 negative	The statement of 7 hour battery life is not just mere exaggeration -- it's a lie.	 battery	;battery life
+648	 negative	I challenge anyone to show proof that through anywhere near normal use can get more than 2.5 hrs out of it.	 battery	null
+649	 negative	The first full charge of this battery got me only about 2 full hours.	 battery	;battery
+650	 negative	Enabling the battery timer is useless.	 battery	;battery timer
+651	 negative	"The ""Time remaining"" goes from 4 hours plus to less than 2 hours over the span of about 10 minutes."	 battery	;time
+652	 negative	It's so bad that I'm thinking I only got half a battery or something.	 battery	;battery
+653	 negative	I know what 7 hrs of battery looks like.	 battery	;battery
+654	 negative	My only other complaint is that it gets really hot.:-)	 laptop	null
+655	 negative positive	If you buy this - don't go into it expecting 7 hrs of battery life, and you'll be perfectly satisfied.	 battery laptop	;battery life
+656	 positive neutral negative negative	The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists).	 laptop hardware laptop laptop	;intel i processors;edge;edges
+657	 positive	Other than that its a great performing machine and well meets all my needs and more.	 laptop	null
+658	 positive positive	Great product by Apple with the new great looking design.	 laptop laptop	;design
+659	 negative negative negative negative negative	"I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!)only to get another ""HP/Compaq"" piece of crap."	 harddisk hardware hardware service laptop	;hard drive;mother board;dvd drive
+660	 negative negative	It was slow, locked up, and also had hardware replaced after only 2 months!	 laptop hardware	;hardware
+661	 negative	So, buyers beware!	 laptop	null
+662	 positive	It is made better, thicker, and all out tough!	 laptop	null
+663	 positive	I droped this once from thetable when my baby girl grabed me one day and IT is still working with NO issues!	 laptop	null
+664	 positive positive	I love the easy to see screen, and It works well for work, persoal or just play.	 display laptop	;screen;works;work
+665	 positive positive	I tell everyone I see out looking to get this or another Toshiba.	 laptop laptop	null
+666	 positive	My friends or children use that when they need to borrow the Net =) When I out grow this Meaning when its old and my oldest child is ready for one she will get this one ANd I will be buying only TOSHIBA!	 laptop	null
+667	 positive neutral	I just love this lap top, I just wish it were all silver or they had all black.	 laptop laptop	null
+668	 negative	That is my only complaint!	 laptop	null
+669	 positive positive	LOVE THIS LAPTOP WONDERFUL PRICE FOR WHAT YOU GET!	 laptop price	;price
+670	 positive positive	WOULD PAY MORE FOR IT IF I HAD TOO!	 laptop price	null
+671	 positive	I recently purchased the mini and absolutely love it!	 laptop	null
+672	 positive positive	It meets all my needs for work and pleasure while traveling.	 laptop weight	null
+673	 positive	I am totally satisfied with my little toshie!	 laptop	null
+674	 positive	From the moment I opened the box to the present it has been a great joy.	 laptop	null
+675	 positive positive	It is always reliable, never bugged and responds well.	 laptop laptop	;responds
+676	 positive positive	I love the operating system and the preloaded software.	 os software	;operating system;preloaded software
+677	 positive	This machine delivers.	 laptop	null
+678	 positive	It is also extremely pleasing to the eyes without looking too much like an Alienware gaming machine.	 laptop	;alienware gaming
+679	 negative	It is a bit heavy.	 laptop	null
+680	 negative	It would be a load on long trips where a lot of walking is required.	 weight	;load
+681	 negative	Had some trouble finding a case that it would fit in.	 laptop	;case
+682	 negative	This is an over-sized, 18-inch laptop.	 laptop	null
+683	 negative	It wouldn't fit in most 17-inch bags.	 laptop	null
+684	 negative	I was disappointed when I realized that the keyboard doesn't light up on this model.	 keyboard	;keyboard
+685	 negative	It also does not have bluetooth.	 laptop	;bluetooth
+686	 negative	You'll need to upgrade and pay a little more for them.	 laptop	null
+687	 negative	I was looking too closely at the other performance specs and while comparing, I took it for granted that these features were standard.	 laptop	;performance specs;features
+688	 positive	Overall, still a very nice machine.	 laptop	null
+689	 positive	Boots up fast and runs great!	 laptop	;boots up;runs
+690	 positive	I'm pleased.	 laptop	null
+691	 positive	The acer one compuer is a great computer.	 laptop	null
+692	 positive neutral	I didn't want to buy a generic brand computer but it is really nice.	 laptop laptop	null
+693	 positive positive	Its fast, has High definition quality in the videos.	 laptop display	;definition quality
+694	 positive	The pictures are clear as can be.	 display	;pictures
+695	 positive positive	If I had to buy another computer, I would most definetly buy an acer one computer.	 laptop laptop	null
+696	 positive	Heck, if I had enough ' money, I would but it as a gift for someone.	 laptop	null
+697	 positive	Im glad that it has such great features in it.	 laptop	;features
+698	 positive	It also came with a built it web cam which is great because I can see an communicate with my family members back home.	 laptop	;web cam
+699	 positive	Clear picture on it and everything.	 laptop	;picture
+700	 positive	The one down side to it is that when I play a certin game on here, it tends to freeze up sometimes, but thats the only bad thing about this computer.	 laptop	;freeze up
+701	 positive negative	The acer one computer that I bought is 17 ince screen and its hard to find lap top bags for it, but I like the big screen on it.	 display weight	;screen;screen
+702	 positive	Its good for playing my apps on Facebook or watching movies.	 laptop	;apps
+703	 positive	Im very happy with this computer!	 laptop	null
+704	 positive	It's solid.	 laptop	null
+705	 positive positive	Love the stability of the Mac software and operating system.	 software os	;stability;mac software;operating system
+706	 negative negative negative	The only downfall is a lot of the software I have won't work with Mac and iWork is not worth the price of it.	 software software software	;software;iwork;price
+707	 negative	It seems to be incompatible with everything else.	 software	null
+708	 positive positive positive	But the machine is awesome and iLife is great and I love Snow Leopard X.	 laptop software os	;ilife;snow leopard x
+709	 positive positive positive	i love to use it it is esay and light.	 laptop laptop laptop	;light
+710	 positive positive	this laptop is durable and it is easy to travel with.	 laptop weight	null
+711	 positive	i needed one to be able to carry to work everyday and this one seems to fit all of the criteria.	 weight	null
+712	 positive	this laptop is great for work and doing my pictures.	 laptop	;work;pictures
+713	 positive	i am a huge computer person i love anykind of computer that works well, but when i got this one i was so happy with the way it works and how it runs its amazing.	 laptop	;runs
+714	 positive positive positive	the programs are esay to use and are quick to process this computer works like a charm.	 software software laptop	;programs;use
+715	 positive	i can use it for all of my needs.	 laptop	null
+716	 positive	i give this laptop a five star review i love it and it has done chams for me.	 laptop	null
+717	 positive	if this computer every breaks down on me i will most definatly get the same one again.	 laptop	null
+718	 positive positive	i think that anyone looking for a good durrable laptop then this is the way to go.	 laptop laptop	null
+719	 positive	From the second you open the box you will fall in love with this computer!	 laptop	null
+720	 positive positive	The OS is still as fast as the day that the laptop was purchased and continues to run flawlessly.	 os os	;os
+721	 positive positive positive	The track pad to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the track pad, awesome thinking Apple!	 mouse mouse laptop	;track pad;track pad
+722	 positive	The OS is also very user friendly, even for those that switch from a PC, with a little practice you can take full advantage of this OS!	 os	;os;os
+723	 positive positive	Apple continues to shine and provide a much more enjoyable computer experience!	 laptop laptop	null
+724	 positive	From the start, when you open the box you see a completely different class of machine.	 laptop	null
+725	 positive	The ease in which you set everything up is such that a child could do it.	 laptop	null
+726	 positive positive	The screen is bright and clear, the operating system is solid and friendly to a novice.	 display os	;screen;operating system
+727	 positive	Fast, fast and fast, the web pages just fly by.	 laptop	;web pages
+728	 positive positive positive	I had my IWORKS, Itunes, Email, MS Office, network and printers set up and completely working perfectly within an hour.	 laptop laptop laptop	;iworks itunes email ms office network
+729	 positive	That includes transferring my music and movies.	 laptop	null
+730	 positive	Good bye BLUE SCREEN and Critical errors!!!!	 laptop	;bye blue screen
+731	 positive	Skype is just so dang cool with this machine too.	 software	;skype
+732	 positive	If your time is worth anything to you, if you are tired of rebooting, reformatting, reinstalling, trying to find drivers, if you want a computer to work for you for a change, make the change to this computer.	 laptop	;rebooting reformatting;drivers
+733	 positive positive	It is light and the battery last a very long time.	 laptop battery	;battery
+734	 positive	Very fast boot up and shut down.	 laptop	;boot up
+735	 positive	Let me tell you, this machine is great.	 laptop	null
+736	 positive	Purchased for development purposes, but it has turned into my everyday laptop as well for surfing, e-mail, etc.	 laptop	;surfing
+737	 positive	I thought learning the Mac OS would be hard, but it is easily picked up if you are familiar with a PC.	 os	;mac os
+738	 positive	The most amazing part to me as a PC user is the startup and shutdown times - and the fact that you very rarely have to restart the thing.	 laptop	;startup
+739	 positive	The only time I have restarted is during system updates.	 laptop	;system updates
+740	 positive	great machine if you want to drop the cash for one.	 laptop	null
+741	 positive	Ok, this is probably the best laptop series ever devised by Apple.	 laptop	null
+742	 positive	The case is carved out of a single block of aluminum.	 laptop	;case
+743	 positive positive positive	The processor screams, and because of the unique way that Apple OSX 16 functions, most of the graphics are routed through the hardware rather than the software.	 hardware os graphics	;processor;osx;functions;graphics;hardware;software
+744	 positive	I have recommended this laptop to everyone I know who is buying one.	 laptop	null
+745	 positive	I like it so much, I bought another just for my wife.	 laptop	null
+746	 negative	Took it back as it was defective.	 laptop	null
+747	 negative	Page just disapeared after you got yahoo or downloaded something.	 laptop	null
+748	 negative	Couldn't keep a page up you were working on!	 laptop	null
+749	 positive	was a great deal i will give that.	 price	null
+750	 neutral	the laptop preformed pretty well.	 laptop	null
+751	 negative	it cant fuction well with lots of webpages open at once.	 laptop	null
+752	 negative	it has times were it freezes for 10 seconds and then starts again.	 laptop	null
+753	 negative	the mouse on the pad, the left button always sticks.	 mouse	;mouse;pad;left button
+754	 negative	the mouse is way way way to sensitve.	 mouse	;mouse
+755	 negative	i tried turning it done but it did nothing.	 mouse	null
+756	 negative	the mouse jumps around all the time and it clicks stuff i dont want it too.	 mouse	;mouse
+757	 negative	its not bad just VERY VERY annoying.	 mouse	null
+758	 negative	think i would spend little extra to get a better made laptop.	 laptop	null
+759	 positive	I am very happy with this laptop.	 laptop	null
+760	 neutral positive	For the price and what I get out of it has exceeded my expectations.	 price laptop	;price
+761	 positive	I always have used a tower home PC and jumped to the laptop and have been very satisfied with its performance.	 laptop	;performance
+762	 positive	Amazing Quality!	 laptop	;quality
+763	 positive	Plus stylish.	 laptop	null
+764	 positive	The big screen allows you to enjoy watching movies , pictures and etc!	 display	;screen
+765	 negative negative	The flaws are, this computer is not for computer gamers because of the OS X.	 laptop os	;os x
+766	 negative	Mac is not made for gaming.	 laptop	;gaming
+767	 positive	BUT there's this application called Boot Camp which allows you to add another OS X like Windows.	 software	;application;boot camp;os x;windows
+768	 negative	Second, it gets scratches easily and when it gets old some thing may operated	 laptop	null
+769	 negative	Was not happy with one of the programs on it.	 software	;programs
+770	 negative	It was not clear that the Microsoft Student Edition that was loaded on the computer, was a six month trial.	 software	;microsoft student edition
+771	 negative	Also, the extended warranty was a problem.	 service	;extended warranty
+772	 negative	The extended warranty for the $4000 and up computers was the only one available for purchase on the drop drown menu.	 service	;extended warranty;menu
+773	 positive positive positive	Overall the computer is very easy to use, the screen is perfect, great computer, my daughter loves.	 laptop display laptop	;use;screen
+774	 positive positive	I finally decided on this laptop because it was the right price for what I need it.	 price laptop	;price
+775	 negative	I did think it had a camera because that was one of my requirements, but forgot to check in the specifications on this one before I purchased.	 laptop	;specifications
+776	 negative	So I'm disappointed in that because communicating with my relatives out of the area is a priority.	 laptop	null
+777	 neutral	I just hope the reputation that Toshiba has is true and I won't have to worry about a crash.	 laptop	null
+778	 negative	I bought this eMachines Notebook PC in January of this year and I am highly dissatisfied with it.	 laptop	;emachines notebook
+779	 negative	The Internet Explorer was very slow from the very beginning.	 software	;internet explorer
+780	 negative	It freezes, and it always shows that there is an error, so I have to restart it a few times every time I use it.	 software	null
+781	 negative	I tried to upgrade it to a newer version a couple of months ago and I still have the same problem.	 software	null
+782	 negative	Well, I started using Google Chrome, which is a little better, but it freezes too sometimes.	 software	;google chrome
+783	 negative	This Notebook restarts every time there is a new update, so if you don't save your files and information, everything will be lost.	 laptop	null
+784	 negative	Another issue I have with it is the battery.	 battery	;battery
+785	 negative	Maybe three or four months ago it started blinking all of the sudden.	 battery	null
+786	 negative negative	"There is a small red circle next to it with a x in the middle, and when I click on it it says: "" Consider replacing your battery"" and it does not hold full charge."	 battery battery	;battery;charge
+787	 negative	It is not even a year old yet, so I would definitely not recommend it to anyone.	 laptop	null
+788	 negative	Don't waste your money!	 laptop	null
+789	 positive	The laptop is gorgeous.	 laptop	null
+790	 positive positive	It is sleek, smooth, and lightweight.	 laptop laptop	null
+791	 positive	It is easily portable and I take it everywhere I go and might require internet access.	 weight	;internet access
+792	 positive	The screen is very large and crystal clear with amazing colors and resolution.	 display	;screen;colors;resolution
+793	 positive	The processor is very quick and effective as I load webpages and applications.	 hardware	;processor;webpages;applications
+794	 positive positive	It is quiet and a real joy to watch work.	 laptop laptop	null
+795	 positive	I love it and will probably get another one when this goes to the Laptop in the sky!!	 laptop	null
+796	 positive	Overall this laptop is great.	 laptop	null
+797	 positive positive positive	It has plenty of memory, lots of hard drive, and great graphics.	 memory harddisk graphics	;memory;hard drive;graphics
+798	 positive	It runs very quiet too which is a plus.	 laptop	;runs
+799	 negative	The only bad thing about it is they give you the worst batteries possible.	 battery	;batteries
+800	 negative	They only stay charged a little over an hour.	 battery	null
+801	 negative	Laptops are usually used on the go, so why not give you a better battery?	 battery	;battery
+802	 negative	The processor a AMD Semprom at 2.1 ghz is a bummer it does not have the power for HD or heavy computing.	 hardware	;processor;power;computing
+803	 negative negative	The notebook is lacking a HDMI port and a S-video port that would enable one to hook it to a TV.	 laptop laptop	;hdmi port;video port
+804	 negative	It is a cheap throw together.	 laptop	null
+805	 negative	Save your money and go for a better device.	 laptop	null
+806	 positive positive	This laptop is a great price and has a sleek look.	 price laptop	;price;look
+807	 positive	Runs smooth and quick.	 laptop	;runs
+808	 negative positive	I wish it had a webcam though, then it would be perfect!	 laptop laptop	;webcam
+809	 positive	I Love my new computer!	 laptop	null
+810	 positive positive	Its fast and another thing I like is that it has three USB ports.	 laptop laptop	;usb ports
+811	 positive	I love to write and play with graphics and html programming and my new Toshiba works great on both!	 laptop	;graphics;programming
+812	 positive positive	Thank you for your great product!	 laptop laptop	null
+813	 positive	Everything about this computer is easy to use.	 laptop	;use
+814	 positive	wonderful features.	 laptop	;features
+815	 negative	The only thing is that the battery won't last more than 1/2 an hour.	 battery	;battery
+816	 negative	It discharges too quickly.	 battery	;discharges
+817	 positive	Kind of annoying, but I still love the laptop.	 laptop	null
+818	 positive positive	It has good speed and plenty of hard drive space.	 laptop harddisk	;speed;hard drive space
+819	 negative	The only downfall is the volume control.	 laptop	;volume control
+820	 negative	The wheel that turns the volume up and down doesn't work in real time.	 laptop	;wheel;volume
+821	 negative	I have to keep turning it until it decides to lower and there is no mute.	 laptop	;mute
+822	 positive	I bought my macbook a few months ago and it has been my baby ever since.	 laptop	null
+823	 positive	I love it so much.	 laptop	null
+824	 positive	It has come into good use for my finances, scheduling, my parents business expenses, and it is definitely amazing for gaming.	 laptop	;gaming
+825	 positive	The best thing is even while doing almost ten or twenty things at once, it never slows down.	 laptop	null
+826	 positive	It's just as fast with one program open as it is with sixteen open.	 laptop	null
+827	 positive positive	It works exactly like it did the day I took it out of the box.	 laptop laptop	null
+828	 positive	GREAT INVESTMENT!	 laptop	null
+829	 positive positive	The price and features more than met my needs.	 price laptop	;price;features
+830	 positive	The feature are good enough for what I need.	 laptop	;feature
+831	 positive	I love my macbook pro!	 laptop	null
+832	 positive	My laptop is almost 2yrs old and I have never had any problems with it.	 laptop	null
+833	 positive	If you are a PC user looking to convert I would HIGHLY recommend it!	 laptop	null
+834	 neutral positive	It may take a little getting used to but you don't have to worry about viruses or other headaches.	 laptop laptop	null
+835	 positive	Not to mention the fact that your mac comes fully loaded with all necessary basic programs.	 laptop	;programs
+836	 positive	I am ADDICTED to photo booth!	 software	;photo booth
+837	 positive	It is SO much fun to play with.	 software	null
+838	 positive	I work with kids and they love making short videos on there.	 software	null
+839	 positive	I am able to organize my pics, music and files easily.	 software	null
+840	 positive positive	If you have any creativity in you do yourself a favor and get a mac!	 laptop laptop	null
+841	 positive	I love the keyboard.	 keyboard	;keyboard
+842	 positive	The display is awesome.	 display	;display
+843	 neutral	Only thing I would want to add to this is an internal bluray read/write drive.	 laptop	;write drive
+844	 positive	But other than that I am blown away by all the features this laptop offers.	 laptop	;features
+845	 negative	I think this computer is super lame.	 laptop	null
+846	 negative	I dont understand how anyone can think this is a great product worth purchasing.	 laptop	null
+847	 negative	I decided to get this pile of crap on a whim and totally freaking regret it.	 laptop	null
+848	 negative	It doesnt work worth a damn.	 laptop	null
+849	 negative	The display is beyond horrible.	 display	;display
+850	 negative	I can not even read what I am writing half of the time.	 display	null
+851	 negative	There are so many things wrong with this product, it just makes me want to set my self on fire!	 laptop	null
+852	 negative	I would totally recommend any other laptop over this pile of grabage.	 laptop	null
+853	 negative	Not to mention it has shit gigs.	 harddisk	;gigs
+854	 negative	I could not even put my entire music collection on this garabage.	 harddisk	null
+855	 negative	Do yourself a favor and invest in a few external harddrives if you are planning on purchasing this laptop.	 harddisk	null
+856	 negative negative	I bought this last week, and the very next day had to return it because it over heated and the touch-mouse stopped responding.	 laptop mouse	;touch mouse
+857	 negative	got another 1, and same issue.	 laptop	null
+858	 negative	I am taking back today.	 laptop	null
+859	 negative	Don't waste your money or time.	 laptop	null
+860	 negative positive	Very dissappointed becase I have had toshibas for years, and never a issue.	 laptop laptop	null
+861	 negative negative	STOPPED BOOTING UP less than a week after my one-year warranty was up.	 laptop laptop	;booting up
+862	 negative	Toshiba knows there is a manufacturing defect but will not acknowledge it.	 service	null
+863	 negative	Apparently there is a manufacturing defect, something with the amount of thermal paste.	 laptop	;thermal paste
+864	 negative	TOSHIBA WILL NOT ACKNOWLEDGE THIS PROBLEM.	 service	null
+865	 negative	When I called Toshiba, they would not do anything and even tried to charge me $35 for the phone call, even though they didn't offer any technical support.	 service	;technical support
+866	 negative negative	I loved the netbook (minus the fact that it was windows OS) until this started happening.	 os laptop	;fact;windows os
+867	 negative negative	But if you can't make your product last more than a year, you will not get my business again.	 laptop laptop	null
+868	 positive	I've had my MacBook Pro for three years now and still love it!	 laptop	null
+869	 positive	In those three years, I've had a couple of minor problems and both were resolved by Apple quickly and easily.	 service	null
+870	 negative positive	My power supply cord developed exposed wires within the first year of ownership, so it was covered by the Applecare warranty plan.	 hardware service	;power supply cord;wires;applecare warranty plan
+871	 positive	In the three years I've had my MacBook Pro, I have never had a virus on my computer, and I do a lot of work on the internet.	 laptop	null
+872	 positive positive	The iLife software that comes with the computer is so simple to use and produces a great finished product.	 software laptop	;ilife software;use;product
+873	 positive	I highly recommend this product!	 laptop	null
+874	 negative	Needs constant repair.	 laptop	null
+875	 negative	First the screen goes completely out.	 display	;screen
+876	 negative	Then HP sends it back to me with the hardware screwed up, not able to connect.	 service	;hardware
+877	 negative	Now the screen is going darker, darker, darker.	 display	;screen
+878	 negative negative	HP is more interested in selling extended warranties (which cost more than the netbook new) then they are in helping or fixing.	 service service	;extended warranties;cost
+879	 negative	Oh yeah, don't forget the expensive shipping to and from HP.	 laptop	;shipping
+880	 negative negative	I'v spent as much for shipping as I would to buy a new netbook -- of course a different brand.	 laptop laptop	;shipping
+881	 positive	So far so good with this laptop.	 laptop	null
+882	 positive	Fan vents to the side, so no cooling pad needed, great feature!	 laptop	;fan;cooling pad;feature
+883	 positive positive	Screen is crystal clear and the system is very responsive.	 display laptop	;screen;system
+884	 positive	Memory is upgradable.	 laptop	;memory
+885	 negative	The only thing I would change about it is the mouse keys.	 mouse	;mouse keys
+886	 negative	They click.	 mouse	;click
+887	 negative positive positive	sounds like a typewriter, but if you can get past that, this is a great laptop for a little money!	 mouse laptop price	;sounds
+888	 negative	I HATE this one.	 laptop	null
+889	 negative	Vista is a nightmare.	 os	;vista
+890	 negative	No tutorials on the display.	 laptop	;display
+891	 negative	The book is useless.	 laptop	null
+892	 negative negative	The machine has a bluray player the book has no mention of it or how to connect it to your HDTV.	 laptop laptop	;bluray player
+893	 negative	Thinking about returning it	 laptop	null
+894	 positive	The Macbook is a fantastic laptop.	 laptop	null
+895	 positive	You will love this macbook if you choose to buy it.	 laptop	null
+896	 positive	The macbook rarely requires a hard reboot.	 laptop	null
+897	 positive	It just works flawlessly!	 laptop	;works
+898	 positive	Its hard to encounter a problem on a mac that would require such abrupt action.	 laptop	;action
+899	 positive positive	I honestly love my mac, thats why I am a self proclaimed mac addict.	 laptop laptop	null
+900	 positive	This was purchased for my daughter and I was pleasantly surprised.	 laptop	null
+901	 positive	It had the full sized touch pad with 2 buttons instead of just one.	 mouse	;sized;touch pad
+902	 positive	It made the computer much easier to use and navigate.	 laptop	;use;navigate
+903	 positive	Keyboard was also very nice and had a solid feel.	 keyboard	;keyboard
+904	 neutral	This system came loaded with Windows 7 Starter.	 os	;windows 7 starter
+905	 positive	So far, so good.	 laptop	null
+906	 negative	When I got this laptop in 2007 to help me with school, I had a hard time from beginning.	 laptop	null
+907	 negative	I feel that it was poorly put together, because once in a while different plastic pieces would come off of it.	 laptop	null
+908	 positive	Quite simply this is the best laptop I have ever owned.	 laptop	null
+909	 positive	For me, five stars is not enough.	 laptop	null
+910	 positive	"I love the 15"" MacBook Pro."	 laptop	null
+911	 positive	My parents bought it for me as a graduation gift, and i'm totally (almost kind of maybe definitely) obsessed with it.	 laptop	null
+912	 positive	It was very easy to just pick up and use--	 laptop	;use
+913	 positive	It did not take long to get used to the Mac OS.	 os	;mac os
+914	 positive positive positive	I love the size because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable.	 laptop display weight	;size;screen;internet artwork
+915	 neutral	There are several programs for school or office use (Pages, Numbers, Keynote, etc.), music (Garageband), photo management (Photo Booth, iPhoto), video-editing or movie-making (iMovie), etc.	 software	;pages;numbers;garageband;photo management;photo booth;iphoto;video editing;imovie
+916	 positive	The built-in webcam is great for Skype and similar video-chat services.	 laptop	;built in webcam;skype;video chat services
+917	 positive positive	iTunes is a handy music-management program, and it is essential for anyone with an iPod.	 software software	;itunes;music management program
+918	 positive	All-in-all, I would definitely recommend this product for nearly everyone.	 laptop	null
+919	 positive	I love it!	 laptop	null
+920	 positive positive	They definitely have a superior product!	 laptop laptop	null
+921	 negative negative	Its not just slow on the internet, its slow in general.	 laptop laptop	;internet
+922	 negative	No I am generous calling it slow.	 laptop	null
+923	 negative	its more like a snail crawl.	 laptop	null
+924	 negative	he can't stand it.	 laptop	;stand
+925	 negative	I can't begin to say how disappointed I am.	 laptop	null
+926	 negative	I should have spent an extra hundred bucks and got a full sized computer.	 laptop	null
+927	 neutral positive	the key bindings take a little getting used to, but have loved the Macbook Pro.	 keyboard laptop	;key bindings
+928	 positive	Delivery was early too.	 laptop	;delivery
+929	 positive	It allows me to do everything I need from a computer and more.	 laptop	null
+930	 positive positive positive	With awesome graphics and assuring security, it's perfect!	 graphics laptop laptop	;graphics;security
+931	 positive	I'd recommend this laptop to anyone!	 laptop	null
+932	 negative	The Toshiba Satellite laptop is  DESIGNED  to fail !	 laptop	null
+933	 negative negative	The board has a bad connector with the power supply and shortly after warrenty expires the power supply will start having issues.	 hardware hardware	;board;connector;power supply;warrenty;power supply
+934	 negative	Toshiba is aware of the issue but unless the extended warrenty is bought Toshiba will do nothing about it.	 service	;extended warrenty
+935	 negative	I actually contact Toshiba before I started having problem and was given run around after I supplied serial number in order to delay me sending in laptop until after warrenty expired.	 service	;warrenty
+936	 negative	Then after paying for it to be examined I was told it was same problem cited on website but I'd have to pay anyways since it was past warrenty.	 service	;warrenty
+937	 positive positive positive	It has far exceeded my expectations for power, storage, and ability.	 laptop harddisk laptop	;power storage;ability
+938	 positive	It is easy to navigate and update programs.	 laptop	;navigate;programs
+939	 positive	I've never had problems with viruses.	 laptop	null
+940	 positive	My next laptop will also be a Mac!	 laptop	null
+941	 positive	I would like to tell you about the best laptop I just got from Mac.	 laptop	null
+942	 positive positive	My mac laptop is fabulous in both areas.	 laptop memory	null
+943	 positive	It gives me the power and speed that I need to run all the programs I use to edit.	 laptop	;power;speed
+944	 positive positive	The Final Cut Pro on this laptop is so fast and easy, and I can use this to seemlessly transfer all my work to my home computer, which is also a mac.	 software software	null
+945	 positive	I would buy one of these for every person in my office if I could.	 laptop	null
+946	 positive	In my line of work, I often have to take work home, and this makes it so easy.	 laptop	null
+947	 positive positive	I do transcription work on the side, and the flatline keyboard makes typing quick and easy as well.	 keyboard keyboard	;keyboard
+948	 positive	The apple care has never failed me, and I expect it to be the same for this computer as well.	 service	;apple care
+949	 positive	I will only buy apple laptops from now on.	 laptop	null
+950	 positive positive	Great laptop for school, easy to use for beginners in the household.	 laptop laptop	;use
+951	 positive negative	Keyboard is great but primary and secondary control buttons could be more durable.	 keyboard keyboard	;keyboard;control buttons
+952	 neutral positive neutral neutral	Battery life could be better but overall for the price and Toshiba's reputation for laptops it's great!	 battery laptop price laptop	;battery life;price
+953	 negative	My MacBook Pro has been a huge disappointment.	 laptop	null
+954	 negative negative	From the build quality to the performance, everything about it has been sub-par from what I would have expected from Apple.	 laptop laptop	;build quality;performance
+955	 negative negative negative	The system constantly overheats, the battery life is too short, the case is coming apart, and my core applications that I use every day in my work as a graphic artist run poorly.	 battery laptop software	;system;battery life;case;core applications
+956	 negative	I would not recommend this product to anyone.	 laptop	null
+957	 positive positive	Screen is awesome, battery life is good.	 display battery	;screen;battery life
+958	 positive	Really like the textured surface which shows no fingerprints.	 laptop	;textured surface
+959	 positive neutral	Good laptop for the money.	 laptop price	null
+960	 neutral	Speakers don't get that loud, but good enough.	 laptop	;speakers
+961	 positive	They don't crash.	 laptop	null
+962	 positive	If a website ever freezes (which is rare), its really easy to force quit.	 laptop	;force
+963	 positive	Never been hacked.	 laptop	null
+964	 positive	No viruses.	 laptop	null
+965	 positive	I have had to call with a few questions or issues and they have helped me for free, even without the warranty.	 service	;warranty
+966	 positive	A mac is very easy to use and it simply makes sense.	 laptop	;use
+967	 positive	Its also FUN to use!	 laptop	;use
+968	 positive positive	The programs are great, like iphoto (love the editing capabilities), imail (which can incorporate with the address book on the ipod and ipad), imovie, etc.	 software software	;programs;iphoto;editing capabilities;imovie
+969	 positive	She said its very user friendly.	 software	null
+970	 positive positive positive positive positive	However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.	 laptop laptop laptop keyboard mouse	;size;features;lighted keyboard;mouse pad
+971	 neutral positive	I am very happy I bought this Mac, well worth the extra money.	 price laptop	null
+972	 positive	Now that I have it I see that I really needed this for much more.	 laptop	null
+973	 positive	I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.	 laptop	;dreamweaver;cut pro 7 photoshop;safari;firefox;msn messenger;applications
+974	 positive	I have not had a problem with the applications quitting or freezing.	 software	;applications
+975	 positive positive	I highly recommend this laptop to anybody that wants great performance from a laptop and would like to relax and not become enraged cursing the gods about to throw your laptop out the door.	 laptop laptop	;performance;door
+976	 positive	That was my first Apple product and since then I have been incredibly happy with every product of theirs I have bought.	 laptop	null
+977	 positive	My MacBook Pro is no exception.	 laptop	null
+978	 positive	Since I've had this computer I've only used the trackpad because it is so nice and smooth.	 mouse	;trackpad
+979	 positive	I also like that you can scroll down in a window using two fingers on the trackpad.	 mouse	;trackpad
+980	 positive positive	The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well.	 software laptop	;runs;ilife software;iphoto;imovie;iweb;itunes;garageband
+981	 neutral positive	I would recommend this laptop to anyone looking to get a new laptop who is willing to spend a little more money to get great quality!	 price laptop	;quality
+982	 positive	Shiny	 laptop	null
+983	 positive	This Laptop is the Best of the best!	 laptop	null
+984	 positive	The Awesomest of the awesomest.	 laptop	null
+985	 positive	It is so great, I can Hardly ever take my hands off it!	 laptop	null
+986	 positive	My friends are in awe every time they come over!	 laptop	null
+987	 positive	I got it for Christmas, and I was so excited to set it up!	 laptop	null
+988	 positive	It is super fast, and always loads.	 laptop	null
+989	 positive	I am just amazed.	 laptop	null
+990	 negative	The only bad part is the size/weight.	 laptop	;size;weight
+991	 negative	It's like 9 punds, but if you can look past it, it's GREAT!	 laptop	null
+992	 neutral	If you don't like fingerprints, this might not be the laptop for you.	 laptop	null
+993	 neutral	It super shiny, so you can see the fingerprints easily.	 laptop	null
+994	 positive	All for such a great price.	 price	;price
+995	 positive	It's color is even cool.	 laptop	;color
+996	 positive	Another Great thing is the Beast graphics.	 graphics	;graphics
+997	 positive	They are so realistic I am just speechless.	 graphics	null
+998	 positive	I let my friend borrow it, and she knows nothing about computers, and she used it with ease.	 laptop	null
+999	 positive	The cool thing about this is anyone can use it.	 laptop	null
+1000	 positive	I don't know how I could ever live without my Qousmio.	 laptop	null
+1001	 negative	I own a Hewlett Packard laptop and I've had man problems with it since I bought in in Feb, 201	 laptop	null
+1002	 negative	Ive had to call tech support many times.	 laptop	;tech support
+1003	 negative	Each time taking about 1 day or so.	 service	null
+1004	 negative	I had to wait 3 weeks to get it back and it still is not working properly.	 service	null
+1005	 negative	I had to pay for the shipping!	 service	;shipping
+1006	 negative	I will never buy anything from HP again!	 laptop	null
+1007	 positive neutral	The Toshiba Satellite has been more than I expected for the price.	 laptop price	;price
+1008	 positive neutral	THis computer may be small but it is one heck of a power horse.	 laptop laptop	;power
+1009	 positive positive	You can do it all on this bad boy but the main thing this netbook was desinged for was surfing the web and boy o boy does it ever.	 laptop laptop	;web
+1010	 neutral positive	for being so small it is amazing that it is as fast as it is.	 laptop laptop	null
+1011	 neutral	when i first got it i thought the size of it was a joke.	 laptop	;size
+1012	 positive	but after i got used to it i love it.	 laptop	null
+1013	 positive positive positive	the size of has actually help me out quite a bit by me being able to fit it in an already full backpack and to use it at a resturant where the food on the table is always so space consuming.	 laptop weight laptop	;size
+1014	 positive positive	it has 3 usb ports, 1 sd memory card reader and an sd memory car expansion.	 laptop laptop	;usb ports;sd memory card reader;sd memory;expansion
+1015	 neutral positive	the only down fall is that it has no cd drive but i found that they are very cheap to by and also very portable making this the best friend to someone who is always looking for more space then they have.	 laptop weight	;cd drive
+1016	 positive neutral	overall i would recomend this to anybody and tell them that if they want to burn their music or play there video games to buy the cd drive.	 laptop laptop	;cd drive
+1017	 positive positive positive positive	i use my mac all the time, i love the software, the way it takes a short time to load things, how easy it is to use and most of all how you don't have to worry about viruses.	 laptop laptop software laptop	;software;use
+1018	 positive	With a mac you don't have to worry about antivirus software or firewall, it's so wonderful.	 laptop	;antivirus software;firewall
+1019	 positive	All apple associates are always wiling to help you out with anything, no matter when you purchased the computer and how many years passed.	 service	null
+1020	 positive	this computer will last you at least 7 years, thats an amazing life spanned an electronic.	 laptop	;life
+1021	 positive positive	everything about a mac is wonderful, it takes a little used to learning and getting used to the new system, but you will learn fast and its all worth it.	 laptop os	;system
+1022	 negative	Not working = bad	 laptop	null
+1023	 negative negative	"I spent 2200 dollars on a ""top of the line laptop""."	 price laptop	null
+1024	 negative	I got the blue screen of death the first month I got it.	 laptop	null
+1025	 negative negative	"1) Payed $2200 for a ""premium"" laptop"	 price laptop	null
+1026	 negative negative	2) Blue screen first month	 laptop laptop	null
+1027	 negative	3) Horrible customer support-they lost my laptop for a month-got it back 3 months later	 service	;customer support
+1028	 negative	4) Laptop still did not work, blue screen within a week...	 service	;work;screen
+1029	 negative	5) Cut my losses and sold it for parts	 laptop	null
+1030	 negative	"this company truely does make horrible products and doesnt seem to because they are certain things like this ""never"" happen..."	 laptop	null
+1031	 positive positive	what an elegant, wonderful machine.	 laptop laptop	null
+1032	 positive positive	I'm making the switch and finding that my biggest problem is trying to do things the 'old' way - and Apple does, indeed, have the better idea.	 laptop laptop	null
+1033	 positive	I really wish I had done this years ago.	 laptop	null
+1034	 positive positive	Pairing it with an iPhone is a pure pleasure - talk about painless syncing - used to take me forever - now it's a snap.	 laptop laptop	;syncing
+1035	 positive	I love it - never had a computer I was so impressed with - and I've had a lot of laptops and desktops - this one is FAR AND ABOVE THE BEST ONE I EVER HAD BEFORE.	 laptop	null
+1036	 negative	I tell everyone that I know, friends, family and enemies this is the absolute worst computer i have ever used.	 laptop	null
+1037	 negative	The computer blinks it shuts off at will.	 laptop	null
+1038	 negative	The letter A stopped working after the first week.	 keyboard	null
+1039	 negative	when i called to have another one shipped or to get my money back they said the return policy is 23 twenty three days from the date of purchase.	 service	;return policy
+1040	 negative negative	so the fact that the computer does not work on the 24 twenty fourth day is my fault.	 service laptop	null
+1041	 negative	they have done absolutely nothing to fix the computer problem.	 service	null
+1042	 negative	they have not sent a new one nor called.	 service	null
+1043	 neutral negative	i spent eight hundred dollars from a giant paper weight that looks good on a bus.	 laptop price	;weight
+1044	 negative	then on top of it all their cusromer service center is in the middle east.	 service	;cusromer service center
+1045	 negative	So when you do call to complain about the hunk of metal you get the joy of speaking with a bunch of people you cant understand.	 service	null
+1046	 negative	Then to make matters worst, there is noone that they can transfer you to.	 service	null
+1047	 negative	I had this computer for one month and had to send it in for repair.	 laptop	null
+1048	 negative	Got the computer back a month later and it was still broken sent it out again and they repaired it.	 service	null
+1049	 negative	3 weeks went by and the computer keeps crashing and will not open any applications.	 service	;applications
+1050	 negative negative	DO NOT BUY GATEWAY COMPUTERS THEY ARE JUNK AND THE WARRANTY COMPANY IS HORRIBLE.	 service laptop	;warranty company
+1051	 negative	YOU WILL NOT BE ABLE TO TALK TO AN AMERICAN WARRANTY SERVICE IS OUT OF COUNTRY.	 service	;american warranty service
+1052	 negative	COMPUTER HAS BEEN AT SERVICE FACILITY MORE THAN IN MY HANDS.	 laptop	null
+1053	 positive	I have had this laptop for a few months now and i would say im pretty satisfied.	 laptop	null
+1054	 negative	The only problems are the sound isnt very loud I have to wear headphones.	 laptop	;sound
+1055	 negative negative	Another thing is that after only a month the left mouse key broke and it costed $175 to send it in to fix it.	 mouse service	;left mouse key
+1056	 negative	That whole experience was just ridiculous we sent it in and after they told us that we had to pay $175 to fix it we were like we will just by a portable mouse which would be way cheaper but they refused to send the laptop back until we paid the $175 and it was fixed.	 service	;mouse
+1057	 negative	It took a little over 2 weeks until i got it back.	 service	null
+1058	 negative	ANd I babyed the heck out of it just one day when i opened it turned it on went to click and it was broke.	 mouse	;click
+1059	 negative	To be honest i think it was faulty equipment or something but idk.	 laptop	null
+1060	 positive	The graphics are great.	 graphics	;graphics
+1061	 positive positive	The internet speed is spectacular.	 laptop laptop	;internet speed
+1062	 negative	The battery life is probably an hour at best.	 battery	;battery life
+1063	 negative	Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good.	 software	;word;product key;word processer
+1064	 positive positive	I would recommend it just because of the internet speed probably because thats the only thing i really care about.	 laptop laptop	;internet speed
+1065	 negative negative	I wish the volume could be louder and the mouse didnt break after only a month.	 laptop mouse	;volume;mouse
+1066	 negative	I received this laptop as a gift and let me just tell you that its the worst.	 laptop	null
+1067	 negative negative	At first it worked well for a month or so then the system board failed and I send it in to toshiba some complaints and three weeks later I then receive my laptop back only to discover that it still has the same problem so now I have to send it back again to get it fixed again.	 hardware service	;system board
+1068	 negative	This computer doesn't do that well with certain games it can't play some and it becomes too hot while playing games.	 laptop	;games;games
+1069	 negative	Oh and if thats not bad enough it doesn't come with a recovery cd so you can make one if you know how to or buy one if you buy it the cost is $25 for two cds.	 laptop	;recovery cd;cost
+1070	 negative	the whole experiece is horrible so save up and buy a better laptop.	 laptop	null
+1071	 negative	I bought a HP Pavilion DV4-1222nr laptop and have had so many problems with the computer.	 laptop	null
+1072	 negative	The computer is so slow, even after paying staples the extra money to speed it up.	 laptop	;speed
+1073	 negative	They said it was a computer error on this type of computer.	 laptop	null
+1074	 negative	Also, I have alot of trouble with it getting very hot, and not even sitting on anything to make it hot.	 laptop	null
+1075	 negative	When the computer has been on for several minutes, it will occasionaly just go off by itself.	 laptop	null
+1076	 negative	Also, the battery does not last very long at all.	 battery	;battery
+1077	 negative	I would recommend not buying this product.	 laptop	null
+1078	 negative	I have had no luck with staples or HP to resolve this problem.	 service	null
+1079	 negative	I am stuck with a laptop that I cannot do very much with.	 laptop	null
+1080	 negative	Also, I have had alot of trouble with the keys sticking and will not type correctly.	 keyboard	;keys
+1081	 negative	Also, I have had alot of trouble with the shift key to go to other lines.	 keyboard	;shift key
+1082	 negative negative	It gets stuck all of the time you use it, and you have to keep tapping on it to get it to work.	 keyboard keyboard	null
+1083	 negative	Sometimes the screen even goes black on this computer.	 display	;screen
+1084	 negative	Will probably never buy a HP again.	 laptop	null
+1085	 negative negative	Purchased a Toshiba Lap top it worked good until just after the warrenty went out.	 laptop laptop	;warrenty
+1086	 negative negative	After the warrenty expired the hard drive went bad and it would have cost more to fix then to replace.	 harddisk service	;warrenty;hard drive;cost
+1087	 negative	I hate it.	 laptop	null
+1088	 negative	I have had the luxury (sarcasm) of owning 2 of these laptops.	 laptop	null
+1089	 negative	The first fell apart right after the 1-year-warranty.	 laptop	;warranty
+1090	 negative	During that time, I had to send it back 3 times.	 laptop	null
+1091	 negative negative negative	I paid about 18000 for this laptop because of all the bells and whistles and it kept crapping out on me.	 laptop laptop price	;bells
+1092	 negative	None of the techs at HP knew what they were doing.	 service	;techs
+1093	 negative	They would repair one thing, send it back and it would still have the same problem.	 service	null
+1094	 negative negative negative	The processor went on me, the fan went and the motherboard went.	 hardware laptop hardware	;processor;fan;motherboard
+1095	 negative negative	I wanted to purchase the extended warranty and they refused, because they knew it was trouble.	 service laptop	;extended warranty
+1096	 negative	I had something else go wrong and they said it had to be in good working order to be able to buy the warranty.	 service	;warranty
+1097	 neutral	I took it to friend who temporarily fixed it and I finally paid about 1500 for the extended warranty.	 service	;extended warranty
+1098	 negative	I sent it back AND THEY LOST IT.	 service	null
+1099	 negative	I waited and waited and no laptop.	 service	null
+1100	 negative	Finally after months of research the discovered that they mailed it to a Walmart and there probably would be no way to find the box.	 service	null
+1101	 negative	"I waited another month for approval and for them to ""BUILD"" me a new laptop."	 service	null
+1102	 negative	Here we are another year later and the computer is doing the same thing.	 service	null
+1103	 negative	HP didn't fix it.	 service	null
+1104	 negative	I swear they design these things to go to crap after a year so you are stuck and have to buy a new one.	 laptop	;design
+1105	 negative	in 5 months the connect quality got worse and worse.	 laptop	;connect quality
+1106	 negative	1st time they got it working the next 5 month they had me send it in.	 service	null
+1107	 negative	returned it.	 laptop	null
+1108	 negative	5 months dead again.	 laptop	null
+1109	 negative	They say sorry out of warranty.	 service	;warranty
+1110	 negative	Summary: They played games with me for the warranty period.	 service	;warranty period
+1111	 negative	Now 17 months later they want (would not say exact amount) $165.00 to $400 to fix the machine.	 service	null
+1112	 negative	They had me send in the machine last April returned it to me in May with no documentation on what was done it anything.	 service	;documentation
+1113	 negative negative	Now the machine won't connect and Toshiba says that they did replace the connection card in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook.	 laptop service	;connection card;warranty
+1114	 negative	So buyer beware when buying Toshiba	 laptop	null
+1115	 positive negative	They are wonderful, but very dangerous when it comes to emitting heat.	 laptop laptop	null
+1116	 negative	I burned my leg, after lifting it from my desk, and for less than 5 second putting it on my lap to clean my coffee table, so I can place it there.	 laptop	null
+1117	 negative	I had to call Apple 19 times (each time 40 to 75 minutes on the phone), and take it to their store for evaluations, and diagnostics, 5 times.	 service	;diagnostics
+1118	 negative	For my burn thigh which has put a permanent mark on my skin (it happened 7 months ago) they offered me an ITouch 8Gig (you know it is a bit insulating when a company this rich, offer a loyal customer like me, a bottom of their product line as a gift for events like this).	 laptop	;customer;product line
+1119	 negative	Steve Jobs, probably needs help and donations, and cannot afford a reasonable offers for people that truly are trying to support his baby.	 laptop	;donations
+1120	 negative	The lesson learned here is: It does not pay to by this loyal to any brand, since all of them are there to simply  to make as much money as possible, as fast as they can, and in this day and age, the customer no longer is right all the times.	 laptop	;customer
+1121	 neutral	I am not going to sit here and complain about it not having a cd drive and what not because it is a netbook, it is made to be compact and if you want all the other stuff get a laptop.	 laptop	;cd drive
+1122	 negative	Anyways I bought this two months ago and when I first brought it home it kept giving me a message about a vibration in the hard drive and it is putting it temporaly in save zone.	 harddisk	;hard drive
+1123	 positive	So I called customer support (which is good too) and they went through it and it is just a safety feature and it does not affect performance at all, I just chose to hide the message.	 service	;customer support;safety feature;performance
+1124	 neutral	Also the speakers are not very loud, But it is a netbook.	 laptop	;speakers
+1125	 positive	Would HIGHLY recommend this netbook though.	 laptop	null
+1126	 negative	I custom ordered the machine from HP and could NOT understand the techie due to his accent.	 service	null
+1127	 negative	The computer was two weeks late in delivery because HP forgot to complete the required import paperwork.	 laptop	null
+1128	 negative negative	My laptop cost approximately $2,300 and DIED after only 2-years, 10-months and 18-days of use.	 laptop price	;cost
+1129	 negative	Although my model was listed as recalled, HP denied my claim.	 service	null
+1130	 negative negative	This laptop leaves alot to be desired, I have had it only 5 months and have had to send it away to be repaired twice...	 laptop laptop	null
+1131	 negative neutral negative	"I bought it from HSN because it was ""bundled"" with extra software, but as it turns out, that software just crashes it more often....."	 software laptop laptop	;software;software
+1132	 negative	If you shop around in the current market you can find a much better deal.	 laptop	;deal
+1133	 positive negative	The repairs were made quickly though I must say, however the second time they shipped it to the incorrect address and it took nearly a week for them to get it to me.	 service laptop	null
+1134	 negative negative	Unable to boot up this brand new laptop.	 laptop laptop	;boot up
+1135	 negative	Spent 2 hours on phone with HP Technical Support.	 service	;hp technical support
+1136	 negative	They went through asking me open up various components, taking battery out, hard disk apart, and after 2 hours on phone could not fix it.	 service	;components;battery;hard disk
+1137	 neutral	They are asking me to ship the unit back to fix it at their site.	 service	null
+1138	 negative	I am going to go back and return at Store I bought from!	 laptop	null
+1139	 positive	This computer had exactly the specifications I needed.	 laptop	;specifications
+1140	 positive positive positive	Small enough to use on a long flight, Light enough to carry through airports and powerful enough to replace my desktop while on long business trips.	 laptop weight laptop	;light
+1141	 positive	The perfect notebook...	 laptop	null
+1142	 negative	When I finally had everything running with all my software installed I plugged in my droid to recharge and the system crashed.	 laptop	;software;recharge;system
+1143	 negative	The Aspire wont even boot past the Acer screen with a Droid (I have tried both Motorola and HTC) plugged into the USB port.	 laptop	;boot;acer screen;usb port
+1144	 negative	"Called tech support and got the usual Acer ""We don't support software but for $$$ we can help you"" I explained there was no software involved in booting."	 service	;tech support;software;software;booting
+1145	 negative	"No, tey don't even support their own bios and it ""could be a problem with the bios"" How can a company that makes a fairly decent product get away with such insanity??!!"	 service	;bios;bios
+1146	 negative	Needless to say a PC that can't support a cell phone is less than useless!	 laptop	null
+1147	 negative negative	With today's company fighting over marketshare, its a shame that ASUS can get away with the inept staff answering thephone.	 service laptop	;staff;answering thephone
+1148	 negative	I agree with the previous comment that ASUS TECH SUPPORT IS HORRIBLE WHICH IS A CON IN MY OPINION.	 service	;asus tech support
+1149	 negative negative	Summary: I've had this laptop for 2 months, out of the blue the power adapter stops working.	 hardware hardware	;power adapter
+1150	 negative	But no one could tell me when my part would be shipped nor could they tell me where to buy it ON THEIR WEBSITE!!!	 service	null
+1151	 negative	Frustrated I hung up and tried to call back 3 days later to be told that it takes 2-3 days for turnaround time.	 service	null
+1152	 negative	This was the 3rd day and part still had not been shipped.	 service	null
+1153	 negative	The rep did not even answer my question, I had to ask him, if he understood what I ask or if he spoke english because he didn't even try to acknowledge my question.	 service	null
+1154	 negative	I'm tired of the inept service.	 service	;service
+1155	 negative	If you are looking for a netbook pc DO NOT BUY FROM ASUS!!!	 laptop	null
+1156	 negative	Unless you want to be inconvenienced with a non working power supply which you can't find a replacement for because they made the attachment so small.	 hardware	;power supply;attachment
+1157	 negative	I'M REALLY FRUSTRATED BY THIS EXPERIENCE.	 laptop	null
+1158	 negative	HOW DOES THE POWER SUPPLY NOT WORK!!!	 hardware	;power supply
+1159	 positive	Our Apple 13.3 MacBook Pro Notebook Computer (Z0J80001) Notebook and has become such an integral part of completing our daily needs and social networking.	 laptop	null
+1160	 positive positive	I do everything on this computer - check email, facebook, shop, check blogs, write papers, listen to music, and we even watch all of our movies on it since we do not have a tv.	 laptop laptop	null
+1161	 positive positive	It pretty much does everything we could ever need, and looks great to boot.	 laptop laptop	;boot
+1162	 positive positive	Apple is always great about the aesthetics of things, they always come up with good looking products.	 laptop laptop	;aesthetics;products
+1163	 positive positive	It didn't take me long to get switched over to the Mac computer programs and navigation - it's been just fine and like the way this laptop functions much better.	 software laptop	;programs;navigation;functions
+1164	 positive	So, if you're thinking of a laptop, I would heartily recommend theApple 13.3 MacBook Pro Notebook Computer (Z0J80001) Notebook for all your needs!	 laptop	;theapple
+1165	 positive positive	It's great and we will always stick with Apple computers, we have been so happy with them.	 laptop laptop	null
+1166	 positive positive positive	"The 13"" MacBook Pro is portable, durable, and very capable."	 laptop weight laptop	null
+1167	 positive positive	It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.	 battery laptop	;battery life;web browsing;word editing;gaming;battery life
+1168	 positive	It's also very energy efficient, running on a quarter of the power it takes to run a 60 Watt lightbulb.	 laptop	;power
+1169	 positive positive	It's graphics aren't bad at all, for the lower end of the MacBook Pro spectrum, easily capable of running StarCraft II and other games with comparable graphics.	 graphics laptop	;graphics;starcraft ii;graphics
+1170	 positive positive	The operating system and user interface is very intuitive, and the large multi-touch track pad is amazing.	 os mouse	;operating system;user interface;touch track pad
+1171	 positive positive	However, the multi-touch gestures and large tracking area make having an external mouse unnecessary (unless you're gaming).	 mouse mouse	;tracking area;external mouse;gaming
+1172	 positive	Still, this laptop is perfect for all day use at school and work.	 laptop	null
+1173	 positive	They also have a longer service life than other computers (I have several friends who still use the older Apple PowerBooks).	 laptop	;service life
+1174	 negative	Probbly the worst decision we ever made!	 laptop	null
+1175	 negative negative	It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!	 keyboard harddisk	;touch control buttons;keyboard
+1176	 positive negative	pretty much everything else about the computer is good it just stops working out of no were.	 laptop laptop	null
+1177	 positive	i love the size of the computer since i play games on it.	 laptop	;size;games
+1178	 positive	i also love having the extra calculator number set up on the keyboard which most laptops do not have.	 keyboard	;keyboard
+1179	 negative negative	also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard.	 keyboard keyboard	;keyboard;keyboard
+1180	 negative	So i would not reccomend anyone buying this computer	 laptop	null
+1181	 negative	First, it does not have a push button to open the lid.	 laptop	;push button;lid
+1182	 neutral	It is held in place magnetically.	 laptop	null
+1183	 neutral negative	There is a little indent to help open it - but good luck with that.	 laptop laptop	null
+1184	 negative	Once open, the leading edge is razor sharp.	 laptop	null
+1185	 negative negative	This is the complete opposite to an ergonomic design.	 laptop laptop	;design
+1186	 negative	Using this machine is like a mild form of torture.	 laptop	null
+1187	 negative	The much lauded combined touch pad and clicker is a nightmare.	 mouse	;combined touch pad
+1188	 negative negative	I lost two items I was working on until I figured out what was happening.	 mouse mouse	null
+1189	 negative	Also, the space bar makes a noisy click every time you use it.	 keyboard	;space bar
+1190	 negative	I hate to say this, but if I could take this back to the shop and get my money back, then I would.	 laptop	null
+1191	 negative neutral	It is absolutely horrible to use, despite all its so called advanced features.	 laptop laptop	;use;features
+1192	 negative negative	I regret buying it before understanding how awful it is to use.	 laptop laptop	;use
+1193	 negative	It's a bummer and one out of five is being kind.	 laptop	null
+1194	 negative	My Mac has gone from being a trusted friend to an adversary.	 laptop	null
+1195	 negative	In due course, I'll remove the hard disc from this new MacBook Pro and dump it where it belongs - in the trash.	 laptop	;hard disc
+1196	 neutral	But the screen size is not that bad for email and web browsing.	 display	;screen size;web browsing
+1197	 positive	I like this machine because its very lightweight...	 laptop	null
+1198	 positive positive	very convenient when you travel and the battery life is excellent...	 battery weight	;battery life
+1199	 positive	10 hours of battery life is really something else....	 battery	;battery life
+1200	 positive	I highly recommend that you buy this product.	 laptop	null
+1201	 negative	It crashes, and when it goes flat, it just DIES (like a PC, maybe worse) and I loose all my open documents!	 laptop	null
+1202	 negative	I Hate it!	 laptop	null
+1203	 positive	It is the easiest computer I have ever used	 laptop	null
+1204	 positive	I LOVE IT!	 laptop	null
+1205	 positive	I can't say enough good for it!	 laptop	null
+1206	 positive	It's A MAC!!	 laptop	null
+1207	 positive	"I fine Apple MC373LL/A 2.66GHz 15"" Macboook Pro Notebook meets all my needs for a laptop computer when on the go."	 laptop	;apple mc373ll
+1208	 positive	I like to use it at the race track to handiecap the horse races.	 laptop	null
+1209	 positive	It's face and depanable.	 laptop	null
+1210	 positive	As a graphic arts a retired instructor I still love to play with the graphic with photos and clip art .....	 laptop	;photos
+1211	 positive	it's just a great toy to have around.	 laptop	null
+1212	 negative	very very slow laptop.	 laptop	null
+1213	 negative negative	tons of bloatware and junk programs.	 laptop software	;bloatware;programs
+1214	 negative negative	can't reinstall with standard os cd because of proprietary hardware drivers.	 laptop software	;os cd;hardware drivers
+1215	 negative negative	keys are all in weird places and is way too large for the way it is designed.	 keyboard laptop	;keys
+1216	 negative neutral	lots of extra space but the keyboard is ridiculously small.	 keyboard laptop	;keyboard
+1217	 positive	Amazing machine.	 laptop	null
+1218	 neutral	"It is a big big, but since it has a 18.4"" screen what would you expect!"	 laptop	null
+1219	 positive	It is truly a Desktop Replacement.	 laptop	null
+1220	 positive	Very fast and efficient!	 laptop	null
+1221	 positive	Does a great job with video shot on a Canon 5D MKII.	 laptop	null
+1222	 positive positive	Very happy with my 7th Toshiba laptop!	 laptop laptop	null
+1223	 positive	The touchpad is very intuitive, so much so that I never want to use buttons to click again!	 mouse	;touchpad;buttons
+1224	 positive positive	Of course, I also have several great software packages that came for free including iWork, GarageBand, and iMovie.	 software laptop	;software packages;iwork;garageband;imovie
+1225	 positive	I especially appreciate the fact that it has almost zero viruses and spyware problems!	 laptop	;spyware
+1226	 negative	The only drawback for me is how dirty the screen gets, and rather quickly too.	 display	;screen
+1227	 positive	I also enjoy the fact that my MacBook Pro laptop allows me to run Windows 7 on it by using the VMWare program.	 laptop	;windows 7;vmware program
+1228	 positive positive positive	Now I have the best of both worlds with all of the power and ease of the Mac!	 laptop laptop laptop	;power
+1229	 positive	"I also got the added bonus of a 30"" HD Monitor, which really helps to extend my screen and keep my eyes fresh!"	 laptop	;hd monitor;screen
+1230	 negative	I never have had a good result with this computer.	 laptop	null
+1231	 negative	I was told by many  that it was a great computer, but we got one of these, and it worked  great for one year, and as soon as the warrenty was up, then it got  really bad.	 laptop	;warrenty
+1232	 negative	They told me it was my loss even though it was the computer, not  what I've done.	 service	null
+1233	 negative negative	The hard drive crashed as well, and I had to buy a new  power cord.	 harddisk hardware	;hard drive;power cord
+1234	 negative	They told me to reprogram the computer, and I didn't need  to do that, and I lost pictures of my oldests first 2 years of her  life.	 service	null
+1235	 negative negative	I don't like this company nor the toshiba brand, and I'll never  buy another one because I've put more into it then it is worth.	 laptop laptop	null
+1236	 negative	I would  rather spend my money on a computer that costs more then a Toshiba that  isn't good at all.	 laptop	null
+1237	 negative negative	The right speaker did not work.	 laptop laptop	;right speaker
+1238	 negative negative	Again, the same problem, the right speaker did not work.	 laptop laptop	;right speaker
+1239	 negative	I returned the 2nd laptop for a full refund.	 laptop	null
+1240	 negative	the mouse pad and buttons are the worst i've ever seen.	 mouse	;mouse pad;buttons
+1241	 negative	sometimes you will be moving your finger and the pointer will not even move.	 mouse	;pointer
+1242	 negative	the mouse buttons are hard to push.	 mouse	;mouse buttons
+1243	 negative negative	i cant believe HP put this out.	 laptop laptop	null
+1244	 negative	do not buy you will be disappointed.	 laptop	null
+1245	 negative	i'm returning mine	 laptop	null
+1246	 neutral	dell is a decently made pc.	 laptop	null
+1247	 negative negative negative	the graphics are awful and the wireless switch it at the top rather than the side which I am used to it being on the side.	 graphics laptop laptop	;graphics;wireless switch
+1248	 negative negative	with the switch being at the top you need to memorize the key combination rather than just flicking a switch.	 laptop laptop	;switch
+1249	 negative	so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop.	 laptop	;setup
+1250	 positive positive	I love HP,, it's the only computer/printer we will buy.	 laptop laptop	null
+1251	 positive	This is perfect for her field.	 laptop	null
+1252	 positive	At first when I got this product, I loved it.	 laptop	null
+1253	 positive positive	The computer itself was fast, ran smoothly, and had no problems.	 laptop laptop	;ran
+1254	 negative	Then, within 5 months, the charger crapped out on me.	 hardware	;charger
+1255	 negative	So I called Compaq, and after being on the phone for 3 hours, i finally got a replacement which I shouldn't have had a problem getting since it was under warranty.	 service	;warranty
+1256	 negative	2 months later, the battery went.	 battery	;battery
+1257	 negative negative	They gave me a hard time yet again, but their was a malfunction in the battery itself, it didn't die.	 battery service	;battery
+1258	 negative	THEN, one month after the warranty expired, the replacement charger went.	 hardware	;warranty;replacement charger
+1259	 negative	I had to pay $100 for a universal charger for this cheap $300 laptop.	 laptop	null
+1260	 negative	Not worth it one bit.	 laptop	null
+1261	 negative negative negative	The people are frustrating to work with, the product itself is very cheaply made, and the accessories are less than satisfactory.	 laptop laptop service	;accessories
+1262	 negative positive	Also, my sister got the exact same laptop (since they were so cheap) and after 8 months, the screen split in half just from everyday use.	 display price	;screen
+1263	 negative	Apparently under the screen there are 2 little screws and when the screen gets moved back and forth, they come loose.	 laptop	;screen;screen
+1264	 negative	And it is impossible to get them back in.	 laptop	null
+1265	 positive	Strengths:Well-shaped	 laptop	null
+1266	 negative	Weaknesses:A bad videocard!	 graphics	null
+1267	 negative	After 20-30 min the screen of the notebook switched off.	 display	;screen
+1268	 negative	It was still working, but there was nothing on the screen.	 display	;screen
+1269	 negative	I was said it's videocard.	 graphics	null
+1270	 negative	Very disappointed!	 laptop	null
+1271	 negative	Didn't expect to repair it at once!	 laptop	null
+1272	 negative	Don't buy this model.	 laptop	null
+1273	 negative	An absolutely hateful machine that no one should get of their own free will.	 laptop	null
+1274	 negative negative	Mine came at $1,700 w/o a DVD burner (!).	 laptop price	;dvd burner
+1275	 negative	The screen is framed by half- to a full-inch margin that is obviously unnecessary, reduces the screen size and increases the bulk.	 display	;screen;screen size;bulk
+1276	 positive negative negative	The 4 USB ports are nice, but the two on the side only work now and then.	 laptop hardware hardware	;usb ports
+1277	 negative	Keyboard could use some trimming.	 keyboard	;keyboard
+1278	 negative negative negative	Did I mention everything about it, from size to weight to keyboard screams BULK?	 keyboard laptop laptop	;weight;keyboard
+1279	 positive	I'm glad I made the choice to switch and buy this MAC.	 laptop	null
+1280	 positive	The benefits were immediate!	 laptop	;benefits
+1281	 positive	Awesome graphics!	 graphics	;graphics
+1282	 positive	The magnetic plug-in power charging power cord is great (I even put it to the test by accident)- excellent innovation!	 hardware	;magnetic plug;power;power cord
+1283	 positive negative	This laptop rocks (only wish it could run SolidWorks CAD - which Apple doesn't support)!	 laptop laptop	;solidworks cad
+1284	 positive	I've saved a lot of time and headaches so far, using my new MacBook Pro.	 laptop	null
+1285	 positive positive positive	I have never had any issues or problems with my MacBook Pro so far, and it is still as fast as it was when I first bought it.	 laptop laptop laptop	null
+1286	 positive	I especially like the backlit keyboard.	 keyboard	;backlit keyboard
+1287	 positive	It makes doing schoolwork at night so much easier.	 laptop	null
+1288	 positive positive	It is also very lightweight, making transporting this computer very easy.	 laptop weight	null
+1289	 positive	The graphics on this computer are also stellar - very clear and vivid.	 graphics	;graphics
+1290	 positive positive	I use iphoto all the time, which is a great program for anyone who is into photography - amateurs and experts alike.	 software software	;program
+1291	 positive	The program came with the computer and works beautifully.	 software	;program;works
+1292	 positive positive	I definitely will buy a Mac again if and when this computer ever fails.	 laptop laptop	null
+1293	 negative	My hp G60-244dx died after only 16 months.	 laptop	null
+1294	 negative	It started out getting hot after only a few months.	 laptop	null
+1295	 negative	At 16 months it started shutting off after only 5 or 10 minutes.	 laptop	null
+1296	 negative	I use a cooling pad but it doesn't help.	 laptop	;cooling pad
+1297	 negative	I took it to the shop and they said It would cost too much to repair it.	 service	;cost
+1298	 positive	I will have to say that I love my MacBook Pro!	 laptop	null
+1299	 positive	It fires up in the morning in less than 30 seconds and I have never had any issues with it freezing.	 laptop	null
+1300	 positive	This is now my 3rd MacBook Pro and I really honestly love it!	 laptop	null
+1301	 positive positive	The MacBook Pro is very sturdy and versatile.	 laptop laptop	null
+1302	 positive	I love it!	 laptop	null
+1303	 positive	I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!	 laptop	;features;ichat;photobooth garage band
+1304	 positive	We are addicted to the Mac.	 laptop	null
+1305	 positive	This is a great laptop and I would recommend it to anyone.	 laptop	null
+1306	 positive	The OS takes some getting used to especially after being a Windows user for so long but the learning curve is so worth it!	 os	;os;windows user
+1307	 positive positive	Great laptop that offers many great features!	 laptop laptop	;features
+1308	 positive positive	Lightweight and the screen is beautiful!	 display laptop	;screen
+1309	 positive positive	It is easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops.	 laptop laptop	;operate;software
+1310	 positive	Buy it, love it, and I promise you won't regret it.	 laptop	null
+1311	 negative	This computer is good for 10 days then it sucks for the rest of your life.	 laptop	null
+1312	 negative	You will regret it if you buy any dell.	 laptop	null
+1313	 negative	Dell sucks	 laptop	null
+1314	 negative positive	The only pro to this computer is it was under $600!	 laptop price	null
+1315	 negative	Everything is falling apart internally and externally.	 laptop	null
+1316	 negative negative	With in weeks of purchasing my computer is began to slow down.	 laptop laptop	null
+1317	 negative	I am constantly trying to uninstall programs, clean cookies, and delete unused files.	 laptop	;programs
+1318	 negative	Nightly my computer defrags itself and runs a virus scan.	 laptop	;virus scan
+1319	 negative	More times that not the screen pops up saying I have a bad internet connection, or the page can't be displayed.	 laptop	;screen;internet connection
+1320	 negative	It takes me approximately 3 tries to get to each site, then after closing the browser and reopening it it actually works.	 laptop	;browser;reopening
+1321	 negative negative	I have Vista, so I am unable to install and uninstall  some programs.	 os laptop	;vista;programs
+1322	 negative negative	I can't even install one of the 3 printers I have in my house so I am unable to print.	 laptop laptop	null
+1323	 negative negative negative	Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.	 keyboard mouse display	;keys;keyboard;paint;button;mouse pad;screen
+1324	 negative	In short I would never buy a Compaq again.	 laptop	null
+1325	 positive	I bought this laptop on Saturday and am completely in love with it!	 laptop	null
+1326	 positive	It was super easy to set up and Is really easy to get used to.	 laptop	;set up
+1327	 positive	The online tutorial videos make it super easy to learn if you have always used a PC.	 laptop	null
+1328	 positive	The performance is awesome.	 laptop	;performance
+1329	 positive positive	I will never complain about the price since I believe you get what you pay for and my MacBook Pro was worth every dollar.	 laptop price	;price
+1330	 positive positive	With all the goodies inside this machine, it is a value.	 laptop laptop	;value
+1331	 positive	It is very well built.	 laptop	;built
+1332	 positive	The keyboard is top notch.	 keyboard	;keyboard
+1333	 positive	The touch pad is among the best.	 mouse	;touch pad
+1334	 negative positive	The screen is huge and coloful, but no LED backlighting.	 display display	;screen;led backlighting
+1335	 positive negative	The video card is great for media, and above average for gaming, but not a gamers first choice.	 graphics graphics	;video card;gaming
+1336	 negative	The problem I had with this unit was unresolvable.	 laptop	null
+1337	 negative negative	It had a cooling system malfunction after 10 minutes of general use, and would not move past this error.	 laptop laptop	;cooling system;use
+1338	 neutral negative	I acually believe the issue is with the Nvidia grafics card, but still requires a return.	 graphics laptop	;nvidia grafics card
+1339	 negative	Sorry Toshiba, but 1st impressions do count for something.	 laptop	null
+1340	 positive	I got the black MacBook two years ago and have never regretted it.	 laptop	null
+1341	 positive	So this was great for me.	 laptop	null
+1342	 positive positive	It has just enough RAM to run smoothly and enough memory to satisfy my needs.	 laptop memory	;ram;memory
+1343	 positive positive	Plus it is small and reasonably light so I can take it with me to and from work.	 laptop weight	null
+1344	 positive positive	I also travel with it and it never gives me any problems.	 weight laptop	null
+1345	 positive	But I am glad to have gotten mine right before they stopped making it.	 laptop	null
+1346	 positive positive	I look forward to years of use, it has held up well over the years and it fits my needs very well.	 laptop laptop	null
+1347	 positive positive	The difference is the Toshiba had a lot more memory and hard drive space.	 memory harddisk	;memory;hard drive space
+1348	 positive positive neutral	It's super fast and a great value for the price!	 laptop laptop price	;value;price
+1349	 positive	I would definitely recommend checking out this laptop if you are in the market for one.	 laptop	null
+1350	 negative	A MONTH LATER, we reinstall the OS (Vista).	 os	;os vista
+1351	 negative	A coupla months later, they change my hard drive.	 harddisk	;hard drive
+1352	 negative	A month or so ago, the freaking motherboard just died.	 hardware	;motherboard
+1353	 negative	Went silently.	 hardware	null
+1354	 negative	One night I turned the freaking thing off after using it, the next day I turn it on, no GUI, screen all dark, power light steady, hard drive light steady and not flashing as it usually does.	 laptop	;gui;hard drive light
+1355	 negative	THE MOTHERBOARD IS DEAD !	 hardware	;motherboard
+1356	 negative	And I'm still paying the bloody financing, for a product which didn't last me at least three years !	 laptop	null
+1357	 positive	"I initially purchased my Macbook Pro 13"" in April, and I loved it."	 laptop	null
+1358	 negative	I was so happy with my new Mac.	 laptop	null
+1359	 negative	Then the hard drive failed;	 harddisk	;hard drive
+1360	 negative	my information was all lost (my fault, I know, but I never thought I would need to back up my information on a brand new Mac, the paragon of all computers!	 laptop	;paragon
+1361	 negative	So, after Apple replaced the hard drive I enjoyed another 4 months of my new computer, until it froze this morning--completely.	 laptop	;hard drive
+1362	 negative	I can't even turn it off.	 laptop	null
+1363	 negative	It's catatonic.	 laptop	null
+1364	 negative	"Even if Apple replaces whatever needs replacing I wonder if, since I seem to be doubling the amount of time I get out of it each time it's ""like new,"" I might have 8 months next time."	 laptop	null
+1365	 negative negative	I would rate this computer at 5 stars, but considering it has a short life span I can only give it 1 and implore anyone looking at laptops to stay away from this machine.	 laptop laptop	;life span
+1366	 positive positive positive	Great battery, speed, display.	 battery laptop display	;battery;speed;display
+1367	 positive	It WORKS!	 laptop	;works
+1368	 positive positive	My house is now 100% Macbook.	 laptop laptop	null
+1369	 positive positive	"The Macbook starts fast, doesn't crash, has a fantastic display, is small and light (I have the 13.3"" model), and isn't always complaining about updates, lost connections, errors, blue screens, etc."	 display laptop	;display;connections
+1370	 positive	THIS is what a laptop is supposed to be.	 laptop	null
+1371	 negative negative	I thought the price was great for the specs.	 price laptop	;price;specs
+1372	 negative	But after using it a couple of weeks, the overall operation is poor.	 laptop	;operation
+1373	 negative	I hate the display screen and I have done everything I could do the change it.	 display	;display screen
+1374	 negative	The keyboard is too slick.	 keyboard	;keyboard
+1375	 negative	I really don't like it, but I am stuck.	 laptop	null
+1376	 negative	Dell Latitude d620 is not a reliable machine.	 laptop	;latitude d620
+1377	 negative negative	The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.	 battery battery	;battery;charge;charge
+1378	 negative	Later it held zero charge and its replacement worked for less than three months.	 battery	;charge
+1379	 negative	The machine is slow to boot up and occasionally crashes completely.	 laptop	;boot up
+1380	 negative	VERY disappointing:	 laptop	null
+1381	 negative	I was not aware that this product cannot display websites that contain Flash.	 laptop	null
+1382	 negative	Web access through the 3G network is so slow, it's very frustrating and VERY DISAPPOINTING.	 laptop	;web access;3g network
+1383	 negative	After purchasing this thing, I find out that I need a special interface device to connect my camera, and that it cannot be purchased at the store - only on line.	 laptop	;interface device
+1384	 positive	HP Pavilion DV9000 Notebook PC      When I first got this computer, it really rocked.	 laptop	null
+1385	 negative	But as time went on I found it almost impossible to keep the thing on-line through wi-fi.	 laptop	;wi fi
+1386	 negative negative	Eventually the screen went blank and the computer would not turn on.	 display laptop	;screen
+1387	 negative	Guess I'll stay away from HP.	 laptop	null
+1388	 positive	My MacBook is probably the best investment I have ever made.	 laptop	null
+1389	 positive	I have had it for almost four years now and I have only had a few problems with it.	 laptop	null
+1390	 negative	The most recent being that my Safari internet browser is freaking out on me, but I have just been using firefox instead.	 software	;safari internet browser;firefox
+1391	 positive	I love this computer.	 laptop	null
+1392	 positive positive positive	Its small enough where I can take it pretty much anywhere, but still has a big enough screen to get everything done.	 display laptop weight	;screen
+1393	 negative	The only thing that I don't like about my mac is that sometimes there are programs that I want to be able to run and I am not able to.	 software	;programs
+1394	 negative	Games being the main issue.	 software	;games
+1395	 negative	It drives me crazy when I want to download a game or something of that nature and I can't play it because its not compatable with the software.	 software	;game;software
+1396	 positive	Other than that I don't have one complaint in the world!	 laptop	null
+1397	 negative negative	This computer periodically crashes (Office, IPhoto, Safari).	 laptop software	;office;safari
+1398	 negative negative	It takes a long time to get on the Web and to change Web Sites.	 laptop laptop	;web;web sites
+1399	 negative	Locks up she searching for updates.	 laptop	null
+1400	 negative	It seems that this computer might be a lemon.	 laptop	null
+1401	 positive	I purchased my Macbook Pro Retina from my school since I had a student discount, but I would gladly purchase it from Amazon for full price again if I had too.	 laptop	;price
+1402	 positive positive positive positive	The Retina is great, its amazingly fast when it boots up because of the SSD storage and the clarity of the screen is amazing as well.	 laptop laptop harddisk display	;ssd storage;clarity;screen
+1403	 negative negative	But if you buy this i would highly recommend that you buy a case and screen protector for this machine as they are known to be quite fragile.	 laptop display	;case;screen protector
+1404	 positive	Count me as extremely satisfied, it's a perfect computer.	 laptop	null
+1405	 positive	I just bought this computer from the Apple Store, and I couldn't be more impressed with it.	 laptop	null
+1406	 positive positive	It has a stunning retina display, and is very fast.	 display laptop	null
+1407	 positive	This computer is good for anything, and it has really superseded my high expectations.	 laptop	null
+1408	 positive positive positive	Also, the sound quality from the speakers is crystal clear, and everything is just sleek and smooth.	 laptop laptop laptop	;sound quality;speakers
+1409	 positive	The HD display is sensational, and now watching any movie is a very enjoyable experience for me.	 display	;hd display
+1410	 positive positive	No hardware issues, as is common with any Apple product.	 hardware laptop	;hardware;apple product
+1411	 positive	Great product, and couldn't be happier with it.	 laptop	;product
+1412	 positive	awesome laptop, i love it	 laptop	null
+1413	 positive	I love my new ThinkPad!	 laptop	null
+1414	 positive positive positive	It gives me everything I need from a computer and with the long lasting battery, it also gives me mobility.	 laptop battery weight	;battery;mobility
+1415	 positive	I can use it anywhere.	 weight	null
+1416	 positive	It was a great purchase.	 laptop	null
+1417	 positive	All the sturdy and substantial feel you expect from a Thinkpad.	 laptop	null
+1418	 neutral positive	Average performance on almost every benchmark but priced accordingly.	 laptop price	;performance;priced
+1419	 negative	Below average on the w-fi adapter which I'm still trying to get to the bottom of.	 laptop	;w fi adapter
+1420	 positive	Great laptop.	 laptop	null
+1421	 positive	Fast.	 laptop	null
+1422	 positive	Works very well.	 laptop	;works
+1423	 positive	Would purchase again.	 laptop	null
+1424	 positive neutral	A good value for the money.	 laptop price	;value
+1425	 positive	Quite pleased with it.	 laptop	null
+1426	 positive	Fast enough for my purposes.	 laptop	null
+1427	 positive positive	No bloatware from third party parasites to uninstall.	 software laptop	;bloatware
+1428	 positive positive	Excellent keyboard and crisp screen.	 keyboard display	;keyboard;screen
+1429	 negative positive positive	Battery could be better but it has robust processor and plenty of RAM so that is a trade off I suppose.	 battery hardware memory	;battery;processor;ram
+1430	 positive	I'm glad to have it and it showed up in only a few days.	 laptop	null
+1431	 neutral neutral	The laptop itself is very good, it could be better, but not bad at all for it's price point.	 laptop price	;price
+1432	 positive	It does everything I need.	 laptop	null
+1433	 positive	The big deal with this was Windows 7.	 os	;windows 7
+1434	 positive	When I saw this I grabbed it.	 laptop	null
+1435	 positive	It has met all my needs.	 laptop	null
+1436	 positive	Just what I expected.	 laptop	null
+1437	 positive	I don't have any complains about this computer	 laptop	null
+1438	 positive positive	Outstanding laptop and very well built.	 laptop laptop	;built
+1439	 positive	The retina display is fantastic.	 display	;retina display
+1440	 positive	One of the best thing i have bought in years.	 laptop	null
+1441	 positive positive positive	Great PC, light and powerful.	 laptop laptop laptop	null
+1442	 positive	Is just amazing.=)	 laptop	null
+1443	 negative	The glare of the glossy-retina display is unbearable.	 display	null
+1444	 negative negative	Do not buy a mac until this issue is resolved.	 laptop laptop	null
+1445	 positive	Performs as advertised, if not better!	 laptop	null
+1446	 positive	Super light weight (I never cared either way about weight until now).	 laptop	;weight;weight
+1447	 positive	Feels like solid state.	 laptop	null
+1448	 positive	WONDERFUL machine;	 laptop	null
+1449	 positive	glad I bought it.	 laptop	null
+1450	 neutral neutral	Tiny, forgivable drawback - no ethernet cable outlet.	 laptop laptop	;ethernet cable outlet
+1451	 neutral	But that's not a deal-breaker.	 laptop	null
+1452	 positive	SUPER LAPTOP!!	 laptop	null
+1453	 positive	Will probably get another one for my wife!	 laptop	null
+1454	 negative positive	a bit ugly,but works good	 laptop laptop	null
+1455	 positive	I like the design rather sleek and light.	 laptop	;design;light
+1456	 neutral positive	I will give advise any prospective buyers this is not great laptop, Its good for web browsing and word processing	 laptop laptop	;web browsing;word processing
+1457	 positive neutral negative	Fantastic for the price - just wish it the keys were illuminated.	 laptop price keyboard	;price;keys
+1458	 negative	If your on a budget.... Save up longer.	 laptop	null
+1459	 negative	This laptop isn't worth a single cent.	 laptop	null
+1460	 negative	I couldn't even install linux on it.	 laptop	;install;linux
+1461	 negative	Windows runs very poorly.	 os	;windows
+1462	 negative	Just save your money and get something better.	 laptop	null
+1463	 positive positive	awesome price for a laptop that lasts more than 8 hours without recharging!	 price battery	;price
+1464	 positive	awesome!	 laptop	null
+1465	 negative	This laptop is a complete cheap junk.	 laptop	null
+1466	 negative	By just looking at it you will realize it's crap.	 laptop	null
+1467	 negative negative	It's not what you pay for.	 laptop price	null
+1468	 negative	The case is made from cheap plastic.	 laptop	;case
+1469	 negative	In the description it said there is Bluetooth but no there isn't.	 laptop	;bluetooth
+1470	 negative	I'm warning you, You're wasting your money on this	 laptop	null
+1471	 positive	Love the computer.	 laptop	null
+1472	 negative	Hate Windows 8.1!	 os	;windows 8
+1473	 negative	It dosn't even have a disc compartment	 laptop	;disc compartment
+1474	 negative	Had to return the computer.	 laptop	null
+1475	 negative	Keeps freezing	 laptop	null
+1476	 negative	No ethernet outlet	 laptop	;ethernet
+1477	 negative	Disc drive will not open or function	 hardware	;disc drive;function
+1478	 negative	Odd - unusual Dell Commands	 laptop	null
+1479	 negative	Would have exchanged instantly - but had to use as if for College immediately.	 laptop	null
+1480	 negative	Unimpressed.	 laptop	null
+1481	 positive	Terrific laptop.	 laptop	null
+1482	 positive	Works beautifully.	 laptop	;works
+1483	 positive	great price.	 price	;price
+1484	 positive	just what we needed for our daughter to do her on line math class	 laptop	null
+1485	 positive	This is a great home computer.	 laptop	null
+1486	 positive	It is very, very quiet.	 laptop	null
+1487	 positive negative	The only reason I didn't give it a 5 star is, I feel I have to reach so far to type on the key board.	 laptop keyboard	;key board
+1488	 negative	You also have to press firmly on the keys.	 keyboard	;keys
+1489	 positive positive	Otherwise this is a great computer great prices.	 laptop price	;prices
+1490	 positive	Was easy to set up and has been easy to learn to use it.	 laptop	;set up
+1491	 positive	Works good and is fast enough for me.	 laptop	null
+1492	 positive positive	Good product for a good price.	 laptop price	;price
+1493	 negative	It was too cheaply constructed.	 laptop	;constructed
+1494	 negative	It also gave me an introduction to Windows 8, which I hope will be discontinued it the future.	 os	;windows 8
+1495	 negative negative	The Computer Is Horrible Its To Slow.	 laptop laptop	null
+1496	 negative	The Thing That You Insert CDs Into Won't Open.	 hardware	null
+1497	 negative	not a good computer at all.	 laptop	null
+1498	 negative	We returned two days later.	 laptop	null
+1499	 positive	They were excellent to handle our return and post our refund back into our account the next day.	 service	null
+1500	 positive positive	Great price and computer!	 price laptop	;price
+1501	 positive	They loved it.	 laptop	null
+1502	 positive positive positive	It's easy to operate and it's very light (my parents are almost 60 yo, they can't carry a heavy computer while traveling).	 laptop laptop weight	;operate
+1503	 negative	But here's something I hadn't realized before buying it: there isn't an optical drive, which means NO CDs or DVDs!	 laptop	;optical drive
+1504	 negative	This product was DOA.	 laptop	null
+1505	 negative	Fired up and worked for the first day and then the display died on my wife while she was taking a timed test.	 display	;display
+1506	 negative	Would not recommend.	 laptop	null
+1507	 positive	Pretty good laptop.	 laptop	null
+1508	 positive	Good for basic stuff.	 laptop	null
+1509	 negative	Don't try to use to play any pc games or anything.	 laptop	null
+1510	 neutral	Just for simple web browsing and media streaming.	 laptop	;web browsing;media streaming
+1511	 positive positive	Pretty premium feel for the low price.	 laptop price	;price
+1512	 negative	I have so much trouble turning the computer on.	 laptop	null
+1513	 negative	It comes on for seconds then shuts itself off.	 laptop	null
+1514	 negative	My mistake was to not research this one, no DVD and no place to insert my ad card to download pictures.	 laptop	;dvd;ad card;pictures
+1515	 negative	I should have waited to find a higher quality computer.	 laptop	null
+1516	 positive positive positive	i'm very happy,this laptop is beatifull, is'nt slow at all.	 laptop laptop laptop	null
+1517	 negative negative	but it doesn't have a cd unit, anyway the other thing is that the laptop does not have an ethernet port for cable connecting.	 laptop laptop	;cd unit;ethernet port
+1518	 negative	just wifi....	 laptop	;wifi
+1519	 positive positive	the screen is big, and everything was as described	 display laptop	;screen
+1520	 positive	For everyday use, you can't really go wrong with this laptop.	 laptop	null
+1521	 positive	If, like me, you will be paying bills, occasionally reading the news, or just buying stuff on line, Then this is a winner.	 laptop	null
+1522	 negative	If you are a gamer or need it for heavy computer use, get something else.	 laptop	;use
+1523	 positive positive	It's a good starter computer that is extremely light on the wallet.	 laptop price	null
+1524	 positive	Like i said, Good for basic stuff and as a starter.	 laptop	;starter
+1525	 neutral	Still getting use to Window 8.	 os	;use;window 8
+1526	 neutral	Has a built in camera which i do not use.	 laptop	null
+1527	 neutral	Sturdy but only for typical wear and tear.	 laptop	;wear

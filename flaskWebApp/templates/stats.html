@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bulk Reviews Statistics</title>
+
+<link  href="{{ url_for('static', filename='css/bootstrap.min.css') }}"  rel="stylesheet">
+<link href="{{ url_for('static', filename='css/datepicker3.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/styles.css') }}"  rel="stylesheet">
+<link href="{{ url_for('static', filename='css/bootstrap-table.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+<!--Icons-->
+<script  src="{{ url_for('static', filename='js/lumino.glyphs.js') }}"></script>
+
+<!--[if lt IE 9]>
+<script src="js/html5shiv.js"></script>
+<script src="js/respond.min.js"></script>
+<![endif]-->
+
+</head>
+
+<body>
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#sidebar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#"><span>ABSA</span>Toolkit</a>
+				
+			</div>
+							
+		</div><!-- /.container-fluid -->
+	</nav>
+		
+	<div id="sidebar-collapse" class="col-sm-3 col-lg-2 sidebar">
+		
+		<ul class="nav menu">
+			<li><a href="{{ url_for('index') }}"><svg class="glyph stroked dashboard-dial"><use xlink:href="#stroked-dashboard-dial"></use></svg> Review Analyser</a></li>
+      <li class="active"><a href="{{ url_for('restaurant_statistics') }}"><svg class="glyph stroked calendar"><use xlink:href="#stroked-calendar"></use></svg> Statistics</a></li>
+		</ul>
+
+	</div><!--/.sidebar-->
+		
+	<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">			
+	
+		
+		<div class="row">
+			<div class="col-lg-12">
+				<h1 class="page-header">Aspect-Based Sentiment Analysis</h1>
+      <form  action="{{ url_for('upload_file') }}" method="post" enctype = "multipart/form-data">
+                <div class="form-group">
+									<label>File input</label>
+									<input type="file" name = "file">
+								</div>
+                
+                <button type="submit" class="btn btn-primary"> Submit </button>
+      </form>
+			</div>
+      <br/>    
+      <span>Execution time  : {{time_exe}}</span>
+		</div><!--/.row-->
+		
+    {% if res == "yes" %}
+    
+    
+    <div class="row">
+			<div class="col-lg-12">
+				<div class="panel panel-default">
+					<div class="panel-heading">Aspect Category wise Distribution of Sentiments</div>
+					<div class="panel-body">
+						<div class="canvas-wrapper">
+							<canvas class="main-chart" id="chart" height="200" width="600"></canvas>
+               <div id="legend"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!--/.row-->	
+    
+    <div class="row">
+			<div class="col-lg-12">
+				<div class="panel panel-default">
+					<div class="panel-heading">Aspect terms</div>
+					<div class="panel-body">
+						<div class="canvas-wrapper" id="wcloud">
+							
+              
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!--/.row-->	
+    
+     
+    <div class="row">
+              <div class="col-lg-12">
+                  <div class="panel panel-default">
+                    <div class="panel-heading">Aspect Terms wise Sentiments</div>
+                    <div class="panel-body">
+                    <table class="table table-hover table-bordered">
+                          <thead>
+                          <thead>
+                              <tr>
+                                <th>Aspect Terms</th>
+                                <th>Positive Sentiment Counts</th>
+                                <th>Neutral Sentiment Counts</th>
+                                <th>Negative Sentiment Counts</th>
+                              </tr>
+
+                          </thead>
+                      <tbody>
+                      {% for index,post in aspect_pol.iterrows() %}
+                      {% if  post['sentiment.positive'] >= post['sentiment.negative'] and  post['sentiment.positive'] >= post['sentiment.neutral']%}
+        
+                          <tr class="success">
+                            <td>{{ post['aspect term'] }}</td>
+                            <td>{{ post['sentiment.positive'] }}</td>
+                            <td> {{ post['sentiment.neutral'] }}</td>
+                            <td> {{ post['sentiment.negative'] }}</td>
+                          </tr>
+                      {% endif %}    
+                         {% if  post['sentiment.negative'] > post['sentiment.positive'] and  post['sentiment.negative'] >= post['sentiment.neutral']%}
+        
+                          <tr class="danger">
+                           <td>{{ post['aspect term'] }}</td>
+                            <td>{{ post['sentiment.positive'] }}</td>
+                            <td> {{ post['sentiment.neutral'] }}</td>
+                            <td> {{ post['sentiment.negative'] }}</td>
+                          </tr>    
+                       {% endif %}
+                         {% if  post['sentiment.neutral'] > post['sentiment.positive'] and  post['sentiment.neutral'] > post['sentiment.negative']%}
+        
+                          <tr class="info">
+                           <td>{{ post['aspect term'] }}</td>
+                            <td>{{ post['sentiment.positive'] }}</td>
+                            <td> {{ post['sentiment.neutral'] }}</td>
+                            <td> {{ post['sentiment.negative'] }}</td>
+                          </tr>
+                       {% endif %}
+                      {% else %}
+                      </tr>
+                      <tr><td colspan="4"></td>
+                      {% endfor %}
+                      </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+                </div>
+              </div>
+     
+    {% endif %}
+    
+    
+   </div>
+
+	<script src="{{ url_for('static', filename='js/jquery-1.11.1.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/chart.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/easypiechart.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/easypiechart-data.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/bootstrap-datepicker.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/d3.v3.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/d3.layout.cloud.js') }}"></script>
+  <script>
+		var color = d3.scale.category20();
+          
+		!function ($) {
+		    $(document).on("click","ul.nav li.parent > a > span.icon", function(){          
+		        $(this).find('em:first').toggleClass("glyphicon-minus");      
+		    }); 
+		    $(".sidebar span.icon").find('em:first').addClass("glyphicon-plus");
+		}(window.jQuery);
+
+		$(window).on('resize', function () {
+		  if ($(window).width() > 768) $('#sidebar-collapse').collapse('show')
+		})
+		$(window).on('resize', function () {
+		  if ($(window).width() <= 767) $('#sidebar-collapse').collapse('hide')
+		})
+
+
+      
+   {% if res == "yes" %}
+   // bar chart data
+   var barData = {
+   labels : [{% for item in category['category'] %}
+                  "{{item}}",
+              {% endfor %}],
+   
+   datasets : [
+      {
+        label : 'positive',
+        fillColor: "rgba(217,239,150,0.8)",
+        strokeColor: "rgba(217,239,150,1)",
+        pointColor: "rgba(217,239,150,1)",
+        data : [{% for item in category['sentiment.positive'] %}
+                      {{item}},
+                    {% endfor %}]
+      },
+       {
+        label : 'negative',
+        fillColor: "rgba(255,170,170,0.8)",
+        strokeColor: "rgba(255,170,170,1)",
+        pointColor: "rgba(255,170,170,1)",
+        data : [{% for item in category['sentiment.negative'] %}
+                      {{item}},
+                    {% endfor %}]
+      },
+       {
+        label : 'neutral',
+        fillColor: "rgba(151,187,205,0.2)",
+        strokeColor: "rgba(151,187,205,1)",
+        pointColor: "rgba(151,187,205,1)",
+        data : [{% for item in category['sentiment.neutral'] %}
+                      {{item}},
+                    {% endfor %}]
+      }
+      
+      ]
+   }
+ 
+   // get bar chart canvas
+   var mychart = document.getElementById("chart").getContext("2d");
+ 
+   // draw bar chart
+   var bar = new Chart(mychart).Bar(barData, {
+       responsive : true,
+       
+   });
+   
+   var legendHolder = document.createElement('div');
+    legendHolder.innerHTML = bar.generateLegend();
+
+    document.getElementById('legend').appendChild(legendHolder.firstChild);	
+
+   {% endif %}
+   
+   {% if res == "yes" %}
+    var frequency_list = [];
+    {% for index,key in aspect_pol.iterrows() %}
+        {% if  key['sentiment.positive'] >= key['sentiment.negative'] and  key['sentiment.positive'] >= key['sentiment.neutral']%}
+                frequency_list.push({text: '{{key['aspect term']}}', size:  20 + {{key['count']}} * 10,sentiment :"positive" })
+        {% endif %}
+
+        {% if  key['sentiment.negative'] > key['sentiment.positive'] and key['sentiment.negative'] >= key['sentiment.neutral']%}
+                frequency_list.push({text: '{{key['aspect term']}}', size:  20 + {{key['count']}} * 10,sentiment :"negative" })
+        {% endif %}
+        
+        {% if  key['sentiment.neutral'] > key['sentiment.positive'] and key['sentiment.neutral'] > key['sentiment.negative']%}
+                frequency_list.push({text: '{{key['aspect term']}}', size:  20 + {{key['count']}} * 10,sentiment :"neutral" })
+        {% endif %}
+    {% endfor %}
+            
+    //var color = d3.scale.linear()
+    //        .domain([0,1,2,3,4,5,6,10,15,20,100])
+   //         .range(["#ddd", "#ccc", "#bbb", "#aaa", "#999", "#888", "#777", "#666", "#555", "#444", "#333", "#222"]);
+
+    d3.layout.cloud().size([800, 300])
+            .words(frequency_list)
+            .rotate(0)
+            .fontSize(function(d) { return d.size; })
+            .on("end", draw)
+            .start();
+
+    function draw(words) {
+        d3.select("div#wcloud").append("svg")
+                .attr("width", 850)
+                .attr("height", 350)
+                .attr("class", "wordcloud")
+                .append("g")
+                // without the transform, words words would get cutoff to the left and top, they would
+                // appear outside of the SVG area
+                .attr("transform", "translate(320,200)")
+                .selectAll("text")
+                .data(words)
+                .enter().append("text")
+                .style("font-size", function(d) { return d.size + "px"; })
+                .style("fill", function(d, i) { 
+                 /* if(d.sentiment == "positive"){
+                      return "#2ca02c"
+                  }
+                  
+                  else if(d.sentiment == "negative"){
+                      return "#e20f0f"
+                  }
+                  
+                  else{
+                    return "#9edae5"
+                  }*/
+
+                  return color(i); 
+                    
+                })
+                .attr("transform", function(d) {
+                    return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+                })
+                .text(function(d) { return d.text; });
+    }
+    {% endif %}
+	</script>	   
+	
+</html>

@@ -1,0 +1,376 @@
+	polarity	text	category	aspect term
+0	 positive	Well, my first apple computer and I am impressed.	 laptop	null
+1	 positive	Works well, fast and no reboots.	 laptop	;works
+2	 positive positive	Glad I did so far.	 laptop laptop	null
+3	 negative	s.... L .... o..... w....  rea......llllyy  slow.	 laptop	null
+4	 negative	like seriously  - really slow.	 laptop	null
+5	 negative	impossible to use.	 laptop	;use
+6	 negative	cant even read properly.	 laptop	null
+7	 negative	plus - no russian input ??  wtf	 laptop	null
+8	 positive	What a great laptop, I can run my games and work really fast.	 laptop	;games
+9	 positive positive	Really light you can carry with you everywhere.	 laptop weight	null
+10	 positive	Great battery life.	 battery	;battery life
+11	 positive	Everything at a very great price.	 price	;price
+12	 positive	I completely recommend it.	 laptop	null
+13	 positive positive	Excellent value and a must buy for someone looking for a Macbook.	 price laptop	;value
+14	 positive positive	You can't get any better than this price and it come with an internal disk drive.	 price laptop	;price;internal disk drive
+15	 positive	Plus you get 500GB which is also a great feature.	 harddisk	;feature
+16	 positive	Also, the resale value on this will keep.	 laptop	;resale value
+17	 positive	I highly recommend you get one before they are gone.	 laptop	null
+18	 positive positive	Got this on black friday with a very good discount and couldn't be happier.	 price laptop	;discount
+19	 positive	The screen is great, I don't see the need for a retina display.	 display	;screen
+20	 positive	I also really like the addition of the SD Card slot.	 laptop	;sd card slot
+21	 positive	This Macbook Pro is AMAZING!	 laptop	null
+22	 positive	If you are afraid of it not having a disc player please don't be.	 laptop	;disc player
+23	 positive positive	I love the new high retina display, and because this computer lacks a disc player it makes it significantly lighter.	 display laptop	;disc player
+24	 positive	Overall, this is a fast, light, practical computer and I highly recommend it.	 laptop	;light
+25	 positive	I bought my Macbook Pro in October of 2012 and 2 years later it still works as flawless as ever!	 laptop	null
+26	 positive negative	I've never had any problems with the computer itself (The Macbook charger chords are another story, though).	 laptop hardware	null
+27	 positive	I tried not to jump on the Apple bandwagon, but... you're just living in denial if you don't.	 laptop	null
+28	 positive	Happy buying!	 laptop	null
+29	 positive	Bought this laptop from best buy in January 2015.. still loving it.	 laptop	null
+30	 positive	I can use it as a tablet,as a laptop, as whatever I want to!	 laptop	null
+31	 positive	I play Sims 4 and 3 on it all the time, with very little issues.	 laptop	null
+32	 positive	The thing wakes up super fast and is always ready to go.	 laptop	null
+33	 positive positive	Music/videos sound great and look great.	 laptop display	;sound;look
+34	 positive	I use it everyday.	 laptop	null
+35	 positive	My favorite computer I've ever had!	 laptop	null
+36	 positive	This computer overall is great!	 laptop	null
+37	 positive	it runs fast!	 laptop	;runs
+38	 positive	ships fast!	 laptop	null
+39	 negative	etc. but the company and seller lied to you and try to make an extra buck!	 laptop	null
+40	 positive	I bought this pc to play games and stream movies! it could handle all of that but my friend wanted me to put some music on a cd!	 laptop	;games
+41	 negative	I could see the disk drive on the side but it didn't seem to have a button on it?	 hardware	;disk drive
+42	 negative	A DISK DRIVE WITH BUTTONS ON IT!!!!!!	 hardware	;disk drive;buttons
+43	 negative	And he said&quot; this computer does not have a disk drive and I was furious!	 laptop	;disk drive
+44	 negative	So beware buyer, this computer has a useless piece of plastic on it.	 laptop	null
+45	 negative	Thank you asus.(they don't deserve to be capitalized)	 laptop	null
+46	 positive	Great computer.	 laptop	null
+47	 positive positive	Very great Apple product as expected.	 laptop laptop	;apple product
+48	 positive	Good battery life.	 battery	;battery life
+49	 positive	Great color on screen.	 display	;color;screen
+50	 positive	Good speakers from laptop computer.	 laptop	;speakers
+51	 positive	My new laptop is great.	 laptop	null
+52	 positive positive	It has so much more speed and the screen is very sharp.	 laptop display	;speed;screen
+53	 positive	I have to admit that the operating system is different and does take time to learn but I like it.	 os	;operating system
+54	 positive	I would recommend it to anyone.	 laptop	null
+55	 positive	This laptop is fine for those applications and basic websurfing.	 laptop	;applications;websurfing
+56	 neutral negative	The speakers are fairly basic, so this is probably not the computer to buy if your main aim is streaming music or watching movies.	 laptop laptop	;speakers;streaming
+57	 negative	The touchpad is a little &quot;clunky&quot; for my taste; I use a small external mouse with laptops  in any event.	 mouse	;touchpad;external mouse
+58	 positive positive	I appreciate the relatively large keyboard (with number pad) and screen size.	 keyboard display	;keyboard;pad;screen size
+59	 negative	I also found the track pad irritating until I disabled &quot;pinch zoom.&quot;	 mouse	;track pad;zoom quot
+60	 positive	This is larger laptop, but is not too heavy.	 laptop	null
+61	 positive	Battery life is great - though it is new.	 battery	;battery life
+62	 positive neutral	Overall, a solid laptop for its price.	 laptop price	;price
+63	 positive	However, a few things are immediately occurring to me  I had read the other reviews here on amazon, but decided the specs and appearance looked good enough to go ahead.	 laptop	;specs
+64	 neutral positive positive	Well, my first impressions are that its OK, it certainly boots up quickly (thanks SSD!), and from the limited use so far (no games) its fast enough in normal usage.	 laptop laptop harddisk	;boots up;ssd;use;games;usage
+65	 positive negative	It certainly looks nice, but that nice dark blue top is a fingerprint magnet as others have pointed out.	 laptop laptop	null
+66	 negative negative	Also I have found the touch pad to be awkward to use (could be I am pressing too hard perhaps), and the screen is    well   underwhelming.	 mouse display	;touch pad;use;screen
+67	 negative	To be honest I am a little disappointed and considering returning it.	 laptop	null
+68	 negative	This is a horrible laptop.	 laptop	null
+69	 negative negative	Within a day of usage, it already slowed down significantly, virus entered the system right away.	 laptop laptop	;usage;system
+70	 negative	It's heavy.	 laptop	null
+71	 negative	I regretted immediately.	 laptop	null
+72	 negative	Nothing like the description says.	 laptop	null
+73	 negative negative	My Apple mac book pro has crashed three times, since I purchased it.	 laptop laptop	null
+74	 negative	Each time, Apple can only uninstall to original factory settings for me to start over.	 service	null
+75	 negative	I believe this MacBook Pro was a lemon right out the gate.	 laptop	;gate
+76	 positive	This computer is like...  I'm lost for words.	 laptop	null
+77	 positive	This is the best switch I have ever done.	 laptop	null
+78	 positive positive	This has much more memory and ram memory.	 memory harddisk	;memory;ram memory
+79	 positive	Even the battery life is like WOW!	 battery	;battery life
+80	 positive	I love, LOVE, LOOOOVE!	 laptop	null
+81	 positive	I can say that I am fully satisfied with the performance that the computer has supplied.	 laptop	;performance
+82	 positive positive positive	It contains a long battery life, incredible specs, and an overall enjoyable performance.	 battery laptop laptop	;battery life;specs;performance
+83	 positive	Upgrading from a toshiba laptop, I am fully impressed with all of the benefits that the mac operating system provides.	 os	;operating system
+84	 positive positive	The snappy processor allows for me to quickly upload photos and videos, as well as create movies for me and my colleagues to enjoy.	 hardware laptop	;processor;photos
+85	 positive	In upgrading to this computer I can say I have found little to any flaws in the product, hence the 5 star review.	 laptop	null
+86	 positive	Love this computer.	 laptop	null
+87	 positive	It has done everything and more that I expected.	 laptop	null
+88	 positive	I am sure it will be able to do all I need it to do in the future as well.	 laptop	null
+89	 positive positive	The screen looks great in my opinion the sound is nice.	 display laptop	;screen;sound
+90	 positive	So far I have no complaints and dont expect many complaints in the future.	 laptop	null
+91	 negative	This did give some set trouble and i had to call tech support.	 laptop	;tech support
+92	 positive	They were great.	 service	null
+93	 positive	its been easy breezy since then.	 laptop	null
+94	 positive positive	how could you not love a Mac	 laptop laptop	null
+95	 positive	so far so good, i have not encountered any issues with this computer.	 laptop	null
+96	 positive positive	love the flip feature and the touch screen feature.	 laptop display	;flip feature;touch screen feature
+97	 neutral positive	for the price that i paid i feel that i got good value.	 price laptop	;price;value
+98	 negative	this laptop is not the lightest you can purchase, so if that is important to you maybe you should shop some more.	 laptop	null
+99	 positive positive	To a prospective buyer,  08/10/2012  Once you go Mac, you'll never go back.	 laptop laptop	null
+100	 positive	Was the best decision we ever made.	 laptop	null
+101	 positive positive	It runs just as fast as the day we got it with no problems!	 laptop laptop	;runs
+102	 positive positive	We don't have to de-frag, delete cookies, run security programs, or any of the common PC problems that have to be delt with in order to keep you running and up to speed.	 laptop laptop	;security programs;speed
+103	 positive	You can't get a virus on Mac, so in the long run the cost of the Mac is saved by not buying security, and not having to replace your computer every year or two.	 laptop	;cost;security
+104	 positive positive	Never had any issues, no frustrations just great easy wireless, all in one fun!	 laptop laptop	null
+105	 positive	It's great.	 laptop	null
+106	 positive positive	because it is a touch screen you don't even need a mouse.	 display laptop	;touch screen;mouse
+107	 positive	You will probably never use it in tablet mode but it's nice to know you have that option.	 laptop	null
+108	 positive	If you draw on the other hand i'm sure you will love using this in tablet mode.	 laptop	null
+109	 positive positive positive	Lastly, because it can flip 360 you can comfortably lay down in bed and have the keyboard facing down as you watch a show closer without having to adjust your sitting position for the keyboard.	 laptop laptop keyboard	;keyboard;keyboard
+110	 positive	This computer is great.	 laptop	null
+111	 neutral neutral	I have a 250 GB SSD and 10 GB of RAM in it, which I installed myself.	 harddisk memory	;gb ssd;gb of ram
+112	 positive	It runs faster than it did when I got it.	 laptop	;runs
+113	 positive	I enjoy the simplicity and user-friendly interface of Yosemite.	 os	;simplicity;user;interface
+114	 positive	I'm excited for El Capitan.	 os	null
+115	 positive	The apps are very easy to use.	 software	;apps;use
+116	 positive	The resolution is excellent.	 display	;resolution
+117	 positive	I am very satisfied with EVERYTHING about this machine.	 laptop	null
+118	 positive neutral	Like so many others who do this there is a learning curve and I'm excited to do it.	 laptop laptop	null
+119	 positive	This MBP is clean, neat, and simple.	 laptop	null
+120	 positive	I like that.	 laptop	null
+121	 positive	It takes less time to power up, and if you just close the case it go into sleep mode.	 laptop	;power;case
+122	 positive	WHen you open it wakes up almost immediately.	 laptop	null
+123	 positive	Very nice.	 laptop	null
+124	 positive	I am pleased with my decision, however I have only had this for a few weeks.	 laptop	null
+125	 negative	There are a few things I am dissappointed with though.	 laptop	null
+126	 negative	Only 2 USB ports.	 laptop	;usb ports
+127	 negative	No HDMI port.	 laptop	;hdmi port
+128	 neutral	The headphones jack is a combo jack for the headphones and microphone.	 laptop	;headphones jack;combo jack;headphones;microphone
+129	 neutral negative	Not a big deal for me, but if you Skype a lot or are gaming a regular headphone set with a separate jack for the headphone sound and microphone input will not work on a Mac.	 laptop laptop	;headphone sound;microphone input
+130	 positive	As a student majoring computer science, I really fell in love with this laptop.	 laptop	null
+131	 neutral	It's 15.6 inches, which for me is not too big nor too small.	 laptop	null
+132	 positive positive positive positive	It has the latest i7 CPU with a GTX 950M for GPU, which makes this laptop blazing fast (boots up in under 5 seconds, with the help of the SSD of course).	 hardware graphics laptop harddisk	;i7 cpu;gpu;boots up;ssd
+133	 positive	- It has 256GB SSD which is just enough for my OS, games, documents, and anything in between.	 harddisk	;256gb ssd;os games
+134	 positive	It also has an extra bay for an extra HDD if you wish to add one.	 laptop	;bay;hdd
+135	 positive	- It's not touchscreen!	 display	;touchscreen
+136	 positive positive negative	- Its keyboard is nicely arranged, silent, and back-lit which is nice, but what I don't like about it is the material attracts oil from your fingers.	 keyboard keyboard keyboard	;keyboard;material
+137	 negative	I have to clean it regularly for it to stay looking good.	 keyboard	null
+138	 positive positive positive	- This laptop is so silent, its fans only kick in when the laptop is under heavy load, thanks to the 5th generation Intel core which draws less power,  thus less heat.	 laptop laptop hardware	;fans;load;intel core;power
+139	 positive	- It can run games really well.	 laptop	;games
+140	 neutral	Well, not really well.	 laptop	null
+141	 neutral	MOBAs like Dota 2 and SMITE can be run on max quality settings with 60 fps or more.	 display	;dota 2;settings;fps
+142	 neutral	Medium settings on titles like Tomb Raider for it to be acceptable (60 fps is the minimum acceptable fps #pcmasterrace).	 display	;tomb raider;fps;fps
+143	 positive positive	- It's lightweight and easy to carry around.	 laptop weight	;carry
+144	 positive	- The screen is a matte 1080p display, which is nice, but with poor viewing angle.	 display	;screen;viewing angle
+145	 negative	I find myself adjusting it regularly.	 display	null
+146	 positive	- It looks sleek and gorgeous.	 laptop	;looks
+147	 positive	Blends in with any accessory you use with it.	 laptop	null
+148	 positive	All in all I am very happy with this purchase.	 laptop	null
+149	 positive positive	And with this price, I don't think you can buy anything better.	 price laptop	;price
+150	 positive	All I can say is I am impressed.	 laptop	null
+151	 positive positive	Very quick to get it up and running with a minimum setup time right after you open the box.	 laptop laptop	null
+152	 positive	It's worth it.	 laptop	null
+153	 positive	Pay me now, Pay me later.........I am happy with my choice going with this laptop.	 laptop	null
+154	 negative	I was disappointed.	 laptop	null
+155	 negative negative	It seemed like a great computer and a great deal.	 laptop price	null
+156	 negative negative	The first one arrived and it did not work.	 laptop laptop	null
+157	 negative	The space bar sticks.	 keyboard	;space bar sticks
+158	 negative	I find it hard to navigate from screen to screen.	 laptop	;screen;screen
+159	 negative	For a non-computer savvy person, it was very disappointing.	 laptop	null
+160	 positive	I like the 13 inch macbooks.	 laptop	null
+161	 positive positive	Its size is ideal and the weight is acceptable.	 laptop laptop	;size;weight
+162	 positive positive	The new Mac OS Mountain Lion has some nice features as wel as the trackpad.	 os mouse	;mac os mountain lion;features;trackpad
+163	 neutral neutral	I didn't think i would need an optical drive but since i have had it I used it several times.	 hardware laptop	;optical drive
+164	 positive positive	The magnetic lid and charger is cool and battery indicator on the side is cool.	 laptop hardware	;magnetic lid;charger;battery indicator
+165	 positive positive positive	The mac is light and so compact I thought I would regret not buying a retina display, not in the least The mac pro works just fine.	 laptop display laptop	;retina display;works
+166	 positive positive	The OS is easy, and offers all kinds of surprises.	 os os	;os
+167	 positive positive	I've been using Apple's since 1992 and this is the fastest and best one I've  had.	 laptop laptop	null
+168	 positive	This Mac allows all of that.	 laptop	null
+169	 positive	This is very fast, high performance computer.	 laptop	;performance
+170	 positive	This should be more than  enough computer for almost everyone.	 laptop	null
+171	 positive	I would not hesitate recommending  this to anyone.	 laptop	null
+172	 positive	It fast and easy to set up.	 laptop	;set up
+173	 positive positive	I had cloned my data from my old computer using  Carbon Copy Cloner (CCC) and simply moved everything to the new computer  and was off and running at speeds I had only dreamed up before.	 laptop laptop	;carbon copy cloner ccc
+174	 positive	The Mac book pro is a computer for the disorganized, lazy, and eye candy person in all of us.	 laptop	null
+175	 positive	The MacBook pro already understands how to jump through hoops and acts more like a friendly guide.	 laptop	;guide
+176	 positive	If you want to use the Internet, then you can make your icons jump out from the bottom of the screen, like a magnifying glass is projecting onto the selected icon.	 software	;internet;screen
+177	 positive	This computer is amazing for the individual who does not want to do any extra work via their understanding of their laptop.	 laptop	null
+178	 positive negative	I would've given 5 stars, had it not been for the hours of updates I've had to do to this upon arrival.	 laptop laptop	null
+179	 positive	Other than that, I love it.	 laptop	null
+180	 positive positive positive	It's portable, reliable, and great for what I use it for.	 weight laptop laptop	null
+181	 positive	Positives:  - No matter what position, this laptop will stay in it.	 laptop	null
+182	 positive	It's very sturdy.	 laptop	null
+183	 positive	- Quick boot-up, and runs efficiently.	 laptop	;boot up;runs
+184	 positive	- Touchscreen is great.	 display	;touchscreen
+185	 negative	Negatives:  - As aforementioned, my only con was the updates.	 laptop	;updates
+186	 positive	Everything you'd expect from a Mac.	 laptop	null
+187	 positive positive	It looks and feels solid, with a flawless finish.	 laptop laptop	;looks;feels;finish
+188	 positive positive	The screen definition is superb and it fires up super quick and same to close down.	 display laptop	;screen definition
+189	 positive	Only had it a few weeks but doesn't leave my side.	 laptop	null
+190	 positive positive positive	This machine is flawless, fast, and classy.	 laptop laptop laptop	null
+191	 positive	Out of all the laptops I have owned, this is by far the best!	 laptop	null
+192	 positive positive	I'm not sure if it was covered in the description, but it does have a backlit keyboard and I'm getting about an 8 hour battery life on one charge (Except I don't use this for games or videos, which obviously would drain the battery faster).	 keyboard battery	;backlit keyboard;battery life;battery
+193	 positive	It wakes in less than a second when I open the lid.	 laptop	;lid
+194	 positive	The screen has an extremely high resolution that I'm very pleased with.	 display	;screen;resolution
+195	 negative positive	Even though MacBooks are expensive, you will see that they are well worth the money.	 price laptop	null
+196	 positive	You will not regret buying this computer!	 laptop	null
+197	 negative	My daughter's MacBook Air battery bulged deforming the keyboard several days ago.	 battery	;battery;keyboard
+198	 negative	It took 3 days to make an appointment at the local Apple store.	 service	null
+199	 negative negative	I'm not sure what happened next but she came back home crying with a piece of paper in her hand $129 for a new battery, $39 to replace it and $139 for a new keyboard.	 service service	;battery 39;keyboard
+200	 negative	I could not believe they did not consider the battery as defective so I went to the Apple store myself and asked for a manager.	 service	;battery;manager
+201	 negative	He explained to me the battery expansion is 'normal'.	 service	;battery expansion
+202	 negative	Apple doesn't cover battery expansion under any circumstances not even under their Apple Care.	 service	;battery expansion;apple care
+203	 negative	The battery is simply considered 'consumable' and NOT covered.	 service	;battery
+204	 negative	I asked the manager if he feels comfortable with me posting the picture of the MacBook Air on the internet with the description that Apple doesn't consider the product defective.	 service	;manager;picture;product
+205	 negative	His reply astonished me, looking down at me behind his thick glasses he said: 'Make sure you have your facts straight before you smear!	 service	;glasses
+206	 negative	He didn't specify who are 'they' but from the tone of his voice and his 6'5' posture it indicated something between the SWAT team and a bunch of LAWYERS.	 service	;swat team
+207	 negative	Here is my take on all of this, the business model Apple pushes right now is to get some cheap junk from China, hire a bunch of cheerleaders straight out of high school, call them geniuses, and bully everybody who complains about their product.	 laptop	;product
+208	 negative	Steve Jobs is dead, so is Apple.	 laptop	null
+209	 negative	No more Apple devices in my household.	 laptop	null
+210	 negative negative	Please Google 'MacBook battery bulge explode' before you buy your next Apple toy.	 battery laptop	;battery
+211	 positive positive	I've been spoiled by the build quality and stability of Macintosh and even this used computer is a gem.	 laptop laptop	;build quality;stability
+212	 positive	I can bat around all the things that everyone else says, but it's been what we've been using for decades and I have nothing bad to say.	 laptop	null
+213	 positive positive positive	It churns out HD content, runs without many flaws and I've yet to get a virus on a Mac since I started using the platform in the early 1990's.	 display laptop laptop	;hd content;platform
+214	 neutral	My 15&amp;#34; MacBook's motherboard fried but I think that was a sugar spill that I never bothered cleaning up.	 hardware	;motherboard;cleaning up
+215	 positive positive	That's the only issue I've ever had since working on Macs in 1995.	 laptop laptop	null
+216	 positive	That's a pretty impressive track record don't you think?	 laptop	;track record
+217	 positive	However, the HP Envy has definitely met all of my expectations and more.	 laptop	null
+218	 positive	I have been thoroughly impressed with my purchase thus far and do not regret purchasing it at all.	 laptop	null
+219	 negative positive	While the price may seem high, it is worth every penny with its many perks.	 price laptop	;price;perks
+220	 positive positive	The Pros:  A Ton of Storage Space- This laptop comes with 8GB of memory and a 1 TB (1000GB) hard drive.	 memory harddisk	;pros;storage space;8gb of memory;1 tb 1000gb hard drive
+221	 positive	That is plenty of space for your laptop, which really comes in handy for college students and computer gamers.	 harddisk	null
+222	 positive positive	2-in-1 Capability- The ease of switching this laptop into a tablet is a huge plus.	 laptop laptop	;capability;ease
+223	 positive	If you are looking to get a 2-in-1 laptop, this is the laptop you should consider.	 laptop	null
+224	 positive	I love the flexibility of being able to fold it over like a tent and watch movies, without having the keyboard in the way of things.	 laptop	;flexibility;keyboard
+225	 positive positive	I find it much easier to type on and much more durable.	 keyboard keyboard	null
+226	 positive	Battery Life- My battery life is really good with this laptop and I have had no problems with it thus far.	 battery	;battery life;battery life
+227	 positive	I can usually go about 10 hours before I get down to 10% battery life.	 battery	;battery life
+228	 negative	The Cons:  No Disc Drive- Call me old fashioned, but I still enjoy listening to physical CDs and uploading them to iTunes.	 laptop	;disc drive;listening;itunes
+229	 negative	However, I can no longer do this because this laptop does not contain a disc drive.	 laptop	;disc drive
+230	 positive	Overall, I definitely would recommend this product to any college student that is in the market for a new laptop.	 laptop	null
+231	 positive positive positive	The touchscreen and 2-in-1 capability is a huge bonus and it is really easy to carry around to your classes.	 display laptop weight	;touchscreen;capability;carry
+232	 positive	It also is nice to be able to play Candy Crush or Angry Birds when in between classes straight from your laptop.	 laptop	null
+233	 positive	It makes it much more exciting to play!	 laptop	null
+234	 positive	I'm actually writing this review on my new MacBook and I love it!	 laptop	null
+235	 positive	The computer it self is amazing.	 laptop	null
+236	 neutral positive	It is an older model, so know that upfront, but it is everything I was looking for.	 laptop laptop	null
+237	 positive	From the moment I received this MacBook it was like a dream come true.	 laptop	null
+238	 neutral	I know once I upgrade the ram to 8GB it will pick up a lot.	 memory	;ram
+239	 positive	Also, if after reading some reviews and doing some research I found out that this laptop is easily upgradable and easy to work on which is another big plus.	 laptop	null
+240	 positive	So long story short, if you want an oldie but a goodie this is your laptop.	 laptop	null
+241	 neutral	I know people were complaining that it isn't the newest model, but it all depends on what you are looking for.	 laptop	null
+242	 positive	I highly recommend!!	 laptop	null
+243	 positive	This computer is a fantastic tool for word processing, searching the internet, and keeping track of everyday life.	 laptop	;word processing;internet
+244	 positive positive	It's also incredibly light, has a battery that can last for days, and looks like a piece of art.	 laptop battery	;light;battery
+245	 neutral positive	Though, that's pretty much what your paying for -- a well designed device.	 price laptop	;designed device
+246	 negative	When you look at the internal specs, the computer is only worth about $500.	 laptop	;internal specs
+247	 negative negative negative	It has a 128 GB storage capacity (but with the option of a 256 GB hard drive) and a 1.6GHz dual-core Intel Core i5, so don't expect to be gaming on this computer and make sure you pick up an external hard drive too.	 harddisk hardware laptop	;gb storage capacity;gb hard drive;core intel core i5;gaming;external hard drive
+248	 negative	If your looking to be a trendy hipster who can't live without a Mac, it's a great buy.	 laptop	null
+249	 positive	It mixes a great balance between the spec that are needed and what you don't need.	 laptop	;spec
+250	 positive	Pros :  1. Nice Looks.	 laptop	;looks
+251	 positive	2. Keyboard is great	 keyboard	;keyboard
+252	 positive	I wanted a simple Full HD display and this one does its job	 display	;hd display
+253	 positive	4. Sound is great	 laptop	;sound
+254	 positive	5. And this has a extra slot for HDD	 laptop	;slot;hdd
+255	 positive	6. No CD drive.	 laptop	;cd drive
+256	 negative	Cons:  1. Web cam.	 laptop	;web cam
+257	 negative	VGA really ASUS??	 laptop	;vga
+258	 negative	You don't want to show this to anyone :).	 laptop	null
+259	 neutral	Anyway I don't use webcam much so , I don't care	 laptop	;use;webcam
+260	 negative	2. Viewing angles are not great.	 display	;viewing angles
+261	 negative	3. Remember its a dual core.	 hardware	null
+262	 negative	4. The fan kicks in even its not too hot.	 laptop	;fan
+263	 negative	5. I found the track pad not great.	 mouse	;track pad
+264	 neutral	I use my mouse so not a problem for me.	 mouse	;mouse
+265	 positive	Over all very good system and worth it.	 laptop	;system
+266	 positive	This was the ONLY tablet-style computer so far which met my requirements.	 laptop	null
+267	 positive	I was seduced by this computer, so I took it home.	 laptop	null
+268	 negative negative	The wireless keyboard (not bluetooth, but RF) did not pair up with the device.	 keyboard laptop	;wireless keyboard
+269	 negative negative	It still did not pair.	 keyboard laptop	null
+270	 negative negative	I even ran it as Administrator -- still no effect.	 keyboard laptop	null
+271	 negative negative	I used the Ctrl-Esc keys while turning on, and still nothing.	 keyboard laptop	;ctrl esc keys
+272	 negative	It flickers briefly to green before the light goes out.	 keyboard	;light
+273	 negative negative	I still can't pair it.	 keyboard laptop	null
+274	 negative	I don't want to carry around a bluetooth keyboard for a computer whose keyboard is nonfunctional.	 keyboard	;bluetooth keyboard;keyboard
+275	 negative	Sony can eat the cost from the seller on this one while I get my money back for a DEFECTIVE product.	 laptop	;cost
+276	 negative	But Sony doesn't seem to have addressed it.	 laptop	null
+277	 positive	My first Mac computer and as many before me I just fall in love with it.	 laptop	null
+278	 neutral neutral	Changed the memory from 4 GB to 8 GB Corsair Vengeance and 500 GB HDD (5400 rpm) with Seagate hybride 750 GB HDD+SSD.	 harddisk memory	;memory;8 gb corsair vengeance;gb hdd 5400 rpm;seagate hybride 750 gb hdd ssd
+279	 positive positive positive	Machine is flying and with parallels desktop 8 I have my old PC notebook completely functional on my MBP.	 laptop software laptop	;parallels
+280	 positive	Way to go and enjoy both worlds.	 laptop	null
+281	 positive	This ASUS you're looking at right here, and that I'm typing on right now, has one.	 laptop	null
+282	 positive positive	-  With that being said, for the price ($800!), you get a nice fast laptop, but if you ask me, it's missing some things that I feel should be automatically included:	 price laptop	;price
+283	 negative negative	This laptop has no:  - Touchscreen  - Optical Drives (OK, a bit of a stretch, because that would eat up precious space in this monster)  - Swivel or detachable screen	 display laptop	;touchscreen optical drives;detachable screen
+284	 negative negative negative	What this laptop does have is:  - Windows 8, which is confusing as all get-out  - Tons of &amp;#34;bloatware&amp;#34;.	 laptop os software	;windows 8;bloatware amp
+285	 positive negative negative	This is really nice, but I HATE the awkward right mouse clicking.. sometimes it works, sometimes it doesn't.. may be the laptop, may be the laptop in conjunction with Windows 8? 	 laptop mouse mouse	;mouse clicking;windows 8
+286	 negative	Either way, highly annoying.	 mouse	null
+287	 positive	I hooked up a USB mouse and all is well.	 laptop	;usb mouse
+288	 positive neutral	All works beautifully but Windows 8 is taking a bit of getting used to.	 laptop os	;works;windows 8
+289	 positive positive neutral	Love the 360 degree rotation and the touch screen works great, but a little bit of a learning curve there too, as sometimes I have to tap a few times to get the exact location I need...	 laptop display display	;touch screen
+290	 positive negative	overall it is just my learning a few things than any downfall with the laptop (the mouse was the only negative I could really see)...	 laptop mouse	;mouse
+291	 positive	This is a fantastic transformer!	 laptop	null
+292	 positive positive	I loved playing with it and the touchscreen was great for the windows 8 platform.	 laptop display	;touchscreen;windows 8 platform
+293	 negative negative	The only reason I returned it was because I bought it to use the touchscreen with photoshop and because of the program, it could not utilize the touchscreen within the work space except to zoom and rotate.	 software display	;touchscreen;photoshop;program;touchscreen;space;zoom
+294	 positive negative	I would have kept it but that was the sole reason for my purchase.	 laptop laptop	null
+295	 positive positive	It's a great product and would recommend to anyone looking for a transformer or large touchscreen.	 laptop display	;product;touchscreen
+296	 positive	I'm looking forward to needing a laptop update so I can purchase this computer again.	 laptop	null
+297	 positive positive	I've only had this for a week Overall I like the computer, it's thin &amp; light and The wireless keyboard works great.	 laptop keyboard	;amp light;wireless keyboard
+298	 positive	I was impressed; Sony puts in small touches like a USB charging port on the charger.	 laptop	;usb charging port;charger
+299	 negative negative	One thing I did't like is the stylus holder, it's cheap plastic and doesn't seem to be well thought out because it gets installed on the cover for the USB port.	 hardware laptop	;stylus holder;plastic;usb port
+300	 negative	I do't use it, I think I would accidently break it and loose my stylus.	 hardware	null
+301	 negative	The other Issue I had was the amount of time it takes to update the operating system and all the software when you get it.	 laptop	;operating system;software
+302	 positive	Awesome laptop for college!!!	 laptop	null
+303	 positive	Can be used for gaming as well.	 laptop	;gaming
+304	 positive positive positive	It's light, fast and has great battery!!	 laptop laptop battery	;battery
+305	 positive positive positive	It's a steal when considering the specs and performance as well.	 price laptop laptop	;specs;performance
+306	 positive positive	The processor and GPU are fantastic at running games and multiple apps.	 hardware graphics	;processor;gpu;apps
+307	 positive positive	I can run most games to a good quality without seeing any lack of speed.	 laptop laptop	;quality;speed
+308	 positive	The backlit keyboard is a nice touch especially.	 keyboard	;backlit keyboard
+309	 negative	Make sure to only handle this computer with clean hands because the front cover can get oily pretty fast.	 laptop	;front cover
+310	 positive	I'm overall very pleased with my new laptop!!!	 laptop	null
+311	 negative	The only downside are the speakers.	 laptop	;speakers
+312	 negative	They don't go very loud at all.	 laptop	null
+313	 positive negative	The quality of the sound is nice but the lack of volume really kills it for me.	 laptop laptop	;quality;sound;volume
+314	 negative	This is mostly not an issue since I mainly use earbuds anyways however it could be annoying at times.	 laptop	;earbuds
+315	 positive	The screen looked fine to me and wasn't an issue like others have been saying.	 display	;screen
+316	 positive	Overall great for me!!!	 laptop	null
+317	 positive	This laptop has delivered.	 laptop	null
+318	 positive	I immediately did the Windows 10 upgrade and haven't had any issues.	 laptop	;windows 10
+319	 positive positive	The wireless adapter is strong and the SSD is fast.	 laptop harddisk	;wireless adapter;ssd
+320	 positive	This thing boots in just a few seconds which is nice.	 laptop	null
+321	 neutral	Others have mentioned issues with viewing angle on the screen, but I never use the laptop where I'm not looking straight at it so it doesn't bother me.	 display	;viewing angle;screen
+322	 positive	I'm very pleased with the purchase.	 laptop	null
+323	 positive	Boot time is super fast, around anywhere from 35 seconds to 1 minute.	 laptop	;boot time
+324	 positive positive	Apps launch super fast, and the 500GB HDD is more than sufficient.	 software harddisk	;apps;launch;500gb hdd
+325	 positive positive	I usually use my Mac for school work and internet browsing, so the entry-level 13' MacBook Pro is already more than what I expected from a computer I would typically use it for.	 laptop laptop	;work;internet browsing
+326	 positive	Macs hardly ever get viruses, and they are completely incompatible with existing Microsoft Windows Viruses.	 laptop	;microsoft windows viruses
+327	 positive positive	Furthermore, Mac OS X Mountain Lion's Gate keeper prevents the user from downloading malware and trojans, which keep your data safe and your computer running at optimum speed.	 os laptop	;os x mountain lion;gate;speed
+328	 positive positive	The keys on the keyboard are evenly spaced and are back-lit, which make it easy to use at night and for speed writing (Typing?).	 keyboard keyboard	;keys;keyboard;use;speed
+329	 positive	Overall, the screen resolution, though non-retina, is sufficient for normal web browsing and work.	 display	;screen resolution;web browsing;work
+330	 positive	The thunderbolt port is awesome!	 hardware	;thunderbolt port
+331	 neutral positive	US 3.0 comes with the MBP and has transfer rates of up to 5gbps.	 laptop hardware	;transfer
+332	 neutral neutral neutral neutral neutral	Other ports include FireWire 800, Gigabit Ethernet, MagSafe port, Microphone jack.	 laptop laptop laptop laptop laptop	;ports;firewire 800 gigabit;microphone jack
+333	 neutral neutral	SDHC card reader and an optical drive for burning and reading discs.	 laptop laptop	;sdhc card reader;optical drive
+334	 positive positive	The glass track pad is large enough for Apple's highly acclaimed multi-touch gestures for scrolling through web pages with two fingers, zooming in on certain parts of certain apps by double tapping with two fingers, accessing launchpad by pinching with five fingers and using mission control by swiping up with four fingers.	 mouse mouse	;glass track pad;scrolling;web;apps
+335	 positive	For Windows users switching to a Mac, you can also enable right clicking (known to apple as secondary click) in the system preferences&gt; Mouse and enabling right clicking.	 mouse	;windows;system;mouse
+336	 positive	The unique to apple aluminium uni-body is a real beauty.	 laptop	;apple aluminium uni body
+337	 positive	It makes the MBP very durable and protects it from scratches, though you shouldn't go launching it against a wall for the sake of trying it.	 laptop	null
+338	 positive	The Mac app store and iTunes store are phenomenal.	 software	;mac app store;itunes
+339	 positive	The Mac app store is your one-stop shop for Mac software, though you can also download software online at your own risk.	 software	;mac app store;mac software;software
+340	 positive	There are currently around 10,000 apps on the App store (and counting...), and billions of songs available for download fro the iTunes store.	 software	;app;itunes store
+341	 positive positive	iTunes is one of the better media players available on the market with it's simple to use User Interface.	 software software	;itunes;use;user interface
+342	 positive	I'm sure you won't regret making this purchase.	 laptop	null
+343	 negative	One of the worst pieces of electronics I have ever bought.	 laptop	null
+344	 negative	Very pour performance.	 laptop	;performance
+345	 negative	It takes for ever to wake it up.	 laptop	null
+346	 negative negative	Sometimes It stops receiving wifi signal, so I have to restart it.	 laptop laptop	;wifi signal
+347	 negative	It is very slow and not responsive.	 laptop	null
+348	 negative	Would not recommend.	 laptop	null
+349	 negative	Glare is also pretty frustrating.	 display	;glare
+350	 negative	There is definitely more to say...	 laptop	null
+351	 positive	I tested it, it worked great.	 laptop	null
+352	 negative negative	He received it, and one day later it DIES.	 laptop laptop	null
+353	 negative	The laptop refuses to start, we have troubleshooted all areas, still fails to start.	 laptop	null
+354	 negative	Cannot even get to bios.	 laptop	null
+355	 negative	Just a click and a BLACK SCREEN.	 laptop	;click
+356	 negative	Of course, it DIES 3 days past the return window.	 laptop	null
+357	 negative negative	We got two days of operation from this laptop.	 laptop laptop	;operation
+358	 positive	When the MacBook Pro arrived, I helped her transfer all of her schoolwork from the PC to the Mac... an easy drag-and-drop process utilizing a flash drive.	 laptop	;drag;flash drive
+359	 positive	It was delivered with 4GB of RAM -- 2GB on each of two sticks -- which was probably adequate.	 memory	;ram 2gb
+360	 positive	So I simply pulled one 2GB stick from the machine and installed the 8GB stick in its place.	 laptop	;8gb stick
+361	 positive neutral	The machine now has 10 gigs of RAM and it works just fine.	 laptop memory	;ram;works
+362	 positive positive	But, hey, it's an Apple.	 laptop laptop	null
+363	 positive positive	I wouldn't expect anything less!	 laptop laptop	null
+364	 negative negative	If it was possible to give them 0 start, I would have done it.	 laptop laptop	null
+365	 negative	My Laptop's one of the Key from keyboard came out and it was mechanical failure.	 keyboard	;key from keyboard
+366	 negative negative	My laptop was under coverage but when I gave it to them for repairs, they quoted me $755 for it.	 service service	;coverage
+367	 negative	this company just wants customers' money in their pocket.	 laptop	null
+368	 negative	they dont care how you feel when they charge you hundreds of hard earned dollars.	 laptop	null
+369	 negative	I wish this company to go bust.	 laptop	null
+370	 negative	I will never ever buy any apple product in my life.	 laptop	null
+371	 positive	Overall I love it.	 laptop	null
+372	 negative	First, when I move the screen to put it in tablet position, the hinge doesn't seem totally solid.	 laptop	;screen;hinge
+373	 neutral	I feel like I need to be really gentle with it, but maybe that's just me.	 laptop	null
+374	 negative	Also, and this maybe is another personal quirk, but the keyboard sits a little far back for my taste so my watch scrapes against the edge of the laptop.	 keyboard	;keyboard
