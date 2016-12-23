@@ -57,8 +57,29 @@ Follow instructions written below:
   for restaurant domain application
 
 Once the models are trained, you will see summary as shown below
+![Summary](https://github.com/zarmeen92/ABSA-Toolkit/blob/master/absa-snapshots/Capture6.PNG)
+
 
 After training phase is complete you are ready to use web application
+
+## Production Phase for Aspect-Based Sentiment Analysis
+**python absaweb.py -vectors -lexicon**
+
+Use the same vector file and lexicon file as used in training phase
+For example,
+
+** python absaweb.py vectors_yelp_200.txt lexicons/Yelp-restaurant-reviews-AFFLEX-NEGLEX-unigrams.txt**
+This will start Flash Application accessible at 127.0.0.1:9000 on your browser
+### Snapshots 
+
+![Summary](https://github.com/zarmeen92/ABSA-Toolkit/blob/master/absa-snapshots/Capture7.PNG)
+![Summary](https://github.com/zarmeen92/ABSA-Toolkit/blob/master/absa-snapshots/Capture8.PNG)
+![Summary](https://github.com/zarmeen92/ABSA-Toolkit/blob/master/absa-snapshots/Capture9.PNG)
+![Summary](https://github.com/zarmeen92/ABSA-Toolkit/blob/master/absa-snapshots/Capture10.PNG)
+
+
+
+
 
 
 
