@@ -1,0 +1,742 @@
+aspect term	category	polarity	text
+;location	 location	 positive	The location was excellent, 5min cab journey to Las Ramblas, which was approx 6-7 euros.
+;hotel	 hotel	 neutral	hotel was fine with some exceptions
+;null	 rooms	 negative	The water pressure was horrible and the jets did not work.
+;location;monoprix grocery;drugstore;opera garnier;department stores;champs elysees	 location location location location location location	 positive positive positive positive positive positive	Location is convenient - Monoprix grocery/ drugstore is nearby, it's a 15-20 minute walk to Opera Garnier and the department stores, 20-30 minute walk to the Champs Elysees.
+;bellman	 service	 negative	3) There are no bellman so you do have to move your own luggage.
+;countryside inn	 building	 positive	The hotel was so homey and comfortable it was indeed like being in a French Countryside Inn.
+;null	 building	 positive	Part of the beauty of the Okura is that they *do* renovate it every few years - they just keep it the same way and I kind of like that.
+;hotel	 hotel	 positive	I'd suggest staying at this hotel but requesting a room that faces the main street and/or stay on the top floor.
+;hotel	 hotel	 positive	From the time you walk in the door, this hotel makes you feel welcome.
+;front desk	 checkin	 positive	The front desk help (Timothy, when we were there) was very helpful.
+;bathroom	 rooms	 positive	While the room was a bit small, the bathroom was quite large.
+;stay	 hotel	 negative	Stay Away This was our first stay after leaving
+;breakfast	 food	 positive	Breakfast, although continental was also quite good, particularly coffee which was excellent.
+;jacuzzi tub	 rooms	 negative	My husband and I decided we would spend time in the Jacuzzi tub but, it didn鈥檛 work.
+;smell	 rooms	 negative	When we went in we immediatley noticed the smell.
+;kuhio beach;kapiolani park;honolulu zoo	 location location location	 positive positive positive	It is one short block from Kuhio Beach to the West and a short block from Kapiolani Park and the Honolulu Zoo to the South.
+;null	 rooms	 neutral	Tourist class accomodation but adequate.
+;hotel;null	 building cleanliness	 positive positive	It was a very nice, clean hotel.
+;hotel andra;belltown area	 hotel location	 positive neutral	We were very pleased with the Hotel Andra, which is downtown in the Belltown area.
+;null	 hotel	 negative	Pretentious, pretentious, pretentious...
+;grouting	 cleanliness	 negative	Why cant they clean the grouting??)).
+;hotel lungarno	 hotel	 positive	LOVED the Hotel Lungarno
+;music;shops;food	 location location location	 positive positive positive	Live music, shops food.
+;location	 location	 positive	The location is perfect for shopping and restaurants.
+;null	 checkin	 positive	From the greeting when we arrived to the help with getting to the train station and goodbye's when we left, it was a wonderful experience.
+;food	 food	 positive	I thought the food was good and we enjoyed the open air cafe and the music at night.
+;beaches;food;complex	 building food hotel	 positive positive positive	All in all, the complex is nice, the beaches are wonderful and the food is pretty good.
+;hotel	 hotel	 neutral	handy hotel for metro.
+;staff	 service	 negative	However, while the staff as a whole was great, there was a man on the desk (name forgotten) that was condescending and a bit arrogant.
+;hotel	 hotel	 positive	This hotel beats the pants off them and I will be using them again in April/mayThis Hotel its not a beach resort if it was the sand would be raked hourly men would clean your sunglasses every 15 minutes, fruit cocktails on sticks, cucumbers for the eyes etc.
+;null	 hotel	 positive	Despite this, I would stay at Casablanca again if I was lucky enough to come to New York.
+;resort	 hotel	 positive	We stayed at this resort for 8 days and had a wonderful time.
+;place	 building	 positive	The view and breeze from the ocean makes this place really awesome.
+;costly	 value	 positive	We found most beach front locations to be much more costly.
+;clean;breakfast;rooms	 cleanliness food rooms	 positive positive positive	Rooms were clean and comfortable and breakfast was good with plenty of choice.
+;air	 cleanliness	 negative	We actually had to turn off the air conditioner and leave the door open to get some fresh air.
+;hotel;price	 hotel value	 positive positive	Overall, we were very pleased with the hotel for the price we paid.
+;room	 rooms	 neutral	This time, our room was in an L-shaped configuration.
+;null	 hotel	 positive	An Excellent Return Stay
+;null	 location	 negative	One slight gripe was its distance from the centre was a lot farther than advertised on needahotel.
+;gifts	 hotel	 neutral	I like to buy friends and family gifts and at 20 us dollars a mug, 25 for a t shirt it adds up.Overall I enjoyed it but would not return.
+;bathrooms;plumbing problems	 rooms rooms	 negative negative	The bathrooms are very small and have plumbing problems.
+;clean	 cleanliness	 positive	Other than that, our room was very clean and quiet.
+;resort	 hotel	 negative	The resort is gated, no local people live there, they only come there to work.
+;hotel;street	 hotel location	 positive positive	But the street the hotel is on is a *main* street, constantly busy - so consider this when checking in.All in all, I'd stay here again easily and can recommend it to families with kids, tourists of any age or anyone looking for a place to stay when coming up for an event at the Bowl (which is literally walking distance from the hotel).
+;bed	 rooms	 negative	We were lucky enough not to get the two twin beds pushed together although this was the hardest bed I have slept on.
+;null;comforter;null	 cleanliness rooms service	 negative negative negative	We were too tired to wait so we slept under the comforter that I'm guessing is not launderd after every guest - ick.
+;garbage cans	 cleanliness	 negative	No garbage cans to be seen around the beach.
+;service;reception	 service service	 negative negative	In a country which is well known for it's customer focussed service we were a bit disappointed to be greeted by this attitude.I asked if we could wait with a drink in reception, the answer was no!
+;bottle water	 service	 negative	Most of the time we got no bottle water for cleaning the teeeth or drinking.
+;palapa grill seafood restaurant	 food	 negative	Palapa Grill Seafood Restaurant - Grilled fish overcooked, dry and fishy.
+;disgusting	 cleanliness	 negative	This place was just disgusting.
+;room;beds;bedspreads;sheets;pillows	 rooms rooms rooms rooms rooms	 positive positive positive positive positive	The room had two double beds with lovely bedspreads, nice sheets and great pillows.
+;null	 location	 positive	It was about 7 mins away.
+;guest services	 service	 negative	We reported this incident immediately to guest services at the hotel, but there was no further response from the hotel.
+;mold/mildew;room	 cleanliness rooms	 negative negative	Our number one complaint is that the hotel room smelled of mold/mildew.
+;room	 rooms	 negative	The room itself had a popcorn ceiling and poorly textured walls.
+;null	 hotel	 negative	Total Disappointment...
+;neighborhood	 location	 positive	From what I saw while driving, the neighborhood is very picturesque.
+;check ins;room;staff	 checkin rooms service	 positive positive positive	Both check ins were smooth, staff lovely, room was great.
+;check-in	 checkin	 negative	We were underwhelmed with check-in.
+;room;business	 rooms business	 positive positive	Even with all of that in the room it still didn't feel small to me.This room is perfect for two people coming in to town for a weekend getaway or one person traveling on business.
+;bill	 value	 negative	NOW, today I received my credit card bill and found that this place falsely charged my credit card for a stay!
+;tourist hotel	 hotel	 positive	Good tourist hotel
+;null	 hotel	 positive	They are unfounded.
+;staff;concierge	 service service	 positive positive	The staff was very helpful, concierge was cheerful and patient.
+;clean;hotel;room	 cleanliness hotel rooms	 positive positive positive	Perfect hotel for the active traveler who enjoys a very active day in the island outside of the property and just wants a nice and clean room to rest.
+;internet;room	 hotel rooms	 positive neutral	we moved to another room which was much smaller but okay for the short time we spent in it.Internet access was free with a guest computer in the reception's library area - this was great but if you use please remember that the person who is using may just have logged on before you arrived.
+;null	 hotel	 negative	the resort makes it diffficult to attain and book such reservations.
+;lounge area	 building	 positive	The lounge area overlooking the Arno was a great place to relax at the end of the day and get a few glasses of wine before heading out for dinner.
+;reservations	 food	 positive	We made our reservations each day at 11am for the same evening with no problems.
+;people	 service	 positive	These wonderful people and anyone else whose names I didn't get, made this a wedding and honeymoon we'll never forget.
+;noise	 rooms	 negative	Noise: Constant (until 4AM, front desk unapologietic, room on 3rd floor as if on the dancefloor).
+;null	 hotel	 neutral	Barcelona over the net.
+;activities	 hotel	 neutral	During the day they also have activities you can participate in led by the animation team.
+;fish;smell	 food food	 negative negative	Fish shouldn't smell fishy or like garbage.
+;stain;rug	 cleanliness cleanliness	 negative negative	BIg stain on room rug.
+;null	 hotel	 positive	We were blown away by everything.
+;excellence club	 hotel	 positive	as we had paid for the excellence club we were whisked away on arrival and taken to an air- conditioned room ( which we both welcomed being from Scotland) and were given a glass of bubbly.
+;null;location	 hotel location	 positive positive	Basic, but comfortable, accomodations in a great location
+;breakfast;pool	 food hotel	 positive positive	Breakfast was sufficient for being free and the pool was nice.
+;null	 location	 positive	More historical and cultural sites are within walking distance than we could possibly see in our 5 day stay.
+;renovated	 rooms	 positive	It was newly renovated and very large.
+;null	 hotel	 positive	Who could ask for more?
+;null	 hotel	 negative	I soon discovered things were a bit different.
+;null	 building	 positive	It was maintained very well.
+;null	 rooms	 negative	It was also pretty cold.
+;null	 hotel	 negative	If it wasn鈥檛 so late at night and if I was staying more than one night I would have left.
+;room;doors	 rooms rooms	 negative negative	I was given a room with connecting doors, when i went down and asked for an alternate room without connecting doors, I was told that 90 percent of the hotel had connecting doors.
+;hotel	 location	 negative	The hotel is located in the middle of the hill which makes walking not too easy.
+;room	 rooms	 positive	I had read much about NYC hotel rooms being on the small side but our room at the Millennium Plaza was very spacious.
+;location	 location	 negative	For the location, you are much better off at the Hyatt Regency.
+;bahia principe	 building	 positive	We visited the Bahia Principe next door and were VERY glad we chose the Majestic as their layout is much more preferred.
+;elevator	 building	 negative	2) One elevator of the two was broken during our stay.
+;south beach	 hotel	 neutral	But of course, since it's one of the least expensive hotels in South Beach, it's not exactly a high end experience.
+;nulll;location	 building location	 negative positive	ugly inside, nice outside (nice location) aaaaahh!
+;florence	 hotel	 neutral	My husband and I spent 5 days in Florence and 5 in Rome for our honeymoon and I really belabored over picking some good hotels.
+;6 floors	 building	 neutral	The hotel has maximum 6 floors.
+;check in;check-out;front desk	 checkin checkin service	 positive positive positive	Check in and check-out were smooth and professional and the front desk people were always happy to call a taxi or help with a question.
+;benihanna;golden dragon (chinese);sergios (italian);pizzerias;delis;hot dog stands	 food food food food food food	 positive positive positive positive positive positive	Fine dining Restaurants like Benihanna, Golden Dragon (chinese), Sergios (Italian), as well as Regular eating places like pizzerias, delis, hot dog stands.
+;staff	 service	 positive	The staff was so nice and helpful, they really added to our wonderful week in Seattle.
+;check in;front desk	 checkin checkin	 positive positive	Our check in was done in the room, we never had to stop by the front desk.
+;staff	 service	 positive	The staff was very friendly and always willing to help with any questions.
+;union square area	 hotel	 positive	My colleagues and I stayed all over the Union Square area, and my experience at the Bijou was the most positive of our group who tried the botique hotels.
+;desk staff	 service	 positive	Desk staff was friendly and very helpful at booking tours and providing directions.
+;null	 service	 negative	it was ridiculous.
+;null	 rooms	 positive	My view (20th floor) looked west to north and was pretty nice.
+;employee	 service	 positive	Every single employee treated us as royalty, or better yet as their family.
+;construction	 rooms	 negative	Also, construction on the street starts at about 6:30 AM so forget about sleeping in.
+;noise	 rooms	 negative	Evidently they recently renovated and were unaware that in terms of noise, it was like sharing a room with your flooormate.
+;location;nordstrom;macy's;malls;westlake center;pacific place	 location location location location location location	 positive positive positive positive positive positive	It's also a great location if you love shopping because Nordstrom and Macy's are right up the street as well as 2 big malls, Westlake Center and Pacific Place.
+;null	 location	 positive	Right across from the International Market Place and close to any shop or bus stop or anything you wanted.
+;beach	 hotel	 neutral	We wanted to upgrade so we were closer to the beach.
+;meeting room;air conditioning	 building service	 negative negative	The hotel's air conditioning went out while we were in our meeting, and we were boiling, but they did nothing to accommodate us, or discount the meeting room charge.
+;food	 food	 positive	but when we did eat in the Hotel we found the food and service excellent.
+;staff	 service	 positive	We asked a lot of the staff during the week and they graciously accommodated every request.
+;location	 location	 positive	I must say the location in superb.
+;entertainment	 hotel	 neutral	Otherwise, they have nightly entertainment.
+;located;rooms	 location rooms	 positive neutral	The hotel is well located and the renovated rooms were adequate in terms of size and amenities but I would not rate them 4 star.
+;null	 hotel	 negative	Won't stay here again!
+;null	 hotel	 negative	Would I ever I go back to the Punta Cana, yes, would I ever go back to the Paradisus, definitely not.
+;business trip	 business	 positive	I stay here every business trip to Sydney
+;surroundings;taxi	 hotel value	 negative negative	It will cost you less to get a taxi all the way over to jimbaran beach and eat there rather than stay in the hotel - and the atmosphere will be better too.If you are looking for lovely surroundings and don't care that you are in Bali then this may be the location for you, but we flew halfway around the world to see Bali and couldn't wait to move on to our next hotel in Ubud.
+;located	 location	 positive	The hotel is located about 15-20 minutes from central Hollywood, and is right in the center of Beverly Hills, on Beverwil Drive.
+;service	 service	 positive	Service was very nice, and the beach was awesome!
+;location	 location	 positive	Great Location We stayed for two nights paying about 拢50 per room per night.
+;overbooked	 service	 negative	Basically the hotel had delibearatley overbooked and told us barefaced lies to cover up, knowing there was nothing we could do about it.
+;hotel	 hotel	 positive	I will stay at this hotel everytime I come to New York.
+;null	 rooms	 neutral	So, be sure to tell them in advance if noise bothers you.
+;landscaping	 hotel	 positive	The landscaping was very beautiful and well groomed.
+;null	 value	 positive	0 with breakfast included.
+;parking	 value	 negative	Parking is $21/day which is pretty steep but the only option because parking in Seattle is scarce.
+;ritz-carlton phoenix;null	 building hotel	 positive positive	A few years had past since my last visit to the Ritz-Carlton Phoenix and I was impressed on how fresh and revived the hotel was.
+;hotels	 hotel	 positive	It is truly one of the best hotels in the world.
+;water	 rooms	 negative	Hot water seemed quite a scare commodity, if you washed mid-afternoon you were alright!
+;value	 value	 positive	Good value!
+;entrance	 rooms	 positive	The main entrance to the suite was awe inspiring.
+;value	 value	 negative	Not quite the best value
+;null;bathroom	 cleanliness rooms	 positive neutral	Nothing special, but it was clean, big enough for two and decent private bathroom.
+;doors	 rooms	 negative	The doors are very thin and need some insulation.
+;train station	 location	 positive	It's right down the block from the train station, which is very helpful for lugging your luggage.
+;located	 location	 negative	Located in a so so area of North Phoenix.
+;rooms	 rooms	 positive	Rooms are small, but perfect for what a busy or active traveler needs.
+;null	 location	 positive	There were underground stations five minutes away (Victoria and Pimlico) but the bus was better and not so crowded.
+;resort	 hotel	 positive	Great resort!
+;teh royal sonesta	 hotel	 neutral	We just got back from teh Royal Sonesta.
+;null	 rooms	 neutral	Ah well, we just kept the light closed and laughed it off!
+;accomodations	 hotel	 positive	I would have rated it higher and I'm very picky about hotel accomodations.
+;experience	 hotel	 positive	Our overall experience was excellent, and I would highly recommend this hotel property, with one caution that I will address later in this review.
+;null	 service	 positive	Everyone we encountered was extremely courteous and friendly.
+;restaurant	 food	 positive	We ultimately used our remaining balance at Canoe's Restaurant, and we were not disappointed- EXCELLENT restaurant (ask for an outdoor, tiki-lamp-lit table!).
+;null	 hotel	 negative	First, the line to make reservations was long (wait time ranged from 10-25 mins).
+;room;garden view	 rooms rooms	 negative negative	We are then brought to another room garden view with 2 small beds, not acceptable for $100.
+;null	 service	 positive	He is an amazing source of information.
+;cart	 hotel	 negative	They either need to rewrite the policy on the amount of time a cart can be kept by guests or put DVD players in all rooms.
+;hotel;staff	 hotel service	 positive positive	Excellent hotel, superb staff.
+;front desk staff;property/building	 checkin hotel	 negative neutral	Could be a real gem since it is an older property/building and could get some of it's original character back with some renovating, and better front desk staff.
+;room	 rooms	 positive	The room is small (the width of the room is the length of a kingsized bed), but it is so well laid out, you would hardly notice the size.
+;dinner took 3.5 hours	 service	 negative	One evening, dinner took 3.5 hours after arrival.
+;room	 checkin	 negative	We asked for another room, no answer.
+;shopping places	 location	 positive	Around the hotel are many shopping places.
+;spa;restaurants	 hotel hotel	 positive positive	The Spa was top notch, the restaurants were basically the same as any other resort actually better i.e. Sandals, etc.
+;walking distance;rooms	 location rooms	 positive positive	Rooms were big.Walking distance to many sites.
+;hi express hotel	 hotel	 positive	A good, solid, basic HI Express hotel right in the heart of Hollywood.
+;palladium grand bavaro	 hotel	 neutral	We stayed at the Palladium Grand Bavaro.
+;staff	 service	 negative	The hotel staff was rude and acted like a bunch of premadonas.
+;air;temperature	 rooms rooms	 negative negative	We had to keep the air on high at the lowest temperature to make it comfortable.
+;breakfast;rooms	 food rooms	 negative negative	Breakfast wasn't to good, and the rooms could do with some updating.
+;null	 hotel	 positive	Great massage!
+;clean;null;staff	 cleanliness location service	 positive positive positive	Positives: very clean, incredible beach, ample bars and watering holes all around the campus, excellent athletic facilities, and again cannot overemphasize the friendly staff.
+;null	 hotel	 negative	I start?
+;null	 service	 positive	Thank's to him I was able to enjoy my stay.
+;concergie service	 service	 positive	We had no trouble getting anywhere we wanted to go because of the exceptional concergie service.
+;room	 cleanliness	 positive	It was clean and tidy and as there was a thermostat in the room, the temperature was just right.
+;location	 location	 positive	The location of this hotel was good, the subway station was not too far away.
+;null	 service	 negative	We called downstairs and they replied Sorry.
+;wine	 food	 negative	Wine a touch expensive, but other stuff - beer (拢1.
+;casino bar	 building	 negative	(other then the casino bar a bit smokey for non smokers)
+;business services;currency exchange	 business business	 positive positive	They also have business services and currency exchange and a Starbucks on the ground floor areas.
+;room;null	 rooms service	 positive positive	We were celebrating our 1st yr anniversary and the hotel upgraded our room to a King Premiere and gave us a complimentary bottle of champagne.
+;location	 location	 positive	Great location when we eventually found it!!
+;pool	 hotel	 negative	Yes the pool is small but the last thing i want to do at a hotel is sit around a pool with a lot of people.
+;breakfast;waikiki parc	 food food	 negative negative	There are a lot of breakfast options in Waikiki and unfortunately Waikiki Parc doesn't really stand up.
+;null	 building	 negative	I like a nice glass of wine in the evening and would like a bit of AC with it.
+;food	 food	 positive	The food was simple but really good.
+;null	 service	 negative	We were never mistreated... we just often weren't treated at all.
+;picpus	 hotel	 neutral	Parking at the park house Picpus recommended (10min walk away from hotel).
+;located	 location	 positive	After I saw where the Crowne Plaza and Marriott was located, I was glad I won the Red Leeow bid, since we like being in the center of touristy things and this was it.
+;reception;check-in;staff	 checkin checkin checkin	 negative negative negative	Not a very warm reception upon check-in by the staff.
+;roomservices;staff	 service service	 positive positive	Roomservices and questions are dealt with quickly by the friendly staff.
+;bathroom	 cleanliness	 positive	Bathroom updated nice.
+;null	 hotel	 positive	NY again!
+;null	 hotel	 negative	The NewPort Beachside Resort had put a charge hold on my debit card.
+;budget	 value	 positive	I would recommend to others traveling on a budget.
+;hotel;location;price	 hotel location value	 negative positive positive	Im not saying this isnt a good hotel for the price and location, but I would look around before I would stay here again.
+;null	 hotel	 negative	We were not in Paradise
+;rooftop bar	 food	 positive	The rooftop bar (small) but nice outlet after a long day.
+;null	 value	 positive	We payed 84,-鈧?
+;location	 location	 positive	Also the location of the hotel is perfect.
+;hotel	 hotel	 positive	great hotel 14 of us stayed here for a hen weekend our stay was almost faultless.
+;null	 hotel	 positive	Great for the younger 30 something crowd.
+;null;reservation department	 rooms service	 neutral positive	Rene Wildeman replied immediately and the reservations department got back to me letting me know they would try to put us together, and then offered us an upgrade for $31 per night per room.
+;a/c;maids	 rooms service	 positive positive	a/c worked exceedingly well and the maids were fantastic.
+;null	 checkin	 positive	We arrived at noon and were in our room at 1.
+;car	 service	 negative	In the past they washed the car before they returned it to you.
+;null	 hotel	 negative	A Bit of a Disappointment
+;shower	 rooms	 neutral	The showers were actually very small although there was excellent pressure from the showerhead.
+;location	 location	 positive	The location was great.
+;regular room	 rooms	 neutral	We accepted it, and was glad we did since I saw a regular room later on and it was tiny.
+;breakfast	 value	 positive	Our rate included breakfast (2 people).
+;null	 hotel	 positive	Certainly coming again.
+;scuba diving	 hotel	 negative	The main issue we had was that scuba diving was not available all week.
+;null	 hotel	 negative	There were no Do Not Disturb signs.
+;station;church	 location location	 positive positive	Singel for 2 nights for a football trip, the place is easy to find, in a good location, near the station,on the Singel canal, next to a church.
+;null	 hotel	 negative	Won't stay here again
+;hotel	 hotel	 positive	Loved it! An absolute gem of a hotel!
+;brazilian	 food	 positive	Brazilian - I would recommend this.
+;airport	 location	 positive	Even getting to and from the airport was a breeze.
+;null	 hotel	 positive	Great!!!
+;restaurant;null;service	 food location service	 positive positive positive	The resort was right on the beach lots of palm Trees very tropical, we always had good service at the restaurants; the best and most friendly restaurant was the Mexican.
+;queen elizabeth	 hotel	 positive	You are treated as though you woke up that morning as Queen Elizabeth.
+;service	 service	 negative	We tipped everywhere, but still received poor service.
+;null	 hotel	 positive	It was fantastic.
+;staff	 service	 positive	Efficient and friendly staff.
+;room	 rooms	 negative	Another note about the room - the street noise is pretty loud at times; I woke to the sounds of bottles being dumped into a bin from the lounge across the street and the ambulance/police sirens a few times as the windows are single-paned and don't keep out sound very well.
+;dallas	 hotel	 positive	This is one of the nicest hotels in the Dallas/Ft.
+;waiting	 service	 negative	Again, we seated ourselves after waiting--WITH A RESERVATION for the main restaurant every night we ate there.
+;shuttle bus	 service	 negative	There is no free shuttle bus to Luquillo Beach which is about 10 minutes from the resort and simply mediocre nightlife inside the resort and not much too do in the municipality or province of Rio Grande where the resort is located (you have no choice but to pay a taxi $140 to enjoy San Juan's exciting nightlife ).
+;reports	 value	 positive	Reading some of the recent reports makes me wonder what people expect for around $100 bucks a night??
+;null	 service	 positive	Everyone we encountered during our four day stay was attentive, friendly, welcoming, and extremely professional.
+;westjet vacations	 value	 neutral	We booked through WestJet vacations and paid $1169 per person (taxes in) for the trip.
+;resort	 hotel	 negative	For the next 5 days the resort had a series of rolling blackouts which they would announce with a note under your door everyday.
+;null	 hotel	 positive	The best resort experience we have ever had.What we really liked...1.
+;vacation	 hotel	 positive	Good vacation....
+;beds	 rooms	 positive	The beds were extremely comfortable (new).
+;erception desk;room	 checkin service	 negative negative	I was waiting 10 min at the erception desk for the guy to figure out whether there was a clean room available or not.
+;service;room	 service rooms	 negative negative	(Bad next):Service (except the two mentioned) terrible- no sense of urgency, slow response times, etc.Room was TINY (we had to upgrade).
+;robes;cd player;dvd player	 rooms rooms rooms	 positive positive positive	Has very nice robes in room, CD player and DVD player.
+;location	 location	 positive	Location was good for walking.
+;located	 location	 positive	Tha hotel is well located from Esperanza, the beach and the restaurants.
+;null	 hotel	 neutral	I was at the Iberostar Bavaro with friends and family.
+;null	 hotel	 positive	Fantastic, Fabulous, just perfect
+;clean;room	 cleanliness rooms	 positive positive	The room was very clean and nicely decorated.
+;clean;rooms	 cleanliness rooms	 positive positive	The rooms are big and the hotel its self is clean.
+;null	 value	 negative	I otherwise probably would not have been able to stay there for four nights (it isn't cheap), but with work paying for it, I got to splurge a little.
+;service	 service	 positive	Great service My wife and 3 year old spent three days and two nights at the hotel in June.
+;weather;landscaping;beach	 hotel hotel hotel	 positive positive positive	The weather, the tropical landscaping, and best of all the beach, rank above the others for a winter getaway.
+;la rambla	 location	 positive	Would advise taking a stroll in the opposite direction to La Rambla and exploring the area were you will stumble across the most wonderful bars and restaurants at much better value.
+;null	 rooms	 positive	The windows were dressed with acres more white muslin and luxuriously draped curtains.
+;hotel	 hotel	 positive	just an amazing hotel just an amazing hotel.
+;clean;null;staff	 cleanliness hotel service	 positive positive positive	It is with quiet nice, courteous staff, and clean rooms.
+;null	 hotel	 positive	and enjoyed every day.
+;null;null;room;bathroom	 cleanliness hotel rooms rooms	 negative negative negative negative	This place is terrible, we arrived after a flight from Gatwick, UK we wanted to book in, get a coffee and a meal, bed and ready for the cruise the following day, we were told our room number by a chap that wanted to be elswhere, the room was on the 1st floor, we had 2 heavy pieces of luggage and the lift was out of order, we got to the room which had a strong musty smell, the bathroom was small but clean, the wash basin is not in the bathroom but in the main room ?
+;rooms;beds;staff	 rooms rooms service	 positive positive positive	Rooms are standard, beds are new, staff in helpful.
+;san gallo palace	 hotel	 positive	Have fun and stay at the San Gallo Palace.
+;null	 hotel	 positive	You'd never have to leave if you so chose.
+;clean;null	 cleanliness service	 positive positive	Hotel extremely clean and everything extremely well manicured.
+;location	 location	 positive	We walked just about everywhere.
+;null	 hotel	 negative	They acussed me and some friends of taking something from the minibar - they acussed us of lying.
+;luggage	 service	 negative	Oh yes my husband also loaded oour luggage.
+;null	 hotel	 neutral	get to the pool early to reserve a spot!
+;ac or moist bedding	 rooms	 neutral	We did not have any problems with AC or moist bedding that some people have complained about.
+;oils;salt	 food food	 negative negative	I found at all places they tend to cook with ALOT of oils and salt.
+;rooms	 rooms	 positive	The rooms are okay.
+;guests	 hotel	 negative	Refuse to notify guests!
+;null	 hotel	 positive	It certainly wouldn't keep us from staying there again.
+;null	 hotel	 positive	Have recently returned from a four night stay in the lenox a great experience.
+;transportation	 service	 positive	There was 6 of us and he had no problem arranging transportation for our ride there.
+;null	 hotel	 positive	Im going back there this year and will definately stay there again.
+;clean;beds;decorating	 cleanliness rooms rooms	 positive positive positive	Really comfy beds, great decorating, and super super clean.
+;tower room	 rooms	 neutral	Anyway, having upgraded to the tower room with two queen beds, we had absolutely no complaints.
+;lobby;room	 building rooms	 positive negative	The lobby is beautiful....we checked in and once in our room realized it was cold.
+;service	 service	 negative	Poor Service --
+;null	 hotel	 negative	This was the third time I have stayed at this property, but this will be my last time.
+;new yorkers food	 food	 negative	We choose to to eat out for three quarters of the time on the basis of cost and also to experience New Yorkers food 鈥?
+;service;front desk attendant;housekeeper;mini-bar refiller;bartenders;waiters/waitresses;managers;porters;security personnel;towel attendants	 service service service service service service service service service service	 positive positive positive positive positive positive positive positive positive positive	The service, whether being given by the front desk attendant, housekeeper, mini-bar refiller, bartenders, waiters/waitresses, managers, porters, security personnel, or towel attendants, is exceptional.
+;grilled foods	 food	 positive	We liked the grilled foods the best- chicken, lobster, steak and the chips and salsa.
+;hotel	 hotel	 positive	Lots to recommend this hotel The
+;null	 service	 negative	So, if you ever have a bad experience at this hotel and they promise you something, you better get it in writing because Joanna Turmo will not come to the phone.
+;western tourists	 hotel	 negative	Nice but not for western tourists.
+;breakfast	 food	 positive	breakfast fantastic, as everyone has said before, and ate drank around the pool most days - certainly no complaints, and given the decent GBP/USD rate no complaints re prices.
+;bathtop curtain;bathroom	 rooms rooms	 negative negative	Bathtop curtain was to short and the bathroom was allways flooded after taking a shower.
+;null	 value	 positive	According to the Pan Pacific's rates, the cheapest room in the place is $340 per night, but we found a great all-inclusive deal that averaged out to about $100 per night.
+;null	 location	 positive	The hotel is well positioned for MRT and all modes of transport and the taxis certainly are cheap.
+;tin roof	 rooms	 negative	A few minor down sides were tin roof (we had 3rd floor room and heavy rains were LOUD), roosters making noise quite often (yes, even in middle of night), and rental charges for everything (bikes, towels, chairs, etc.)
+;price	 value	 positive	quite adequate for the price
+;desk clerk;room	 checkin rooms	 positive negative	The desk clerk was equally friendly and I was on my way to my room (482) in a minute or two.Upon entry, I was surprised at how small the room was.
+;union square;staff	 location service	 positive positive	It's a 5 minute walk from union square and getting on trolleys etc, near some bars and restaurants and the staff are really helpful and really friendly.
+;le cafe	 food	 positive	Le Cafe - Great!!
+;null	 hotel	 positive	Excellence, only a name?
+;null	 hotel	 neutral	On your way in, grab one of the oodles of people checking out and get their advice.
+;room	 rooms	 negative	We were never able to get the room much below about 76 degrees.
+;null	 service	 positive	He took care of the reservations and found us another place to eat that evening.
+;kitchen;livingroom	 rooms rooms	 positive positive	We had a beautiful kitchen, with a nice table and livingroom with a balcony, and also a flat panel TV, and huge bedroom with a King bed, and also another flat panel TV.
+;null	 location	 positive	Almost forgot, it is even easier to find it when you arrive at Piazza Roma than the website says, and takes less than 10 minutes to walk even with a case.
+;family room	 rooms	 neutral	We went out for a well earned drink and came back and we were actually given a family room on the 7th floor, nice view ( but a very warm room) given that the weather was fab for the duration of our stay.
+;directions	 checkin	 positive	Directions from the hotel website were right on, check-in was completed in 30 seconds for a weekend stay.
+;toren	 hotel	 positive	I will definitely return to The Toren on a future trip--just with my husband this time!
+;bed	 rooms	 positive	The bed was very comfortable and the even with the 2 walls of glass, the room darkeners kept in pitch black.
+;wall	 cleanliness	 negative	There are minor marks on the wall and such.
+;bed linen	 rooms	 negative	Bed linen was for a queen size bed.
+;experience	 hotel	 positive	Overall a good experience
+;westin	 location	 positive	Everything is within about a 5 minute walk of the Westin!
+;rooms;service	 rooms service	 positive positive	Great Rooms, OK service.
+;null	 hotel	 negative	Never again.
+;staff	 service	 neutral	Staff seemed pleasant but not very proactive in resolving problems.
+;business	 business	 positive	I have stayed here several times for business over the last couple of years.
+;walls	 rooms	 positive	The walls are not thin.
+;beds;plush pillow top mattresses;down comforters;large down pillows	 rooms rooms rooms rooms	 positive positive positive positive	Even the beds were top notch with plush pillow top mattresses, down comforters and large down pillows.
+;price	 value	 neutral	The price was jacked up for the Christmas holiday, but you only live once!
+;null;price	 hotel value	 positive positive	But it is a 4* hotel (by international standards) and is is MUCH better then any hotel you can find in the city centre in that price range.
+;room	 rooms	 positive	For euro hotels the room was spacious and kept to a high standard.
+;null;hotel;rooms;staff	 cleanliness hotel rooms service	 positive positive positive positive	A great hotel, with large, clean rooms and attentive staff.
+;location	 location	 positive	The location of the hotel, while initially I had misgivings, is not too bad.
+;null	 hotel	 positive	You will not want to leave.
+;hotel;room	 hotel rooms	 positive positive	Even though the room was very quiet.I highly recommend this hotel and I will definetly stay here again at my next Paris visit.
+;quality	 food	 negative	Quality was not very special and no flavour.
+;calle del prado	 hotel	 positive	We're glad we stayed on Calle del Prado at this hotel and will stay here again!!
+;hotel;rooms	 building rooms	 positive negative	Hotel is beautiful but rooms are a little outdated.
+;null	 value	 positive	By international standards, the price of the room was very reasonable.
+;bathroom;water;pressure	 rooms rooms rooms	 positive positive positive	Bathroom was well-sized, lots of hot water and great pressure.
+;bar;drinks	 food food	 positive positive	They have a small bar which serves drinks at a reasonable price.
+;location	 location	 positive	Hotel was in a great location.
+;hotel car	 hotel	 positive	We were offered the hotel car for dinner and never had to get a cab to go anywhere.
+;outside;problems	 building hotel	 positive negative	Beautiful on the outside problems on the inside
+;members club	 hotel	 positive	Tip-join their members club (free) via their website before you book, and then you truly get treated royally .i.e upgrade to suites, free calls, free welcome snacks, daily papers etc.
+;food	 food	 negative	If you haven't cruised before, then you'd probably think the food was pretty good.
+;null	 hotel	 positive	But this place delivers for all intents and purposes, no doubt.
+;null	 hotel	 positive	After three weeks travelling in CA and staying in all types of accommodation (5 star, BB's etc) The Chancellor is one of the nicest places we have stayed.
+;food servicefrench gourmet	 food	 negative	Food serviceFrench Gourmet - nice presentation but no seasoning, very bland and no taste.
+;front staff	 service	 positive	when we arrived we were greeted by the front staff who helped us to bring our luggages up to the lobby.
+;rooms	 rooms	 positive	The rooms had an understated elegance to them and there was considerable attention to detail - including a starched linen cloth at the foot of the bed for the slippers - a nice touch indeed.
+;hotel;staff member	 hotel service	 positive negative	We would stay there again as the hotel, bar and restuarant are all very good lively places, it's just a shame that in the last place of our Honeymoon we were greeted by such an abrasive staff member, maybe she should look for a career which isn't customer facing.
+;concierge problem;experience	 hotel service	 positive negative	great experience except... ...for the concierge problem.
+;staff	 service	 positive	The staff in my view is one of the best group of hotel employees in the world.
+;waitersfriendly	 service	 neutral	Waitersfriendly but 70% spoke no english and was sometimes difficult to get the right thing.
+;breakfast;dinner	 food food	 positive positive	Dukes was fantastic, we had breakfast there every morning and also dinner once.
+;place;cheap	 hotel value	 positive positive	Great Place, Cheap
+;clock radio	 rooms	 negative	The clock radio was not a CD player and it didn't pick up one station.
+;null	 hotel	 negative	No way you can trust what you order is what you get.
+;null	 location	 neutral	Bus #1 from the train station is most direct but #25 and #33 will get you there also.
+;food	 food	 neutral	Plenty of food to choose from, some you may like, some you may not.
+;location;staff	 location service	 positive positive	The location is simply perfect and the staff must be among the friendliest and most helpful we have ever come across.
+;pool;hot tub	 hotel hotel	 negative negative	Pool was warm, hot tub was non-existent it was covered up or under construction on what looked to be not touched in a long time.
+;pet friendly	 hotel	 positive	Pet Friendly Find in SF
+;room	 rooms	 positive	The TV and the room remote control is awesome.
+;clean;room	 cleanliness rooms	 positive positive	The room was clean and HUGE!
+;hotel	 hotel	 positive	The hotel is great.
+;null	 hotel	 negative	This means that the hotel wasdeliberately limiting the number of available reservations at the more intimate and more labor intensive alla carte restaurants, and in doing so were steering people to the much more cost efficient buffets.
+;clean;cheap	 cleanliness value	 positive positive	Rates very cheap and very clean.
+;bryant park	 hotel	 positive	Going back to Bryant Park would feel like going home to a place of warm memories.
+;null	 hotel	 negative	Lets get things straight, This place is great if you don鈥檛 mind some compromise.I stayed on the Top Floor (Third Floor) Room 12, which I must say had its advantage.
+;breakfast	 food	 negative	Breakfast at 12 euros is pricey for what is available better to pop out to local cafe.
+;harlequin romance novel;woman's razor	 hotel hotel	 negative negative	For some reason, I had a bag which included a Harlequin romance novel and a woman's razor included in my provided toiletries (thanks for the free stuff, Union Square Hotel, but I'm a guy).
+;smell	 cleanliness	 negative	The smell was so strong that we actually brought it back to Boston.
+;hotels	 hotel	 negative	During our time in the States we had stayed at other more basic hotels which offered free wifi in rooms.
+;drinks	 food	 negative	I found most mixed drinks to be pretty bad.
+;children	 hotel	 positive	We had our three children in a room next door to us and it was a truely magical experience for them.
+;road	 location	 positive	Should you be driving: Reasonably well located, near to the outer peripheral road (just watch out which exit you take from Place de Nation...).
+;hotel	 hotel	 positive	I would recommend this hotel to anyone.
+;sofitel card	 hotel	 positive	With the Sofitel card we also had a 4 PM checkout which was great.
+;null	 hotel	 positive	I would stay again in a heartbeat.
+;food	 food	 positive	restaurant the food quality is good.
+;null	 rooms	 positive	Otherwise, it was nicely decorated and cozy.
+;dam square;rembrantplein;bars;clubs;restaurants	 location location location location location	 positive positive positive positive positive	It was just over 5 minutes walk to Dam Square and a couple of minutes away from Rembrantplein where there were lots of bars, clubs and restaurants.
+;null	 hotel	 positive	Absolutely fantastic!!
+;null	 hotel	 positive	We had a wonderful time!
+;null	 hotel	 positive	Definitely will stay there again
+;staff	 service	 positive	The hotel staff was pleasant and extremely helpful.
+;eggs;omleets	 food food	 neutral neutral	I always got my eggs or omleets prepared by the cook to ensure they were fresh.
+;hotel;null	 hotel service	 positive positive	Comfortable, friendly hotel
+;hotel	 hotel	 positive	Why we were glad that we found this hotel was the fact that we were looking for a retreat that we could come back to after a busy day of exploring the more bustling areas of the city.
+;chips;gucamole	 food food	 positive positive	I loved the chips and gucamole.
+;lobby	 building	 positive	Finally, I liked the 3rd floor lobby.
+;first class room	 rooms	 negative	A-Train after reading all these good reviews.I stayed in first class room (nothing first class about it; small room, no amenities - shampoo etc available) and after the third night (they had not changed the sheets) I found a little blood in the sheets.
+;buffets	 food	 neutral	The buffets were the about the usual.
+;null	 hotel	 positive	This truly is a superlative property.
+;money	 value	 neutral	You get this money back at the end of your trip as long as you return the key.
+;breakfast	 food	 positive	Breakfast is included in the main restaurant and has everything you might need or like.
+;location;city center;bus stop	 location location location	 positive positive positive	The location is great, in walking distance of the city center, with a bus stop nearby, should you have sore feet.
+;berchielli	 hotel	 positive	Berchielli for a week, lovely place!
+;honolulu	 hotel	 positive	We were able to get to all of the places we wanted to visit around Honolulu while we were there.
+;workout room	 building	 positive	The workout room on the 5th floor was nice, and it seemed to be getting regular use from the hotel guests.
+;null	 hotel	 positive	This was our first stay at a Westin, and it was definitely very close to heaven.
+;amsterdam	 location	 positive	The hotel was in a perfect location to explore all the sights in Amsterdam.
+;interior decor	 building	 positive	The interior decor reflected modern style and charm with four-star comfort.
+;noise	 rooms	 negative	101 and the noise is a big factor.
+;leo dicaprio's	 hotel	 positive	Evidently Leo Dicaprio's favorite haunt when he stays in New York.
+;location;train station;san lorenzo market	 location location location	 positive positive positive	The location is very close to the train station (easily walkable), the San Lorenzo market is a block away and everything else is easily walkable.
+;three star hotel	 hotel	 positive	It is a three star hotel.
+;hotel	 hotel	 positive	We would definetely stay at this hotel again.
+;hotel	 service	 positive	It is a small hotel, so it felt cozy and not as impersonal as a larger chain-type hotel.
+;null	 service	 negative	We did not bring our laptop and the Copamarnia does not have any available computers, so we did not have a way to do any online research.
+;beach	 hotel	 positive	The beach was within easy walking distance.
+;plaza espanya metro;shops;restaurants;tourist attractions	 location location location location	 neutral neutral neutral neutral	The hotel is a five minute walk to the Plaza Espanya metro, but there isn't much in the immediate area in the way of shops, restaurants or tourist attractions.
+;receptionist	 checkin	 positive	Receptionist superb and really helpful.
+;butler	 hotel	 negative	You almost never see anyone else (apart from your butler who constantly comes to your door - even entering once without knocking!),
+;null	 service	 positive	Upon arrival to our room we found a beautiful arrangement of towel figures upon our bed along with Good night spelled out in flowers.
+;null	 checkin	 neutral	In the end, they helped me find another room for one night nearby (at perhaps the worst hotel I've stayed at in twenty years) and then gave me a room upgrade for the remaining night.
+;prices	 value	 neutral	Typical hotel prices, although room service is around $2.00 per item more than the dining room, plus a 21% service charge and tax.
+;staff	 service	 positive	We found the staff very helpful and pleasant.
+;neat and clean;room	 cleanliness rooms	 positive positive	The room was beautiful, though small, and everything was neat and clean.
+;seafood	 food	 positive	There were plenty of choices and I especially enjoyed the seafood - calamari, grouper, salmon, shrimp, were really good.
+;rooms	 rooms	 positive	They offer handicapped accessible rooms which are more spacious and located at the enterior of the hotel (which I would recommend as those staying with rooms facing the streets often complain of the noise).
+;breakfast;staff	 food service	 positive negative	Breakfast was good but staff had a bit of an attitude to be honest.
+;breakfast	 food	 positive	On the positive side the breakfast and the breakfastroom were very nice and the personnel was nice (untill I complaint about the bugs).
+;null	 cleanliness	 positive	The hotel is spotlessly clean.
+;room;service;food services	 rooms service service	 negative negative negative	In addition to the problem with food services at the Flamenco, we had one complete day with no running water in our room and the service at the beach left much to be desired.
+;king bed;space	 rooms rooms	 positive positive	We had a king bed in our room and had plenty of space.
+;customer	 hotel	 positive	I'm a hyper fussy customer, and can't recommend this enough.
+;bedbuggs	 hotel	 negative	Bedbuggs !!!
+;staff	 service	 positive	The staff was very friendly, sometimes they looked overworked and tired, but if you are nice to them and treat them with respect they will give you a smile and serve you well.I read a lot of negative reviews about this resort, but to be very honest as I do a lot of traveling to the Caribbean countries this one was defiantly a decent resort with lots of great activities.
+;null	 hotel	 positive	I wasn't disappointed.
+;tour buses;location	 location location	 positive positive	The hop on hop off tour buses also stop nearby so for us the location was ideal.
+;null	 hotel	 positive	We will absolutely stay there again if we get back to Florence one day.xxx
+;marseilles	 location	 neutral	The Marseilles is 2 blocks from Lincoln Road, 1 block from the Delano and 2 hotels down from The Raleigh.
+;san francisco	 hotel	 positive	A Terrific San Francisco Choice
+;breakfast	 food	 positive	PS. the breakfast is good!
+;decor	 building	 positive	Beautiful decor and great views from the 3 windows in the room!!
+;breakfast area	 hotel	 negative	Our room was downstairs near the breakfast area which eliminated any issue with the lack of a lift.
+;null	 hotel	 positive	Overall, we had a great time.
+;	 hotel	 neutral	Expected better Stayed with my wife and two teenage children for four nights.
+;rooms	 rooms	 positive	The rooms were well appointed and roomy enough bathrooms were fine.
+;pool;pool area	 cleanliness hotel	 negative positive	The pool area is nice but the pool itself could use a good scrub down.
+;moskito boy	 hotel	 positive	Loved Moskito Boy
+;buffet	 food	 neutral	At first, we were worried, since we were not impressed by the large buffet at the Grand Palladium.
+;beach	 location	 positive	The beach had numerous palm thatched cabana's.
+;hotel	 hotel	 positive	We spent New Year's Eve in this wonderful Hotel.
+;decorated;clean;staff	 building cleanliness service	 positive positive positive	It is nicely decorated, clean and comfortable and the staff were extremely polite and helpful.
+;food;service	 food service	 negative negative	However, what should have been the best part of our vacation the time in Punta Cana fell far short of our expectations, because of the inferior food service and inadequate service at the beach.
+;housekeeping team	 value	 positive	Nevertheless, the housekeeping team was prompt with providing us with good quality towels when we requested for it.We will stay here again when we next visit HK.
+;null	 hotel	 neutral	Okay As others have mentioned this is clearly a motel (on the order of
+;check -in	 checkin	 positive	Check -in was fine, as there was 14 of us it took a while but no longer than you'd expect, plus we were all upgraded from standard to deluxe rooms.
+;room	 rooms	 positive	We had a nice room on the 25th floor.
+;clean	 cleanliness	 positive	It is very clean and yet has the rustic appeal of the oldbusiness it used to be.
+;assistance	 service	 negative	While one opened my door, neither of them got my bags out of the cab, nor did they offer a single female assistance into the hotel.
+;null	 food	 neutral	We ate there during most of our stay.
+;rooms	 rooms	 positive	The rooms were unusually large for a city hotel, and very comfortable, with a pleasant and muted W-ish decor.
+;room	 rooms	 positive	We had a beautiful room.
+;hotel	 hotel	 positive	We have stayed at the hotel several times.
+;location;staff	 location service	 positive positive	The location is perfect, the staff are mostly fantastic.
+;aveda products	 hotel	 positive	The Aveda products were also a nice surprise!
+;location	 location	 positive	Its location is perfect, overlooking a beautiful cathedral, the national palace, the ruins of the Aztec pyramids, and one of the largest squares in the world.
+;hotel	 hotel	 positive	Mike, the manager really does seem to be looking for honest opinions and comments for his hotel.
+;staff	 service	 positive	The staff were very helpful and always polite.
+;internet	 hotel	 positive	The free internet was a godsend.
+;null	 hotel	 positive	Keep up the good work.
+;parking;front desk	 building service	 negative negative	Orlando, we made the reservations and the staff member(Front Desk) was rude and had no interest whatsoever in me or my reservation there, trying to get information from her was like pulling teeth, but this was my first trip to Miami, and the hotel was downtown so I figured how bad could it be after all the price was right about 100.00 bucks, but I did listen to my instinct and made the reservation for only one night, and booked six nights at the quality Inn at the Falls, the front desk clerk there was great who took my reservation, the River Park when we pulled up looked like a dump in need of some serious renovations, not enough space to pull up to and check in while you take your luggage out of the car, no parking except next door in a office tower (Public ) garage, $21.00 a night, While riding back down in the garage elevator, I noticed a sign that said Hyatt Hotel Guest pay $5.00 a night or something like that, When we checked in at the front dest I asked if they had a similar arrangement with the garage and of course the answer was no.
+;nyc	 hotel	 positive	The Best in NYC:
+;red or white wines	 food	 negative	I did not like the red or white wines.
+;shower caps;polishing sponges	 rooms rooms	 positive positive	Everything from spare toothbrushes, razors , shower caps, shoe polishing sponges and a very handy sewing kit.
+;bathroom;maintainance	 cleanliness rooms	 positive positive	The bathroom was clean, and so modern that at first I could not figure out how to drain the sink (I thought it was malfunctioning), but a quick visit from maintenance showed I just wasn't hip enough to figure it out.
+;staff	 service	 positive	We found the staff at the hotel charming and helpful, and the accommodation very good.
+;check in;front desk person	 checkin service	 positive positive	easy check in with the front desk person taking us up to the room to explain everything.
+;deluxe room	 rooms	 positive	The 2nd time we stayed we were upgraded to what was called a deluxe room - larger then the room we had before and it also had some other features like tea/coffee, a wardrobe and side tables.
+;null	 service	 positive	It became a joke that every day we had to go to Mary Jane to figure out what we were going to do and where we were going to eat!
+;cocktail;drinks;snacks;breakfast	 food food food food	 positive positive positive positive	There is a 2 hour cocktail hour everyday from 6-8 where you can get free drinks and snacks, while tipping of course, and breakfast is also free and a huge variety of items to choose from.
+;supreme	 food	 neutral	We tried two other restaurants but the Supreme seemed to have the most options.
+;beaches	 location	 positive	There are 2 beaches nearby (10-15min walk), Dukes opposite the Hilton and the lovely Ala Moana beach park on the other side of the Marina.
+;hotel;price	 hotel value	 positive positive	It is an excellent hotel at an excellent price!
+;hotel	 hotel	 positive	This is wonderful hotel-finished to a high standard.
+;patio area	 rooms	 positive	We also had our own patio area where where we could hang wet clothes, snokel gear, etc. (seperate patio but not secluded from view of other rooms).
+;null	 rooms	 negative	We were placed next to the service elevator and the walls were on the thin side.
+;snack;street food	 location location	 positive positive	Also, many snack places if you like street food.
+;management	 service	 negative	Management was rather rude to another fellow union member who wanted to bring in food and drinks for personal consumption.
+;location	 location	 positive	The location is amazing, very near the Duomo (if you are a light sleeper this can be bad for the tolling bells), just around the corner from the Piazza Republica and down the street from the Uffizi museum and square.
+;null	 hotel	 positive	Pretty much faultless, we loved it.
+;experience	 hotel	 positive	A Fantastic Experience...
+;null	 value	 negative	It is VERY expensive though.
+;mamma melena's	 location	 negative	There isn't all that much around the hotel to walk to with the exception of Mamma Melena's up the street (excellent Italian food in a very relaxed setting with superb service).
+;null	 hotel	 positive	Calm in the eye of the storm
+;null	 food	 neutral	We never got sick thank goodness.
+;transportation	 service	 negative	Instead, they push very expensive courses requiring extra transportation costs.
+;room	 rooms	 negative	This is unusual and may be due to size of the rooms but for such a well thought out hotel, I thought this was a significant issue.
+;staff	 service	 positive	Extremely friendly and very helpful staff.
+;room	 rooms	 neutral	The room was fine.
+;balcony	 rooms	 positive	Altough we had a balcony over the street it was very quiet at night.
+;null	 rooms	 negative	Not that big of a deal but maybe spend the $$ fixing these instead of a celing mounted radio that is useless!
+;null	 hotel	 positive	Trapped in Paradise
+;null	 hotel	 positive	Wonderful!!
+;areas	 location	 positive	It is a short cab ride to Time Square, 5th Avenue, and all the shopping areas.
+;conference	 hotel	 neutral	My sixteen year old tech-savvy daughter and I spent 3 nights at the Diva while I was attending a conference at the Moscone Convention Center.
+;null	 hotel	 positive	If we are ever back in Seattle, we will definatley stay at the Grand Hyatt!
+;station	 location	 negative	It is possible to walk to the nearest station but it will not be that comfortable if you have luggage with you.
+;null	 hotel	 positive	Can't say enough great things about it!!!!!
+;entry hall	 building	 positive	The entry hall was all marble, as were the two flights of stairs you had to climb to get to our suite.
+;lobby	 building	 neutral	The lobby is very small and looks newly refitted.
+;hotel renaissance hollywood	 hotel	 positive	Great Hotel Renaissance Hollywood
+;null	 hotel	 neutral	But I don't think I would stay here again, I may need to pay more and get more.
+;location	 location	 positive	The hotels location is second to none you have the Empire state, 5th Avenue, Grand Central, Chrysler Building, Times Square etc all within a few minute walk.
+;null;staff	 hotel service	 positive positive	If you can get the rate this is a great stopover and the staff have a lot of nice touches like getting us some water for the cab ride back to the airport.
+;null	 service	 negative	She did not say anything good about the shop, but simply said they do diving.
+;null;room	 location rooms	 negative negative	had to bust open windows after room was cleaned, too far and ugly to walk to Chinatown or North Beach (they suggest that you walk through this filthy long tunnel to get there and if you don't its longer (and just as un-scenic), super noisy!!
+;decor	 rooms	 positive	The decor was nice, different and a bit funky.
+;staff	 service	 positive	The staff is very friendly and speak excellent english.
+;hotel;null	 hotel value	 positive positive	This hotel is very quiet and convenient.
+;null	 hotel	 positive	We felt very secure and safe here as well.
+;room	 rooms	 positive	The room (a Romance Suite) was very spacious and near both the beach and pool.
+;front desk staff	 checkin	 positive	Checked in at 10pm and the front desk staff was very courteous and cheerful and checked me in promptly.
+;buffets	 food	 positive	The buffets has soo many choices of food.
+;areas	 location	 positive	The area was really nice, away from the crazy busy areas.
+;clean;room	 cleanliness rooms	 positive positive	Our room was small, but very clean and had a nice high ceiling and a safe.
+;null	 hotel	 positive	super!!
+;hotel	 building	 positive	It was recently renovated and the hotel property did a very good job.
+;staff	 service	 positive	One of the great things about this hotel and any great hotel, is the staff.
+;air conditioning	 service	 negative	I asked why the air conditioning was not on, and was told they turn it off during this time of the year.
+;rooms	 rooms	 negative	The rooms were slightly outdated, with stripy coloured wall-paper, and country style curtains.
+;location	 location	 positive	Great location We stayed at the Le
+;lobby;room	 building rooms	 positive negative	The beach and the hotel lobby was beautiful however, the room left a lot to be desired.
+;null	 hotel	 positive	Can't fault it...
+;breakfast;dinner	 food food	 positive positive	The breakfast selection was terrific and of course the dinner was fabulous.
+;$300	 value	 negative	My main gripe is that when you are paying $300 a night for a room you would expect to have free internet in your room.
+;sound system	 rooms	 positive	Great sound system for docking ipod.
+;king size bed	 rooms	 negative	We had a king size bed!!
+;hotel;null	 cleanliness service	 positive positive	The hotel is extra clean, and they do everything to make your stay pleasent.
+;experience	 hotel	 positive	Overall we had a good experience.
+;location	 location	 negative	Location was not ideal although in any big city no location is ideal for everywhere anyway.
+;buffet style restaurants	 food	 negative	The buffet style restaurants( Caribeno and Toscano) are disappointing to say the least.
+;manager	 service	 negative	The we went inside and the manager didn't really care.
+;people	 service	 positive	2.- People that are cleaning your rooms and serving your food are always with a smile on their faces and are always polite to everybody and should always be tiped well.
+;room	 rooms	 positive	Nice size room for 2.
+;null	 building	 positive	The shade is provided by the beautiful palm trees.
+;hotel	 hotel	 negative	We had an enjoyable stay, it wasn't terrible, but I wouldn't be inclined to stay at that hotel again.
+;null	 food	 positive	Just enough to start the day!
+;service	 service	 negative	The hotel manager was not helpful, reservations for dinner in the main restaurant were unorganized, lost, and made little difference in service.
+;front desk	 checkin	 neutral	We went to the front desk and requested an upgrade.
+;dining room;table;living room;wicker chairs;cushions;sofa;full sized bed	 rooms rooms rooms rooms rooms rooms rooms	 positive positive positive positive positive positive positive	The dining room had a six seating table, the living room had several wicker chairs w/ cushions a nice sofa and a full sized bed that you pulled out of the wall.
+;breakfast buffett	 food	 neutral	While it is not a full breakfast buffett, it sure is a nice to have something in your stomach before leaving the hotel.
+;air conditioning unit;sound	 rooms rooms	 negative negative	Yes, the air conditioning unit is noticeably noisy - I got used to the sound and didn't hear it within minutes, but if you get bothered by this sort of thing it's something to note.
+;gym	 hotel	 positive	Comprehensive gym in the basement.
+;null	 hotel	 negative	And it is far, very far, from being even one of the top 5-6 resorts in the area.
+;location	 location	 neutral	You do have an awful amount of choice within the attached shopping centre from mcdonalds, deli france, pizzas so if you are budgeting and saving cash for the shops its pitched well for you.LocationDon't be put off by Mong Kok. Its not rough by Uk standards its quite charming and has a chinese bustle to it.
+;bathroom	 rooms	 negative	The lighting in the bathroom was horrible, it made airplane lightening look good.
+;staff	 service	 negative	The rest of the staff were aloof and didn't really have any concept of customer service.
+;restaurants	 food	 neutral	Choose to go to the specialty resturants on other nights.
+;food;sicknesses	 food food	 positive positive	We had no food related sicknesses during our trip.
+;restroom	 hotel	 positive	Both beaches offer restroom facilities.
+;bavaro	 hotel	 positive	Everyone we traveled with was 19 and older and I must say I am happy we chose the Bavaro.
+;breakfast	 food	 positive	We had breakfast in the restuarant and it was good although there are plenty of other good restaurants and diners nearby.
+;located	 location	 positive	The hotel is located right in the middle of Boston?
+;null	 hotel	 positive	Could go on for days about how pleased we were.
+;location;price	 location value	 positive positive	Great Location for the Price
+;room	 rooms	 positive	was slightly cautious after reviews on here but was more than happy with what we ended up with - room was fine, perfectly large enough for European tastes.
+;null	 hotel	 positive	Just Fantastic I stayed there for 3 nights on my
+;value	 value	 positive	Mosser Excellent Value!
+;null	 business	 positive	It is perhaps a bit old fashioned but very comfortable.
+;spa	 hotel	 positive	Did not go to the spa but other women in my travel group said it was one of the nicest they had been to.
+;room;bathroom	 rooms rooms	 positive positive	The room and bathroom were big - for Europe.
+;stay	 hotel	 positive	We really enjoyed our stay here and would definitely stay again.
+;staff	 service	 positive	The staff is helpful and pleasant.
+;room	 rooms	 negative	The room was supposed to have two TV's.
+;food	 food	 positive	The food was generally of good quality-but not necessarily geared to American tastes.
+;museum;duomo;uffizi	 location location location	 positive positive positive	10 minute walk to museum where the david is, 10 minute walk to duomo, 20 minute walk to uffizi and most other nice parts.
+;airport	 location	 positive	it is close to the airport but you can't hear many airplanes.
+;windows	 cleanliness	 negative	Don't open curtains as you will only view filthy windows.
+;rooms;rooms	 cleanliness rooms	 positive positive	The rooms were clean and comfortable and good sized.
+;buffet	 food	 positive	We ate mostly at the buffet that had great choices.
+;hotel	 hotel	 negative	This hotel ruined not only my weekend, but my vacation and the relaxation I hoped to get.
+;staff members	 service	 positive	The staff members were generally very helpful and pleasant.
+;null	 hotel	 positive	would recommend.
+;breakfast	 food	 negative	The breakfast consisted of doughnuts and muffins, if you were quick enough.
+;receptionist	 service	 positive	On arrival we were given a map and directions to les rambles, the receptionist also told us which streets close to the hotel to avoid.
+;room;breakfast;cereals;breads;cheese;meats;boiled eggs;juice;teacoffeeall	 rooms food food food food food food food food	 positive positive positive positive positive positive positive positive positive	Room was comfy and very well heated if a little basic, breakfast was good a variety of cereals, breads, cheese, meats, etc, boiled eggs, juice, teacoffeeAll in all a pleasant enough place for a couple of days, mind you we didnt get to bed until 3:30 the first night and well after 4 on the second.
+;price;staff;location;mid-town;empire state bldg;markets;pubs;restaurants;subway stop	 value service location location location location location location location	 positive positive positive positive positive positive positive positive positive	There are so many things right with this hotel, starting with the location (right in the heart of mid-town, near the Empire State Bldg and Macys in a neighborhood filled with small markets, pubs ,restaurants AND right next to a subway stop) to the price, and of course the wonderful staff.
+;coffee shop	 food	 positive	Awesome coffee shop you have to try too.
+;borgmann villa hotel;vodel park	 location location	 positive positive	The Borgmann Villa Hotel is located right on the magnificent Vodel Park in the Museum Quarter of Amsterdam.
+;hotel	 hotel	 positive	Also, I will seriously consider this as my base hotel for visiting Amsterdam in the future, despite the fact that it is a brief train ride from the center of town.
+;resort	 hotel	 positive	I was obsessive about reading the reviews and checking out the forums for the PCP for weeks before my trip and all I can say is this resort is fantastic.
+;room	 rooms	 positive	The room had just been renovated and we were one of the first to stay in it.
+;location	 location	 positive	Wyndham - Great Location!
+;null;location	 hotel location	 positive positive	This is all good, and the location is excellent.
+;restaurant	 food	 positive	The restaurant they recommended was good.
+;null	 hotel	 positive	Beach: Not much to say here but lovely.
+;null	 service	 positive	She provided us insight on where to go and what to do, helped us book reservations at the hottest restaurants and used her connections to get us it.
+;null	 rooms	 positive	It was spectacular!
+;null	 hotel	 positive	We will return very soon.
+;novotel	 value	 positive	I stayed in this Novotel because 1- it is relatively cheap, 2 - of the brand Novotel.
+;null	 value	 positive	We tipped $5 per person.
+;bahia (brazilian) restaurant	 food	 neutral	The Bahia (Brazilian) restaurant offers a mini buffet selection during lunch time.
+;hollywood blvd;hollywood	 location location	 positive positive	This hotel is on a main street, walking distance to Hollywood Blvd and in a safer part of Hollywood than many other hotels.
+;front desk	 checkin	 negative	When we called the front desk about the noise factor, the day person told us they did not have another suite and the couple next door was checking out.
+;room service	 service	 negative	Room serviceRoom service needs management.
+;drinks	 food	 negative	Most drinks are made in kind of a big slushy machine, as opposed to a mixer.
+;hotel	 hotel	 positive	No complaints, hotel served it's purpose admirably.
+;subway	 location	 positive	Subway is 2 blocks away.
+;room	 cleanliness	 positive	Our room was very clean.
+;null	 hotel	 neutral	Jan 2-7, 2008.
+;staff	 service	 positive	Found the staff helpful and the taxi drivers knew where the hotel was so no trouble finding it.
+;breakfast;cake;bread;cereal;oj;coffees	 food food food food food food	 positive positive positive positive positive positive	The breakfast was good - cake, bread, cereal, OJ and coffees.
+;service	 service	 positive	the service was excellent.
+;desk staff	 service	 positive	The desk staff was exceptional.
+;coffee and pastry	 hotel	 positive	Have an expensive coffee and pastry and soak in the sublime atmosphere.
+;housekeeping	 service	 positive	This might have been the only hotel I've ever stayed at where housekeeping didn't rudely wake me up at 8am.
+;deal	 value	 positive	In my opinion it was a great deal.
+;bar area	 rooms	 positive	There was also a small bar area with a minibar underneath.
+;null;staff	 hotel service	 negative negative	I wish the staff well but the rest of it was terrible.
+;location	 location	 positive	The location is perfect and close to everything Boston has to offer.
+;deluxe room	 rooms	 negative	We were in a deluxe room (don't be fooled, these are the basic rooms) which was really small, compared to the fantastic villa we had in Benoa for less then half the price!)
+;check in	 checkin	 positive	At check in the ask you what drink you want and they get it for you.
+;place	 hotel	 positive	A nice place and I would probably stay there again.
+;holiday inn central plaza	 hotel	 positive	I will not return Like other reviews of this hotel, I think the Holiday Inn Central Plaza is terrific.
+;vacations	 hotel	 positive	At in Years This was one of my most relaxing vacations in years.
+;business travellers	 business	 positive	The hotel is perfect for business travellers.
+;null	 hotel	 positive	You will just have to try it for yourself.
+;null	 hotel	 positive	Europe excursion and it was simply superb.
+;null	 hotel	 negative	By 9:00 the place was so crowded we were sitting on the couches to eat.
+;clean;room	 cleanliness rooms	 positive positive	The stay was very comfortable and the room [small but ample] clean.
+;communal areas;food;rooms;staff	 building food rooms service	 neutral positive positive positive	As expected Typical of this sort of hotel with rooms fitted and finished to a high standard, polite and attentive staff, good food, smart and spacious communal areas although these are beginning to look slightly dated now.
+;party	 hotel	 negative	We did not go on vacation to party and get drunk all the time.
+;hilton times square	 hotel	 neutral	Stayed at the Hilton Times Square 5 nights for a business event.
+;null;location;viacavour;null;room;air-con	 cleanliness location location service rooms rooms	 positive positive positive positive positive positive	The location, ViaCavour, the room, spotlessly cleaned and serviced (fresh towels every day everything working, including the essential air-con.
+;null	 service	 negative	She found a place called Ted's IN Buffalo that she could get me into.
+;location;cost	 location value	 positive positive	Great location, cost effective
+;reservation;wake-up calls	 checkin service	 positive positive	Wake-up calls are done by staff and you even have the option when making the reservation for more than one wake-up (which one of my sleepy colleagues certainly appreciated).
+;lounge;continental style breakfast;room rate	 building food value	 positive positive positive	However, there is a lovely lounge just off the chic lobby where a hearty Continental style breakfast is served every morning (included in room rate).
+;westin;beds	 rooms rooms	 positive positive	The Westin prides itself on its Heavenly Beds and I couldn't agree more with them.
+;breakfast;restaurant	 food food	 positive positive	We enjoyed a great breakfast the next morning in the hotel restaurant.
+;hotel;null	 hotel location	 positive positive	Alot less young kids and most of the beach and crazy activities were next door at the dominican so basically our hotel was very relaxing.
+;hut	 hotel	 positive	We never had any trouble finding a hut and did not play the towel game.
+;staff	 service	 positive	This was a refreshing change and something staff at the supposed super resorts in Dubai (I have Madinat Jumeirah in Mind) should take note of.
+;spanish	 hotel	 neutral	They might have spoken to my sister and I more than others because we speak really good Spanish and this would pique their interest as to where we learned to speak the language.
+;price	 value	 positive	The price was certainly good.
+;lobby bar	 service	 negative	The lobby bar was a bit slow in the evening unless you asked for rum and coke, pina colada or beer.
+;hotel;budget	 hotel value	 positive positive	Overall, I was more than pleased with my experience and would strongly recommend this hotel, especially to those traveling on a budget.
+;moana	 hotel	 positive	Will only stay at the Moana
+;null	 hotel	 positive	Highly recommend it.
+;hotel	 hotel	 neutral	Not to be age pregidous but, didn't see anyone here that was older 60+ like other hotels in the immediate area as this one.
+;restaurant;lobby bar	 food value	 neutral negative	Restaurant was okay, drinks in lobby bar were very expensive.
+;location	 location	 positive	Location wise the hotel is great but during the night the side streets were a little daunting and saw a girl get her bag snatched 鈥?
+;null	 service	 negative	I waited for another 45 minutes, still no one.
+;amsterdam	 hotel	 positive	I will definitely stay that this hotel on our next trip to Amsterdam.
+;bathroom;black mold	 rooms rooms	 negative negative	We checked the bathroom and it also had black mold growing in the 1x1 tiles.
+;null	 hotel	 positive	They had so much energy!
+;sleep	 rooms	 negative	I wore earplugs but still had trouble getting any sleep.
+;front desk	 checkin	 negative	We called the front desk several times about this and nothing was done.
+;fruits;eggs;dim sum;french toast;potatos;noodles;pastries	 food food food food food food food	 positive positive positive positive positive positive positive	We filled up each morning on fresh fruits, eggs, dim sum, french toast, potatos, noodles, pastries.
+;remote control	 rooms	 negative	Problem #1, the remote control for the television did not work.
+;location	 location	 positive	Location is perfect for RLD, Teasers is a lively bar just down the road, also Tara (good Irish bar) further down on Rokin.
+;garage	 service	 negative	They said it would be parked in a garage, but I am not sure that happened.
+;null	 hotel	 positive	To sum up, the holiday from beginning to end was perfect.
+;flush;street noise	 rooms rooms	 negative negative	Not only will you hear every flush your neighbor makes but also a tremendous amount of street noise.I have no idea how this hotel secured a 4-star rating.
+;null	 hotel	 neutral	I skipped out, but only because we ran out of time.
+;null	 food	 negative	I know that sounds crazy but even the mixer were a little odd.
+;coffee;dessert	 food food	 neutral neutral	After dinner we returned to the Marriott for coffee and dessert.
+;null	 checkin	 positive	The concierge brought out a tourist map and in no time had gone through the attractions with us, along with how to navigate the metro.
+;ocean-view;poolside room;gardens;fountains	 building building building building	 positive positive positive positive	Even if you do not have an ocean-view or poolside room, you are still surrounded by such beautiful gardens and fountains.
+;null	 location	 positive	Its less than a 5min walk from the station, so is a perfect base for visiting florence and surrounding towns/cities.
+;activities	 hotel	 positive	Overall I would recommend this hotel lots of activities throughout the day to keep young and old busy and entertained, though for the single party type travellers this may not be the hotel for you as most activities are done by midnight......We will use the resort again when it is time to head back to the Dominican....
+;breakfast	 food	 positive	The continental breakfast on offer was ideal with bagels ,cereals ,tea coffee, fresh fruit.
+;null;room	 cleanliness rooms	 positive neutral	The room was small (which I expected), but nicely appointed and very clean.
+;beaches;kuhio beach;queen's beach	 hotel location location	 positive positive positive	Because all beaches in Hawaii are public, it is no problem to use the Kuhio Beach or the Queen's Beach (just two blocks from the hotel to the South).
+;nob hill motor inn	 hotel	 neutral	We have now stayed at the Nob Hill Motor Inn three times and have been there several nights each time we were in San Franscisco.
+;clean;rooms	 cleanliness rooms	 positive positive	The rooms were quite nice and clean.
+;null	 hotel	 positive	We will be back each year to spend our anniversary with you.
+;null	 service	 negative	No attempt was made to look for it.
+;casa alta vista	 hotel	 positive	Love Casa Alta Vista
+;room	 rooms	 positive	We were quite surprised since we hadn't made any special requests and were just supposed to get a standard room.
+;gardens	 hotel	 positive	I will be telling all of my friends about the Gardens.
+;null	 service	 positive	Top tip for frequent visitors is the Okura Club International which you can join for nothing and entitles bearers to free usage of the pool, showers and o-furo (bath) which you would normally have to pay for.
+;null	 value	 negative	$4 bucks for a candy bar!
+;null	 hotel	 positive	I definitely was not disappointed.
+;null	 hotel	 negative	Not a good experience
+;service	 service	 positive	Great attentive service as well.
+;null	 hotel	 positive	It is wonderful.
+;spanish;english	 service service	 positive positive	If we tried to speak spanish to them, they tried to speak English to us.
+;meal	 hotel	 negative	The result was if you ate at the buffet, you had to wait for a table and stand in two lines to obtain your meal.
+;room	 rooms	 neutral	If you like quietness, as I do, ask for a room at the backside not fasing the street and higher up.
+;null	 service	 positive	I found at the Omni - and I will be the first to admit that I am hard to please : ).
+;marguerita or a pina colada	 food	 negative	If you enjoy a great Marguerita or a Pina Colada, sadly you are not gonna get it here.
+;japanese and steakhouse	 food	 positive	We liked the Japenese and the Steakhouse the best.
+;lobby;checking in	 building checkin	 positive positive	We arrived at the Paradisus around 4pm on the 18th and were greeted with a strawberry fruit drink while checking in, in the expansive, gorgeous open air lobby.
+;fron desks	 service	 negative	At the time I checked in, the fron desks said we don't have your reservation and there is no room available!!
+;building;airport	 building location	 positive positive	Building is impressive (although dwarfed by surrounding financial HQs and the like) and about a 15 minute cab ride from the airport.
+;null	 rooms	 negative	Only downside was lack of air conditioning in rooms, but in May, it was fine and could open windows to let cool air in when it got warm.
+;jolly carlton	 hotel	 positive	We have just returned from a very pleasant 3 night stay at the Jolly Carlton in Amsterdam during the period between Christmas and New Year.
+;doormen	 service	 positive	The doormen were consistently friendly.
+;free of charge;null	 value service	 positive positive	We were all fed free of charge, breakfast, lunch and dinner and everyone had smiles on their faces.
+;breakfast	 food	 neutral	The breakfast is extra (8.5euro)not a huge choice, 1 roll, 1 croissant each and some ham and cheese, tea and coffee etc.
+;resorts	 location	 positive	It was a bit small compared to other resorts I've stayed at in Cuba and Mexico, but the water was pristine.
+;null	 location	 positive	You're right across the street from Duke's bar and the Mai Tai bar at the Royal Hawaiian!
+;meals	 food	 positive	So we enjoyed 3 excellent meals, however only one of them was at one of the promised alla carte restaurants.
+;clean;null;location	 cleanliness hotel location	 positive negative positive	Clean, good location --but noisy
+;price	 value	 positive	It was around the same price as some of the more traditional hotels on La Ramblas but you got so much more for your money.
+;staff	 service	 positive	The staff though is nice and friendly.
+;room	 rooms	 neutral	We asked to be upgraded to the newer part of the hotel for an additional $35.00 per night, and as we left the old part of the hotel I mentioned to my sister that my right ear started ringing loudly as soon as we entered the room.
+;eubanks;bellman	 service service	 positive positive	Eubanks, the bellman was wonderful!
+;value	 value	 positive	Honestly, this may be one of the best values in San Fran, a place that defies the meaning of 'value'.
+;clean;null;null	 cleanliness location rooms	 positive positive positive	If you are expecting a 5 star luxury hotel with all ammenities then you will probably be disappointed with the Chelsea Lodge....but for those who want an affordable,safe clean accomodation with lots of character right in the middle of everything...u cannot beat this place.
+;location	 location	 positive	Great location, views
+;fitness room	 hotel	 positive	After I checked in, I went down to the fitness room for a quick workout and found it to be really nicely equipped.
+;money	 value	 negative	too much money for oh so little
+;housekeeper	 service	 negative	Problem #3 At about 9:45am housekeeper enter my room while I was in bed.
+;check-in;check-out	 checkin checkin	 positive positive	I had no complications at all with check-in or check-out, and I could see the beach from my room.
+;null	 hotel	 negative	For us it was a week in hell.
+;hotel	 hotel	 negative	I would never stay at this hotel again.
+;staff	 service	 positive	Staff are friendly and very helpful.
+;null	 service	 negative	We had Spanish speakers with us but could do nothing- it was a take it or leave it attitude, and the same thing happened when some of our female staff were intimidated by german students in the room next door over the following days.
+;internet	 hotel	 positive	Free Internet is also provided which is great.
+;savings	 hotel	 negative	Not Worth the Savings
+;room	 rooms	 positive	My room on the Club Level was brand new with a soothing updated look and excellent bedding.
+;null	 value	 negative	Make sure you bring plenty of sun tan lotion-very expensive in the gift shop.
+;null	 hotel	 positive	An experience of a lifetime
+;corner suite	 rooms	 neutral	Due to my SPG Platinum Status, this time I had a corner suite with a great view, but it was a old interior...
+;null	 service	 negative	He didnt offer to have us check another room or to investigate our concerns with the original room.
+;staff	 service	 positive	The staff is awesome.
+;smell	 food	 negative	It shouldn't really smell at all.
+;null	 building	 positive	The hotel is a small boutique hotel that has been recently modernised.
+;hollywood;price	 location value	 positive neutral	Had to get a room for a wedding in Hollywood and this property was available in what I knew was a relatively safe location and was at a reasonable price (direct from HI website).
+;null;bed	 hotel rooms	 negative positive	The bed was the most comfortable I have stayed on.The only gripe I have about it was that there were no Tea and Coffee making facilities, and being an avid tea drinker and one who takes ages to get ready whilst consuming at least 4 cups doing so, was a disappointment.
+;water	 food	 positive	Even after returning at 11 p.m. from a full day of sightseeing, you can walk over to the bar in the lobby and grab some complimentary water bottles.
+;le gourmet	 food	 positive	Le Gourmet was good.
+;walls	 rooms	 negative	walls are made of paper!,
+;hotel	 building	 negative	Here's why:The hotel is old.
+;null	 value	 negative	False advertising aside, I feel as if I didn't get the exclusive all inclusive treatment that they advertise and that I paid for.
+;restaurant	 food	 positive	It was nice to finally eat at a restaurant that wasn't buffet.
+;null	 hotel	 positive	Next time we are in San Fran we will likely stay at the Westin, but as a more economical alternative only 2 blocks down, this place is great!
+;hotel	 hotel	 positive	I will definitely recommend this hotel to friends and stay again when I return to New Orleans.
+;ocean	 rooms	 negative	Well, all we saw of the ocean was the roof top of another building.
+;location	 location	 positive	The location was just perfect, very close to Victoria Station in a very nice and quiet neighbourhood.
+;flat screen tv	 rooms	 positive	Flat screen TV, dvd and stereo.
+;walter;maria;maria	 hotel hotel hotel	 positive positive positive	Walter, Melvin and Maria did a great job of drawng the crowd into the activities.
+;scam	 hotel	 negative	This place obviously has a pattern of pulling this type of scam on tourists and should be closed down!
+;food	 food	 positive	The food was pretty good.
+;price	 value	 positive	All in all if price is an issue stay here.
+;null	 service	 negative	I explained how bad everything was when I left, they replied you will have to talk to hotwire.
+;hotel	 hotel	 positive	I would recommend this hotel to anyone who likes a bit of style and comfort.
+;bedding;pillows	 cleanliness rooms	 negative negative	The bedding is old, and pillows lumpy.
+;room	 rooms	 positive	Our room was delightful.
+;null;null	 building hotel	 neutral positive	old fashioned, but still my favorite...
+;bathroom	 rooms	 negative	It was too small, the bathroom is tiny, can hardly turn around in it!
+;null	 service	 positive	They left an offer in our room for a free bottle of wine with 2 entrees in the restaurant, which was a nice touch.
+;null	 service	 positive	They carried themselves with dignity and were appreciative of tips-while not acting as though they expected to be tipped.
+;renovation	 building	 negative	At the time of our visit, the buffet, beach club and several restaurants were under renovation.
+;room;view	 rooms rooms	 negative negative	The room was small with no view.
+;staff	 service	 positive	I felt this hotel was worth taking the time to do so.First, the staff is super friendly and accomodating.
+;nyc	 hotel	 positive	I will definitely be returning here next time I am in NYC.
+;bathroom;safe;toilet	 rooms rooms rooms	 positive positive positive	Down the hall was the bathroom with shower, safe and toilet room (yes the toilet is in it's own room).
+;clean;room	 cleanliness rooms	 positive positive	The room was clean, lots of towels ,a/c worked all good there, though it would have been nice to have a newly renovated room like some were, but for the time we spent in the room it wasn't a big deal either.
+;staff	 service	 positive	You don't have to ask for anything, some how the staff seems to understand what you need and they do cartwheels to make you happy.
+;room	 rooms	 positive	Our room was not large but nicely decorated and very sunny with a good sized bay window looking out onto Geary Street.
+;cleaned;rooms	 cleanliness rooms	 positive neutral	Rooms were fine - (some nicer than others), but all were cleaned every day.

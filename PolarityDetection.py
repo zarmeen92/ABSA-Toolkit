@@ -146,7 +146,7 @@ def find_near_words(aspect_term,text,window):
         left_words = ''
         right_words =''
         sent = new_text.split(' ')
-        
+        index_at=-1
         for i in range(0,len(sent)):
             if sent[i].find(new_aspect_term) != -1:
                 index_at = i
@@ -294,7 +294,7 @@ def train_xgboost_model_foreachPolarity(train_feats,test_feats,test_SF,polaritie
 				print " Accuracy : %f"%accuracy_score(test_SF['is_'+pol],clf.predict(test_feats))
     return test_SF
 
-def compute_label(pos_prob,neg_prob,neu_prob):
+def compute_label(pos_prob,neg_prob,neu_prob=0):
     if(pos_prob < 0.2 and neu_prob < 0.2 and neg_prob < 0.2):
         return "positive"
     
@@ -317,114 +317,119 @@ def compute_label(pos_prob,neg_prob,neu_prob):
     
 
 def main(train_pd,test_pd,model,lex_file):
-	 # Read train and Test CSV Files
-	#print "Reading train and test files"    
-	#train_pd = pd.read_csv('data/restaurants/train.csv',sep = '\t')
-	#test_pd = pd.read_csv('data/restaurants/test.csv',sep = '\t')
-	#vectors_filename = "vectors_yelp_200.txt"
-	#lex_file = 'saif_lex/Yelp-restaurant-reviews-AFFLEX-NEGLEX-unigrams.txt'
-	#lex_file = 'saif_lex/Amazon-laptops-electronics-reviews-AFFLEX-NEGLEX-unigrams.txt'
-	#lex_file = 'saif_lex/wnscores_inquirer.txt'
-	#print "Loading Word2Vec Model..."
-	#model = gensim.models.Word2Vec.load_word2vec_format(vectors_filename,binary=False)
-	ndim = model.vector_size
-	index2word_set = set(model.index2word)
+     # Read train and Test CSV Files
+    #print "Reading train and test files"    
+    #train_pd = pd.read_csv('data/restaurants/train.csv',sep = '\t')
+    #test_pd = pd.read_csv('data/restaurants/test.csv',sep = '\t')
+    #vectors_filename = "vectors_yelp_200.txt"
+    #lex_file = 'saif_lex/Yelp-restaurant-reviews-AFFLEX-NEGLEX-unigrams.txt'
+    #lex_file = 'saif_lex/Amazon-laptops-electronics-reviews-AFFLEX-NEGLEX-unigrams.txt'
+    #lex_file = 'saif_lex/wnscores_inquirer.txt'
+    #print "Loading Word2Vec Model..."
+    #model = gensim.models.Word2Vec.load_word2vec_format(vectors_filename,binary=False)
+    ndim = model.vector_size
+    index2word_set = set(model.index2word)
 
-	train_pd = recreate_df(train_pd)
-	test_pd = recreate_df(test_pd)
-	yelp_lex,yelp_scores = load_polarity_lexicon(lex_file)
+    train_pd = recreate_df(train_pd)
+    test_pd = recreate_df(test_pd)
+    yelp_lex,yelp_scores = load_polarity_lexicon(lex_file)
 
-	print "Cleaning text..."
-	train_pd['cleanText'] = train_pd['text'].apply(review_to_words)
-	test_pd['cleanText'] = test_pd['text'].apply(review_to_words)
+    print "Cleaning text..."
+    train_pd['cleanText'] = train_pd['text'].apply(review_to_words)
+    test_pd['cleanText'] = test_pd['text'].apply(review_to_words)
 
-	print "Extracting features..."
-	near_words = []
-	for ind,rev in train_pd.iterrows():
-		near_words.append(find_near_words(rev['aspect term'],rev['cleanText'],5))
+    print "Extracting features..."
+    near_words = []
+    for ind,rev in train_pd.iterrows():
+        near_words.append(find_near_words(rev['aspect term'],rev['cleanText'],5))
 
-	train_pd['nearwords_window5'] = near_words
-	near_words = []
-	for ind,rev in test_pd.iterrows():
-		near_words.append(find_near_words(rev['aspect term'],rev['cleanText'],5))
-	test_pd['nearwords_window5'] = near_words
-	near_words = []
-	for ind,rev in train_pd.iterrows():
-		near_words.append(find_near_words(rev['aspect term'],rev['cleanText'],2))
-	train_pd['nearwords_window2'] = near_words
-	near_words = []
-	for ind,rev in test_pd.iterrows():
-		near_words.append(find_near_words(rev['aspect term'],rev['cleanText'],2))
-	test_pd['nearwords_window2'] = near_words
-
-
-	# Extracting category vector
-	cat_vec = []
-	for i,rev in train_pd.iterrows():
-		cat_vec.append(return_category_vec(rev['category'],model))
-
-	train_pd['category_vec'] = cat_vec
-	cat_vec_test = []
-	for i,rev in test_pd.iterrows():
-		cat_vec_test.append(return_category_vec(rev['category'],model))
-
-	test_pd['category_vec'] = cat_vec_test
+    train_pd['nearwords_window5'] = near_words
+    near_words = []
+    for ind,rev in test_pd.iterrows():
+        near_words.append(find_near_words(rev['aspect term'],rev['cleanText'],5))
+    test_pd['nearwords_window5'] = near_words
+    near_words = []
+    for ind,rev in train_pd.iterrows():
+        near_words.append(find_near_words(rev['aspect term'],rev['cleanText'],2))
+    train_pd['nearwords_window2'] = near_words
+    near_words = []
+    for ind,rev in test_pd.iterrows():
+        near_words.append(find_near_words(rev['aspect term'],rev['cleanText'],2))
+    test_pd['nearwords_window2'] = near_words
 
 
-	# creating vectors
-	clean_train_reviews = []
-	for review in train_pd['text']:
-		clean_train_reviews.append( review_to_wordlist( review, remove_stopwords=True ) )
+    # Extracting category vector
+    cat_vec = []
+    for i,rev in train_pd.iterrows():
+        cat_vec.append(return_category_vec(rev['category'],model))
 
-	trainDataVecs = getAvgFeatureVecs( clean_train_reviews, model,ndim, index2word_set )
+    train_pd['category_vec'] = cat_vec
+    cat_vec_test = []
+    for i,rev in test_pd.iterrows():
+        cat_vec_test.append(return_category_vec(rev['category'],model))
 
-	clean_test_reviews = []
-	for review in test_pd['text']:
-		clean_test_reviews.append( review_to_wordlist( review, remove_stopwords=True ) )
+    test_pd['category_vec'] = cat_vec_test
 
-	testDataVecs = getAvgFeatureVecs( clean_test_reviews, model, ndim, index2word_set )
 
-	print "Extracting Lexicon Features..."
-	train_pd['yelp_lex_feats_nearwords_window2'] = create_lexicon_features_df(train_pd,'2',yelp_lex,yelp_scores)
-	test_pd['yelp_lex_feats_nearwords_window2'] = create_lexicon_features_df(test_pd,'2',yelp_lex,yelp_scores)
-	train_pd['yelp_lex_feats_nearwords_window5'] = create_lexicon_features_df(train_pd,'5',yelp_lex,yelp_scores)
-	test_pd['yelp_lex_feats_nearwords_window5'] = create_lexicon_features_df(test_pd,'5',yelp_lex,yelp_scores)
+    # creating vectors
+    clean_train_reviews = []
+    for review in train_pd['text']:
+        clean_train_reviews.append( review_to_wordlist( review, remove_stopwords=True ) )
 
-	# ## Create Binary Columns for Polarity Classes
+    trainDataVecs = getAvgFeatureVecs( clean_train_reviews, model,ndim, index2word_set )
 
-	# In[75]:
+    clean_test_reviews = []
+    for review in test_pd['text']:
+        clean_test_reviews.append( review_to_wordlist( review, remove_stopwords=True ) )
 
-	polarities = set(train_pd['polarity'])
-	print "Creating binary Columns for each polarity...."
-	train_pd = create_binary_columns(train_pd,polarities)
-	test_pd = create_binary_columns(test_pd,polarities)
+    testDataVecs = getAvgFeatureVecs( clean_test_reviews, model, ndim, index2word_set )
 
-	train_feats =np.column_stack((trainDataVecs,train_pd.yelp_lex_feats_nearwords_window2,
-								  train_pd.yelp_lex_feats_nearwords_window5,cat_vec))
-	test_feats =np.column_stack((testDataVecs,test_pd.yelp_lex_feats_nearwords_window2,
-								  test_pd.yelp_lex_feats_nearwords_window5,cat_vec_test))
+    print "Extracting Lexicon Features..."
+    train_pd['yelp_lex_feats_nearwords_window2'] = create_lexicon_features_df(train_pd,'2',yelp_lex,yelp_scores)
+    test_pd['yelp_lex_feats_nearwords_window2'] = create_lexicon_features_df(test_pd,'2',yelp_lex,yelp_scores)
+    train_pd['yelp_lex_feats_nearwords_window5'] = create_lexicon_features_df(train_pd,'5',yelp_lex,yelp_scores)
+    test_pd['yelp_lex_feats_nearwords_window5'] = create_lexicon_features_df(test_pd,'5',yelp_lex,yelp_scores)
 
-	print "------- Training Sentiment Polarity Detection Classifiers --------"
-	test_pd = train_xgboost_model_foreachPolarity(train_feats,test_feats,test_pd,polarities,train_pd)
+    # ## Create Binary Columns for Polarity Classes
 
-	labels = []
-	for ind,rev in test_pd.iterrows():
-		labels.append(compute_label(rev['predicted_prob_positive'],rev['predicted_prob_negative'],rev['predicted_prob_neutral']))
+    # In[75]:
 
-	test_pd['predictedLabels_multi'] = labels   
+    polarities = set(train_pd['polarity'])
+    print "Creating binary Columns for each polarity...."
+    train_pd = create_binary_columns(train_pd,polarities)
+    test_pd = create_binary_columns(test_pd,polarities)
 
-	acc = accuracy_score(test_pd['polarity'],test_pd['predictedLabels_multi'])
-	fsco = f1_score(test_pd['polarity'],test_pd['predictedLabels_multi'],average='macro')
+    train_feats =np.column_stack((trainDataVecs,train_pd.yelp_lex_feats_nearwords_window2,
+                                  train_pd.yelp_lex_feats_nearwords_window5,cat_vec))
+    test_feats =np.column_stack((testDataVecs,test_pd.yelp_lex_feats_nearwords_window2,
+                                  test_pd.yelp_lex_feats_nearwords_window5,cat_vec_test))
 
-	print "--------------------------------------"
-	print "\t Evaluation Results \t"
-	print "--------------------------------------"
+    print "------- Training Sentiment Polarity Detection Classifiers --------"
+    test_pd = train_xgboost_model_foreachPolarity(train_feats,test_feats,test_pd,polarities,train_pd)
 
-	print "Accuracy %f :"%acc
-	print "F Score %f :"%fsco
-	print ""
-	return acc
-    
+    labels = []
+    if 'is_neutral' in test_pd.columns:
+        for ind,rev in test_pd.iterrows():
+            labels.append(compute_label(rev['predicted_prob_positive'],rev['predicted_prob_negative'],rev['predicted_prob_neutral']))
+
+    else:
+        for ind,rev in test_pd.iterrows():
+            labels.append(compute_label(rev['predicted_prob_positive'],rev['predicted_prob_negative']))
+
+
+    test_pd['predictedLabels_multi'] = labels   
+
+    acc = accuracy_score(test_pd['polarity'],test_pd['predictedLabels_multi'])
+    fsco = f1_score(test_pd['polarity'],test_pd['predictedLabels_multi'],average='macro')
+
+    print "--------------------------------------"
+    print "\t Evaluation Results \t"
+    print "--------------------------------------"
+
+    print "Accuracy %f :"%acc
+    print "F Score %f :"%fsco
+    print ""
+    return acc    
     
 #main()
     
