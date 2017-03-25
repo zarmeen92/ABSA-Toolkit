@@ -20,7 +20,8 @@ Following libraries are required to run python scripts
 - pystruct
 - re
 
-Download the above mentioned libraries using  command **pip install package-name**
+To install libraries, use **pip install -r requirements.txt**
+
 To run xgboost on Windows, please refer to installation guide available here : https://github.com/dmlc/xgboost/blob/master/doc/build.md
 After installing nltk, run following commands in python environment : 
 import nltk
@@ -50,20 +51,20 @@ Follow instructions written below:
 
 5. Make sure to remove all files inside models/acd, models/pd, models/ote folders before training
 6. Run script absa.py for training aspect-based sentiment analysis models using command below
-        **python absa.py -trainfile -testfile -vectors -lexicon**
+        **python absa.py**
    Try running,
-   python absa.py data/restaurants/train.csv data/restaurants/test.csv vectors_yelp_200.txt lexicons/Yelp-restaurant-reviews-AFFLEX-NEGLEX-unigrams.txt 
+   python absa.py
 
-  for restaurant domain application
+![DataInput](https://github.com/zarmeen92/ABSA-Toolkit/blob/master/absa-snapshots/data_fig2.jpg)
 
 Once the models are trained, you will see summary as shown below
-![Summary](https://github.com/zarmeen92/ABSA-Toolkit/blob/master/absa-snapshots/Capture6.PNG)
+![Summary](https://github.com/zarmeen92/ABSA-Toolkit/blob/master/absa-snapshots/summary_train_fig5.jpg)
 
 
 After training phase is complete you are ready to use web application
 
 ## Production Phase for Aspect-Based Sentiment Analysis
-**python absaweb.py -vectors -lexicon**
+**python absaweb.py -wordembeddingsFile -lexiconFile**
 
 Use the same vector file and lexicon file as used in training phase
 For example,
