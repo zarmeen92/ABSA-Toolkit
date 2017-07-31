@@ -11,7 +11,7 @@ import sklearn
 import nltk
 import pandas as pd
 import xgboost
-#from sklearn.grid_search import GridSearchCV
+from sklearn.grid_search import GridSearchCV
 from sklearn.model_selection import RandomizedSearchCV
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import f1_score
@@ -25,6 +25,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.externals import joblib
 from sklearn.metrics import f1_score
 from sklearn.metrics import make_scorer
+from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
+from sklearn.naive_bayes import GaussianNB
+from sklearn.svm import SVC
+from sklearn.tree import DecisionTreeClassifier
 import pickle
 # In[6]:
 
@@ -163,7 +167,102 @@ def train_xgboost_model_foreachCategory(train_feats,test_feats,test_SF,categorie
 				
     return test_SF
 
+#Random Forest
+def train_randomForest_model_foreachCategory(train_feats,test_feats,test_SF,categories,train_SF):
+    x_params = { 'max_depth':range(3,10,2),
+             'n_estimators': [60,80,100],
+             'class_weight' : ['balanced']
+          
+           }
+    rf_model =  RandomForestClassifier()
+    for cat in categories:
+				print ""
+				print "----- Training Random Forest Classifier for %s Class -------- " %cat
+				clf = RandomizedSearchCV(rf_model, x_params,cv = 3,scoring=f1_scorer)
+				clf.fit(train_feats,train_SF[cat])
+				#saved = save_model(clf,'models/acd','model_'+cat)
+				#print(clf.best_score_)
+				#print(clf.best_params_)
+				
+				print "Saving model ... "
+				filename = 'models/acd/model_'+ str(cat)+'.sav'
+				pickle.dump(clf.best_estimator_, open(filename, 'wb'))
+				predict_col = 'predicted_prob_'+cat
+				test_SF[predict_col] = return_prob_positive_class(clf.predict_proba(test_feats))
+				print '-------------------------------------'
+				
+    return test_SF
+#ADA boost 
+def train_adaboost_model_foreachCategory(train_feats,test_feats,test_SF,categories,train_SF):
+    x_params = { 
+             'n_estimators': [60,80,100],
+           
+           }
+    ada_model =   AdaBoostClassifier(DecisionTreeClassifier(max_depth=3))
+    for cat in categories:
+				print ""
+				print "----- Training ADA Boost Classifier for %s Class -------- " %cat
+				clf = GridSearchCV(ada_model, x_params,cv = 3,scoring=f1_scorer)
+				clf.fit(train_feats,train_SF[cat])
+				#saved = save_model(clf,'models/acd','model_'+cat)
+				#print(clf.best_score_)
+				#print(clf.best_params_)
+				
+				print "Saving model ... "
+				filename = 'models/acd/model_'+ str(cat)+'.sav'
+				pickle.dump(clf.best_estimator_, open(filename, 'wb'))
+				predict_col = 'predicted_prob_'+cat
+				test_SF[predict_col] = return_prob_positive_class(clf.predict_proba(test_feats))
+				print '-------------------------------------'
+				
+    return test_SF
 
+# Naive Bayes
+def train_naiveBayes_model_foreachCategory(train_feats,test_feats,test_SF,categories,train_SF):
+    for cat in categories:
+				print ""
+				print "----- Training Naive Bayes Classifier for %s Class -------- " %cat
+				clf = GaussianNB()
+				clf.fit(train_feats,train_SF[cat])
+				#saved = save_model(clf,'models/acd','model_'+cat)
+				#print(clf.best_score_)
+				#print(clf.best_params_)
+				
+				print "Saving model ... "
+				filename = 'models/acd/model_'+ str(cat)+'.sav'
+				pickle.dump(clf, open(filename, 'wb'))
+				predict_col = 'predicted_prob_'+cat
+				test_SF[predict_col] = return_prob_positive_class(clf.predict_proba(test_feats))
+				print '-------------------------------------'
+				
+    return test_SF
+#Support Vector Machines
+def train_svc_model_foreachCategory(train_feats,test_feats,test_SF,categories,train_SF):
+    x_params = { 'kernel':['linear', 'poly', 'rbf', 'sigmoid'],
+              'C':[i/100.0 for i in range(10,100,5)],
+              'probability':[True],
+             'class_weight' : ['balanced']
+           }
+    svm_model =  SVC()
+    for cat in categories:
+				print ""
+				print "----- Training SVM Classifier for %s Class -------- " %cat
+				clf = RandomizedSearchCV(svm_model, x_params,cv = 3,scoring=f1_scorer)
+				clf.fit(train_feats,train_SF[cat])
+				#saved = save_model(clf,'models/acd','model_'+cat)
+				#print(clf.best_score_)
+				#print(clf.best_params_)
+				
+				print "Saving model ... "
+				filename = 'models/acd/model_'+ str(cat)+'.sav'
+				pickle.dump(clf.best_estimator_, open(filename, 'wb'))
+				predict_col = 'predicted_prob_'+cat
+				test_SF[predict_col] = return_prob_positive_class(clf.predict_proba(test_feats))
+				print '-------------------------------------'
+				
+    return test_SF
+
+    
 # Aspect Category Detection
 def category_detection(correct,predicted):
     common, relevant, retrieved = 0., 0., 0.
@@ -202,7 +301,7 @@ def evaluate(test,categories):
 
 
 # In[ ]:
-def main(train_SF,test_SF,model):
+def main(train_SF,test_SF,model,algCD):
 	 # Read train and Test CSV Files
 	#print "Reading train and test files"    
 	#train_SF = pd.read_csv(trainF,sep = '\t')
@@ -280,8 +379,16 @@ def main(train_SF,test_SF,model):
 
 	train_feats =np.column_stack((trainDataVecs,cs_train))
 	test_feats = np.column_stack((testDataVecs,cs_test))
-
-	t = train_xgboost_model_foreachCategory(train_feats,test_feats,test_SF,categories,train_SF)
+	if algCD == 'Random Forest':
+		t = train_randomForest_model_foreachCategory(train_feats,test_feats,test_SF,categories,train_SF)
+	elif algCD == 'Naive Bayes':
+		t = train_naiveBayes_model_foreachCategory(train_feats,test_feats,test_SF,categories,train_SF)
+	elif algCD == 'SVM':
+		t = train_svc_model_foreachCategory(train_feats,test_feats,test_SF,categories,train_SF)
+	elif algCD == 'ADA Boost':
+		t = train_adaboost_model_foreachCategory(train_feats,test_feats,test_SF,categories,train_SF)
+	else:
+		t = train_xgboost_model_foreachCategory(train_feats,test_feats,test_SF,categories,train_SF)
 	print "----------------------------------------------------------------"
 	print "\t Evaluation on Test Data \t\t"
 	print "----------------------------------------------------------------"

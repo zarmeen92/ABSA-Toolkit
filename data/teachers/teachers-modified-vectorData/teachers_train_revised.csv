@@ -1,0 +1,1316 @@
+aspect term	category	polarity	text
+;prof;class	 teacher course	 positive negative	Prof. Cook is a very nice man but his class is very difficult.
+;teaches	 teaching	 negative	He never teaches the material--instead, he goes on about some obscure, random fact you never have to think about again.
+;null	 teacher	 positive	Definitely expects a lot of work but will always go the extra mile to help you out if you put forth the effort.
+;null	 teacher	 positive	Take her and you will not regret it, if you make a B you just need to drop out of college.
+;exam	 exam	 positive	He even admitted he thought the exam was too hard so he would scale the final grades for our class.
+;null	 teacher	 positive	Love her!
+;null	 teacher	 negative	basically don't skip and talk a lot and she will like you, but if you are a person who doesn't like talking in class, you're screwed.
+;stuff	 knowledge	 positive	He really knows his stuff, no matter what he's talking about.
+;explaining concepts	 teaching	 negative	Not to good in explaining concepts.
+;teacher	 teacher	 negative	She was a terrible teacher.
+;topic	 teaching	 positive	Makes the topic interesting!
+;class	 class	 positive	Mr. Everett's class was very difficult for me, but worth it!
+;null	 teacher	 positive	Such a nice guy.
+;presentations;class discussion	 teaching answering	 negative negative	Her presentations are uninteresting and do not activate class discussion or motivate the students in the course.
+;null	 teacher	 positive	He is simply great!
+;person;class	 teacher course	 positive negative	He is a very nice person but this class is rediculously hard, especially if you've never taken calc before.
+;null	 teaching	 positive	I loved how he went over things a few times until everyone understood.
+;tests	 exam	 neutral	Everyone fails that tests, but you should end up with a C if you do the owls.
+;class	 teaching	 positive	He is super helpful and gives you everything you need to know plus more, and this made the class seem less scary.
+;pop quizzes	 exam	 negative	Her pop quizzes are very tough.
+;person	 teacher	 positive	He is the nicest person.
+;class	 teacher	 positive	However, his class is pretty tough, making us apply the knowledge we learned in class on exams.
+;feedback;participation	 approachable answering	 positive positive	Extremely clear expectations, valuable feedback, excellent participation.
+;null	 teacher	 neutral	If you aren't a math person, you may struggle with him.
+;null	 teacher	 positive	She takes into account if you care about your grade, once she knows that she will help as much as she can
+;class	 teacher	 positive	I recommend taking his class!
+;null	 teacher	 positive	She comes through on her part and she expects you to do the same as well.
+;classes	 teacher	 positive	His classes were the highlight of my week.
+;tests	 exam	 positive	Tests are NOT based on wileys.
+;teacher	 teacher	 positive	She is the absolute best teacher.
+;null	 teacher	 positive	SHE IS FUNNY AND VERY ENGAGING.
+;tools;letter grade	 teaching teaching	 positive positive	Mr. Everett wants you to walk away from his class with the tools for the future and not just the letter grade.
+;help	 approachable	 positive	He is always in the lab if you need help.
+;class	 teaching	 negative	She treats the class like elementary school kids.
+;american history;literature	 relevant relevant	 positive positive	I learned so much about American history and literature.
+;process	 approachable	 positive	Although there is much work to be done for this research class she does her best to guide you thru the entire process.
+;quizzes	 exam	 neutral	No homework, no textbook but graded quizzes every Friday and iClicker attendance  every day.
+; journal entires, 1 group project, midterm, and a final	 exam	 neutral	The course consists of journal entires, 1 group project, midterm, and a final.
+;material	 teaching	 negative	As a Brit Lit I student I was not excited about the material until closer to the end of the semester, and English is my major.
+;null	 teacher	 positive	Best Prof of all time
+;exams	 exam	 negative	exams are extremely hard, and if you skip a class you will forever be behind.
+;class	 teacher	 negative	Cook has the unique ability to make you confused about things you understood prior to the class.
+;null	 teacher	 negative	Couldnt get myself to focus on what he was talking about
+;null	 course	 neutral	BioTAP is very difficult, but also very rewarding.
+;assignments	 exam	 neutral	She has unannounced writing assignments over your book, if you want to good on these you need to read, but its still not mandatory.
+;papers	 exam	 positive	The papers are easy if you have her proofread them.
+;professor	 teacher	 positive	Randy is without a doubt my favorite professor starting off my freshman year.
+;email	 approachable	 negative	He never checks his email.
+;professor	 teacher	 positive	I am honestly looking forward to more classes with this professor.
+;null	 teacher	 negative	What a jerk!
+;teacher	 teacher	 positive	HOWEVER, Everett is an exceptional teacher.
+;class	 teacher	 positive	He always made jokes and it is a great fun to go to class.
+;null	 teacher	 positive	A fair-game player, meaning treats students equal.
+;tutor	 teacher	 positive	He is the best tutor!
+;null	 teacher	 negative	She favors students with the same political views as her own.
+;null;bio class	 teacher course	 positive negative	He's a funny and relatable guy, but as a general bio class, it is too difficult (and I took AP bio and got credit, and tend to think i know a lot about biology).
+;null	 teacher	 negative	DON'T TAKE THIS CLASS!!!
+;papers	 approachable	 positive	She was very helpful in writing papers and was nice overall.
+;null	 teaching	 negative	He spends more time taking to his calk (literally) and reciting Shakespeare than teaching calc.
+;null;questions	 teacher answering	 positive positive	Randy is a very nice guy, but man is he confusing and loves trick questions.
+;professor	 teacher	 negative	Bad Professor.
+;null	 teacher	 positive	One of the best at CTC.
+;null	 teacher	 negative	That being said, conservatives should try to avoid her classes because although she claims she doesn't opine, she does.
+;paper	 exam	 positive	There is a large paper due but it is done with a group.
+;material	 teaching	 negative	He refuses to actually teach the material by using examples and going over things step by step.
+;tests;research paper	 exam exam	 neutral neutral	Study, study, study for the tests and do well on the research paper and you'll be fine.
+;teaching	 teaching	 positive	I liked him a lot, he really seems to like his students and enjoy teaching.
+;lectures	 teaching	 negative	Lectures are the WORST in the entire universe and are useless.
+;null	 grading	 negative	Papers are graded harshly.
+;class	 teacher	 positive	Wish i could take this class over again.
+;class	 teacher	 negative	going to class is useless!
+;course	 teacher	 neutral	People who complain about the difficulty of the course just need to put in more work.
+;teacher	 teacher	 positive	Respectable teacher.
+;class	 teacher	 positive	He's obviously passionate about Biology and makes class real-world applicable.
+;class	 teacher	 negative	I like math have a B but this class is so bad do not take it with him.
+;null	 teacher	 positive	very funny and laid back lady.
+;essays	 exam	 neutral	I warn you though, he loves essays!
+;teaching methods	 teaching	 negative	Old School teaching methods.
+;test	 exam	 positive	she basically tells you exactly whats on the test.
+;feedback	 approachable	 positive	Leaves plenty of feedback and you can tell he wants his students to succeed. 
+;null	 teacher	 positive	Hard to find online teachers that can keep up with short term courses, and she excels.
+;grade	 grading	 positive	Easy to get a good grade in his class.
+;students	 approachable	 positive	He really cares about his students and is willing to help bascially everything.
+;reading;paper	 course course	 positive positive	Before taking Mr. Everett's class, I couldn't stand reading and I couldn't write a decent paper.
+;drafts;grade	 exam exam	 positive positive	He asks you send in rough drafts and then edits them for you to improve your grade!
+;owls	 exam	 positive	Just put examples from owls on it and you will be fine.
+;null	 teacher	 negative	Boring, not clear and not good at preparing students for his exams which are MC
+;null	 approachable	 positive	Great guy, very friendly, approachable, and willing to help you out with whatever problems you are facing.
+;lectures;null	 teaching approachable	 positive positive	His lectures are decent, his labs are awesome, and he's always willing to help students when they're stuck.
+;tests	 exam	 positive	His tests are more clear than Math 127 tests, kind of a funny teacher, but makes me sleepy.
+;lectures	 teaching	 negative	He is not clear in his lectures.
+;null	 teacher	 positive	Being his brother, it's hard to find any of his good qualities, but this man is brilliant (relative to most, not me), if you fail his class, perhaps the problem lies in your own stupidity.
+;null	 teacher	 positive	Caring, funny, sweet, she's the best.
+;null	 teacher	 positive	Schurter is the man!
+;class	 teacher	 positive	Attendance isn't mandatory but I loved going to class.
+;class and professor	 teacher	 positive	Overall a great class and awesome professor!
+;explain	 teaching	 negative	"Cook would be better off as a 1950's stand up comedian than a math prof. he doesnt explain ANYTHING and his ""examples"" in class are nothing like the ones on the exams."
+;talking	 answering	 positive	Shes my best friend :) Spent most time in her office just talking haha.
+;exams and quizzes	 exam	 negative	I will admit he definitely does care for his students but the way his exams and quizzes were designed made it a difficult intro course.
+;professor	 teacher	 positive	Fantastic professor and truly cares about his students.
+;explains;null	 teaching approachable	 positive negative	good teacher and explains things thoroughly, but he is hard to track down for office hours.
+;null	 teacher	 positive	Professor Christopher is amazing!
+;null	 teacher	 negative	He goes off in tangents.
+;null	 teacher	 positive	MUST TAKE!!!!!!
+;null	 teacher	 positive	Mehran is the best.
+;teacher	 teacher	 positive	Good teacher.
+;exams	 exam	 negative	His exams are difficult with trick questions, so it is easy to get a few wrong.
+;11 journal entries, 1 group presentation, & midterm/final	 exam	 neutral	11 journal entries, 1 group presentation, & midterm/final
+;workload;exam	 course exam	 negative negative	The workload in this class was moderately heavy, and the exam is tough.
+;null	 knowledge	 positive	She is very personable and she knows her Crim!
+;class	 class	 neutral	BioTAP 190H was a love-hate class.
+;help;guidelines;assignments	 approachable approachable approachable	 positive positive positive	He is very willing to help and gives very clear guidelines and goes over step by step how to do the assignments.
+;lectures	 teaching	 positive	She cares about her students success, and tries to connect the lectures to her life experiences which makes things fun to learn and easier to grasp.
+;class	 teacher	 negative	took calc in high school, and never went/ go to class and got an A in 127 and will get one in 128... boring class, puts me to sleep, and doesnt explain things well, so i dont go.
+;learning	 teacher	 positive	Now if you want to actually learn and have fun learning, she is definitely the one to take!!!!
+;papers	 grading	 negative	oh my goodness he is passionate but he grades our papers as if are papers are going to be published.
+;teach	 teaching	 negative	I love math, and i normally understand the concepts in math very well, but he just doesn't know how to teach.
+;instructor	 teacher	 positive	Prof Christopher is the funniest and most personable instructor I have ever had.
+;lectures	 teaching	 positive	Her lectures aren't boring, easy to understand.
+;american literature	 course	 positive	American Literature II is an awesome class!
+;weekly quizzes and exams	 exam	 positive	This is reflected in weekly quizzes and the exams, but go to lecture because he doesn't teach out of the textbook and gives iClicker questions to help.
+;class	 teaching	 positive	I love this class.
+;class	 course	 positive	Easy class, but prepare to read a lot at
+;class	 teacher	 negative	Class is so boring i've might lost attention numerous times every class.
+;sources;papers	 exam exam	 negative negative	He was somewhat careless about checking sources in my papers, but he did give me points back once I pointed that out.
+;courses	 teacher	 positive	I plan on taking her courses again.
+;grades	 grading	 positive	She grades fairly.
+;learn	 teacher	 negative	i really didnt learn much to tell u the truth.
+;tf	 exam	 neutral	Tons of TF.
+;hw assignments	 exam	 positive	She uses different types of hw assignments too which is nice.
+;class work	 exam	 positive	Her class work is decent and is useful to the course material.
+;teacher	 teacher	 positive	She is an awesome teacher.Very funny and keeps the class entertaining.
+;teacher	 teacher	 negative	I have not had any problems with teachers before but this teacher was terrible.
+;prof	 teacher	 negative	Cook is a really bad prof.
+;class	 class	 neutral	This is not a class you learn out of the textbook for.
+;technology	 teacher	 negative	The only annoying thing is that he doesn't use technology so don't try e-mailing him.
+;professor	 teacher	 positive	Best professor ever!
+;null	 approachable	 positive	shes super nice too so ask and shell help.
+;class	 teacher	 negative	I've never had a problem with math until this class.
+;null;null	 relevant teacher	 positive positive	I learned a lot.
+;owls	 exam	 neutral	sooo just pretty much teach yourself using the owls.
+;test;tests	 exam exam	 negative negative	His reviews for each test also give you no insight into what his tests will be like.
+;professor	 teacher	 positive	This is the second time I have had her as a professor, she is amazing and she knows it.
+;taught	 teaching	 positive	Taught the course better than my AP Biology teacher from high school.
+;learn	 teacher	 negative	He doesn't really help you learn.
+;email	 approachable	 negative	He does not respond to email.
+;teacher	 teacher	 positive	Great teacher and makes class exciting.
+;readings	 exam	 negative	The readings are too much.
+;class	 course	 negative	Don't take this class with a full (12cr+) load.
+;learn	 teacher	 negative	He seems like his passion for the subject is gone because he does not motivate you to learn.
+;owls;owls	 exam relevant	 negative negative	OWLs are hard and sometimes not relevant to lecture, sometimes not relevant to the book.
+;prof	 teacher	 positive	Great prof.
+;computer	 knowledge	 negative	im pretty sure thurlow doesnt know how to even use a computer.
+;null	 teaching	 positive	Teaches concepts and application over specific facts.
+;course	 course	 positive	Easiest math course @umass.
+;classes;learned	 teacher relevant	 positive positive	One of the only classes I can say I actually learned useful information in.
+;class;syllabus	 course course	 negative negative	I'm taking his class online and his syllabus is extremely confusing and hard on the eyes.
+;exams	 exam	 negative	He's a joker and a half and he tells you what will be on the exams.
+;lectures	 teaching	 positive	He is funny, his lectures are pretty interesting.
+;null	 teaching	 negative	She has the ability to turn interesting topics into boring ones and does not allow anything outside of her rules.
+;help;open door policy;help	 approachable approachable approachable	 positive positive positive	If you need any help, he has an open door policy and is willing to offer all the help you need.
+;null	 teacher	 positive	Nice guy, I went to nearly every class, when it came time for the exam, I realized I hadn't learned most of the material.
+;notesassignments;assignments	 exam exam	 positive positive	Excellent notes and assignments on the web.
+;null	 teaching	 negative	She basically reads from the overhead for notes.
+;course	 teacher	 negative	Don't take this course!
+;knows	 knowledge	 positive	His age does make it a little harder to understand but he knows his stuff and if you aren't retarded you will do fine.
+;intelligent	 teacher	 positive	He is an intelligent man whose jokes carry the class more than his explanations.
+;null	 teacher	 negative	do not take her.
+;prof	 teacher	 positive	She is the coolest and funniest prof. at MSU whoohoo, she is so awesome.....
+;lecturer	 teaching	 positive	He's an older guy, and an old-fashioned lecturer, but I find it charming and refreshing.
+;class	 teaching	 positive	She makes Sociology personal, and that makes the class very interesting.
+;null;class	 teacher approachable	 positive positive	Very Canadian, very funny and very helpful.
+;follow	 teacher	 negative	So hard to follow.
+;null	 teaching	 positive	That said, he does clearly explain math concepts.
+;null	 teaching	 positive	Goes off-topic too often.
+;lectures	 teaching	 negative	He's all over the place in lectures and often does out long complicated problems on the board and only mentions when he's finished that it won't be on the test and he just wanted to show us where things come from.
+;null	 teacher	 positive	TAKE HER!
+;tests	 exam	 positive	Tests are easy (she gives you the answers).
+;class	 teacher	 negative	Avoid this class at all costs, unless calculus comes easily to you- you will not learn anything!!
+;exams	 exam	 negative	he is out to get u on the exams.
+;null	 teacher	 positive	I did enjoy his anecdotes and his comments.
+;null	 teacher	 negative	do not like him at all!
+;null;teaching style	 teacher presentation	 positive negative	Randall Phillis is a great guy, but his teaching style is very strange.
+;tests	 exam	 positive	His tests are easy as long as you put time into studying!
+;teach his material	 teaching	 negative	Prof. Cook has good intentions but doesn't know how to teach his material.
+;composition, writing, and literature;writing;literature	 relevant relevant relevant	 positive positive positive	If you want to learn about composition, writing, and literature FOR REAL then take his classes.
+;null	 teacher	 negative	Dr. Hora is a talker, she does love it so.
+;assignments;relevant;null	 exam relevant teaching	 positive positive positive	She is organized and her assignments are fun and relevant.
+;professor	 teacher	 positve	He was an awesome professor!
+;students	 approachable	 positive	He has a deep and genuine interest in helping out his students.
+;null	 teacher	 positive	He cares more about how biological systems work over straight-up vocabulary.
+;damn	 teacher	 negative	Damn.
+;english	 teacher	 positive	I'd recommend him to anyone taking English.
+;null	 teacher	 negative	As much as I was interested in this class before taking it,my motivation for it steadily declined as it progressed.
+;class	 course	 negative	The class is terribly confusing and hard, but if you talk to him about your grade he can be reassuring.
+;teaching yourself	 teacher	 neutral	Only take this class if you're comfortable with teaching yourself the material.
+;null	 knowledge	 negative	THis guy thinks he knows everything... funny to hear him talk...look around the class 50% of ppl are sleeping now thats chemistry
+;professor	 teacher	 positive	Without a doubt best professor at UWG.
+;exams	 exam	 positive	Hard exams, but worth it.
+;class	 course	 negative	dont take this class if you cant teach yourself some pretty difficult math
+;power points;subject	 teaching teaching	 negative negative	i am just trying to get a credit and this class is just dragging he continues to go off subject during lecture and his power points are super long.
+;explains	 teaching	 positive	he actually explains what he means
+;null	 teacher	 positive	And yea, he's kind of soft-spoken.
+;null	 teacher	 positive	Wow not as easy as i thought she would be!
+;class;late	 teaching late	 negative negative	He is unprepared for class not to mention 10 minutes late every class period.
+;professor	 teacher	 positive	Professor Christopher is the best professor in the CRIM department, because of her I now have changed my major to SOCI and my minor to CRIM.
+;discussion	 answering	 positive	Class is just one big discussion and she is So understanding and HYSTERICAL.
+;quizzes	 exam	 neutral	All the tests & Friday quizzes are multiple true/false & the discussion assignments are T/F & free response so you have to be able to understand concepts and ideas to do well in his class - not just facts.
+;skills	 relevant	 positive	You leave his class having learned life skills that will actually help you in your career.
+;grammar	 teaching	 positive	He will teach you everything about grammar, then expect you to know it.
+;null	 teacher	 neutral	Be positive, work hard, and buy into the things he requests and you will learn and grow in the best ways possible.
+;midterm and one final	 exam	 neutral	One midterm and one final.
+;teacher	 teacher	 positive	Very good teacher!
+;class	 teacher	 positive	It's easy because you actually enjoy listening to her and being in her class!
+;class	 teacher	 neutral	If you pay attention, you will love this class.
+;notes	 exam	 neutral	Take the best notes you can (struggle) and GO TO ALL THE SI SESSIONS if you want an A.
+;lecture	 teaching	 negative	Hard to pay attention the whole lecture but it is a must if you don't want to get confused.
+;person	 teacher	 positive	OMG, what a great person.
+;class	 course	 negative	I had to study a ton in this class.
+;null	 teacher	 positive	Mr. EVERETT is very fair.
+;null	 teacher	 positive	Professor Schurter is one of the best teachers I have ever had in my entire educational career.
+;null	 teaching	 negative	Very unclear and hard to follow, the class was a total waste of time.
+;unclear	 teaching	 negative	Extremely unclear, never gives example problems.
+;null	 approachable	 positive	She is very helpful and really cares about what she is doing!
+;null	 approachable	 positive	One of few professors who remembers personal details about you and will go out of his way to help you out.
+;prof	 teacher	 positive	Best prof ever!.I have been to colleges in Nigeria,Canada,&USA.Thats more than half way across the earth globe,and all thru the Atlantic ocean.I would say this is the best prof that ever lived on earth.
+;material	 teacher	 positive	Just study the material.
+;powerpoints;exampls	 teaching teaching	 neutral neutral	His powerpoints are LONG so be prepared to write and do all the examples he gives.
+;teacher	 teacher	 positive	My favorite teacher and one of the coolest teachers at West Ga.
+;learned	 teacher	 positive	I learned a lot of scientific skills and loved this class.
+;nu;;	 teacher	 positive	AMAZING!
+;null	 approachable	 positive	Randy was nice and helped me with my group problems.
+;lecture	 teaching	 positive	But still a guy that keeps the lecture lively.
+;class	 course	 positive	fairly easy class overall
+;null	 teacher	 positive	Alpha male with brains.
+;null	 teacher	 negative	Unclear, inconsiderate, unprepared, and lazy
+;teaching	 teaching	 negative	Great Guy, but its hard to understand what he is teaching; he goes off tangents and talks about the history of the math than actually teaching us how to do it.
+;null	 teacher	 positive	She's really helpful and funny too.
+;professor	 teacher	 positive	Dr. Sacher is a wonderful professor!
+;teaching style	 teaching	 positive	Interesting professor, I enjoyed his teaching style very much.
+;taught	 teaching	 positive	Taught the material at good pace and kept the class laughing.
+;null	 teacher	 negative	very boring and not clear.
+;null	 teacher	 negative	If you think calculus is hard as is and you feel like torturing yourself, then Professor Cook is for you.
+;english majors	 relevant	 positive	His classes should be labeled for English majors.
+;powerpoint slideshows	 teaching	 neutral	He likes the use of Powerpoint slideshows and he lectures for long periods of time.
+;email	 answering	 negative	Doesn't EMail.
+;exams	 exam	 positive	Cook teaches by example and his practice exams are very similar to real exams.
+;material	 teaching	 positive	He's an extremely helpful, friendly professor who is deeply passionate about the material, so of course he wants to go into detail.
+;null	 teacher	 positive	He is a nice guy overall and really cares. 
+;teachers	 teacher	 positive	One of the most interesting teachers I've met.
+;help;teaching style	 approachable teaching	 positive neutral	It takes a little while to get used to his teaching style, but if you ask for help he will do his best to assist you.
+;professor	 teacher	 positive	By far my favorite professor.
+;course	 teacher	 neutral	If you do not want to spend time in extra help, do not take the course with him.
+;null	 teacher	 positive	I highly recommend it.
+;professor	 teacher	 positive	Great Professor.
+;intro bio class	 course	 negative	Randy is an awesome guy, don't get me wrong, but there's no way an intro Bio class should be this difficult.
+;handbooks;syllabus	 teaching teaching	 positive positive	He lays everything out in the handbooks and the syllabus which helps a lot.
+;null	 grading	 positive	If you go to his office hours you will get above a 93 on every assignment.
+;exam	 exam	 positive	go to EVERY class, take really good notes b/c most of his exam questions are based on examples in class, read the book.
+;biology	 teacher	 positive	The man is the reason I can actually understand Biology.
+;null	 answering	 negative	You're expected to learn from sample questions that he doesn't explain.
+;tests	 exam	 positive	Very easy to follow and tests are quite fair.
+;students	 approachable	 positive	She cares for her students and is passionate about what she teaches.
+;null	 answering	 positive	He cares more about persuasiveness than originality.
+;professor	 teacher	 positive	My favorite professor at UMass.
+;null	 teacher	 positive	COOK IS A NICE GUY AND HE GOES OVER EXAMPLES A LOT.
+;classes	 teaching	 negative	He spends entire classes deriving formulas that are in the text already, and spouting off about Leibniz and Newton.
+;pop quizzes	 exam	 positive	You really need to keep up everyday with the readings to do well on pop quizzes.
+;tests	 exam	 negative	Tests are very hard- mainly tricky.
+;knows	 knowledge	 positive	My favorite criminology at the school and really knows what she is teaching about.
+;null	 approachable	 positive	I appreciate his patience and caring for students who seek for help.
+;exams	 exam	 positive	All exams include diagrams so you don't need to memorize.
+;tests	 exam	 negative	His tests are all T/F, but can be tricky.
+;null	 teacher	 positive	She will tell u exactly what is on it if you ask her.she lets u out early!
+;writing class	 teacher	 positive	Definitely take your junior writing class with him.
+;null	 teacher	 positive	Highly recommend talking to him in office hours just because of how great of a guy he is.
+;views	 teacher	 negative	Her views are too left winged to be teaching at a majorly Conservative university.
+;homework	 exam	 negative	homework has nothing to do with the tests which are all 15 qs each/85% of your grade so if you mess one up you're screwed.
+;null	 grading	 negative	I    spoke everyday AND helped her correctly teach about the Iowa Caucuses and she didn't give me an A.
+;professor	 teacher	 positive	Phillis is a great professor despite being unpopular with some students.
+;null	 teacher	 positive	Seems very opinionated and loves to share them everywhere.
+;teacher	 teacher	 positive	Professor Christopher is an excellent teacher.
+;null	 teacher	 negative	haha this guy is a joke.
+;null	 teacher	 negative	However, you may never know for sure what your grade is prior to the end of the semester being that he never gets papers back.
+;null	 teacher	 positive	Prof Cook is an excellent man.
+;class	 teacher	 negative	yes im bad at math, however going to class doesnt help and neither does homework.
+;null	 teacher	 positive	Awesome guy.
+;classes	 teacher	 positive	You learn so much from her classes and she's the reason I want to get into the field of Criminology.
+;null	 approachable	 positive	Through the journals she requires every week, you feel like you have a personal therapist to talk to.
+;null	 teacher	 positive	You must take her if you get a chance.
+;teaching	 teaching	 negative	Prof is a nice guy but he shouldn't be teaching.
+;null	 teacher	 positive	She is fun, crazy, and down to Earth.
+;null	 course	 positive	It's not too difficult.
+;students	 approachable	 positive	He also educates his students on how to be good people.
+;teaching	 teaching	 negative	He is rediculously bad at explaining the material and should be banished from teaching.
+;null	 teacher	 negative	He gets fustrated when you analyze a piece of work differently from how he analyzes it.
+;b+	 grading	 positive	If you go to class and do the pactice problems in the class, you'll probably get an at least a B+
+;fail	 teacher	 negative	Most students fail here.
+;a	 grading	 positive	I got an A out of the class.
+;grade	 grading	 positive	Even if you're bad at math you can get a good grade.
+;readings;tests;material	 exam exam exam	 neutral neutral neutral	Make sure you do the readings, as his tests cover the reading material.
+;null	 teacher	 positive	It doesn't hurt that he has a great sense of humor too, it really brightens up the class.
+;null	 approachable	 positive	His door is always open for people who want to learn.
+;null	 teacher	 neutral	Plus he never really gives you the answers to any of his iClicker questions in class, so going to class is pretty important.
+;null	 teaching	 positive	One of  the most impressive lecture at Stanford.
+;class	 teaching	 positive	I personally never had any problems with her and loved her class.
+;courses	 teacher	 positive	I highly suggest you take her courses.
+;null	 grading	 positive	" see a lot of comments here about ""Easy A's."""
+;teacher	 teacher	 positive	A great teacher!!
+;null	 teacher	 positive	She is very passinate and honest.
+;null	 teacher	 positive	He is all about application and less about memorization.
+;professor	 teacher	 negative	Ridiculous professor.
+;class	 teaching	 negative	he goes on tangents in class irrelevant to anything.
+;book	 teaching	 negative	Don't bother reading the book, its pointless.
+;null	 teacher	 positive	Dr. Sacher is amazing!
+;teacher	 teacher	 negative	Awful, Awful teacher.
+;stuff	 knowledge	 positive	i hate calculus..but i guess he knows his stuff..if i went to class i guess that would help...
+;lectures	 teaching	 neutral	His lectures can be a bit boring, but he can be funny at times.
+;null	 teacher	 positive	She is funny, open and really interested in her topic.
+;null	 teacher	 positive	She CARES.
+;null	 teacher	 positive	Randy is the kindest man with great humor and he really does want everyone to succeed.
+;eat/chat	 approachable	 positive	Impossible to do poorly since you can meet him at Newman Cafe almost any morning and eat/chat with him.
+;quizzes and exams	 exam	 positive	She gives plenty of helpful hints for upcoming quizzes and exams and makes every class period the most enjoyable i have ever had in my whole college experience.
+;test	 exam	 positive	All problems done in class are on the test.
+;null	 teacher	 positive	She is amazing and is very passionate about the criminal justice system.
+;null	 teacher	 positive	He's humble and also a great resource.
+;class participation	 answering	 positive	She grades too much on class participation.
+;null	 teacher	 negative	If you pay attention and go to all SI sessions it's an easy B and a kind of difficult A.
+;lectures	 teaching	 positive	His lectures are engaging and his comfort in front of and control of the lecture hall is truly remarkable. 
+;a	 grading	 neutral	She's a little disorganized but her class is an easy A as long as you do the work and go to class.
+;null	 teacher	 positive	Love her.
+;material	 teaching	 negative	He covers the same material for about 3 weeks straight.
+;null	 course	 positive	Its honors but it will be easier.
+;damn	 teacher	 negative	Confusing.
+;teaching	 teaching	 positive	She needs to give a class on teaching to other professors in the world.
+;null	 teacher	 positive	He was definately my favorite.
+;teach	 teaching	 negative	He likes to teach the concepts and what's behind them rather than teaching you step-by-step processes, making it a little more difficult.
+;teachers	 teacher	 positive	Wish all teachers were like Mr Everett.
+;literature;tools	 teaching teaching	 positive positive	He is passionate about literature and gives his students a lot of tools to utilize in order to excel in the class.
+;null	 teacher	 positive	TAKE JR WRITING WITH HIM and you will not regret it
+;null	 teacher	 positive	Expects a lot but that is good!
+;null	 teacher	 negative	What, is the guy stuffing his own ballet?!?!?  Pompous, arrogant and uncaring.........nobody at the school is gonna miss you when your contract is up bud
+;material	 teaching	 neutral	Jumps right into the material.
+;professor	 teacher	 negative	Not a very helpful professor, very frustrating class.
+;teacher	 teacher	 negative	He's a very outgoing teacher.
+;exam	 exam	 negative	"He talks in circles and will say to you ""I design exam questions to trick you."
+;null	 teacher	 negative	She gave an exam before a single quiz was given.
+;explains	 teaching	 positive	He is always fun to listen to and he explains everything so well.
+;teaching	 teaching	 positive	IMO good at teaching the material.
+;exams	 exam	 negative	His class was definitely a challenge at first because he mainly only uses diagrams and true/false questions on his exams.
+;exam	 exam	 positive	She basically hands you the exam and gives plenty of time to study.
+;professor	 teacher	 positive	She's a great professor!
+;null	 answering	 positive	He takes the time to get to know you, mainly through knowing your resume, and will give you feedback based on your aspirations.
+;null	 teacher	 positive	I would love to take her again!
+;subject matter	 teaching	 positive	He's enthusiastic about the subject matter, and he definetely puts an importance on the history of the subjects we cover.
+;null	 teacher	 negative	No book use whatsoever except to teach yourself the entire course.
+;learn	 teacher	 neutral	If you have to take this class go to the SI sessions you will learn much more there than in class.
+;feedback;lectures	 approachable teaching	 positive positive	She gives GREAT feedback and awesome lectures.
+;professors	 teacher	 positive	I wish more professors were like her, she knows how to keep you interested
+;email	 approachable	 negative	Doesn't email back, lucky for him he had some awesome TA's helping him out.
+;null	 teacher	 positive	LOVE HER!
+;null	 teacher	 negative	He expects a lot from you.
+;no attendance policy	 late	 positive	No attendance policy but it is helpful for the essay style questions because she hates minimalist.
+;null	 teaching	 negative	so unorganized that it's not even worth the A i'm probably going to get.
+;null	 teacher	 positive	Sweetest lady ever.
+;gpa	 grading	 positive	Had her three times this semester, and I wouldn't have gotten my gpa where it could be without her.
+;communication	 answering	 negative	Very confusing teacher, does not break things down and was terrible with communication.
+;teacher	 teacher	 positive	In all honesty, she is the best teacher I've ever had in all my schooling.
+;professor	 teacher	 positive	She is really a great professor.
+;help	 approachable	 positive	They were stressful and a lot of work, but Randy recognizes that and is always there to help us out.
+;null;intro class	 teacher teaching	 negative negative	Prof. Hora is definitely a hard professor, and made her intro class too difficult.
+;class	 teacher	 positive	Class is always interesting and never boring.
+;class	 teacher	 positive	I did not mind going to this class.
+;english	 teacher	 positive	He is passionate about English.
+;null	 teacher	 positive	She always smells of versace and intelligence!
+;professor;mistakes	 teacher teaching	 positive positive	decent professor, makes mistakes, but isn't afarid to admit when he has, which is good.
+;lab	 course	 negative	Lab was also hard.
+;discussions;assignments	 answering exam	 positive positive	Class consists of discussions every week, easy assignments, workload manageable.
+;null	 teacher	 negative	Expects you to know a lot more than he's covered.
+;final	 exam	 positive	The final was super easy.
+;class;teacher	 teacher teacher	 positive positive	If you want an awesome class with an awesome teacher, takes this one.
+;null	 teacher	 positive	Friendly and energetic.
+;class;null	 course teaching	 negative negative	this class is insanely difficult b/c he goes over things way to fast, and fails to explain them unless you constantly ask.
+;null	 grading	 positive	If you try in the class you will get at least a B.
+;class	 teaching	 positive	Mr. Everetts class was very intriguing.
+;power point	 teaching	 negative	His death by power point is useless and not helpful at all.
+;null	 teacher	 negative	Do yourself a favor and ignore all the ratings that say that he is of any help.
+;lectures	 teaching	 positive	Very lively lectures especially when he does experiments in class.
+;exams;null	 exam late	 neutral neutral	You need to go to class, but as long as you do, you will do well on the exams.
+;null	 counseling	 positive	He is readily available to help students, runs weekly reviews.
+;null	 teacher	 positive	Its alot of fun.
+;null	 teacher	 negative	Not very nice and not very helpful.
+;exams;grade	 exam grading	 negative negative	he gives homework problems on wiley that dont come close to problems u see on exams he also posts homework assignments late.he doesnt post grades on spark, and you cant bring up your grade other than exams
+;class	 teacher	 neutral	Unless you're really good at maths don't even bother taking this class.
+;teacher	 teacher	 negative	She is a very controversial teacher, I had her as a teacher and as a advisor.
+;null	 teacher	 negative	Just don't take 127 with him.
+;class	 course	 positive	This class is one of the best at CTC.
+;exams	 exam	 negative	He isn't clear in his explanations, class average on exams is significantly lower than the other Math132 classes,  avoid his class at all costs.
+;feedback;office hours	 approachable approachable	 positive positive	He does provide feedback and offers office hours
+;exams	 exam	 positive	His exams are not hard, you just need to know what formulas to apply.
+;teaches	 teacher	 negative	He teaches you how things work when they are wrong, but doesn't explain how things work when it works correctly.
+;teacher	 teacher	 psoitive	Randy really is a great teacher.
+;null	 teacher	 positive	Randy is hilarious and a really nice guy.
+;class	 teacher	 positive	I loved going to class.
+;old school teaching	 teaching	 negative	Cook has been at it a long time and is the definition of old school teaching.
+;help	 approachable	 positive	willing to help if you ask.
+;null	 teacher	 negative	this lady is CRAZY!
+;class	 class	 positive	Also if you go to the last class, you'll get a full overview of the whole class in about 20 seconds.
+;null	 teacher	 negative	it was god awful.
+;null	 teacher	 positive	really nice guy.
+;null	 approachable	 positive	His tips are invaluable, and he helped me land the position I want with some great interview tips.
+;null	 teacher	 positive	Really passionate and all around awesome.
+;downward scale	 grading	 positive	He graded on a downward scale.
+;clac ii	 teacher	 neutral	Literally a sad excuse for calc II.
+;null	 teacher	 positive	Loved him, wouldn't mind having him again.
+;null;null	 teaching teacher	 negative positive	Randy is a great guy, but he is not always very clear.
+;late	 late	 negative	Hates cell phones, yet comes to class 10 minutes late EVERY time.
+;paper;presentation;exams;journals	 exam exam exam exam	 positive positive positive positive	Unlimited paper, presentation, 2 exams (15%) & journals.
+;class	 teacher	 negative	Avoid his class!!
+;null	 teacher	 positive	Respect him and he will more than respect youback.
+;textbook	 teaching	 positive	"Textbook needed if you don't have any CS or Java experience but otherwise the class is generally pretty easy.
+				"
+;null	 teacher	 positive	Nice Guy.
+;null	 teacher	 positive	She's very personable, interesting and all around just a wonderful person!
+;examples;outline;paper	 teaching teaching teaching	 positive positive positive	Mr.Everett was the best he explained everything clearly, gave mulptiple examples, and gave students a outline on how to write the paper.
+;classes	 teaching	 negative	Nothing came clear to me any classes.
+;si sessions	 approachable	 positive	Doesn't mesh well with my style, however the SI sessions were the only reason I passed the class!
+;teach	 teacher	 negative	he doesn't teach
+;null	 teacher	 neutral	He's nice and funny but he's not great.
+;lectures;null;expectations;exams	 teaching teacher exam exam	 positive positive negative negative	Nice guy, interesting lectures, BUT unrealistic expectations on exams.
+;null	 teacher	 positive	I would recommend. 
+;tests;reading	 exam exam	 positive positive	There is a bit of reading, but he tells you EXACTLY what will be on the tests beforehand and they are pretty easy if you study hard and do all reading.
+;lectures	 teaching	 negative	Never got anything out of his lectures.
+;null	 teacher	 positive	I had a good experience with Mr. Everett.
+;null	 course	 positive	Some of his students complain but he is NOT hard at all.
+;teacher	 teacher	 positive	He is a great teacher and he is sexy!
+;null	 grading	 positive	Everett is fair and doesnt really care what side you choose, just support it!
+;professor	 teacher	 positive	This is the professor to take if you are or want to remain excited in the field of sociology or criminology.
+;null;null	 teacher approachable	 negative negative	Very arrogant man, which made him unapproachable for help.
+;discussions	 answering	 positive	And the discussions were soo much fun and sometimes heated.
+;null	 teacher	 neutral	She is very opinionated and isn't afraid to say whats on her mind.
+;topic	 teaching	 negative	During class time, there is a lot to go over but he gets off topic.
+;lecture notes	 teaching	 positive	Nice lecture notes, good at explaining.
+;null	 teacher	 positive	BEST TEACHER EVER!!
+;lecture	 teacher	 negative	I got more help at the tutoring places than going to lecture all semester.
+;teaching	 teacher	 negative	he should stop teaching hes older than the dust in the air.
+;null	 teacher	 positive	She does not expect that much from you and if you are interested in poly sci you will enjoy her take on things.
+;tests;short essay	 exam exam	 neutral neutral	His tests aren't too bad if you study, but he does require a short essay to be written WHILE IN CLASS.
+;professor	 teacher	 negative	I wonder how the math department could hire such crappy professor.
+;null	 teacher	 positive	;)
+;b	 grading	 positive	i took this class in 2010.If you cnt get at least a B in this class,you got real problems.
+;null	 teacher	 positive	LOVE LOVE LOVE LOVE her!!!!
+;class 151	 teacher	 neutral	His class 151 is great, however I would find it to be more difficult if I had not taken AP Bio in high school.
+;teaching	 teaching	 negative	He honesty doesn't care about his students success and Is terrible at teaching.
+;class	 course	 positive	This class was an easy summer class.
+;questions	 exam	 negative	loves trick questions
+;concepts	 relevant	 negative	He tends to try to branch out to other concepts that aren't relevant.
+;grader	 grading	 positive	Easy Grader!
+;class	 teacher	 neutral	Goes on tangents every class and teaches for maybe half the class.
+;quizzes	 exam	 neutral	There are quizzes every Friday, but sometimes they are open note/mouth.
+;english teacher	 teacher	 positive	Rumor has it he's the easiest english teacher at CTC.
+;midterm and final	 exam	 positive	Midterm and final are eassy.
+;prof	 teacher	 positive	Best prof I had.
+;null	 teacher	 neutral	If you took Math 127 and actually understood the material, not just did well on the exams because of the cheat sheet, you'll have no problem.
+;class	 teacher	 positive	Never bored you in class.
+;grades	 grading	 positive	Also, it's not super clear what he's looking for, but he grades generously (we think).
+;null	 teacher	 positive	Easy to approach and good sense of humour.
+;lectures	 teaching	 positive	"The lectures are also filmed and uploaded on the course website (same day) so you ""go to lecture"" on your own time (at double speed)."
+;null	 teacher	 positive	Is too hard-headed.
+;neutrality	 teacher	 negative	I question her neutrality
+;project-based class and had three intensive team projects	 course	 neutral	This was an entirely project-based class and had three intensive team projects.
+;null	 teacher	 neutral	If you write them down and use them to study you should be fine.
+;null	 approachable	 positive	He's always there to help.
+;teach	 presentation	 negative	he doesn't show you how to apply anything, and what he does teach he teaches in the most round about and confusing way possible.
+;class	 course	 negative	Even with prior knowledge from AP Bio, his class is extremely difficult.
+;material	 teaching	 negative	The material is not too hard but he makes it very confusing.
+;professor	 teacher	 positive	Very friendly and helpful, I enjoy having him as my professor.
+;lectures	 teaching	 negative	He is a really nice person, but his lectures are not helpful at all.
+;class	 teacher	 positive	She makes class interesting and I actually looked forward to her class.
+;null	 exam	 negative	The wording can be very tricky, he likes to combine many things.
+;teach	 teacher	 negative	Thurlow is a nice man, but he simply cannot teach.
+;null	 teacher	 negative	Oh, she is kinda all over the place.
+;null	 grading	 positive	Turn something in, get an A.
+;discussions	 answering	 positive	I took this class Friday mornings and every week we had great discussions.
+;hard grader	 grading	 positive	If you want an A in this class you have to read the book and assigned articles, as well as prepare for quizzes, she is a hard grader so you won't get away with not knowing the material on the exams. 
+;prof	 teacher	 positive	Christopher is the best Prof at west ga. she is very very helpful with everything.
+;study guide	 exam	 negative	The study guide she gives has nothing to do with the exam.
+;teach	 teaching	 negative	Cook is a really sweet and funny old man but certainly doesn't know how to teach.
+;teach	 teaching	 positive	He does NOT teach from the book.
+;class	 teacher	 positive	Challenging but rewarding class. 
+;class	 teacher	 negative	This class is by far the WORST class Ive ever taken at UMASS.
+;class;reading;assignments	 attendance exam exam	 neutral neutral neutral	Do the reading, come to class, and make a block of time to write your assignments each week.
+;writing;grammar	 exam exam	 neutral neutral	I do not think I'll take Prof. Everett next semester, but if you choose to, you better be on top of your writing and grammar game.
+;teaching style	 teaching	 negative	His teaching style is random and he does a horrible job of actually explaining the material.
+;null;null	 approachable teacher	 positive positive	Randy is a great guy and is there for you.
+;null	 teacher	 positive	I enjoyed working with Mr. Everett.
+;professor	 teacher	 positive	She is a great professor and is really there for her students I would recommend anyone to take her!
+;prof	 teacher	 positive	I'd say he's the best prof I had this year.
+;journals to do for each chapter, two test, and a group presentation	 exam	 neutral	You have journals to do for each chapter, two test, and a group presentation but when you're in the class all you do is talk.
+;technology	 knowledge	 negative	"As far as technology goes, he has no idea what a computer is, and will constantly refer to it as ""the machine."" Thank god i took calc in high school, or else i wouldve prob failed"
+;null	 teacher	 neutral	He is extremely confusing but if you sit up front and persevre and ask questions you'll get the material and an A.
+;professors	 teacher	 positive	one of the best professors i have ever had.
+;teaching method	 teaching	 positive	Easy to understand teaching method.
+;course	 teacher	 positive	should definitely take this course!!
+;teaching style	 teaching	 negative	Completely checked out and his teaching style shows.
+;null	 approachable	 positive	he does help with some things and you can always ask him for extra help.
+;tests	 grading	 positive	I thought I was going to get a D since I did bad on most tests but i ended with a decent grade so i can't complain.
+;teacher	 teacher	 positive	By far the greatest teacher i have ever had!
+;professor	 teacher	 positive	I am honored and proud to have had him as my professor!
+;learned	 teacher	 positive	If you put the work in, you'll notice that you've learned more than you would have in a normal class.
+;null;philosophy	 teacher teaching	 positive negative	Nice lady but has no business teaching Philosophy.
+;unprepared	 teaching	 negative	He is completely unprepared for class.
+;jokes	 teacher	 negative	Horrible jokes.
+;lectures;homework	 teaching exam	 negative negative	His lectures were kind of all over the place sometimes and often the homework problems were different from the problems he went over in lecture which was frustrating.
+;learn	 teacher	 negative	You really learn nothing but are required to know a ton of BS for the midterms.
+;clicker questions	 teaching	 positive	Clicker questions in class are the key.
+;course	 teacher	 positive	This course is a high school-repeat.
+;issue;response	 approachable approachable	 negative negative	When student has issue, it takes him forever to response.
+;teacher	 teacher	 positive	Good teacher that means well but you better be ready to read the text if you want an A
+;tests	 exam	 positive	Tests are LONG but fairly easy if you paid attention
+;null	 teacher	 positive	He encourages critical thinking instead of memorizing.
+;professor	 teacher	 positive	Love this professor!
+;null	 teaching	 positive	Some may call this wanting you to believe what he does... but he is really just trying to get you to think OUTSIDE the box.
+;grade	 grading	 negative	I had to really work in this class to get the grade I wanted.
+;course	 course design	 positive	A surprisingly challenging course.
+;null	 teacher	 positive	I personally love her, this is the 2nd class I'm taking with her and I'll take another if I can.
+;null	 teacher	 negative	He speaks kinda softly and makes you sleepy.
+;exams	 exam	 negative	Exams sucked
+;exam	 exam	 negative	Even the TA can't figure out what Cook is asking in exam questions.
+;owls	 exam	 negative	He doesn't prepare you well for the tests at all, and the owls are a pain.
+;test	 exam	 negative	The material on the tests is so random compared to what he teaches in class.
+;courses	 course	 positive	The courses he teaches are the easiest calcs offered at UMass.
+;course	 teacher	 negative	very personable, wants to know everyone, but try someone else for this course.
+;class	 class	 negative	Take any other professors class other than his.
+;test	 exam	 negative	Doesn't explain anything that is on the test!
+;null	 teacher	 positive	Of course, studying math always takes effort and sometimes tedious, but his class inspired me to learn more and keep going. 
+;work	 course	 positive	A lot of work, but enjoyable.
+;null	 answering	 positive	She loves when you participate and are aware of current events.
+; material and quizzes and tests	 exam	 neutral	The material and quizzes and tests can be hard but if you go to review and SI sessions you will be fine.
+;null	 teacher	 negative	he doesn't use numbers in his problems ever even if a student yells to him that he should.
+;null	 teacher	 positive	extremely helpful and fun class!
+;class	 teaching	 positive	I wasn't too excited about going to this class in the beginning but she made the class so fun and interesting it was enjoyable.
+;extra credit	 grading	 positive	However, she gives ample opportunities for extra credit,truly understands the subject matter, and it is definitely possible to get an A.
+;professor	 teacher	 positive	Great Professor !!
+;class	 teacher	 positive	this class is mostly a huge therapy session and has been great fun so far.
+;null	 teaching	 negative	He goes pretty fast so use a laptop or record it.
+;quizzes and tests	 exam	 neutral	All his quizzes and tests are true/false.
+;class	 teacher	 positive	She is a beast and makes class super fun.
+;null	 teacher	 positive	This Brother is an awesome teacher, ask him any question and you'll get the answer on the spot!
+;quizzes	 exam	 positive	It is good cuz no quizzes, which means you dont have to do if you dont want to.
+;null	 teacher	 positive	Randy is amazing, he's considerate, funny and kind.
+;null	 teacher	 neutral	Cooks an awesome guy, but now he's so old he does not care at all.
+;professor	 teacher	 positive	She is a wonderful professor.
+;null	 teacher	 positive	If you don't mind getting into the actual theory behind basic calculus, Cook is great.
+;null	 teacher	 positive	SHE IS THAT GREAT!
+;null	 approachable	 positive	However, Professor Christopher was very helpful and responds to emails pretty quickly.
+;null	 teacher	 negative	You can redo homework a million times but Wiley is annoying.
+;professor	 teacher	 positive	Randy is my favorite professor this semester.
+;professors	 teacher	 positive	Professor Christopher is by far, one of the best professors on campus.
+;class	 teaching	 positive	She makes a terrible class not so bad!
+;information	 knowledge	 negative	He has no information about the class posted on his site.
+;class	 course	 negative	This was the toughest class I have taken so far.
+;null	 teacher	 negative	If it wasn't a required course, I would avoid him.
+;3 major projects	 exam	 neutral	The semester consists of 3 major projects, no tests.
+;null	 approachable	 positive	This guy is really helpful if you go to his office hours.
+;null	 knowledge	 positive	Very funny and she knows what she's talking about based on her stories of experience.
+;class	 course	 positive	Overall it was a good class though!
+;class	 relevant	 positive	I learned alot from his class.
+;feedback	 approachable	 positive	Excellent feedback on resumes and papers.
+;null	 teacher	 positive	He really wants his students to understand and is willing to help out a lot.
+;lectures	 teaching	 negative	You really need to teach yourself the material in order to pass because his lectures are all over the place.
+;interpretation;writings	 grading grading	 negative negative	Even more so if it strays from his interpretation of the writings.
+;null;course	 teacher course design	 positive positive	She really brought the class together and the course was really interesting.
+;exams	 exam	 negative	Tough truefalse exams.
+;lectures	 teaching	 positive	As long as you focus on what he says during lectures, it's pretty clear cut.
+;null	 teacher	 positive	One of my fav profs of all time.
+;null	 approachable	 positive	TAs were a lot more helpful.
+;null	 teacher	 positive	Professor Schurter is by far the best, and one of the best teachers at UMass period.
+;teacher	 teacher	 negative	Not a good teacher
+;null	 teacher	 positive	She's super fun and her class is always exciting!
+;grade	 grading	 positive	if you put in the work, she will grade fairly
+;lecture	 presentation	 negative	Make sure you're well-rested before you come to class, because it's the typical lecture and you might fall asleep otherwise.
+;exams	 exam	 negative	Also, he is out to get you on the exams.
+;null	 knowledge	 positive	Mr. Everett is extremely passionate and knowledgeable about what he does and just wants the students to do their part to make the class a success.
+;students	 teacher	 positive	He is one of the few professors who actually cares about his students as individuals.
+;essay	 exam	 positive	If you can write a decent essay you will do fine.
+;null	 teacher	 positive	IT WAS A TRUE PLEASURE TO BE IN HER CLASS
+;class	 teacher	 positive	She's a total MILF as well which makes class even better
+;class	 class	 neutral	This class is not easy as an 8 week class, but if you follow JE's outline you can do all the work during the week and have weekends off.
+;practice exam	 exam	 positive	One of our tests was the practice exam.
+;english credit	 course	 positive	If you just want an easy English credit, this is not the class for you.
+;tests;null	 exam grading	 negative positive	Definitely expects hard work and tests can be difficult but grades fairly and the classes aren't a problem if you study.
+;review/exam guides	 exam	 positive	It really helps since he hands out review/exam guides.
+;lectures	 teaching	 positive	Lectures aren't clear so you have to teach yourself a lot of things.
+;explaining	 teaching	 positive	While most people in this class dont enjoy the subject, he does a good job explaining an otherwise boring subject.
+;elementary school;skill level	 teaching teaching	 negative negative	He basically taught as if the students were of the elementary school skill level.
+;null	 teacher	 negative	Everyone else should forget taking her.
+;tests;teach	 exam teaching	 negative negative	does not teach the material and tests are completely different from what he talks about.
+;retire	 teacher	 negative	Please retire...you waste our time.
+;null	 grading	 negative	He grades hard, no slack.
+;null	 teaching	 positive	IT'S A RESEARCH CLASS SO YOU WILL HAVE TO DO SOME WORK BUT SHE MAKES EVERYTHING VERY EASY AND UNDERSTANDABLE.
+;null	 teacher	 positive	Professor Sacher is SUCH a little sweetheart!
+;null	 teacher	 positive	Professor Schurter is probably the best teacher I have had at UMass.
+;null	 teacher	 positive	Thanks Professor! 
+;calc;null	 course teacher	 positive negative	i took calc in hs, and like math, i found the class to be easy, but only cus i had an understanding in calc, i do not recomend cook and from what i heard about the other math teachers i dont recomend them either, cook is boring, old and doesnt teach, wish i could say something good, but nothing comes to mind
+;teaching;english;classes	 teaching teaching teaching	 positive positive positive	He has a passion for teaching and English, which makes his classes fun.
+;teacher	 teacher	 negative	she is the worst teacher that i have had in college she sits on her high house looking down on her student.
+;null	 approachable	 positive	She will email you at 1:00 am lol, she helped me through a lot personally and school wise.
+;teacher	 teacher	 negative	Worst Teacher.
+;note card;questions	 teaching knowledge	 negative negative	Reads off a note card and seems to have trouble answering arbitrary but relavent questions considering her lecture material.
+;lectures	 teaching	 negative	This professor is a bit unorganized but pay attention to her lectures because whatever she talks about will be on the exams.
+;teacher	 teacher	 negative	This teacher is terrible.
+;professor	 teacher	 negative	Easily the worst professor I've ever had.
+;course	 course	 negative	The course is hard, and Randy takes this into consideration for grading.
+;null	 teacher	 positive	Shes great and she thinks of the students first!
+;exams	 exam	 negative	3 exams, all containing above sections.
+;null	 teacher	 positive	But he's a nice guy though.
+;class	 class	 negative	I hate this class!!
+;hw and exams	 exam	 negative	Material on hw and exams are completely different from what he teaches.
+;grader	 grading	 positive	She's an easy grader as well, not obsessed with punctuation.
+;si sessions	 teacher	 neutral	Read the book, SI sessions help.
+;final	 exam	 negative	His final was nothing like he said it would be.
+;class	 course	 negative	Took this class and I have grown to hate it.
+;null	 teacher	 negative	Lots of grey areas...
+;teacher	 teacher	 negative	Possibly one of the worst teachers I've ever had.
+;retired	 teacher	 negative	He might be a nice guy but he should have retired 30 years ago.
+;teacher	 teacher	 negative	Hard teacher.
+;bio	 teacher	 negative	He expects you to have taken bio previously and fully understand the concepts.
+;teacher;course	 teacher course	 negative negative	not a good teacher.does not use exact terms from the book and makes the course look easy.there is no real learning in gossiping.if u r interested in learning 'interpersonal relationship' , stay away from this enchantra!I got A but don't recommend her
+;null	 grading	 negative	But it's definately not for someone looking for an easy A.
+;class	 teacher	 positive	Overall his class is not bad at all.
+;teacher	 teacher	 positive	He is a great teacher
+;null;reviews	 answering approachable	 positive positive	Allows you to ask questions and holds reviews every Thursday night for Friday quizzes.
+;null	 teacher	 positive	She is hilarious and very real.
+;class	 teacher	 negative	did not fare well in his class
+;participation	 answering	 negative	Very harsh on participation.
+;null	 teacher	 neutral	He could improve if he solves more math than talk about it.I suggest he should come to class if he cant speak and stop using sign language.
+;class	 teacher	 positive	Awesome class, great professor.
+;null	 teacher	 positive	Dr. Sacher is a really sweet, funny woman.
+;relates	 relevant	 positive	She relates all of our sections with her past life experiences.
+;sociology	 teacher	 positive	She loves sociology & it shows.
+;attitude	 teacher	 negative	She always carries a 'my way or the highway' attitude.
+;discussion	 answering	 positive	She focused on main events and really engaged the class in discussion.
+;lectures	 teacher	 positive	He's pleasant and definitely not boring; I learned a lot from his lectures.
+;interpersonal communications class	 teacher	 positive	Definetely take her Interpersonal Communications class!!!!
+;professor	 teacher	 positive	Professor Schurter is by far the best professor I've had at UMass.
+;null	 teacher	 positive	Mister Monotone!
+;self-teaching	 teacher	 positive	You do a lot of self-teaching using the book and HW.
+;null	 teacher	 neutral	A great guy, sort of a funny but quirky sense of humor.
+;grading criteria	 grading	 negative	He does not explain clearly  his grading criteria but picking  ridiculously  on some detail that unnecessary.
+;help	 approachable	 positive	Incredibly nice and will go out of his way to help you, so long as you ask.
+;material;notes;class;office hours;help	 teaching teaching teaching approachable approachable	 neutral neutral neutral neutral neutral	If you work hard, read all the material, pay attention and take notes during class, and see him during office hours when you need help, you will do well.
+;grades	 grading	 positive	Not too hard to figure out what her politics are, but she grades fair.
+;discussions	 answering	 positive	Truly engages the class in meaningful discussions and she cares about her students...I've taken this teacher twice for a reason, she is one of MSU's finest.
+;lecture;course work	 teaching exam	 positive positive	Well-organized lecture and tough course work (programming assignment.)
+;null	 teacher	 neutral	Kind of tough, but she gets a lot more laid back in upper level classes.
+;class	 teacher	 positive	Highly recommend taking his class.
+;null	 teacher	 positive	Relatable and funny, tells how it is not what society says.
+;null	 teacher	 negative	She's very bias towards the Political Science students.
+;nu;;	 teacher	 positive	Fun and cool.
+;null	 teacher	 positive	If you can, make space in your schedule for this class over any other professor.
+;null	 teacher	 positive	Took her 3 times throughout college and would take her again anytime i had a chance to.
+;overall	 approachable	 positive	She really cares about her students and would help them anyway she can!
+;exam	 exam	 negative	some things he teaches in class arent in the book so theres no way to study some of it, and before the final he tries to teach us new stuff whispering all throughout (cold) and there was 2 pages of that on the exam.
+;professor	 teacher	 positive	Professor Everett is the best online professor I have taken!
+;tests	 exam	 neutral	Tests are fairly tough but she prepares you as long as you show up.She does NOT tolerate any you-know-what and DO NOT show up late.
+;teacher	 teacher	 positive	GREAT TEACHER, SHE IS TRULY A SWEETHEART.
+;class	 teacher	 positive	Her class is sofun
+;effort	 teacher	 positive	He was challenging but I learned a lot and I really appriciate the effort he put in to his students.
+;null	 teacher	 positive	But he is a good person, just needs to teach more clearly/direct.
+;class	 course	 negative	This class stressed me out beyond belief because I hadn't the slightest clue of what was going on.
+;professor	 teacher	 positive	If profanity bothers you don't taker her because she does curse, but she's an amazing professor and passionate about criminology.
+;section	 teacher	 positive	Take his section and you won't regret it.
+;null	 teaching	 positive	No need to buy text book as she gives you everything you need to know in class.
+;lectures	 teaching	 positive	Lectures are interesting.
+;teaching	 teaching	 positive	What I didn't enjoy, however, was his poor teaching.
+;grades	 grading	 negative	My God, where do I begin?  She grades like it's a level three political science course.
+;class	 teacher	 neutral	This class is not based on memorization, its all about applications.
+;questions	 exam	 negative	Most questions we had never even seen before.
+;help;english	 approachable approachable	 neutral neutral	I recommend taking advantage of his help if English is not your forte.
+;emails	 approachable	 negative	He doesnt reply emails or put anything on Moodle.
+;class	 teacher	 positive	I was always excited about coming to her class everyday.
+;essays	 grading	 neutral	Yes, gives 4-5 essays, but he outlines exactly what he expects when grading.
+;lectures;clickers	 teaching teaching	 positive positive	"Neat lectures and uses ""who wants to be a millionare"" clickers."
+;null	 teacher	 negative	I couldnt imagine taking this class if I hadnt taken AP Bio in high school.
+;null	 teaching	 negative	JE can't keep the class engaged.
+;exam;null	 exam teacher	 negative positive	His exams are tough, no doubt, and you better be prepared for a quiz every Friday but most times he's pretty lenient with letting us use notes or discuss it 
+;college professor	 teacher	 positive	In my opinion, he is too easy for a college professor.
+;null	 teaching	 positive	Great at explaining
+;class	 class	 neutral	If you pay attention in class and go to the SI sessions you'll be fine, just don't skip!
+;class	 course	 negative	His class seems harder than it is because he goes on long rants about how to derive equations.
+;relevant things	 relevant	 positive	Learn a lot of relevant things for the business world but have fun while doing it.
+;professor	 teacher	 positive	Dr. Hora is an excellent professor who truly cares about politics and students.
+;books	 teaching	 positive	Don't bother with the books, although they are really inexpensive, everything you'll read is online.
+;null	 teacher	 positive	Mr. Everett is very passionate and really wants the student to perform to their potential.
+;si sessions	 approachable	 positive	Attend SI sessions, definitely helpful and it will provide study guides.
+;null	 teacher	 neutral	If you try, you'll do fine in her class.
+;english class	 grading	 positive	This is a sophomore English class, and he grades like he means it.
+;teach	 teacher	 positive	First, Professor Cook is a really a nice guy and he tries his best to teach to 300 people.
+;learn	 teacher	 negative	He's a pretty funny dude in class but don't expect to learn anything....better get the book if you wanna do well....
+;class	 teacher	 negative	NEVER take this class with him.
+;null	 teacher	 negative	He may know what he's talking about, but no one else does.
+;tests	 exam	 neutral	Tests are easy, as long as you know the information.
+;c+	 grading	 neutral	I never went.. i got a C+.
+;talking about the history	 teaching	 negative	He wastes his time talking about the history of equations, but the course material is not nearly as bad as it's reputation.
+;gpa	 grading	 negative	Its quite lovely... Dont take this class if you value your GPA!
+;material	 teaching	 positive	Cook is nice, goes over the material for a while.
+;null	 teacher	 positive	You rock Kelley!
+;null;lectures;group projects	 teacher relevant exam	 positive positive positive	Genuinely nice guy, really cares about helping his students, has relevant material for lectures, and group projects are helpful.
+;lectures	 teacher	 negative	Means well, but lecture does not follow the book.
+;exams	 exam	 neutral	His exams are mostly true or false questions and can be tricky, but if you look over the lecture slides a few times, it's not hard.
+;lectures;material	 teaching teaching	 positive positive	Does a great job at explaining the material clearly, and her lectures are interesting and engaging.
+;bio 151 class	 teacher	 positive	I loved Randy's bio 151 class this  year.
+;exam	 exam	 negative	I walked into the final exam touting an A average, and failed the exam, which landed me with a final grade of a C. This class was absolutely horrible, and you have no choice but this man.
+;teacher	 teacher	 positive	I think he's a really good teacher.
+;test	 exam	 negative	The lectures, OWLs, won't prepare you for the test.
+;quizzes	 exam	 neutral	She gave plenty of quizzes which were ok, I just wish she would have had power points or something.
+;teaches	 teaching	 positive	He's very conceptual and teaches you the concept, expecting you to be able to apply them.
+;criminology minor	 teacher	 positive	This woman made me become a criminology minor.
+;professor	 teacher	 positive	Professor Phyllis was great!
+;class;exams	 teacher exam	 positive negative	Overall his class is good, his exams are just really difficult. 
+;lectures	 teaching	 positive	Very smart and lectures are really interesting.
+;null	 teacher	 positive	yeah i agree with everyone saying that she is such a nice person.
+;help	 approachable	 positive	He took time to help when needed.
+;deliver concepts	 teaching	 negative	He isn't able to deliver concepts well.
+;interpretation	 exam	 neutral	He would rather you reiterate the interpretation he teaches in class IF and only IF that is more persuasive and well-supported than your own interpretation.
+;class	 teacher	 positive	Overall, acing this class should not be an issue if taken seriously
+;lectures	 teaching	 positive	He lectures like it's a small class and there are plenty of opportunities to ask questions.
+;null	 teacher	 positive	cool guy
+;null	 teacher	 positive	She is so funny!
+;professor	 teacher	 negative	He is by FAR the WORST professor in UMASS.
+;null	 knowledge	 positive	He is also articulate and intelligent.
+;pop quizzes;assignments;course	 exam exam course	 neutral neutral neutral	His pop quizzes do make reading the required assignments essential, but overall this course was a breeze. 
+;class	 teacher	 positive	Randy is a funny guy, he makes the class tolerable.
+;talks	 teaching	 negative	all he talks about is archimedes, galileo, isaac newton, and isaac barrow.
+;si review sessiosn	 approachable	 positive	He's good just go to the SI review sessions, they really help a lot.
+;calc prof	 teacher	 positive	Good calc prof!
+;review sessions	 approachable	 positive	He holds review sessions before quizzes and exams and will answer any questions.
+;teaching	 teaching	 negative	You actually get about 25 minutes of bad teaching in the 50 minute block.
+;null;understand	 teacher approachable	 negative negative	I've never been so confused about math in my life and he does not care to help students understand the material he is teaching.
+;class discussions	 answering	 positive	She makes the class discussions interesting and she cares about her students.
+;null	 relevant	 positive	I learned so much and wash challenged in the best ways possible.
+;teaching style	 teaching	 negative	Her teaching style did not resonate well with me.
+;null	 teacher	 negative	He also focuses too much on cellular pathways and your ability to solve riddle-like questions, which doesn't actually test knowledge.
+;exam	 exam	 positive	Every question on the exam is true or false based on how well you can interpret and memorize a diagram.
+;classes	 teacher	 positive	One of the best classes ive ever taken!!!!!!!!
+;class;mistakes	 knowledge knowledge	 negative negative	everyone in his class is smarter than he is, he always makes mistakes.How did he EVER get his PhD? PLEASE GET FIRED!!
+;classes	 teacher	 positive	You will love her and especially love going to her classes!
+;math	 teacher	 neutral	Math was always fun and enjoyable for me until this guy.
+;quiz	 exam	 negative	There is a quiz every Friday: can vary from open notemouth to strictly test testing.
+;null	 approachable	 positive	Professor Schurter is a great guy who is always there to help out with things inside or outside of class.
+;teach	 teaching	 negative	He is a nice guy, but does not know how to teach at all!
+;power points;lectures;test	 teaching teaching teaching	 negative negative negative	I do not recommend taking this course online because all of his lectures are 1 1/2 hour long power points that you have to watch all of to see whats on the test.
+;null;reading;work	 grading exam exam	 neutral neutral neutral	Isn't going to let class out early or give you an easy A; you HAVE to do the reading and  the work!
+;professor	 teacher	 positive	Randy is a funny professor!
+;unclear answers	 exam	 negative	He gives unclear answers when going over questions so you are left wondering what the right answer is.
+;test	 exam	 positive	Go to the reviews before each test, they help a lot.
+;teacher	 teacher	 positive	The coolest teacher I've ever met.
+;null	 teacher	 positive	She teaches fairly and unbiased for the most part.
+;class	 teacher	 positive	I look forward to going to her class.
+;teacher	 teacher	 positive	Loved the class, she is a funny teacher who will do anything you need.
+;null	 teacher	 negative	He sometimes throws some random information at you.
+;professor	 teacher	 positive	Great professor; love her!
+;material	 exam	 negative	He also has material appearing on the exams which may not be reviewed in class.
+;students	 approachable	 positive	She will do whatever it takes for students to succeed in her class.
+;tests	 exam	 neutral	The math isnt that hard, but the tests are fairly meticulous, but multiple choice!
+;concepts	 teaching	 positive	He really tries to make the concepts as comprehensible as possible and genuinely wants students to preform well.
+;tests;class	 exam class	 negative positive	His tests are tough and his lectures can be confusing because he never really answers his own questions but its a great class.
+;help	 approachable	 negative	No help.
+;class	 course	 negative	Everything about this class will frustrate you.
+;class	 teacher	 neutral	Effort outside the class is a necessity to get a good grade. 
+;math	 teacher	 neutral	Don't take this teacher if you don't understand math.
+;null	 teacher	 positive	I liked him.
+;si sessions	 teacher	 positive	If you get Felipe as TA, it is HIGHLY recommended that you go to his SI sessions, especially 2 or 1 days before an exam.
+;teacher	 teacher	 negative	Bad Teacher
+;null	 teacher	 negative	Do not recommend.
+;final grade	 grading	 negative	Even if you work hard, your final grade is left to luck.
+;syllabus	 course	 negative	I took this class online and was at first very intimidated by the syllabus.
+;null	 teacher	 positive	TAKE JR YEAR WRITING WITH HIM YOU WILL NOT REGRET IT
+;teacher;null	 knowledge teacher	 positive positive	Good if you like a teacher who knows her stuff; you'll learn a lot in this class if you pay attention.
+;null	 teacher	 positive	However, Professor Everett absolutely loves what he teaches and is passionate about seeing his students succeed.
+;null	 teacher	 positive	very cool guy,a lot of info and a very bright mind.
+;book	 teaching	 negative	The book is boring and pointless, because she covers it in class.
+;review session	 approachable	 positive	Quiz every friday but he runs a review session himself every thursday night.
+;null	 course	 positive	She tells the class real life stories related to the topics and is really easy to pass, you just gotta be there for lectures which are never boring.
+;lectures	 teaching	 positive	Her lectures are great.
+;final;tongue;lecture	 exam teaching teaching	 negative negative negative	Screwed us for the final, had his favourites, and stuck his tongue out too dang much during lecture.
+;null	 teacher	 positive	She is one of the most influential people in my college career.
+;notes	 exam	 neutral	Be ready to listen and take notes.
+;null	 approachable	 positive	I ended up with a C- probably because I met with him to discuss exams and made it clear that I was trying my best.
+;tecaher	 teacher	 positive	I'm surprised that she doesn't have more comments because she is truly the best teacher at west ga.
+;learned	 teacher	 positive	I learned more in her lectures than I did an entire semester w other professors.
+;null	 knowledge	 positive	He knows a lot about genetics in which I am interested.
+;course	 course	 positive	The course really is not that hard.
+;professor	 teacher	 positive	A good professor who has good intentions.
+;null;class	 teaching teacher	 positive positive	Mr. Everett is very boring but I did learn from his class.
+;null;lecturing	 teacher teaching	 positive negative	I guess people would say she is easy and she is but she is all over the place when it comes to lecturing.
+;papers;work;due dates	 grading exam exam	 negative negative negative	He grades very harshly on your papers, he gives his students way to much work and his due date are way to close together to actually try and figureout/understand what you've messed up on.
+;quizzes	 exam	 neutral	Quizzes every week (sometimes open note).
+;null	 teaching	 negative	rambles and goes off topic.
+;paper;thesis	 exam exam	 neutral neutral	I didn't mind typing the papers, what got me was trying to get him to approve my thesis so I could type the paper.
+;college;student;class	 relevant relevant relevant	 positive positive positive	If you are in college to learn and grow as a student, take his class.
+;null;null	 teacher relevant	 positive positive	You have to work hard, but you really learn quite a lot!
+;review sessions	 approachable	 positive	He also makes time for review sessions where he brings candy!
+;relate material	 relevant	 positive	She really tries to help students understand and relate material to current society.
+;null	 teacher	 negative	She is someone not to cross, be warned.
+;null	 teacher	 positive	If you are interested in politics, you'll enjoy her classes.
+;class	 teacher	 negative	class is almost almost useless, hard to prepare for tests.
+;upper level classes	 teacher	 positive	Its seems that her upper level classes are much easier than her lower level classes, i.e POLS 120.
+;null	 teacher	 positive	She's really nice and helpful, but is extremely challenging.
+;homework	 exam	 positive	No real homework.
+;null	 teaching	 negative	He never explains things in a general form and just goes over random problems right in the beginning.
+;lab time	 approachable	 positive	He helps out students during lab time which is nice!
+;null	 teaching	 positive	Very thorough and good at explaining things.
+;professor	 teacher	 positive	Great professor to take for this class.
+;attended	 late	 positive	I had never taken Calc before, I attended every single lecture and took many notes.
+;teach	 teaching	 negative	Really nice guy, easy to talk to to, willing to help, but he can't teach.
+;null	 teaching	 negative	You will have no idea what he is talking about.
+;helpful	 approachable	 positive	She is really helpful in class.
+;class	 teacher	 positive	No problems to work on your own the double check in class.
+;lectures	 teaching	 negative	You practically have to teach yourself how to do all the work in the class, the lectures are no help.
+;teacher	 teacher	 positive	Mr. Everett is a very good teacher.
+;teacher;voice	 teacher answering	 neutral neutral	He isn't a bad teacher, but he needs more expression in his voice!
+;null	 course	 positive	Ha, too easy for words.
+;grader;assignments	 grading exam	 positive negative	She is a bit unclear in what she expects on assignments but she's an easy grader.
+;teach	 teaching	 negative	The professor is funny, but going to his class is pointless because he doesnt know how to teach.
+;grade	 grading	 negative	First of all, it is true that she tends to grade and identify with the more liberal side of the political spectrum.
+;grade	 grading	 positive	If you email him and tell him you need a certain grade for your major he will reconsider you grade.
+;class	 teacher	 positive	This class was awesome, I really enjoyed it.
+;class	 teacher	 positive	Take this class!!
+;null	 teacher	 positive	I wish she taught every class!
+;class	 course	 positive	It's different from any bio class you'll take because its all application but it's so worth it and truly prepares you!
+;help sessions	 approachable	 neutral	Help sessions w/ the TA's will save you though...but I would avoid him if possible.
+;students;tests;exams	 approachable exam exam	 positive positive positive	Helps students out during lab time, odviously has a strong commitment to helping students, and his tests / exams are never unfair in diffculty
+;grading	 grading	 positive	The best part is, he is really easy on grading.
+;class	 teacher	 positive	I miss her class already!
+;null	 teacher	 positive	Randy really is awesome.
+;tests	 exam	 negative	harder tests
+;null	 approachable	 positive	He spent 1 hour with me trying to figure out what I wanted to major in.
+;null	 teacher	 positive	By far one of the coolest and best professors I've had.
+;help	 approachable	 positive	He will offer as much help as you are willing to take.
+;null	 teacher	 negative	He seemed a bit... lost at times.
+;null	 teacher	 positive	Funny, easy going, reasonable, understanding.
+;tests	 exam	 negative	The tests are hard especially if you aren't interested.
+;reading;writings;null	 exam exam attendance	 neutral neutral neutral	DO READING & WRITINGS & SHOW UP FOR CLASS OR YOU WILL NOT PASS!
+;grading	 grading	 neutral	Grading was not that hard...however, she does grade papers like an English teacher.
+;papers	 exam	 positive	Two papers all semester.
+;professor	 teacher	 positive	Such a great professor.
+;null	 teacher	 positive	With respect to humanity, Cook is an extremely pleasant and grandpa-esque little man.
+;professor	 teacher	 positive	Randy is a great professor and wants you to do well in his class.
+;class	 class	 neutral	Don't get me wrong this class isn't easy but if you're going to take it, get this Randall.
+;class	 teacher	 positive	if you come to class you will get a A, but class is interesting so you will want to!
+;grade;null	 grading teacher	 neutral neutral	He is very enthusiastic about this class but expects you to earn your grade.
+;grade	 grading	 neutral	Not a class for someone who isn't willing to work for a good grade, but not impossible to get an A.
+;journals	 exam	 positive	YOU HAVE TO DO JOURNALS FOR THIS CLASS BUT NOTHING A 5TH GRADER CAN'T DO.
+;teacher	 teacher	 positive	NICEST TEACHER.
+;resources	 teaching	 positive	He provides all the resources you need to succeed.
+;question	 answering	 negative	Can't directly answer a question.
+;credit	 teacher	 neutral	Show up to class because she may give extra credit.
+;tests	 exam	 positive	"Tests are pretty easy, lets you use a ""note card""  (although i actually used a sheet of paper folded in half, both sides + inside)."
+;10 minutes	 late	 negative	He rushes in 10 minutes after the class is supposed to begin and just does some random problems out of the book that take him about 5 minutes to find.
+;students	 approachable	 positive	Did I mention he cares about his students!
+;subject	 course	 positive	Interesting subject and love the class.
+;tests	 exam	 neutral	If you memorize and understand these few equations, then tests are s
+;notes	 exam	 neutral	Just make sure you show up and do what she says and take her notes and you will be good!
+;null	 teacher	 positive	If you are really interested in the material, though, he's great.
+;null	 teacher	 positive	AWSOME!
+;lectures	 teaching	 negative	His lectures are very unorganized, so it's hard to take notes in class.
+;study	 grading	 neutral	If you study you will get an A.
+;feedback	 approachable	 positive	Definitely take 310 with him ASAP, because his feedback on resumes, cover letters, etc is invaluable.
+;expectations	 teacher	 positive	She's very precise and clear on her expectations.
+;exmas	 exam	 negative	The exams are very tricky and hard well.
+;professor	 teacher	 negative	Worst professor you could ever take.
+;material	 course	 negative	I thought the material would be super easy since the first thing we did was antiderivatives for a good 2 weeks, but then ramped it up and it got very hard.
+;null	 teacher	 positive	I absolutely loved Dr. Sacher.
+;materials;research;interview;survey	 teaching exam exam exam	 negative negative negative negative	her materials are so hard and we need to do our own research as a group meaning that we actaully have to do interview, naturalistic observation and survey!!
+;professor	 teacher	 negative	Cook is an awful professor.
+;lectures	 teaching	 negative	He means well and loves the subject, but he lectures in class about things not on the test and he just about never spends time on actual material.
+;help	 approachable	 positive	He's very clear about what he wants and is more than willing to help you if you are having trouble with anything.
+;tests	 exam	 negative	Blame the department for the hard tests but practice tests are nothing like the real ones.
+;prof	 teacher	 positive	Excellent Prof!
+;class;exam;null	 course exam approachable	 negative positive positive	The class isnt easy but exams are only worth half of your grade and there are plenty of opportunities for extra help.
+;knows;material	 knowledge teaching	 positive negative	The teacher knows his stuff but he tends to go through the material too quickly.
+;professor	 teacher	 positive	Randall is clearly very passionate about biology and he is a great professor.
+;research paper	 exam	 positive	Thanks to her, I know how to correctly write a research paper.
+;instructor	 teacher	 positive	a very professional instructor and he means business so if you are looking for easy a this aint where youll find it
+;null	 teacher	 positive	much better than 127 with Rudvalis.
+;null	 teacher	 negative	Avoid him if you can.
+;owls	 exam	 negative	Do all the OWLS, get at least 7 out of 14 questions right on each of the tests, and you'll get a C. If you do worse you will fail.
+;null	 teacher	 negative	If you have to take him to go another professors lectures or teach yourself online.
+;art's	 teacher	 positive	Art's great.
+;assignments	 exam	 positive	she accepts late assignments.
+;classes	 teacher	 positive	her classes were so interesting and insightful i changed my major from psychology to criminology.
+;explains the materials	 teaching	 positive	lively class, explains the materials well.
+;teachers	 teacher	 positive	Professor Sacher is the funniest and one of the best teachers I have had so far at MSU.
+;teaches	 teaching	 positive	He knows the material, he just teaches it different then the other teachers.
+;goals;essays;assignments	 exam exam exam	 negative negative negative	He also hasn't realized that his scheduling sets unrealistic goals at the end of the semester by overlapping essays & other assignments.
+;null	 teacher	 negative	Seriously, he sucks!
+;null	 teacher	 negative	Talks too quietly.
+;professor	 teacher	 positive	She is the best professor I have ever had.
+;teacher	 teacher	 positive	BEST teacher i've ever had, dont take this class with anyone else!
+;grades	 grading	 negative	She grades extremely hard on papers and will not listen to your concerns...so if you have to take the class take it with anyone except her.
+;math	 teacher	 neutral	If you're a math major or are extremely good in math, youll be fine.
+;bio 151	 teacher	 positive	He's great, take him for bio 151.
+;attendance	 teacher	 positive	No attendance policy.
+;null	 teacher	 negative	Not a recommendable teacher.
+;classes	 teacher	 positive	Professor Schurter teaches a few different classes in Isenberg and I would definitely recommend trying to enroll in one before your time here at UMass is up.
+;homework;tests;pop quizzes;essays ;credit;grade	 exam exam exam exam exam exam	 negative negative negative negative negative negative	Get ready to read, do homework, long tests, pop quizzes, and  4-5 essays (extra credit essay if you want to improve an essay grade).
+;teaching	 teaching	 neutral	Cook is a nice and funny guy, but his teaching can come up a little short.
+;null	 teacher	 positive	Amazing professor who really cares about her students.
+;professor	 teacher	 negative	A nice guy, but a blah professor.
+;null	 teacher	 positive	This lady is a nutjob but in the good sense.
+;class	 teacher	 negative	going to class, for me, seems like a waste of time.
+;professor	 teacher	 positive	She is the BEST professor I have ever taken!!!!
+;professor	 teacher	 professor	I Absolutley looovveee this Professor.
+;null	 teaching	 negative	I think he spent more time telling us TO study than actually telling us WHAT to study.
+;lectures;null	 teaching approachable	 positive positive	Very lively lectures and amazingly approachable.
+;null	 approachable	 positive	He knows what he's talking about and is eager to help when you need it.
+;teaching style	 teaching	 negative	I've never been that interested in political science, but her teaching style is terrible.
+;null	 course	 positive	Since Jr. writing is mandatory, I would highly recommand take this class for the requirement.
+;null	 teacher	 positive	He makes a point to treat everyone like a peer rather than a subordinate.
+;helps;test;reading quizzes	 approachable exam exam	 positive positive positive	Mr. Everett also helps students if they as for it and his test as well as reading quizzes are simple if you study.
+;lectures	 teaching	 positive	Lectures are recorded.
+;null	 approachable	 positive	Always willing to offer additional help to anyone in need.
+;classes	 teaching	 positive	His classes are highly engaging and interesting as well.
+;grading	 grading	 negative	Grading is very unfair and she shouldnt teach undergraduate courses because she doesnt know how to deal with young people.
+;exams	 exam	 negative	It's hard to get an A because his exams only contain 14 questions meaning you can only afford to get one wrong on each exam.
+;lectures	 teaching	 neutral	Seriously if you just look at his slides and don't attend lecture all you'll find is a bunch of pictures  that make absolutely no sense.
+;class	 course	 neutral	Expect for things to move along quickly and if you fall behind, this class can become difficult.
+;null	 teacher	 positive	I love her!
+;null	 teacher	 negative	Took AP Bio but still struggling because AP bio wasn't close to as in depth as he is right off the bat.
+;class	 teacher	 neutral	you cannot expect to do well by simply showing up to class and taking notes.
+;professor	 teacher	 positive	Would take him again as a professor.
+;class;journal;mid-term;group project	 teacher exam exam exam	 positive positive positive positive	=) She is amazing and you will become attach to the class.We have a page journal due every week, mid-term, and a group project.You shouldn't have a problem in getting an A.You will learn many real life things and it is like class therapy!She is real good and I'll take her again without a doubt!
+;teach	 approachable	 positive	If you don't get something, he'll teach it until you get it.
+;quizzes	 exam	 positive	He gives quizzes every friday but they are pretty clear cut.
+;learn	 teacher	 negative	For the rest of us, plan on struggling as u try to learn on your own.
+;null	 teacher	 negative	this man should be ashamed of himself
+;clear	 teacher	 positive	Extremely clear!
+;confusing;late	 teacher late	 neutral negative	a little confusing in class, and he has a habit of showing up late and letting the class leave anywhere between 10 and 30 minutes early every day.
+;null	 teacher	 negative	I don't get calculus and he isn't helping much!
+;null;exams;null	 teacher exam teacher	 positive negative neutral	He is a very very nice guy, cares for his students but you will have to make all the effort for any help you want, and if you want an A be ready to do a lot of work and learning yourself because his lectures will not get you an A on the exams, which tend to be very tricky.
+;lessons	 teaching	 neutral	His lessons are long and super-detailed, but very interesting if you do your part to focus and participate.
+;professor	 teacher	 negative	Awesome guy, but not a great professor.
+;grade	 grading	 positive	Easy to get a good grade but bring entertainment.
+;exams	 exam	 negative	He does manage to be funny at times but there's nothing funny about not being able to do well in exams and failing the class.
+;grade	 grading	 positive	His class is certainly not an easy A -- you'll work for a nice grade -- but you will definitely learn from his criticism.
+;readings;quizzes	 exam exam	 neutral neutral	You have to do the readings (or read the cliff notes at least) to pass his quizzes.
+;null	 teacher	 positive	Extremely chill.
+;essays	 exam	 negative	His essays were very difficult for me.
+;videos	 teaching	 positive	She shows videos to help that.
+;calc	 teacher	 neutral	If you took calc in high school, you'll be fine.
+;classes	 teaching	 negative	I hate his classes, and I've taken chemistry all my life and he still doesn't make sense!
+;stuff;high school	 teaching teaching	 positive positive	Taught the same stuff from high school.
+;learned	 teacher	 negative	I learned more about the 60s than I did anything about math.
+;ramble	 teaching	 negative	Likes to ramble and stand at the board writing and writing like we know what he's doing.
+;grade	 grading	 positive	he makes it relatively eay to get a good grade if you ar willing to work for it (but not teach urself)
+;null	 teacher	 positive	She's one of my favorite professors
+;class	 course	 positive	This was oddly the easiest class of my life.
+;reading;quizzes	 exam exam	 negative negative	There's alot of reading required and alot of quizzes.
+;proff	 teacher	 positive	I thought he was funny and down to earth, he didnt have an ego like most proff.
+;professor	 teacher	 negative	THIS MAN IS THE WORST PROFESSOR @ UMASS.
+;null	 teacher	 positive	Highly recommend!
+;null	 teacher	 positive	Mehran is awesome.
+;null	 teaching	 negative	Became hard to sit in class.
+;null	 approachable	 positive	Her stories are hilarious and she is there for you when you need her.
+;null	 teacher	 positive	Take her!!!
+;cares	 teacher	 neutral	a little out of his element as far as technology goes, but actually cares about his students.
+;a	 grading	 positive	I got an A!
+;null	 teacher	 positive	I love her!
+;null;lectures	 teacher teaching	 positive negative	He's a nice guy but his lectures are all over the place and he seems to not know what he's talking about.
+;null	 teacher	 positive	Professor Cook is a great teacher.
+;humor	 teacher	 positive	I love how he uses his sense of humor to lighten up the lectures.
+;null	 teacher	 negative	VERY LIBERAL!
+;class	 course	 neutral	I'm not going to say it was an easy class, but it was not hard either.
+;classroom	 class	 positive	There isn't a lot of work and the classroom setting is really relaxed and comfortable.
+;explain	 teaching	 negative	the concepts would have been easy to understand if he had any clue how to explain them.
+;quizzes;exams	 exam exam	 positive neutral	The Friday quizzes are typically easy, but multiple true false exams can be confusing at times.
+;teacher	 teacher	 positive	Terrific teacher!
+;null	 knowledge	 positive	He creates his own questions and focuses on critical thinking.
+;style of teaching the material	 teaching	 negative	I personally just found his style of teaching the material very boring, but also very scatterbrained.
+;reading	 teaching	 positive	He taught me how to write well and appreciate reading.
+;literature	 teacher	 positive	Everett is really passionate about literature and made me appreciate it all so much more than I did before.
+;examples	 teaching	 negative	He just puts random examples on the board, solves them himself and doesn't explain how or when to use the equation.
+;quizzes	 exam	 positive	You should attend every class, and he gives weekly, easy Friday quizzes.
+;class	 teacher	 neutral	Show up to class though, because she might give extra credit.
+;mid;final	 grading grading	 neutral neutral	But its research sooo.. She grades only on Mid(1st part of paper) and final (ure final paper) just choose a good topic and the right group and dont slack ull be fine.
+;null	 teacher	 positive	Great lady, kind and easy going.
+;students	 teacher	 positive	Excellent rapport with students.
+;teach	 teaching	 negative	i dont understand why peopole like him are allowed to teach, cus he doesnt know how.
+;pop quizzes	 exam	 neutral	Fond of pop quizzes.
+;liberal bias	 teacher	 negative	She does not hide the liberal bias in her class either.
+;null	 teacher	 neutral	Just pay a lot of attention in series!
+;null	 teacher	 negative	Nod off in this guys class and he'll pop off.
+;null	 knowledge	 positive	Is incredibly cultured and knowledgeable on everything.
+;null	 late	 positive	Just show up and you'll DEFINATELY get an A
+;feedback;papers	 approachable approachable	 positive positive	I learned so much from him and he always gave fairly specific feedback on papers.
+;person;professor	 teacher teacher	 positive negative	Randy is an awesome person but no the best professor.
+;quizzes;nyt readings	 exam exam	 negative negative	The quizzes and NYT readings are stupid and pointless.
+;work;essays	 course course	 neutral neutral	Just a lot of work with little to no time between essays.
+;outline;grade	 grading grading	 positive positive	All you have to do is follow the outline and you will get a decent grade.
+;assignment;midterm;log;page	 exam exam exam exam	 positive positive positive positive	1 written assignment in lieu of a midterm & a log due each week, but it only has to be 1 page.
+;class	 class	 positive	I did wish we had a slightly clearer way of study besides just listening very carefully during lectures, but for the most part he was great and I enjoyed the class. 
+;null	 teacher	 positive	I really do like him as a professor.
+;null	 teacher	 neutral	I would say to take with caution.
+;null	 teacher	 positive	He will do everything in his power to make sure you succeed.
+;class	 course	 neutral	The class was hard, but I did learn a lot.
+;class;assignments;quizzes	 attendance exam exam	 neutral neutral neutral	As long as you attend class, do your best on the assignments, and complete the assigned readings for quizzes you should pass.
+;teacher	 teacher	 positive	he was the best calc teacher ever
+;class	 teacher	 negative	Avoid this class if possible, if required for a major I'd say take it honors with Adena.
+;professor	 teacher	 negative	the worst professor i have ever taken a class with.
+;null	 teacher	 positive	Schurter is THE MAN.
+;tests	 exam	 neutral	Just do the homework and go to the review sessions before tests.
+;exam	 exam	 neutral	Brit Lit I student- I failed his first exam, and aced his second exam.
+;professor	 teacher	 positive	I think if you have an interest in bio he would be an awesome professor to have.
+;null	 teacher	 negative	This guy is terrible, and completely incompetant.
+;calc 2	 course	 negative	Calc 2 is not an easy subject therefore it is important to look for extra help.
+;teaching style	 teaching	 positive	There are pros and cons to EVERY teaching style.
+;lectures	 teaching	 neutral	Having seen the 106a lectures online and liked them, I wasn't particularly expecting anything new.
+;null	 teacher	 positive	She is very nice and very laidback!
+;paper topics;null	 exam teacher	 negative positive	Paper topics can be confusing, but just ask her for help!
+;tests	 exam	 neutral	Although his tests are hard, they are not meant to trick you.
+;quizzes	 exam	 positive	Gives quizzes every Friday, usually scantron at the end of class but will change it up once in a while to do it during class as clicker.
+;tests	 exam	 neutral	Tests are short answer & MC.
+;null	 teaching	 negative	She tries so hard to make it interesting, but it just not.
+;null	 teacher	 positive	shes great
+;lectures	 teaching	 negative	seems nice but lectures make no sense.
+;null	 teacher	 positive	I ABSOUTELY LOVE HER !
+;class	 teacher	 positive	Take this class with him, you wont regret it.
+;unclear	 teaching	 negative	He's very unclear, and his jokes probably got old around the dawn of indoor plumbing.
+;class	 course	 negative	I love English, but this class made me feel stupid.
+;final	 teacher	 positive	Makes sure you know your stuff and prepares you for the final.
+;professor	 teacher	 positive	HANDS DOWN THE BEST PROFESSOR AT UWG!
+;null	 teaching	 negative	he only derives the formulae and doesn't tell/show us how to implement them.
+;null	 teacher	 neutral	He's better off teaching calc theory than basic calc.
+;class participation	 answering	 positive	Class participation is a must.
+;professors	 teacher	 positive	She is a breath of fresh air compared to the more lecture-happy professors on this campus.
+;professors	 teacher	 positive	Professor Everett was one of the most passionate professors I have ever seen and that was only after an online class.
+;review sessions	 approachable	 positive	The review sessions that he does is also really helpful.
+;null	 grading	 negative	He grades harshly while putting students down indirectly in class.
+;explaining	 teaching	 negative	The only problem i had with him was that most times he spent alot of time explaining an simple problem which made it more confusing.
+;teach	 teaching	 negative	Very nice professor, he means well and tries to crack jokes to keep students entertained, but he just cannot teach.
+;professor	 teacher	 positive	She kind of reminds me of Kitty from That 70's Show, but she is still an amazing professor.
+;relate the material	 relevant	 positive	I'd take her again honestly because she will relate the material to life experience to make it easier to remember.
+;null	 teacher	 positive	She is such a nice lady.
+;class	 teacher	 negative	DO NOT TAKE THIS CLASS!
+;class	 course	 positive	very easy class.
+;multiple choice matching;multiple choice;short answers;paragraph;essay;literature;content;information	 exam exam exam exam exam exam exam exam	 negative negative negative negative negative negative negative negative	Multiple choice matching (characters to dialogue)(must read all literature), multiple choice (historical content), short answer (usually 2)(2 paragraphs of content rich information), AND a fully composed 5 paragraph essay.
+;class	 course	 positive	I wish every class was this easy!
+;class	 teacher	 neutral	the class is multiple choice but he just wants to teach it and get out
+;review sheet	 exam	 positive	He does provide a review sheet, though.
+;null	 teacher	 positive	ppl are u guyz serious??? Cook is not that bad, I mean hes funny and enthusiastic to teach.
+;null	 teacher	 positive	extremely down-to-earth.
+;dresses	 teacher	 positive	and she always dresses really nice:) she is always in new clothes haha:)
+;class	 teaching	 positive	Prof. Everett has put a huge amount of work into this class and it shows.
+;100 level course	 course design	 negative	It is a 100 level course that is taught like a 400 level class.
+;person;null	 teacher answering	 positive negative	people just talk about thier problems.if ur shy dont take the class,u have to do alot of pub speaking.i had fun though cuz i dont mind takling.dont get me wrong she is suchhh a sweeet lady, nice, kind, always helps u out.awsome person inside nout.but not to informative.
+;class	 teaching	 positive	Very fun, relaxed class but we learned at the same time.
+;feedback	 approachable	 positive	He was great about giving feedback on all papers and explained everything in clear language.
+;literature	 teacher	 positive	I would highly recommend him to anyone who needs a literature class.
+;lectures	 teaching	 positive	He makes CS approachable for beginners, and his lectures are awesome and are full of funny jokes and candies.
+;professor	 teacher	 negative	By all accounts, an awful professor.
+;null	 teacher	 positive	He challenges you, which some People don't like, but he has taught me a lot and has an amazing personality.
+;null	 teaching	 negative	He just gets up to the board and writes down random stuff doesn't really go over it very well.
+;professor	 teacher	 positive	He's an incredible professor.
+;tests;lecture	 exam teaching	 positive negative	Tests are pretty easy, but he isn't always clear in lecture.
+;unhelpful	 approachable	 negative	Very unhelpful.
+;professors	 teacher	 negative	One of the worst professors I've come across.
+;null	 teacher	 positive	I definitely recommend.
+;null	 course	 negative	He teaches Math 128 as if it was Math 132.
+;instructor	 teacher	 positive	Great instructor!
+;british literature	 teacher	 positive	Was very nervous about taking british literature but I'm glad I took it with Everett.
+;exams and quizzes	 exam	 negative	Exams and quizzes are all critical thinking tf problems that are confusing and hypothetical.
+;null	 teacher	 positive	she's so genuine and loves all of her students.
+;class	 course	 negative	Cook makes this a really hard class.
+;attend	 late	 negative	Might as well not even attend class.
+;grade	 grading	 negative	My CC profs grade easier on papers than she does, and they do not grade easy at all.
+;mistakes	 grading	 neutral	If he knows you put your all into it, he will overlook small mistakes.
+;fair;material	 grading relevant	 positive positive	Grading is extremely fair, material is very relevant.
+;teach	 teaching	 negative	The teacher doesn't teach the concepts.
+;calc	 teacher	 negative	If you have never taken calc then DO NOT take it with him.
+;teaching	 teacher	 positive	He's such a great guy and seems passionate about what he's teaching.
+;class	 course	 positive	THE CLASS IS SO EASY THAT IF YOU DON'T WATCH OUT, YOU WILL FAIL.
+;help	 approachable	 negative	Uses WileyPlus which is $50 and you need to buy it because thats where the homework is, and wiley sucks doesn't help you learn at all.
+;null;brit lit	 teacher course	 positive negative	He's a great guy, but Brit Lit shouldn't be this hard.
+;instructor	 teacher	 positive	Mr. Everett is a wonderful instructor.
+;college instructor	 teacher	 positive	I can say with complete confidence that this is the best college instructor I have ever taken.
+;professor	 teacher	 positive	Best professor I have ever had.
+;null	 teacher	 positive	SHE IS AMAZING!
+;writer;class	 course course	 positive positive	If you're a good writer and work hard, it may feel like an easy class.
+;material	 knowledge	 positive	While hes not the most with it professor, he knows the material well.
+;null	 teacher	 positive	Very nice person.
+;null	 teacher	 negative	it was a total waste of my time....i want every minute back that i wasted in her class!!!!!!!!!!
+;null	 exam	 positive	Most of his questions are vague but similar to the ones taught in lecture.
+;teacher	 teacher	 positive	Good guy and teacher, people just hate on him because they're stupid and get bad grades...
+;3 exams plus the final	 exam	 negative	Theres 3 exams plus the final which are tough but if you put in the time and utilize the SI sessions you should do ok.
+;literature	 teacher	 positive	He's very specific and you can tell he cares deeply for literature.
+;3 tests & 1 assignment	 exam	 neutral	3 tests & 1 assignment.
+;null	 teacher	 positive	She is funny and brilliant which made the class fun and interesting.
+;disorganized	 teaching	 negative	He is not only extremely disorganized but he also refuses to clearly answer anything and if he does not like you, will sass you in front of the entire lecture hall (did not happen to me, happened to a friend).
+;lectures	 teaching	 negative	He's super nice but very old and thus rambles during lectures and is never very clear with concepts.
+;knows	 knowledge	 positive	He is funny and really knows his stuff.
+;null	 teacher	 negative	extremely boring.
+;fair;class	 grading relevant	 positive positive	The things we do in class are relevant to the real world, he grades fairly easy, and the classes go by fast.
+;exams	 exam	 negative	He only teaches the basic principles, and the exams are much more complicated.
+;job	 teacher	 neutral	She does her job and go, no extras!
+;exams	 exam	 negative	The homework problems are NOTHING like ones on the exams.
+;null	 teacher	 positive	Great guy all around.
+;teacher	 teacher	 positive	Hora is an amazing teacher and does a lot to help you.
+;money;time;gpa;instructor	 teacher teacher teacher teacher	 negative negative negative negative	Save your money, time, and GPA and take another instructor.
+;class	 teacher	 neutral	You should still go to class though, he goes over problems.
+;professor	 teacher	 positive	She is an awsome professor who actually makes learning fun and easy.
+;null	 teacher	 positive	Good guy.
+;brit lit	 teaching	 positive	He makes brit lit very interesting.
+;grading;grade;paper	 grading grading grading	 neutral neutral neutral	His grading is very consistent though so it is possible to make changes and try for a higher grade on the next paper.
+;class	 approachable	 positive	He is great guy, and will provide you with whatever help you need if you go to class.
+;null	 teacher	 negative	Would have been better but we were forced to buy HER book for around $50+ for class, but honestly, it has very little need being there and just seems more like self promotion.
+;null	 teacher	 positive	Awesome
+;biology	 teacher	 negative	I hated biology before this and now I hate it even more.
+;null	 teacher	 positive	Really is a kind old guy, who likes to tell stories that sometimes last half the class.
+;null	 teacher	 positive	She's great.
+;essay style	 exam	 positive	They are both essay style but go to class and you will do great!
+;professor	 teacher	 neutral	Okay professor
+;organized course	 course	 positive	very organized course and easy to navigate.
+;professor	 teacher	 positive	He is an awesome professor and he doesn't expect anything from you that he wouldn't do himself.
+;literature	 teaching	 negative	He covers a ton load of literature, so get ready to read.
+;professor	 teacher	 positive	Randy is a great professor who really cares about his students.
+;null	 teacher	 positive	I loved her!
+;midterm and a final	 exam	 neutral	As far as the violent crime class, midterm and a final.
+;notes;null;experiments	 teaching teaching teaching	 neutral negative neutral	all notes are on the net... teaches nothing else... not very helpful... does cool experiments in class... dry humor
+;null	 teacher	 positive	Makes jokes that only he finds funny.
+;null	 teacher	 positive	She is very personable, interesting, and brilliant.
+;teaches	 teaching	 positive	She's a great professor, teaches you how it REALLY is, not the way society wants you to see the world.
+;tests	 exam	 neutral	His tests are tricky at first but once you get to know the style it gets easier.
+;null;null	 approachable teacher	 positive positive	He is very approachable and loves what he teaches.
+;tests	 exam	 negative	The tests are impossible and his lectures are all over the place.
+;null;class	 teacher relevant	 positive positive	I learned more useful and relevant information and skills than I have from any other professor at UMass.
+;null	 knowledge	 negative	cuz i can't learn anything from somone who doesnt even know what they are talking about.
+;60's	 grading	 negative	Got 60's on first two tests.
+;null	 teacher	 positive	He would rather students learn to problem solve and think analytically than memorize facts.
+;tests	 exam	 neutral	You can't rent it because the worksheets in them are tunred in (which she grades harshly).Take notes because they will help on your tests.
+;comma	 teacher	 positive	If you've wondered how to use a comma and feel like learning to write coherently, he's good for that.
+;null;exams;lectures	 teacher exam teaching	 positive negative negative	very nice guy, but the lectures are very confusing, and the exams are tricky
+;null;null	 teaching grading	 positive positive	It's interesting, very fair, and I don't know of anyone in the class who doesn't participate or who doesn't like the class.
+;null	 approachable	 negative	I emailed her with a question about a paper and I am still waiting for a response almost 2 months later.
+;essays;research paper;exams	 exam exam exam	 neutral neutral neutral	3 essays, 1 research paper, 3 exams.
+;class	 teaching	 neutral	It did require lots of note taking and you had to make sure you did everything on time, but that is typical of any college class.
+;owls	 exam	 neutral	dont bother with class, just do the owls
+;class	 teacher	 positive	I'd take any class of his.
+;null;extra credit	 teacher exam	 positive positive	He is very clear and organized and offers lots of extra credit.
+;lectures	 teaching	 positive	His lectures are really amazing , inspired me to study Math.
+;null	 teacher	 positive	You won't regret it! 
+;null	 teacher	 negative	Horrible nightmare !
+;exams	 exam	 negative	He exams are nothing like the practice exams, homeworks, SI sessions, or what he does during lecture.
+;class	 course	 negative	I think Randy does care about his students, and even proposed a new grading system, but he definitely makes this intro class very difficult.
+;null	 teacher	 negative	No accent though :)
+;tests	 exam	 positive	Easy tests.
+;tutor	 teacher	 neutral	Get a tutor and youll be allset.
+;teacher	 teacher	 negative	Unfortunately he is a terrible teacher.
+;class	 relevant	 positive	Her class made me love political science, government, and history even more than I did before taking the class.
+;teacher	 teacher	 negative	Professor Cook is a terrible teacher, and an even worse comedian.
+;class	 teacher	 positive	If you're interested in Criminology at all, take a class she's teaching!
+;knows	 knowledge	 positive	caring and knows his stuff, calc can be confusing, not his fault.
+;class	 teacher	 positive	I love her class and I love her.
+;teacher	 teacher	 positive	THE BEST TEACHER EVER!!!!
+;lecture	 teaching	 positive	If she feels like we're not understanding she starts the lecture overrewords to ensure u understand.
+;help	 approachable	 negative	He is n help, so if you can't teach yourself you WILL fail
+;questions	 teaching	 negative	he doesn't take questions in class, goes over problems way too fast and with no clear direction to them.
+;confuse	 teaching	 negative	He never solved problems completely out and he'd derive some equations and confuse you so much.
+;teachers	 teacher	 positive	i have taken a few classes with her and she is by far one of the best teachers i have ever encountered.
+;null	 teacher	 positive	She really wants student to do well.
+;null	 teacher	 positive	TAKE HER I HIGHLY RECOMMEND TO EVERYONE.
+;essays;expectations;tools	 exam exam exam	 positive positive positive	He has high expectations for the essays but gives you all the tools you need to do well.
+;professor	 teacher	 positive	wonderful, wonderful professor :)
+;lectures	 teaching	 negative	He cares about having the students do well but lectures off of diagrams that you can't really take notes from.
+;participaation;class	 answering attendance	 neutral neutral	Says the marks are for participaation but it really makes you come to class.
+;help	 approachable	 negative	TA test reviews do not help and if you approach Prof. Cook for help, he does nothing for you.
+;tutoring center	 approachable	 positive	However, if you go to his office hours or the calculus tutoring center, he was usually pretty helpful.
+;teacher	 teacher	 positive	Truly a well-rounded teacher.
+;null	 exam	 positive	He gives you everything you need to do well.
+;null	 teacher	 positive	She is HILARIOUS.
+;day;time	 class class	 negative negative	If your not 100% comfortable with the day and time with this teacher then don't take this course.
+;class	 teacher	 positive	Must take any class possible with him, best professor in Isenberg, far and away.
+;review sessions	 approachable	 positive	He holds review sessions every week which really helps clearing up small details that he just mentions in class.
+;class	 teacher	 positive	I highly recommend taking her class!
+;read the book	 exam	 negative	Get ready to read the book a lot.
+;teach yourself	 teacher	 negative	If you do take it, buy the book and teach yourself.
+;class	 teacher	 positive	Prof. Phillis' class was challenging yet rewarding.
+;lectures	 teacher	 negative	He just lectures and you sit there trying to frantically copy whatever nonsense he puts on the board.
+;owls	 exam	 negative	Owls are poorly structured!
+;class	 course	 negative	This class is the worst class i've ever had at msu.
+;lectures	 teaching	 negative	His lectures are VERY unhelpful.
+;null	 teacher	 positive	AMAZING woman..soo nice and down-to-earth.
+;help	 approachable	 negative	He refuses to help when I ask and i've asked multiple times
+;teaching style	 teaching	 neutral	I disliked him at first due to how he jumped straight into deep material on the first day of class, but afterwards I got used to his concept teaching style and was able to pull through.
+;class;null	 course teacher	 negative neutral	Randy is not rude/ not unhelpful whatsoever, his class is extremely difficult and requires a lot of outside work and reading, but he is always prepared to answer your question.
+;class	 teacher	 negative	He doesn't teach anything in class don't even bother going.
+;teacher	 teacher	 negative	He is the worst teacher i have ever had.
+;professor	 teacher	 positive	Awesome professor.
+;class	 teacher	 negative	Class is a waste of time.
+;exams	 exam	 negative	Only assigned like 5 OWLs that were extremely hard and nothing like the exams.
+;syllabus	 course	 neutral	I was intimidated by the syllabus the first day but as long as you do the reading and study you will be fine.
+;null	 knowledge	 positive	Knows his stuff and makes you too.
+;exam	 exams	 negative	I have friends in 3 other bio classes who are all doing just fine and their exams are much more reasonable.
+;null	 teaching	 negative	He doesn't complete problems he starts on the board and gets confused half way through them.
+;grammar;lessons	 teaching teaching	 positive positive	He explains grammar in a way that makes more sense than any of my high school  teachers' lessons did.
+;null	 teacher	 negative	Randall Phillis destroyed any love I had for biology.
+;exams	 exam	 positive	The exams are easy if you know how to make good use of your calculator, attend class, and follow the text somewhat.
+;lectures	 teaching	 negative	He's a good guy, and wants everyone to do well, but his lectures are completely useless.
+;teaches	 presentation	 neutral	Randy is a great prof who loves what he teaches, however, he is very unclear in lectures and talks in circles.
+;review sessions	 approachable	 positive	If you go to his review sessions and tot SI, you will be successful.
+;class	 course	 neutral	He does make the class a bit tough though, still a good guy.
+;teaching	 teaching	 negative	He doesn't explain what he's teaching--just scribbles on the board without explaining.
+;class	 teacher	 negative	If you take his class get ready to spend hours in the help center in Lederle and the LRC.
+;class	 teacher	 positive	Every class you sit in a circle and gossip/talk about each other's problems.
+;null	 teacher	 positive	But she is still funny af!
+;lesson	 teaching	 negative	very unorganized, always off topic-not in a good way where it gets you out of the boring lesson but in a way where she still thinks she taught what you need to know for her impossible midterm while talking about her patients problems.
+;late;class	 late teacher	 negative negative	His class was pointless because he just confussed you and showed up late every time.
+;exam	 exam	 positive	Allows you to use a notecard on the exam.
+;null	 teacher	 positive	HIGHLY RECOMMENDED
+;teacher	 teacher	 negative	worst teacher ever!
+;null;professor	 teacher teacher	 positive negative	Randy is a good man but can be a very challenging confusing professor.
+;helpful	 approachable	 positive	She was really helpful and looked out for the class.
+;reading;quizes	 exam exam	 negative negative	If you do the required reading, you should do well on the quizes.
+;mistakes;class;syllabus	 teacher teacher teacher	 positive positive positive	If he made any mistakes, he would address it in the class and even compromise the syllabus if need be.
+;grade	 grading	 negative	She will tell you what she doesn't want in a paper, then goes back and gives you a bad grade for not including it!
+;lectures	 teaching	 positive	Her lectures were also very interesting and fun.
+;null	 teacher	 negative	Avoid Cook at all costs.
+;assignments	 exam	 positive	She is very helpful with assignments and understands that her class is not the most important one we are taking for the semester.
+;failed	 grading	 negative	I had a 3.8 GPA until I took this class, and FAILED my first college test with this guy.
+;person	 teacher	 positive	She is a good person but ....
+;null	 teacher	 positive	I heard good things about her prior to her class, but never imagined that she was even more awesome that what people said.
+;null	 teacher	 positive	Nice guy.
+;lecture;projector	 teaching teaching	 negative negative	Each lecture is usually him standing in front of a projector, talking non-stop until you are a zombie.
+;professor	 teacher	 positive	She is not your average Professor!
+;mistakes;high school methods;problems	 teaching teaching teaching	 negative negative negative	constant mistakes makes it hard to follow him, high school methods i dont even remember seem to work better than he technical mumbo jumbo ways of solving should be simple problems.
+;dialogue;therapy session	 answering answering	 positive positive	Much of the course is based on dialogue, which sometimes turns it into a therapy session for some people, but overall, I would take a class with Dr. Sacher in a heart beat.
+;null	 teacher	 positive	Definitely recommended!
+;class(es)	 teacher	 positive	Definitely take her class(es) !!
+;professor	 teacher	 positive	Good professor if you like microbio and you have an interest in cancer cells as he likes to talk about them a lot.
+;null	 teacher	 positive	Pushes chemistry a lot but obviously only because he loves it and thinks that it is beneficial to students.
+;null	 teacher	 positive	Randall Phillis is one of the best biology teachers I have ever had in my educational career.
+;material	 teaching	 positive	The material he explains is good and easy to follow, but he loves clicker questions which he then fails to tell you the exact answer to.
+;null	 teacher	 positive	He's a great guy.
+;null	 teacher	 positive	I enjoyed his class and learned a lot.
+;grades	 grading	 positive	He does drop your three lowest quiz grades though and averages the test grades out to be best for you.
+;null	 teacher	 positive	She's funny too
+;exam	 exam	 negative	Looking at the review for the exam makes you realize exactly how little he covered during lecture. 
+;null	 teacher	 neutral	YOU DO JUST FINE AS LONG AS YOU DON'T PROCRASTINATE.
+;teaching style	 teaching	 negative	it was a horrible expierence and her teaching style was not helpful under any circumstances.
+;test questions	 exam	 positive	But test questions were taken from the end of each chapters.
+;essays	 grading	 negative	I was making 5's on my developmental essays and as soon as I got into this class I failed every one of his essay's.
+;professor	 teacher	 positive	Best professor in my entire college career!
+;null	 grading	 positive	so  so so nice and easy...u can hand in your weekly journals late.
+;computer knowledge	 knowledge	 positive	He shoves a bunch of html, Javascript, CSS, PHP, and forces down intensive computer knowledge down your throat.
+;null	 teacher	 positive	TAKE HER
+;lectures	 teaching	 positive	Although I didn't have any prior knowledge or interest in biology his lectures were understandable.
+;lectures;homework	 teaching exam	 negative negative	The homework is all online, but his lectures are almost 2 weeks behind the homework due dates.
+;null	 teacher	 positive	VERY HELPFUL.
+;class	 teacher	 positive	Take her class you will have fun and won't regret it!
+;class	 class	 positive	Tries to make the class interesting and loves what he teaches.
+;null	 teacher	 positive	Randall is a great, but different.
+;null	 teacher	 positive	A professor that alters my view to biology completely.
+;null	 teacher	 neutral	I went to only 3 classes but still did fine.
+;help	 approachable	 positive	He is always willing to help, too.
+;exams	 exam	 negative	However he repeats the same lecture over multiple times and there were things on exams he never taught in class.
+;class	 course	 positive	This class is really pretty simple.
+;quizes	 exam	 neutral	Prepare for the quizes, they are at random.
+;class	 teacher	 positive	I can see where people are coming from when they negatively rate this professor, but I had no issues with the class.
+;student	 approachable	 positive	He relates to each student personally as well.
+;lecture style	 teaching	 neutral	Long lecture style, but I learned so much.
+;lecture block	 teacher	 negative	Would not reccomend taking the 75 minute lecture block, just too much drole for uninterested people.
+;a	 grading	 positive	Easiest A ever!
+;grade	 grading	 positive	You EARN your grade- English is my major, so if you did not succeed in 1301/02 don't bother.
+;null	 teacher	 positive	Take this professor!
+;students;potential	 teacher teacher	 positive positive	Mr. Everett is very passionate and expects his students to meet their potential.
+;teacher	 teacher	 positive	Just a truly amazing class, he is basically the only good teacher for this course based on what I have heard from my friends.
+;research project	 approachable	 positive	Also, she takes you step by step in the research project so if you do what she tells you to do, it's hard not to get an A!!!!
+;quizzes and exams	 exam	 positive	Study for Friday quizzes and exams a lot and you'll get the A.
+;null	 teacher	 negative	i am premed, and because of his work, i am now at a major disadvantage.
+;null	 teacher	 positive	He's also really entertaining for an old dude as well.
+;professor	 teacher	 positive	She is a very good and passionate professor.
+;material;tests and quizzes	 presentation exam	 positive negative	He shows an obvious interest in the material and makes lectures interesting but the tests and quizzes are really hard.
+;knowledge;null	 knowledge teacher	 positive negative	Don't get me wrong, he's full of knowledge, but no matter how hard I try to focus, I just can't seem to get through one lecture without having my mind wander.
+;work	 course	 neutral	This class is challenging and you have to make sure you do all the work otherwise you will not pass.
+;assignments	 exam	 neutral	I think there were 8-10 assignments.
+;grade	 grading	 neutral	Do the hw to boost your grade.
+;professor	 teacher	 negative	This man is a horrible professer.
+;reading	 exam	 neutral	Reading will help.
+;classes	 teacher	 negative	This is one of the worst classes i've taken.
+;null	 approachable	 positive	Very helpful and easily approachable.
+;class	 teacher	 negative	Don't take this class unless you absolutley have to.
+;clarify	 answering	 positive	sometimes difficult to see what it is he is talking about, but he will try and clarify if you ask him.
+;teacher	 teacher	 positive	Thurlow is a decent teacher and so funny
+;calculus 128	 teacher	 negative	DO NOT take calculus 128 with this professor.
+;class	 teacher	 positive	If she teaches any other course in the future, I won't doubt to take her class...
+;tests;null	 exam grading	 negative positive	Her tests are somewhat difficult, but overall fair.
+;attendance	 late	 positive	Attendance not mandatory but those who come get more information for essay styled questions.
+;null	 teacher	 positive	Schurter = BOSS.
+;quizzes	 exam	 neutral	quizzes on Friday but sometimes allows group quizzes (depending on how much you push him).
+;null	 answering	 positive	He is more than willing to fully explain things that you may not understand.
+;null	 teacher	 negative	This would have been fantastic except we never got back the first project, which led to a lack of motivation for subsequent projects.
+;null	 approachable	 positive	Very helpful.
+;null	 teacher	 negative	TERRIBLE.
+;class	 teacher	 positive	"You need to go to class to learn the material and iClicker, but he gives you 2 or 3 ""freebies"" if you miss class with clicker."
+;professor	 teacher	 positive	Randy is a great professor and makes the material very easy to understand.
+;teaches	 teaching	 positive	Makes corny math jokes to diffuse a bored atmosphere but he teaches well otherwise.
+;null	 teacher	 positive	yeah some of the material was familiar but Mehran was so much more awesome in person and such a great teacher, who really prepared me for some of the more difficult computing concepts.
+;paper assignments	 exam	 negative	Her paper assignments have too many rules and really hinder intelligent writing.
+;null	 approachable	 positive	ASK if you dont get it, he will definetely clarify.
+;calculus	 course	 neutral	If you didn't take calculus in high school, like I didn't, you're gonna have a hard time.
+;prof	 teacher	 neutral	he is a decent prof, he tries hard
+;null	 teacher	 positive	She's crazy and funny, her classes are usually never a bore.
+;null	 teacher	 positive	I HIGHLY recommend:)
+;null	 teacher	 positive	She is great!

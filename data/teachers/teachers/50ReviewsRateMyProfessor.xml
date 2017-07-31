@@ -1,0 +1,1269 @@
+
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence sid="0">
+				<text>Does a great job at explaining the material clearly, and her lectures are interesting and engaging.</text>
+				<Opinions>
+					<Opinion target="lectures" category="presentation" polarity="positive"/>
+					<Opinion target="material" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>If you want an A in this class you have to read the book and assigned articles, as well as prepare for quizzes, she is a hard grader so you won't get away with not knowing the material on the exams. </text>
+				<Opinions>
+					<Opinion target="hard grader" category="grading" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="1">
+		<sentences>
+			<sentence sid="0">
+				<text>Dr. Hora is a talker, she does love it so.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>However, she is prone to soap box rants.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Her teaching style did not resonate well with me.</text>
+				<Opinions>
+					<Opinion target="teaching style" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>In the first month of class, there was no homework.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>She gave an exam before a single quiz was given.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="5">
+				<text>Students that have not taken her before were left behind because of this.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="6">
+				<text>For this reason, I can not recommend Hora</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="2">
+		<sentences>
+			<sentence sid="0">
+				<text>"Riiiighhht?"</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She is rough.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>basically don't skip and talk a lot and she will like you, but if you are a person who doesn't like talking in class, you're screwed.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+					
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="3">
+		<sentences>
+			<sentence sid="0">
+				<text>Took the course as an elective for graduate school.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She's very bias towards the Political Science students.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Everyone else should forget taking her.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>The study guide she gives has nothing to do with the exam.</text>
+				<Opinions>
+					<Opinion target="study guide" category="exam" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>Do not follow it.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="5">
+				<text>The book is boring and pointless, because she covers it in class.</text>
+				<Opinions>
+					<Opinion target="book" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="6">
+				<text>But, review the terms in the chapter.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="4">
+		<sentences>
+			<sentence sid="0">
+				<text>Honestly just read the material I know had I done that I would have done a lot better.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She does not expect that much from you and if you are interested in poly sci you will enjoy her take on things.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Prepare for the quizes, they are at random.</text>
+				<Opinions>
+					<Opinion target="quizes" category="exam" polarity="neutral"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="5">
+		<sentences>
+			<sentence sid="0">
+				<text>Amazing professor who really cares about her students.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She really brought the class together and the course was really interesting.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+					<Opinion target="course" category="course design" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Definitely expects a lot of work but will always go the extra mile to help you out if you put forth the effort.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="6">
+		<sentences>
+			<sentence sid="0">
+				<text>She's really nice and helpful, but is extremely challenging.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>It's not overwhelming, but she's still a hard grader.</text>
+				<Opinions>
+					<Opinion target="hard grader" category="grading" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>You really need to keep up everyday with the readings to do well on pop quizzes.</text>
+				<Opinions>
+					<Opinion target="pop quizzes" category="exam" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="7">
+		<sentences>
+			<sentence sid="0">
+				<text>Dr. Hora is an excellent professor who truly cares about politics and students.</text>
+				<Opinions>
+					<Opinion target="professor" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>Definitely expects hard work and tests can be difficult but grades fairly and the classes aren't a problem if you study.</text>
+				<Opinions>
+					<Opinion target="tests" category="exam" polarity="negative"/>
+					<Opinion target="null" category="grading" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Class participation is a must.</text>
+				<Opinions>
+					<Opinion target="class participation" category="communication" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>If you are interested in politics, you'll enjoy her classes.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>If not, I'd save your GPA the trouble.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="8">
+		<sentences>
+			<sentence sid="0">
+				<text>A surprisingly challenging course.</text>
+				<Opinions>
+					<Opinion target="course" category="course design" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She struggles to answer questions clearly or even fully.</text>
+				<Opinions>
+					<Opinion target="null" category="communication" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Her pop quizzes are very tough.</text>
+				<Opinions>
+					<Opinion target="pop quizzes" category="exam" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>Her liberal voice comes out very often.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>Don't question her political opinion.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="5">
+				<text>She loves when you participate and are aware of current events.</text>
+				<Opinions>
+					<Opinion target="null" category="communication" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="6">
+				<text>Read the material.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="7">
+				<text>Okay professor</text>
+				<Opinions>
+					<Opinion target="professor" category="teacher" polarity="neutral"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="9">
+		<sentences>
+			<sentence sid="0">
+				<text>Hora is an amazing teacher and does a lot to help you.</text>
+				<Opinions>
+					<Opinion target="teacher" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>if you put in the work, she will grade fairly</text>
+				<Opinions>
+					<Opinion target="grade" category="grading" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="10">
+		<sentences>
+			<sentence sid="0">
+				<text>I learned a lot.</text>
+				<Opinions>
+					<Opinion target="null" category="relevance" polarity="positive"/>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+			
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>Don't expect this to be a blow-off class though.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Attend class and participate in discussion and she will like you.</text>
+				<Opinions>
+					<Opinion target="discussion" category="communication" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>She can be sarcastic but it's funny.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>Paper topics can be confusing, but just ask her for help!</text>
+				<Opinions>
+					<Opinion target="Paper topics" category="exam" polarity="negative"/>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="5">
+				<text>She takes into account if you care about your grade, once she knows that she will help as much as she can</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="11">
+		<sentences>
+			<sentence sid="0">
+				<text>Good if you like a teacher who knows her stuff; you'll learn a lot in this class if you pay attention.</text>
+				<Opinions>
+					<Opinion target="teacher" category="knowledge" polarity="positive"/>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>However, it requires an insane amount of work.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>You better keep up on current events and READ THE TEXT.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>Fond of pop quizzes.</text>
+				<Opinions>
+					<Opinion target="pop quizzes" category="exam" polarity="neutral"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="12">
+		<sentences>
+			<sentence sid="0">
+				<text>I had her for POLS120 for part of my political science degree.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>I my have gotten an A, but it was the hardest course I ever took at Valpo...and it was supposed to be an intro level course (I focused on IR, so I never had her after 120).</text>
+				<Opinions>
+					<Opinion target="course" category="course design" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>My CC profs graded easier than she did.</text>
+				<Opinions>
+					<Opinion target="null" category="grading" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>She was constantly condescending to the students.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="13">
+		<sentences>
+			<sentence sid="0">
+				<text>She favors students with the same political views as her own.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She does not hide the liberal bias in her class either.</text>
+				<Opinions>
+					<Opinion target="liberal bias" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>She is boring.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>She boasts about her doctorate in political science, too.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>Not a recommendable teacher.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="14">
+		<sentences>
+			<sentence sid="0">
+				<text>She's really great.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She is funny, open and really interested in her topic.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>I really enjoyed this class and I hope that I have an opportunity to take one of her classes again.</text>
+				<Opinions>
+					<Opinion target="class" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>You have to work hard, but you really learn quite a lot!</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+					<Opinion target="null" category="relevance" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="15">
+		<sentences>
+			<sentence sid="0">
+				<text>People that don't like her don't try.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>If you come to class prepared and no somewhat about whats going on in the world you'll get an A.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Her tests are somewhat difficult, but overall fair.</text>
+				<Opinions>
+					<Opinion target="tests" category="exam" polarity="negative"/>
+					<Opinion target="null" category="grading" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>The papers are easy if you have her proofread them.</text>
+				<Opinions>
+					<Opinion target="papers" category="exam" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="16">
+		<sentences>
+			<sentence sid="0">
+				<text>I question her neutrality</text>
+				<Opinions>
+					<Opinion target="neutrality" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="17">
+		<sentences>
+			<sentence sid="0">
+				<text>she is the worst teacher that i have had in college she sits on her high house looking down on her student.</text>
+				<Opinions>
+					<Opinion target="teacher" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>she also has a hearing problem and the tests that she give are hard.</text>
+				<Opinions>
+					<Opinion target="tests" category="exam" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="18">
+		<sentences>
+			<sentence sid="0">
+				<text>Good teacher.</text>
+				<Opinions>
+					<Opinion target="teacher" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>Not too hard to figure out what her politics are, but she grades fair.</text>
+				<Opinions>
+					<Opinion target="grades" category="grading" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Kind of tough, but she gets a lot more laid back in upper level classes.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="neutral"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="19">
+		<sentences>
+			<sentence sid="0">
+				<text>She is a very controversial teacher, I had her as a teacher and as a advisor.</text>
+				<Opinions>
+					<Opinion target="teacher" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She is someone not to cross, be warned.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>She teaches fairly and unbiased for the most part.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>Her class work is decent and is useful to the course material.</text>
+				<Opinions>
+					<Opinion target="class work" category="exam" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>She uses different types of hw assignments too which is nice.</text>
+				<Opinions>
+					<Opinion target="hw assignments" category="exam" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="5">
+				<text>I would say to take with caution.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="neutral"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="6">
+				<text>She liked me.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="20">
+		<sentences>
+			<sentence sid="0">
+				<text>The tests are hard especially if you aren't interested.</text>
+				<Opinions>
+					<Opinion target="tests" category="exam" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>YOU NEED TO DO READINGS!!!</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Most of the quiz questions are from the chapter reviews.</text>
+				<Opinions>
+					<Opinion target="quiz questions" category="exam" polarity="neutral"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>I thought I was going to get a D since I did bad on most tests but i ended with a decent grade so i can't complain.</text>
+				<Opinions>
+					<Opinion target="tests" category="grading" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>you NEED to go to class.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="21">
+		<sentences>
+			<sentence sid="0">
+				<text>Boring lectures.</text>
+				<Opinions>
+					<Opinion target="lectures" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>Can't directly answer a question.</text>
+				<Opinions>
+					<Opinion target="question" category="communication" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Makes sure you know she is DOCTOR Hora.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>I emailed her with a question about a paper and I am still waiting for a response almost 2 months later.</text>
+				<Opinions>
+					<Opinion target="null" category="counseling" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>Completely unhelpful.</text>
+				<Opinions>
+					<Opinion target="null" category="counseling" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="22">
+		<sentences>
+			<sentence sid="0">
+				<text>she comments all the time on how she has a phd yet gets stumped once a period</text>
+				<Opinions>
+					<Opinion target="null" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="23">
+		<sentences>
+			<sentence sid="0">
+				<text>Very harsh on participation.</text>
+				<Opinions>
+					<Opinion target="participation" category="communication" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>I    spoke everyday AND helped her correctly teach about the Iowa Caucuses and she didn't give me an A.</text>
+				<Opinions>
+					<Opinion target="null" category="grading" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>VERY LIBERAL!</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>If you are content arguing your views everyday, take this class.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>If not, find another class.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="5">
+				<text>The quizzes and NYT readings are stupid and pointless.</text>
+				<Opinions>
+					<Opinion target="quizzes" category="exam" polarity="negative"/>
+					<Opinion target="NYT readings" category="exam" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="6">
+				<text>Tests are LONG but fairly easy if you paid attention</text>
+				<Opinions>
+					<Opinion target="Tests" category="exam" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="24">
+		<sentences>
+			<sentence sid="0">
+				<text>She's great.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>I don't understand why anyone would say she is boring or hard on grading.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>I love this class.</text>
+				<Opinions>
+					<Opinion target="class" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>It's interesting, very fair, and I don't know of anyone in the class who doesn't participate or who doesn't like the class.</text>
+				<Opinions>
+					<Opinion target="null" category="presentation" polarity="positive"/>
+					<Opinion target="null" category="grading" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>She's one of my favorite professors</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="25">
+		<sentences>
+			<sentence sid="0">
+				<text>Prof. Hora is definitely a hard professor, and made her intro class too difficult.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+					<Opinion target="intro class" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She grades too much on class participation.</text>
+				<Opinions>
+					<Opinion target="class participation" category="communication" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>However, she gives ample opportunities for extra credit,truly understands the subject matter, and it is definitely possible to get an A.</text>
+				<Opinions>
+					<Opinion target="extra credit" category="grading" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="26">
+		<sentences>
+			<sentence sid="0">
+				<text>Worst class I have ever taken.</text>
+				<Opinions>
+					<Opinion target="class" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>It is a 100 level course that is taught like a 400 level class.</text>
+				<Opinions>
+					<Opinion target="100 level course" category="course design" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Her presentations are uninteresting and do not activate class discussion or motivate the students in the course.</text>
+				<Opinions>
+					<Opinion target="presentations" category="presentation" polarity="negative"/>
+					<Opinion target="class discussion" category="communication" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>I think we need to look at why this is the 3rd university she has taught at in such a short period.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>Her teaching style dated.</text>
+				<Opinions>
+					<Opinion target="teaching style" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="27">
+		<sentences>
+			<sentence sid="0">
+				<text>She was a terrible teacher.</text>
+				<Opinions>
+					<Opinion target="teacher" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>Her views are too left winged to be teaching at a majorly Conservative university.</text>
+				<Opinions>
+					<Opinion target="views" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>She grades extremely hard on papers and will not listen to your concerns...so if you have to take the class take it with anyone except her.</text>
+				<Opinions>
+					<Opinion target="grades" category="grading" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>I have not had any problems with teachers before but this teacher was terrible.</text>
+				<Opinions>
+					<Opinion target="teacher" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="28">
+		<sentences>
+			<sentence sid="0">
+				<text>She's a great professor!</text>
+				<Opinions>
+					<Opinion target="professor" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>I personally never had any problems with her and loved her class.</text>
+				<Opinions>
+					<Opinion target="class" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Her class made me love political science, government, and history even more than I did before taking the class.</text>
+				<Opinions>
+					<Opinion target="class" category="relevance" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>She was very helpful in writing papers and was nice overall.</text>
+				<Opinions>
+					<Opinion target="papers" category="counseling" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="4">
+				<text>Her lectures were also very interesting and fun.</text>
+				<Opinions>
+					<Opinion target="lectures" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="5">
+				<text>I highly recommend this class!</text>
+				<Opinions>
+					<Opinion target="class" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="29">
+		<sentences>
+			<sentence sid="0">
+				<text>My CC profs grade easier on papers than she does, and they do not grade easy at all.</text>
+				<Opinions>
+					<Opinion target="grade" category="grading" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She grades too hard on participation...I answer questions way more than most people and only got a B for participation.</text>
+				<Opinions>
+					<Opinion target="participation" category="communication" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Tests aren't too hard, though.</text>
+				<Opinions>
+					<Opinion target="tests" category="grading" polarity="neutral"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="30">
+		<sentences>
+			<sentence sid="0">
+				<text>Its seems that her upper level classes are much easier than her lower level classes, i.e POLS 120.</text>
+				<Opinions>
+					<Opinion target="upper level classes" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She focused on main events and really engaged the class in discussion.</text>
+				<Opinions>
+					<Opinion target="discussion" category="communication" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Grading was not that hard...however, she does grade papers like an English teacher.</text>
+				<Opinions>
+					<Opinion target="grading" category="grading" polarity="neutral"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>No need to buy text book as she gives you everything you need to know in class.</text>
+				<Opinions>
+					<Opinion target="null" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="31">
+		<sentences>
+			<sentence sid="0">
+				<text>Terrific teacher!</text>
+				<Opinions>
+					<Opinion target="teacher" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>I love her!</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Makes the topic interesting!</text>
+				<Opinions>
+					<Opinion target="topic" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="32">
+		<sentences>
+			<sentence sid="0">
+				<text>She basically reads from the overhead for notes.</text>
+				<Opinions>
+					<Opinion target="null" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>Don't bother reading the book, its pointless.</text>
+				<Opinions>
+					<Opinion target="book" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Her paper assignments have too many rules and really hinder intelligent writing.</text>
+				<Opinions>
+					<Opinion target="paper assignments" category="exam" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>She treats the class like elementary school kids.</text>
+				<Opinions>
+					<Opinion target="class" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="33">
+		<sentences>
+			<sentence sid="0">
+				<text>it was a total waste of my time....i want every minute back that i wasted in her class!!!!!!!!!!</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>it was a horrible expierence and her teaching style was not helpful under any circumstances.</text>
+				<Opinions>
+					<Opinion target="teaching style" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="34">
+		<sentences>
+			<sentence sid="0">
+				<text>First of all, it is true that she tends to grade and identify with the more liberal side of the political spectrum.</text>
+				<Opinions>
+					<Opinion target="grade" category="grading" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>That being said, conservatives should try to avoid her classes because although she claims she doesn't opine, she does.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Also, she limits intelligent writing with all the rules and stipulations she imposes on assignments.</text>
+				<Opinions>
+					<Opinion target="assignments" category="exam" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="35">
+		<sentences>
+			<sentence sid="0">
+				<text>As much as I was interested in this class before taking it,my motivation for it steadily declined as it progressed.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She has the ability to turn interesting topics into boring ones and does not allow anything outside of her rules.</text>
+				<Opinions>
+					<Opinion target="null" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Grading is very unfair and she shouldnt teach undergraduate courses because she doesnt know how to deal with young people.</text>
+				<Opinions>
+					<Opinion target="grading" category="grading" polarity="negative"/>
+				</Opinions>
+			
+				
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="36">
+		<sentences>
+			<sentence sid="0">
+				<text>Very unclear and hard to follow, the class was a total waste of time.</text>
+				<Opinions>
+					<Opinion target="null" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="37">
+		<sentences>
+			<sentence sid="0">
+				<text>NIce woman, but grades in an extremely biased fashion.</text>
+				<Opinions>
+					<Opinion target="grades" category="grading" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>Teaches a 100 level course as if all students were poly sci majors.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>I've gotten  As in 400 level honors classes, but only managed a C in Hora's class... that should say something.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="38">
+		<sentences>
+			<sentence sid="0">
+				<text>I'm sorry to all POLI students at Valparaiso.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She has taught before at Roanoke College, so check that page also for more comments on her teaching.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Most of those comments are in line with what the students at Valparaiso have said...beware of this professor if you value your sanity and GPA.</text>
+				<Opinions>
+					<Opinion target="GPA" category="grading" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="39">
+		<sentences>
+			<sentence sid="0">
+				<text>My God, where do I begin&#63;  She grades like it's a level three political science course.</text>
+				<Opinions>
+					<Opinion target="grades" category="grading" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>She will tell you what she doesn't want in a paper, then goes back and gives you a bad grade for not including it!</text>
+				<Opinions>
+					<Opinion target="grade" category="grading" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>She always carries a 'my way or the highway' attitude.</text>
+				<Opinions>
+					<Opinion target="attitude" category="teacher" polarity="negative"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>I've never been that interested in political science, but her teaching style is terrible.</text>
+				<Opinions>
+					<Opinion target="teaching style" category="presentation" polarity="negative"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="40">
+		<sentences>
+			<sentence sid="0">
+				<text>Having seen the 106a lectures online and liked them, I wasn't particularly expecting anything new.</text>
+				<Opinions>
+					<Opinion target="lectures" category="presentation" polarity="neutral"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>yeah some of the material was familiar but Mehran was so much more awesome in person and such a great teacher, who really prepared me for some of the more difficult computing concepts.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="41">
+		<sentences>
+			<sentence sid="0">
+				<text>Awesome</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="42">
+		<sentences>
+			<sentence sid="0">
+				<text>I liked him.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="43">
+		<sentences>
+			<sentence sid="0">
+				<text>One of my fav profs of all time.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>Textbook needed if you don't have any CS or Java experience but otherwise the class is generally pretty easy.
+				</text>
+				<Opinions>
+					<Opinion target="Textbook" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Lectures are recorded.</text>
+				<Opinions>
+					<Opinion target="Lectures" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="44">
+		<sentences>
+			<sentence sid="0">
+				<text>Best Prof of all time</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="45">
+		<sentences>
+			<sentence sid="0">
+				<text>He shoves a bunch of html, Javascript, CSS, PHP, and forces down intensive computer knowledge down your throat.</text>
+				<Opinions>
+					<Opinion target="computer knowledge" category="knowledge" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>He spits sizzling apple juice from his puckered lips and does yoga throughout class.</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="46">
+		<sentences>
+			<sentence sid="0">
+				<text>Mehran is awesome.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>He is always fun to listen to and he explains everything so well.</text>
+				<Opinions>
+					<Opinion target="explains" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>The lectures are also filmed and uploaded on the course website (same day) so you "go to lecture" on your own time (at double speed).</text>
+				<Opinions>
+					<Opinion target="lectures" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="3">
+				<text>He is very approachable and loves what he teaches.</text>
+				<Opinions>
+					<Opinion target="null" category="counseling" polarity="positive"/>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="47">
+		<sentences>
+			<sentence sid="0">
+				<text>He is simply great!</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>;)</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="48">
+		<sentences>
+			<sentence sid="0">
+				<text>His classes were the highlight of my week.</text>
+				<Opinions>
+					<Opinion target="classes" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="49">
+		<sentences>
+			<sentence sid="0">
+				<text>Mehran is the best.</text>
+				<Opinions>
+					<Opinion target="null" category="teacher" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>He makes CS approachable for beginners, and his lectures are awesome and are full of funny jokes and candies.</text>
+				<Opinions>
+					<Opinion target="lectures" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="50">
+		<sentences>
+			<sentence sid="0">
+				<text>One of  the most impressive lecture at Stanford.</text>
+				<Opinions>
+					<Opinion target="null" category="presentation" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="1">
+				<text>Well-organized lecture and tough course work (programming assignment.)</text>
+				<Opinions>
+					<Opinion target="lecture" category="presentation" polarity="positive"/>
+					<Opinion target="course work" category="exam" polarity="positive"/>
+				</Opinions>
+			</sentence>
+			<sentence sid="2">
+				<text>Essential for CS student. </text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

@@ -94,7 +94,7 @@ aspect term	category	polarity	text
 ;bahia principe	 building	 positive	We visited the Bahia Principe next door and were VERY glad we chose the Majestic as their layout is much more preferred.
 ;elevator	 building	 negative	2) One elevator of the two was broken during our stay.
 ;south beach	 hotel	 neutral	But of course, since it's one of the least expensive hotels in South Beach, it's not exactly a high end experience.
-;nulll;location	 building location	 negative positive	ugly inside, nice outside (nice location) aaaaahh!
+;null;location	 building location	 negative positive	ugly inside, nice outside (nice location) aaaaahh!
 ;florence	 hotel	 neutral	My husband and I spent 5 days in Florence and 5 in Rome for our honeymoon and I really belabored over picking some good hotels.
 ;6 floors	 building	 neutral	The hotel has maximum 6 floors.
 ;check in;check-out;front desk	 checkin checkin service	 positive positive positive	Check in and check-out were smooth and professional and the front desk people were always happy to call a taxi or help with a question.
@@ -200,12 +200,12 @@ aspect term	category	polarity	text
 ;location	 location	 positive	Also the location of the hotel is perfect.
 ;hotel	 hotel	 positive	great hotel 14 of us stayed here for a hen weekend our stay was almost faultless.
 ;null	 hotel	 positive	Great for the younger 30 something crowd.
-;null;reservation department	 rooms service	 neutral positive	Rene Wildeman replied immediately and the reservations department got back to me letting me know they would try to put us together, and then offered us an upgrade for $31 per night per room.
+;null;reservations department	 rooms service	 neutral positive	Rene Wildeman replied immediately and the reservations department got back to me letting me know they would try to put us together, and then offered us an upgrade for $31 per night per room.
 ;a/c;maids	 rooms service	 positive positive	a/c worked exceedingly well and the maids were fantastic.
 ;null	 checkin	 positive	We arrived at noon and were in our room at 1.
 ;car	 service	 negative	In the past they washed the car before they returned it to you.
 ;null	 hotel	 negative	A Bit of a Disappointment
-;shower	 rooms	 neutral	The showers were actually very small although there was excellent pressure from the showerhead.
+;showers	 rooms	 neutral	The showers were actually very small although there was excellent pressure from the showerhead.
 ;location	 location	 positive	The location was great.
 ;regular room	 rooms	 neutral	We accepted it, and was glad we did since I saw a regular room later on and it was tiny.
 ;breakfast	 value	 positive	Our rate included breakfast (2 people).
@@ -256,7 +256,7 @@ aspect term	category	polarity	text
 ;san gallo palace	 hotel	 positive	Have fun and stay at the San Gallo Palace.
 ;null	 hotel	 positive	You'd never have to leave if you so chose.
 ;clean;null	 cleanliness service	 positive positive	Hotel extremely clean and everything extremely well manicured.
-;location	 location	 positive	We walked just about everywhere.
+;null	 location	 positive	We walked just about everywhere.
 ;null	 hotel	 negative	They acussed me and some friends of taking something from the minibar - they acussed us of lying.
 ;luggage	 service	 negative	Oh yes my husband also loaded oour luggage.
 ;null	 hotel	 neutral	get to the pool early to reserve a spot!
@@ -450,7 +450,7 @@ aspect term	category	polarity	text
 ;nyc	 hotel	 positive	The Best in NYC:
 ;red or white wines	 food	 negative	I did not like the red or white wines.
 ;shower caps;polishing sponges	 rooms rooms	 positive positive	Everything from spare toothbrushes, razors , shower caps, shoe polishing sponges and a very handy sewing kit.
-;bathroom;maintainance	 cleanliness rooms	 positive positive	The bathroom was clean, and so modern that at first I could not figure out how to drain the sink (I thought it was malfunctioning), but a quick visit from maintenance showed I just wasn't hip enough to figure it out.
+;bathroom;maintenance	 cleanliness rooms	 positive positive	The bathroom was clean, and so modern that at first I could not figure out how to drain the sink (I thought it was malfunctioning), but a quick visit from maintenance showed I just wasn't hip enough to figure it out.
 ;staff	 service	 positive	We found the staff at the hotel charming and helpful, and the accommodation very good.
 ;check in;front desk person	 checkin service	 positive positive	easy check in with the front desk person taking us up to the room to explain everything.
 ;deluxe room	 rooms	 positive	The 2nd time we stayed we were upgraded to what was called a deluxe room - larger then the room we had before and it also had some other features like tea/coffee, a wardrobe and side tables.
@@ -472,7 +472,7 @@ aspect term	category	polarity	text
 ;null	 hotel	 positive	Calm in the eye of the storm
 ;null	 food	 neutral	We never got sick thank goodness.
 ;transportation	 service	 negative	Instead, they push very expensive courses requiring extra transportation costs.
-;room	 rooms	 negative	This is unusual and may be due to size of the rooms but for such a well thought out hotel, I thought this was a significant issue.
+;rooms	 rooms	 negative	This is unusual and may be due to size of the rooms but for such a well thought out hotel, I thought this was a significant issue.
 ;staff	 service	 positive	Extremely friendly and very helpful staff.
 ;room	 rooms	 neutral	The room was fine.
 ;balcony	 rooms	 positive	Altough we had a balcony over the street it was very quiet at night.
@@ -510,7 +510,7 @@ aspect term	category	polarity	text
 ;lobby;room	 building rooms	 positive negative	The beach and the hotel lobby was beautiful however, the room left a lot to be desired.
 ;null	 hotel	 positive	Can't fault it...
 ;breakfast;dinner	 food food	 positive positive	The breakfast selection was terrific and of course the dinner was fabulous.
-;$300	 value	 negative	My main gripe is that when you are paying $300 a night for a room you would expect to have free internet in your room.
+;internet	 value	 negative	My main gripe is that when you are paying $300 a night for a room you would expect to have free internet in your room.
 ;sound system	 rooms	 positive	Great sound system for docking ipod.
 ;king size bed	 rooms	 negative	We had a king size bed!!
 ;hotel;null	 cleanliness service	 positive positive	The hotel is extra clean, and they do everything to make your stay pleasent.
@@ -530,10 +530,10 @@ aspect term	category	polarity	text
 ;air conditioning unit;sound	 rooms rooms	 negative negative	Yes, the air conditioning unit is noticeably noisy - I got used to the sound and didn't hear it within minutes, but if you get bothered by this sort of thing it's something to note.
 ;gym	 hotel	 positive	Comprehensive gym in the basement.
 ;null	 hotel	 negative	And it is far, very far, from being even one of the top 5-6 resorts in the area.
-;location	 location	 neutral	You do have an awful amount of choice within the attached shopping centre from mcdonalds, deli france, pizzas so if you are budgeting and saving cash for the shops its pitched well for you.LocationDon't be put off by Mong Kok. Its not rough by Uk standards its quite charming and has a chinese bustle to it.
+;location	 location	 neutral	You do have an awful amount of choice within the attached shopping centre from mcdonalds, deli france, pizzas so if you are budgeting and saving cash for the shops its pitched well for you.Location Don't be put off by Mong Kok. Its not rough by Uk standards its quite charming and has a chinese bustle to it.
 ;bathroom	 rooms	 negative	The lighting in the bathroom was horrible, it made airplane lightening look good.
 ;staff	 service	 negative	The rest of the staff were aloof and didn't really have any concept of customer service.
-;restaurants	 food	 neutral	Choose to go to the specialty resturants on other nights.
+;resturants	 food	 neutral	Choose to go to the specialty resturants on other nights.
 ;food;sicknesses	 food food	 positive positive	We had no food related sicknesses during our trip.
 ;restroom	 hotel	 positive	Both beaches offer restroom facilities.
 ;bavaro	 hotel	 positive	Everyone we traveled with was 19 and older and I must say I am happy we chose the Bavaro.
@@ -625,7 +625,7 @@ aspect term	category	polarity	text
 ;hotel;budget	 hotel value	 positive positive	Overall, I was more than pleased with my experience and would strongly recommend this hotel, especially to those traveling on a budget.
 ;moana	 hotel	 positive	Will only stay at the Moana
 ;null	 hotel	 positive	Highly recommend it.
-;hotel	 hotel	 neutral	Not to be age pregidous but, didn't see anyone here that was older 60+ like other hotels in the immediate area as this one.
+;null	 hotel	 neutral	Not to be age pregidous but, didn't see anyone here that was older 60+ like other hotels in the immediate area as this one.
 ;restaurant;lobby bar	 food value	 neutral negative	Restaurant was okay, drinks in lobby bar were very expensive.
 ;location	 location	 positive	Location wise the hotel is great but during the night the side streets were a little daunting and saw a girl get her bag snatched 鈥?
 ;null	 service	 negative	I waited for another 45 minutes, still no one.
@@ -668,7 +668,7 @@ aspect term	category	polarity	text
 ;room	 rooms	 neutral	If you like quietness, as I do, ask for a room at the backside not fasing the street and higher up.
 ;null	 service	 positive	I found at the Omni - and I will be the first to admit that I am hard to please : ).
 ;marguerita or a pina colada	 food	 negative	If you enjoy a great Marguerita or a Pina Colada, sadly you are not gonna get it here.
-;japanese and steakhouse	 food	 positive	We liked the Japenese and the Steakhouse the best.
+;japenese and the steakhouse	 food	 positive	We liked the Japenese and the Steakhouse the best.
 ;lobby;checking in	 building checkin	 positive positive	We arrived at the Paradisus around 4pm on the 18th and were greeted with a strawberry fruit drink while checking in, in the expansive, gorgeous open air lobby.
 ;fron desks	 service	 negative	At the time I checked in, the fron desks said we don't have your reservation and there is no room available!!
 ;building;airport	 building location	 positive positive	Building is impressive (although dwarfed by surrounding financial HQs and the like) and about a 15 minute cab ride from the airport.

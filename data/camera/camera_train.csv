@@ -8,7 +8,7 @@ aspect term	category	polarity	text
 ;price	 price	 positive	10 great price for all the features .
 ;camera	 	 positive	i have only had this camera for one full day and i have to say that it is wonderful .
 ;hot shoe flash	 camera	 positive	the hot shoe flash attachment allowed me to buy and use a sophisticated flash unit :
-;service	 customer support	 positive	the service from the supplier was exceptional .
+;service	 support	 positive	the service from the supplier was exceptional .
 ;camera	 camera	 positive	if you strictly use the lcd and not the view finder , i highly recommend the camera .
 ;camera;price	 camera price	 positive positive	it is a fantastic camera and well worth the price .
 ;camera	 camera	 positive	definetely a great camera .
@@ -35,7 +35,7 @@ aspect term	category	polarity	text
 ;price	 price	 positive	recent price drops have made the g3 the best bargain in digital cameras currently available .
 ;shape	 weight	 positive	4 . the shape of this device is a little squarer , without losing the weight which means better balance and less shaking while clicking .
 ;camera	 camera	 positive	because this camera is beautiful .
-;servicing	 customer support	 negative	i send my camera to nikon for servicing , took them a whole 6 weeks to diagnose the problem .
+;servicing	 support	 negative	i send my camera to nikon for servicing , took them a whole 6 weeks to diagnose the problem .
 ;raw format	 camera	 positive	1 . the ability to selectively switch to raw format during record review gives you incredible more post - processing flexibility .
 ;use;control	 usability usability	 positive positive	it makes up for this by being extremely easy to use with well laid out controls that can be learned quickly .
 ;battery	 battery	 positive	i needed three batteries to keep myself going with the s330 , but the battery in the g3 is a real powerhouse :
@@ -110,7 +110,7 @@ aspect term	category	polarity	text
 ;software	 camera	 negative	3 the picture editing software it came with is adequate , but not very robust .
 ;continuous shot mode	 camera	 positive	i love the continuous shot mode , which allows you to take up to 16 pix in rapid succession -- great for action shots .
 ;quality	 picture	 positive	the quality is superb .
-;line	 customer support	 positive	6 the nikon coolpix line is a well - established line so you know support and parts are going to be available even when nikon releases a newer model .
+;line	 support	 positive	6 the nikon coolpix line is a well - established line so you know support and parts are going to be available even when nikon releases a newer model .
 ;use	 usability	 positive	the camera is very easy to use , in fact on a recent trip this past week i was asked to take a picture of a vacationing elderly group .
 ;photos	 picture	 positive	just point and shoot and the photos were great .
 ;size	 size	 positive	the small size is perfect for my little hands , but may perhaps be uncomfortable or awkward for a bigger person .
@@ -152,7 +152,7 @@ aspect term	category	polarity	text
 ;manual functionality;pictures	 camera picture	 positive positive	manual functionality is excellent , downloading pictures is quick and a breeze , and the quality is astounding .
 ;g3	 camera	 positive	what this plug - in reveals is the truly stunning quality of the raw g3 hardware .
 ;size;null	 size weight	 negative negative	1 ) quite bulky ( it ' s about the same size as my minolta vectis s - 1 aps slr ) and uses a heavy battery , although not very solid as it is contructed mostly of plastic ( unlike canon ' s elph line )
-;camera;customer service	 camera customer support	 positive negative	it is a good camera in terms of the function and quality , but take your chance with it because nikon absolutely sucks when it comes to customer service .
+;camera;customer service	 camera support	 positive negative	it is a good camera in terms of the function and quality , but take your chance with it because nikon absolutely sucks when it comes to customer service .
 ;camera	 camera	 positive	i can ' t write enough positive things about this great little camera !
 ;camera	 	 positive	despite this minor disappointment , i highly recommend the canon g3 anyone who is serious about digital photography .
 ;optical zoom;digital zoom	 camera camera	 positive positive	the optical zoom works great and the 14x digital zoom is a very nice addition although pictures at the highest digital zoom are a little blurry .
@@ -200,7 +200,7 @@ aspect term	category	polarity	text
 ;built quality;lens	 camera camera	 positive positive	proven canon built quality and lens .
 ;battery life	 battery	 positive	battery life is ok .
 ;lcd	 camera	 positive	the moveable lcd screen is great .
-;software;online service	 camera customer support	 positive positive	the software that comes with it is amazing and the online service that comes free is really very neat . clean clear and well focused on over 95 % of all photos taken by a beginner .
+;software;online service	 camera support	 positive positive	the software that comes with it is amazing and the online service that comes free is really very neat . clean clear and well focused on over 95 % of all photos taken by a beginner .
 ;null	 camera	 positive	it is versatile and seems to be one of the best .
 ;battery life	 battery	 positive	battery life , the drawback to most digital cameras , to quote k . reeves .
 ;null;resolution;camera	 size picture camera	 positive positive positive	if you ' re looking for a small , compact , super resolution digital camera , you can end your search with the nikon 4300 !

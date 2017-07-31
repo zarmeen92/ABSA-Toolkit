@@ -1,0 +1,1709 @@
+aspect term	category	polarity	text
+;place	restaurant	 negative	Judging from previous posts this used to be a good place, but not any longer.
+;staff	service	 negative	We, there were four of us, arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude.
+;null	service	 negative	They never brought us complimentary noodles, ignored repeated requests for sugar, and threw our dishes on the table.
+;food;portions	food food	 negative negative	The food was lousy - too sweet or too salty and the portions tiny.
+;null	service	 negative	After all that, they complained to me about the small tip.
+;place	restaurant	 negative	Avoid this place!
+;food	food	 positive	I have eaten at Saul, many times, the food is always consistently, outrageously good.
+;saul	restaurant	 positive	Saul is the best restaurant on Smith Street and in Brooklyn.
+;foie gras terrine with figs;duck confit	food food	 positive positive	The duck confit is always amazing and the foie gras terrine with figs was out of this world.
+;wine list;wine list	beverages price	 positive positive	The wine list is interesting and has many good values.
+;null;null	price food	 positive positive	For the price, you cannot eat this well in Manhattan.
+;restaurant	restaurant	 negative	I was very disappointed with this restaurant.
+;cart attendant	service	 negative	Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.
+;null	service	 negative	I had to ask her three times before she finally came back with the dish Ive requested.
+;food	food	 neutral	Food was okay, nothing great.
+;chow fun;pork shu mai;null	food food restaurant	 negative negative negative	Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family. 
+;place	restaurant	 negative	I/we will never go back to this place again.
+;fish	restaurant	 positive	Went on a 3 day oyster binge, with Fish bringing up the closing, and I am so glad this was the place it O trip ended, because it was so great!
+;service;oysters;null	service food price	 positive positive positive	Service was devine, oysters where a sensual as they come, and the price can't be beat!!!
+;null	restaurant	 positive	You can't go wrong here.
+;restaurant saul	restaurant	 positive	Every time in New York I make it a point to visit Restaurant Saul on Smith Street.
+;null;service;decor	food service ambiance	 positive positive positive	Everything is always cooked to perfection, the service is excellent, the decor cool and understated.
+;duck breast special	food	 positive	I had the duck breast special on my last visit and it was incredible.
+;null	restaurant	 positive	Can't wait wait for my next visit.
+;null	restaurant	 negative	And I hate to say this but I doubt I'll ever go back. 
+;food;thai fusion stuff;null	food food food	 negative negative negative	The food is very average...the Thai fusion stuff is a bit too sweet, every thing they serve is too sweet here.
+;grilled chicken special with edamame puree	food	 positive	The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree.
+;edamame pureed;edamame pureed	food food	 positive positive	I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt).
+;place;decor;vent	ambiance ambiance ambiance	 negative positive negative	The decor is night tho...but they REALLY need to clean that vent in the ceiling...its quite un-appetizing, and kills your effort to make this place look sleek and modern.
+;sake list;null	beverages service	 positive positive	Their sake list was extensive, but we were looking for Purple Haze, which wasn't listed but made for us upon request!
+;spicy tuna roll;rock shrimp tempura	food food	 positive positive	The spicy tuna roll was unusually good and the rock shrimp tempura was awesome, great appetizer to share!
+;service	service	 positive	We went around 9:30 on a Friday and it had died down a bit by then so the service was great!
+;pink pony	restaurant	 positive	we love th pink pony.
+;spot	restaurant	 positive	THe perfect spot.
+;food	food	 positive	Food-awesome.
+;service	service	 positive	Service- friendly and attentive.
+;ambiance	ambiance	 positive	Ambiance- relaxed and stylish.
+;place	restaurant	 positive	Don't judge this place prima facie, you have to try it to believe it, a home away from home for the literate heart.
+;food	food	 neutral	the food is decent.
+;service	service	 negative	however, it's the service that leaves a bad taste in my mouth.
+;waiter	service	 negative	i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.
+;null	service	 negative	i know, you were too busy showing off your vintage tee shirt and looking bored, but my agenda is i'm here to eat and enjoy the company of friends, seeking a pleasant experience.
+;null	restaurant	 negative	well, i didn't find it there, and trust, i have told everyone i can think of about my experience. 
+;null	restaurant	 negative	the last time i walked by it looked pretty empty. hmmm.
+;place	restaurant	 positive	This place has got to be the best japanese restaurant in the new york area.
+;null	restaurant	 positive	I had a great experience.
+;food	food	 positive	Food is great.
+;service	service	 positive	Service is top notch.
+;null	restaurant	 positive	I have been going back again and again.
+;sea urchin	food	 positive	I tend to judge a sushi restaurant by its sea urchin, which was heavenly at sushi rose.
+;null	food	 positive	It melted in my little mouth and the perfect consistency-not too fishy, creamy, and slightly buttery.
+;sushi;sushi	food food	 positive positive	The sushi seemed pretty fresh and was adequately proportioned.
+;rice to fish ration	food	 positive	The rice to fish ration was also good--they didn't try to overpack the rice.
+;half price sushi deal;half price sushi deal	food price	 positive positive	We took advanatage of the half price sushi deal on saturday so it was well worth it.
+;null	restaurant	 positive	Surprisingly nothing could be further from the truth.
+;crowd	restaurant	 positive	In the evening, this place attracted a well dressed, with it, NY crowd.
+;food;service	food service	 positive positive	The food was well prepared and the service impecable.
+;null	restaurant	 positive	I'm going back.
+;null	ambiance	 positive	Quite simply it's like stepping out of Manhattan and into a haven of tranquility.
+;prix fixe menu;prix fixe menu;prix fixe menu	food food price	 positive positive positive	The Prix Fixe menu is worth every penny and you get more than enough (both in quantity AND quality).
+;null	restaurant	 positive	I will be going back and heartily recommend it!
+;null;null	food price	 positive positive	It is terrific, as is the value.
+;food;food;food	food food price	 positive positive positive	$6 and there is much tasty food, all of it fresh and continually refilled.
+;dishes	food	 positive	I am not a vegetarian but, almost all the dishes were great.
+;null	restaurant	 positive	Go hungry and enjoy.
+;food;null	food service	 positive negative	The food here is rather good, but only if you like to wait for it.
+;somosas;chai;chole;dhosas;dhal	food food food food food	 positive positive positive negative negative	I like the somosas, chai, and the chole, but the dhosas and dhal were kinda dissapointing.
+;service	service	 negative	The service varys from day to day- sometimes they're very nice, and sometimes not.
+;kitchen	service	 negative	The kitchen however, is almost always slow.
+;food	food	 negative	Also, specify if you like your food spicy- its rather bland if you don't.
+;ambience;null	ambiance restaurant	 positive positive	The ambience is pretty and nice for conversation, so a casual lunch here would probably be best.
+;view	location	 positive	If you've ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer.
+;service;food;food	service food price	 positive positive positive	Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+;lava cake dessert	food	 positive	The lava cake dessert was incredible and I recommend it.
+;cosette	ambiance	 positive	Once you step into Cosette, you're miraculously in a small, off-the-beaten path Parisian bistro.
+;restaurant	ambiance	 positive	This tiny restaurant is as cozy as it gets, with that certain Parisian flair.
+;food;french onion soup;french onion soup;desserts	food food food food	 positive negative positive negative	The food was average to above-average; the French Onion soup filling yet not overly impressive, and the desserts not brilliant in any way.
+;ambience;food	ambiance food	 positive neutral	However, go for the ambience, and consider the food just a companion for a trip across the world!
+;null	restaurant	 negative	IT WAS HORRIBLE.
+;pizza;cheese	food food	 negative negative	The pizza was delivered cold and the cheese wasn't even fully melted!
+;null	food	 negative	It looked like shredded cheese partly done - still in strips.
+;null	restaurant	 negative	This has got to be one of the most overrated restaurants in Brooklyn.
+;pizza;pizza	food price	 negative negative	The pizza is overpriced and soggy.
+;ingredients;pizza;crust	food food food	 positive negative negative	Yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.
+;null	restaurant	 negative	A big disappointment, all around.
+;meals	food	 positive	I think I've had some the best meals of my life at minnow.
+;seafood;wine list;menu	food beverages food	 positive positive positive	The seafood is amazing, there's a good wine list, and the ever-changing menu always offers some great surprises.
+;ingredients	food	 positive	The combination of super-fresh ingredients in the dishes are unusual but really delicious.
+;null	restaurant	 positive	Worth the trip from Manhattan.
+;pastrami;portion	food food	 positive positive	Best Pastrami I ever had and great portion without being ridiculous.
+;fried shrimp;fried shrimp	food food	 positive positive	My wife had the fried shrimp which are huge and loved it.
+;place	restaurant	 positive	As a Japanese native, I've lived in the Tristate area for over 8 years, but I was just so amazed at this place.
+;place	restaurant	 positive	This place is the most Japanese it can ever get.
+;signs;specials menus;food;waitstaff	restaurant food food service	 positive positive positive positive	The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.
+;place	restaurant	 positive	This place is worth an one-hour drive.
+;null	restaurant	 positive	I am so coming back here again, as much as I can.
+;leon;leon;specials;atmosphere;french bistro fare	restaurant ambiance food ambiance food	 positive positive positive positive positive	Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.
+;staff	service	 positive	My wife and I always enjoy the young, not always well trained but nevertheless friendly, staff, all of whom have a story.
+;wine;wine	beverages price	 neutral positive	Decent wine at reasonable prices.
+;null	restaurant	 positive	Have been dozens of times and never failed to enjoy the experience.
+;null	restaurant	 positive	Our teenage kids love it, too.
+;zucchero pomodori	restaurant	 positive	Everytime I decide to try another place on the UES, I get angry that I didn't just go to Zucchero Pomodori.
+;place	restaurant	 positive	This is by far my favorite place in the neighborhood.
+;service;decor;food;portions	service ambiance food food	 positive positive positive positive	The service is excellent, the decor is great, and the food is delicious and comes in large portions.
+;gnocchi	restaurant	 positive	I'm partial to the Gnocchi.
+;place	restaurant	 negative	This place is incredibly tiny.
+;null	service	 negative	They refuse to seat parties of 3 or more on weekends.
+;hostess	service	 negative	The hostess is rude to the point of being offensive.
+;food	food	 negative	The food was bland oily.
+;null	restaurant	 negative	I just don't understand all the hype...
+;food;wine;service	food beverages service	 positive positive positive	We have been to this place many times, and always have great food, wine, and service.
+;wait	service	 positive	We were worried we would have trouble getting in, but somehow managed to have a short wait.
+;glass of wine	beverages	 positive	As always we had a great glass of wine while we waited.
+;service	service	 positive	When we sat, we got great and fast service.
+;people	service	 positive	The people that work there are always so friendly you forget you are in New York sometimes.
+;place	restaurant	 positive	Make sure you try this place as often as you can.
+;restaurant	restaurant	 positive	This is a fun restaurant to go to.
+;pizza;atmoshpere	food ambiance	 positive positive	The pizza is yummy and I like the atmoshpere.
+;pizza	price	 negative	But the pizza is way to expensive.
+;null;toppings	price price	 negative negative	A large is $20, and toppings are about $3 each.
+;lunch	food	 negative	I went there for lunch and it was not as good as I expected from the reviews I read.
+;sauce;food	food food	 negative negative	Sauce was watery and the food didn't have much flavor.
+;null	restaurant	 negative	I don't think I would go again.
+;place	restaurant	 positive	This place is great.
+;null	service	 positive	I had a huge group for my birthday and we were well taken care of.
+;waitress;food	service food	 positive positive	The waitress was very patient with us and the food is phenomenal!
+;service	service	 positive	Service was prompt, friendly and great.
+;null;null	price restaurant	 negative positive	Slightly on the pricey side but worth it!
+;pizza;service	food service	 positive positive	Great pizza and fantastic service.
+;wait	service	 positive	There was a small wait, but shorter than I expected.
+;block	location	 positive	Located at the end of a magnificent block.
+;null	ambiance	 positive	Very cozy and warm inside.....
+;null	restaurant	 positive	I will be back!
+;sushi	food	 positive	This is the best sushi in new york city - hands down.
+;place;food	ambiance food	 negative positive	The place is small and cramped but the food is fantastic.
+;tuna of gari	food	 positive	Get the tuna of gari.
+;sushi;thai food;planet thailand	food food restaurant	 positive positive positive	Planet Thailand has always been a hit with me , I go there usually for the sushi, which is great , the thai food is excellent too .
+;menu	food	 positive	With the great variety on the menu , I eat here often and never get bored .
+;atmosphere;null	ambiance price	 neutral positive	The atmosphere isn't the greatest , but I suppose that's how they keep the prices down .
+;food	food	 positive	It's all about the food !!
+;place	restaurant	 negative	first it took us a long time to find the place.
+;menu	food	 negative	but when we looked at the menu, there weren't a lot of choices, most of them were dumplings in the appetizer section.
+;rolls;rolls;sashimi	food food food	 neutral negative negative	those rolls were big, but not good and sashimi wasn't fresh.
+;null	food	 negative	they were dry and disgusting, i didn't even finish my first piece.
+;null	service	 positive	Hurley's is like Cheers where everyone knows your name and they are ACTUALLY glad you came.
+;crunchy tuna	food	 positive	Try the crunchy tuna, it is to die for.
+;null	food	 positive	Try everything for that matter, it is all good.
+;null	restaurant	 positive	I have been going there since it opened and I can't get enough.
+;garden terrace	ambiance	 positive	First went here to enjoy their garden terrace.
+;food;service	food service	 positive positive	The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.
+;steak tartare	food	 positive	The Steak Tartare is a great bet, they fix it for you at the table.
+;open kitchen;restaurant	ambiance ambiance	 positive negative	Admittedly some nights inside the restaurant were rather warm, but the open kitchen is part of the charm.
+;wine selection;gigondas;house champagne	beverages beverages price	 positive positive positive	Great wine selection, Gigondas is worth the price, and the house champagne is a great value.
+;null;vibe;french food	ambiance ambiance food	 neutral positive positive	It may be a bit packed on weekends, but the vibe is good and it is the best French food you will find in the area.
+;place	restaurant	 positive	Have recommended the place to friends, always gets good response.
+;crust;pizza	food food	 positive positive	Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best, freshly baked bread!
+;vt's	restaurant	 positive	I take all my NYC guests to VT's.
+;neighborhood;food	location food	 positive positive	Not sure where the previous reviewer, lonk, dined, but Saul is in a great neighborhood and has great food!
+;null	restaurant	 positive	I've been there three times and have always had wonderful experiences.
+;setting;service;null	ambiance service restaurant	 positive positive positive	I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.
+;mizu	restaurant	 positive	I'm not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and I all enjoy Mizu very much... and we're repeat customers.
+;null	service	 negative	Even after they overcharged me the last time I was there.
+;spicy scallop roll	food	 positive	Make sure you have the Spicy Scallop roll.. .
+;null	food	 positive	it's delicious!
+;moules;lobster ravioli	food food	 positive negative	Moules were excellent, lobster ravioli was VERY salty!
+;maitre d'	service	 negative	Took my mom for Mother's Day, and the maitre d' was pretty rude.
+;null	service	 negative	Told us to sit anywhere, and when we sat he said the table was reserved.
+;null	service	 negative	Stepped on my foot on the SECOND time he reached over me to adjust lighting.
+;dessert;dessert	food price	 negative negative	Tiny dessert was $8.00...just plain overpriced for what it is.
+;drinks;wine selection	beverages price	 positive positive	The drinks are always welll made and wine selection is fairly priced.
+;chef's specials	food	 positive	Try their chef's specials-- they are to die for.
+;service	service	 neutral	Service is not exactly five star, but thats not really a big deal.
+;downstairs lounge	ambiance	 positive	Downstairs lounge is always a good attraction
+;raga's	ambiance	 positive	Raga's is a romantic, cozy restaurant.
+;exotic food;exotic food	food food	 positive positive	The exotic food is beautifully presented and is a delight in delicious combinations.
+;null	price	 positive	It is also extremely well priced.
+;staff	service	 positive	The staff is incredibly helpful and attentive.
+;bar;beers;wines	beverages beverages price	 positive positive positive	The bar is very well stocked with interesting beers and well priced wines.
+;null	restaurant	 positive	This is one of my favorite restaurants and it is not to be missed.
+;null	restaurant	 positive	Your friends will thank you for introducing them to this gem!
+;leon	restaurant	 negative	When we stumbled on Leon, we thought that we had found quite the gem BUT, we were certainly wrong.
+;waitress	service	 negative	The waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet, we were told no...
+;null	service	 negative	Then, to top things off, she dropped used silverware on my boyfriend's jacket and did not stop to apologize or clean the mess that was left on clothes. 
+;null	service	 negative	Such a disappointment...
+;service;food;null	service food restaurant	 negative neutral negative	Rude service, medicore food...there are tons of restaurants in NY...stay away from this one
+;jekyll and hyde	restaurant	 positive	I had a grat time at Jekyll and Hyde!
+;null;shows;actors	restaurant ambiance ambiance	 positive positive positive	I loved everythig about it-especially the shows and actors.
+;server	service	 positive	Our server was very helpful and friendly.
+;null	restaurant	 positive	I am bringing my whole family back next time.
+;food	food	 positive	The food was good too.
+;tuna;wasabe potatoes	food food	 positive positive	The tuna and wasabe potatoes are excellent.
+;outdoor atmosphere	location	 positive	The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.
+;null	ambiance	 neutral	Inside is a little cramped, but to be expected.
+;service	service	 positive	Service was prompt and courteous.
+;null	restaurant	 positive	This was a repeat visit and we'll definitely be back again.
+;service;food	service food	 positive positive	Great service, great food.
+;null	price	 neutral	Prices are in line.
+;null	location	 negative	But too far east!
+;pizza;fresh mozzarella	food food	 positive positive	The pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.
+;appetizer selection	food	 negative	Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.
+;null;null	food food	 negative negative	Also, because it is so thin, it gets cold very quickly and its not that filling.
+;wait staff;pie	service food	 negative positive	Wait staff is blantently unappreciative of your business but its the best pie on the UWS!
+;salad	food	 positive	By far the best salad I have had in a fast food restaurant.
+;dining	food	 positive	fine dining restaurant quality.
+;null	food	 positive	Over 100 different choices to create your own.
+;null	restaurant	 positive	A must try!
+;restaurant	restaurant	 positive	On a recent Sunday afternoon, a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT.
+;null;null	food ambiance	 positive positive	This was the perfect quiet, relaxing, and delicious accompaniment to our afternoon of theater.
+;chicken pot pie;cheeseburger;cheeseburger;service	food food food service	 positive positive positive positive	The chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.
+;null	restaurant	 positive	With so many poor experiences to be had in the theater district, is truly an excellent find!
+;null	restaurant	 positive	We will return many times for this oasis in mid-town.
+;staff	service	 positive	The staff is no nonsense.
+;food	food	 positive	The food options rule.
+;bagels	food	 positive	When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else.
+;1st ave spot	restaurant	 positive	Worth visiting the 1st Ave spot because it is the original store.
+;uni hand roll	food	 positive	He served me an Uni Hand roll, which I never had before, and let me tell you...IT WAS HEAVEN!
+;sake menu	beverages	 positive	The sake menu should not be overlooked!
+;null	restaurant	 positive	All in all, this midtown gem instantly became one of my favorite sushi restaurants in the city.
+;lobster teriyaki;rose special roll	food food	 positive positive	Try the lobster teriyaki and the rose special roll.
+;service	service	 positive	Service was very good - prompt, attentive and non-intrusive.
+;food;pork belly	food food	 positive negative	Food was very good as well, considering that we tried the budget selection (though I wish the pork belly that I ordered was roasted a bit longer, so that fat was more of a melt-in-your-mouth experience).
+;wine list selection;wine-by-the-glass	beverages beverages	 positive positive	Wine list selection is good and wine-by-the-glass was generously filled to the top.
+;traditional french decour;hall	ambiance ambiance	 positive negative	Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation.
+;cafe spice	restaurant	 positive	I've been to at Cafe Spice probably 5-8 times, it is probably still the best Indian restaurant around Union Square.
+;service	service	 neutral	To sum it up: Service varies from good to mediorce, depending on which waiter you get; generally it is just average Ok. 
+;seating	service	 positive	Seating is always prompt, though the restaurant does fill up in the evening.
+;food;raw vegatables in side orders	food food	 positive negative	Food is usually very good, though ocasionally I wondered about freshmess of raw vegatables in side orders.
+;null	service	 neutral	As many other reviewers noticed, your order is often slow to arrive - this is particularly true in the evening but is not a problem during lunch time.
+;decor;semi-private boths	ambiance ambiance	 positive positive	The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.
+;red eye	restaurant	 positive	I have NEVER been disappointed in the Red Eye.
+;live jazz band;atmosphere	ambiance ambiance	 positive positive	The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.
+;meal	food	 positive	It's simply the best meal in NYC.
+;red eye grill	restaurant	 positive	You cannot go wrong at the Red Eye Grill.
+;restaurant	restaurant	 positive	If we were to move from the upper east side, we would genuinely miss this restaurant.
+;restaurant	ambiance	 neutral	The restaurant is cute but not upscale.
+;food;balance of herbs and tomatoes	food food	 positive positive	The food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes.
+;null	restaurant	 positive	I would highly recommend it.
+;null	restaurant	 positive	It's one of our favorite places to eat in NY.
+;jekyll and hyde pub	restaurant	 positive	We had a great time at the Jekyll and hyde Pub last night.
+;bar	restaurant	 positive	After really enjoying ourselves at the bar we sat down at a table and had dinner.
+;server	service	 positive	The server was really cool and served us our food and drinks with a smile.
+;decor;hidden bathrooms	ambiance ambiance	 positive positive	The place's decor and hidden bathrooms made for a good laugh.
+;restaurant	restaurant	 positive	I highly recommend visiting this restaurant and having dinner and drinks!
+;place	restaurant	 positive	If you are the type of person who likes being scared and entertained, this is a great place to go and eat.
+;jekyll and hyde pub	restaurant	 positive	My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary, and to our surprise it was fantastic.
+;beers;food;pumkin tortelini	beverages food food	 positive positive positive	The have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious, if I must recommend a dish it must be the pumkin tortelini.
+;null	ambiance	 positive	The entertainment was great they have shows that go on through out the dinner.
+;place	restaurant	 positive	Please take my advice, go and try this place.
+;null	restaurant	 positive	You will not be disapointed at all.
+;null	restaurant	 positive	We were not dissappointed in the least bit by this little gem.
+;bagel	food	 positive	The bagel was huge.
+;null	food	 positive	They were served warm and had a soft fluffy interior.
+;bagel	food	 negative	The workers there also absolutely load the bagel with cream cheese (gets a little messy).
+;null	restaurant	 positive	I loved it and would HIGHLY RECOMMEND.
+;food;service	food service	 positive positive	This was my frist time at Cafe St. Bart's and I must say how delicous the food and the service was.
+;lobster roll;lobster	food food	 positive positive	I have to highly recommend the lobster roll - not to much mayo; you can tell it was a fresh lobster.
+;pizza;santa fe chopped salad;fish and chips	food food food	 positive positive positive	Other guests enjoyed pizza, santa fe chopped salad and fish and chips.
+;food;ambience;service	food ambiance service	 positive positive positive	I highly recommend Cafe St. Bart's for their food, the ambience and wonderful service.
+;staff	service	 positive	All the staff is absolutely professional!! 
+;null	service	 positive	But they do.
+;null	service	 positive	(that is A MUST, but not every restaurant can do...) 
+;null	ambiance	 positive	There's nice and quiet, small but enough for 6 (or more).
+;restaurant	restaurant	 negative	This restaurant was way overhyped.
+;chow fun and chow see	food	 negative	My chow fun and chow see was really bland and oily.
+;null	food	 negative	Okay-i don't mind the oily part (cause most are cooked that way) but it was way too bland.
+;scallion pancakes;fried dumplings	food food	 neutral neutral	The scallion pancakes and fried dumplings were nothing out of the ordinary.
+;service;restaurant	service restaurant	 positive negative	The service was the only thing good about this restaurant.
+;null;sushi;tuna;rolls	ambiance food food food	 negative negative negative negative	It's boring on the inside, and our sushi was pretty below average... the tuna was soggy and the other rolls had no flavor.
+;null	restaurant	 negative	I definitely wouldn't go back.
+;pad penang;null	food food	 positive positive	Their pad penang is delicious and everything else is fantastic.
+;null;service	price service	 positive negative	The price is reasonable although the service is poor.
+;fresh restaurant;food	restaurant food	 positive positive	fresh restaurant was amazing........ food was delicious and of course fresh.
+;null;null	ambiance restaurant	 positive positive	great for a romantic evening, or a fun evening with friends...
+;null	restaurant	 positive	I will be going back very soon.
+;null	restaurant	 positive	keep up the good work.
+;chef	food	 positive	Hats off to the chef.
+;null	restaurant	 positive	It was wonderful.
+;salads	food	 positive	the salads are delicious, both refreshing and very spicy.
+;pam's special fried fish	food	 positive	We had Pam's special fried fish and it was amazing.
+;null;null	food food	 neutral positive	too large for just two people but nothing was left.
+;vibe	ambiance	 positive	Great vibe, lots of people.
+;null;null	food food	 positive negative	My husbands was perfect, my was well done and dry.
+;atmosphere	ambiance	 positive	I didn't complain, I liked the atmosphere so much.
+;null	restaurant	 positive	On a hot day it was fabulous to stop in and enjoy lunch.
+;ambience;null	ambiance restaurant	 positive positive	Ambience is so cute and quaint, good for business although we were there on vacation.
+;salads	food	 positive	Salads were fantastic.
+;salads	food	 positive	Although we were looking for regular lettuce and some walnuts the salads we got were great.
+;ingredients	food	 positive	Ingredients are organic which is a real plus for me.
+;null	restaurant	 positive	We will be back.
+;sushi;sushi	food price	 positive positive	This is some really good, inexpensive sushi.
+;spicy tuna roll;spicy tuna roll;spicy tuna roll	food food price	 positive positive positive	The spicy Tuna roll is huge and probably the best that I've had at this price range.
+;yellowtail	food	 positive	The Yellowtail was particularly good as well.
+;all you can eat deal;all you can eat deal	food price	 negative negative	I have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.
+;place	restaurant	 positive	In any event, this is a place I'll be sure to stop by again when I'm in this part of town.
+;big wong	restaurant	 positive	Big Wong gets big Ups for a fine establishment.
+;null;null;food;service	restaurant price food service	 positive positive positive positive	They have it all -- great price, food, and service.
+;atmosphere;waiters	ambiance service	 negative positive	The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can.
+;null	service	 positive	The food is prepared quickly and efficiently.
+;null;congee;noodles;rice dishes	price price price price	 positive positive positive positive	And it all comes at a very reasonable price (congee, noodles, and rice dishes are no more than $3-6 each).
+;takeout	service	 positive	The takeout is great too since they give high quality tupperware as well.
+;place	restaurant	 positive	This place is always very crowded and popular.
+;caesar salad;arugula and goat cheese	food food	 positive positive	Enjoyed a very nice Caesar Salad while my wife had arugula and goat cheese....both very tasty.
+;null;pasta dish	service food	 positive positive	We both opted for a pasta dish and they were served timely and fresh.
+;tiramisu;chocolate cake	food food	 positive positive	We concluded with tiramisu chocolate cake, both were delicious.
+;null	restaurant	 positive	We'd go back again
+;restaurant	restaurant	 positive	I recently went to this restaurant with some co-workers for lunch and had an amazing time.
+;staff;food;place	service food ambiance	 positive positive positive	The staff was accomodating, the food was absolutely delicious and the place is lovely.
+;manager	service	 positive	We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.
+;null;null	price restaurant	 negative positive	Yes, the prices are high, but I felt it was worth it.
+;null	restaurant	 positive	We all felt it was worth it.
+;food;service	food service	 positive neutral	sometimes i get good food and ok service.
+;food;service;service;good	food service service food	 negative negative negative positive	sometimes i get bad food and bad service, sometimes i get good good and bad service.
+;null	restaurant	 negative	it is not consistent.
+;dishes;wine;null;atmosphere	food beverages service ambiance	 positive positive positive positive	The place is a BISTRO which means: simple dishes and wine served efficiently in a bustling atmosphere.
+;patis	restaurant	 positive	And where does Patis go wrong; no where. 
+;null;null	food food	 positive positive	You are not eating haut cuisine with subtle hints of whatever but: Cassuolet, Steake Fritte, Tripe Stew, etc; simple stuff.
+;pastis	restaurant	 positive	And evaluated on those terms Pastis is simply wonderful.
+;pizza;place	food ambiance	 positive positive	Right off the L in Brooklyn this is a nice cozy place with good pizza.
+;raddichio;null	food food	 negative positive	Mine was a little burnt but still delicious with goat cheese and panchetta (raddichio was kind of bitter though).
+;mushroom pizza	food	 positive	My friend got the mushroom pizza which tasted better.
+;sangria	beverages	 positive	The sangria was pretty tasty and good on a hot muggy day.
+;place	restaurant	 neutral	Kind of a small place but I guess if they are not too busy might be able to fit a group or kids.
+;null	restaurant	 positive	Overall I would recommend it and go back again.
+;bombay beer	beverages	 positive	I started out with a Bombay beer which was big enough for two.
+;null	food	 positive	MMmmm... it was delicious.
+;service;people	service service	 negative positive	Service was slow, but the people were friendly.
+;place	ambiance	 positive	It's a nice place to relax and have conversation.
+;null	restaurant	 positive	I can't wait to go back.
+;food	food	 positive	The food is authentic Italian - delicious!
+;pizza;homemade pasta	food food	 positive positive	Pizza is terrific, as is homemade pasta.
+;ambience;service	ambiance service	 positive positive	Ambience is delightful, service impeccable.
+;food	food	 negative	I'm still mad that i had to pay for lousy food.
+;hanger steak;tuna	food food	 negative negative	The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed.
+;service;ambience	service ambiance	 negative negative	Service was also horrible and the ambience is not that great.
+;null	restaurant	 negative	DO not try unless you're just going there to hang out like the rest of the hipsters who apparently have no sense of taste.
+;place	restaurant	 positive	I go and eat out at many different restaurants and this is one place you have go and try.
+;food;service	food service	 positive positive	This is my first time writing a review for a restaurant because the food and service was excellent.
+;filet mignon dish	food	 positive	The filet mignon dish was superb!
+;null	restaurant	 positive	I would defiantly come back here again as one of my top choices.
+;restaurant	ambiance	 positive	It's a small cute restaurant.
+;place	restaurant	 positive	I absolutely love this place!!!
+;ambience	ambiance	 positive	I like the ambience, it's very dark and original.
+;sushi	food	 positive	The sushi is amazing!!! 
+;null	price	 positive	And amazingly cheap.
+;null	restaurant	 positive	Big thumbs up!
+;ambient;null	ambiance price	 positive positive	Very affordable and excellent ambient!
+;beef and noodle soup dishes	food	 negative	We ordered some beef and noodle soup dishes from the Thai section of the menu but nothing we got was Thai.
+;null	food	 negative	We were very disappointed.
+;meal	food	 negative	We won't go to this place again for a good meal.
+;place	ambiance	 positive	However, I think this place is a good hang out spot.
+;place	restaurant	 positive	My Girlfriend and I stumbled onto this hopping place the other night and had a great time!
+;pizza;wine;service;backyard dining area	food beverages service ambiance	 positive positive positive positive	THe Pizza and wine were excellent-the service too--but what really MADE this place was the backyard dining area.
+;null	ambiance	 positive	It is one the nicest outdoor restaurants I have ever seen in NY--I am from Italy and this place rivals the ones in my country.
+;null	restaurant	 positive	They tell me they are going to cover the garden in glass for the winter, so i'm looking forward to going there on a snowy night to enjoy it.
+;place	restaurant	 positive	Check this place out!
+;null	restaurant	 positive	HIGHLY RECOMMENDED!!!!!
+;place	ambiance	 negative	First of all, this place is *not* romantic, as claimed by Citysearch's editorial review.
+;null	ambiance	 negative	Either that, or the editor's idea of romance must be sharing a conversation with the next table, while trying to speak louder than the traffic on 57th.
+;tables;menu;wine list	ambiance food price	 negative neutral negative	The tables are crammed way too close, the menu is typical of any Italian restaurant, and the wine list is simply overpriced.
+;wines;wines	beverages price	 negative negative	Slightly above average wines start at $70+ with only one selection listed at $30+.
+;service	service	 negative	Service is not what one would expect from a joint in this price category.
+;null	service	 negative	For instance, plates were just dumped on the table, I was handed the wine list upside down, etc.... 
+;service	service	 negative	Somehow working the italian charm with constant mille grazie does not constitute proper service.
+;food;teodora	food restaurant	 positive negative	To be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of Teodora.
+;meals;rosemary or orange flavoring	food food	 negative negative	Not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring.
+;fish	food	 negative	Fish was overdone.
+;wait staff;place;place	service ambiance restaurant	 positive positive negative	Cute place, nice wait staff but would never go there again.
+;dessert	food	 negative	Someone else recommended the dessert - we also left that.
+;expresso	beverages	 positive	One of us actually liked the expresso - that's it.
+;restaurant	restaurant	 negative	Skip this restaurant, it's a big disappointment.
+;myagi	restaurant	 positive	Myagi is one of my favorite restaurants in the City; the place the negative reviews describe sound like they were somewhere else.
+;service;fish	service food	 positive positive	I've never had bad service and the fish is fresh and delicious.
+;tuna tartar appetizer	food	 positive	Their tuna tartar appetizer is to die for.
+;pizza	food	 positive	I come from a family of pizzeria owners, and I'm almost ashamed to say that the pizza in Fornino's blows my families receipies away.
+;null	food	 positive	It is simply amazing.
+;service;place	service ambiance	 positive positive	The place is so cool and the service is prompt and curtious.
+;place	restaurant	 positive	I highly recommend to anyone to give this place a try.
+;null	restaurant	 positive	You will find yourself returning quite often.
+;food;service;atmosphere	food service ambiance	 positive positive positive	A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.
+;food	food	 positive	No gimmicks here -- the food speaks for itself in its freshness and preparation.
+;dining room	ambiance	 positive	The dining room is quietly elegant with no music to shout over -- how refreshing!
+;service;staff	service service	 positive positive	The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu, present your meal, and attend to your needs.
+;meal;restaurant	food ambiance	 positive positive	Looking around, I saw a room full of New Yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.
+;null	restaurant	 positive	Beautiful experience.
+;view;service;ambiance	location service ambiance	 positive positive positive	The view is breathtaking the service is top notch... the ambiance is wonderfull.
+;staff	service	 positive	The staff offers impeccable service.
+;lobster bisque	food	 positive	I had Lobster Bisque it has 2 oz. of Maine Lobster in it.
+;new england chowder;lobster bisque	food food	 positive positive	My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque.
+;null	food	 positive	It was divine melts in your mouth.
+;prime rib	food	 positive	My boyfriend had Prime Rib it was good .
+;bottles of korbett	beverages	 positive	We didn't want a bottle of bubbly on a weekday so we each got little bottles of Korbett it was just enough. 
+;null	food	 positive	It's cuz it's so good you need to taste it!!! 
+;null	restaurant	 positive	All in all we're already coming up with excuses to go ahead really soon in the next few wks!!!!
+;food	food	 positive	My wife and I ate here earlier this week and have not stopped ranting and raving about the food.
+;chicken vindaloo	food	 positive	If you like spicy food get the chicken vindaloo.
+;null	food	 positive	It's very spicy but not offensive.
+;null	restaurant	 positive	We will definitely go back.
+;service;food	service food	 positive positive	Go to Volare for 1st class service and terrific food.
+;portions;servers	food service	 positive positive	The portions are large and the servers always surprise us with a different starter.
+;wine list	beverages	 positive	The wine list is excellent.
+;food;selection of wines;chef's tasting menu	food beverages food	 positive positive positive	The food is amazing... especially if you get the Chef's tasting menu and your favourite bottle (or two!) of wine from an extensive selection of wines.
+;service;place;place	service ambiance restaurant	 positive negative positive	The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.
+;food;prixe fixe tasting menu;prixe fixe tasting menu;null	price food price service	 negative positive positive positive	The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.
+;null	restaurant	 neutral	Please be aware that it's CASH or AMEX only!
+;food;lemon salad	food food	 neutral negative	With the exception of our lemon salad that had so much pepper on it that our eyes started watering, the food here was decent, not great.
+;menu	food	 negative	The menu is very limited - i think we counted 4 or 5 entrees.
+;grilled branzino	food	 negative	We ordered the special, grilled branzino, that was so infused with bone, it was difficult to eat.
+;decor	ambiance	 neutral	The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic, just simple, small and sparse.
+;prune	restaurant	 negative	Problem is nothing at Prune is particularly memorable.
+;null	restaurant	 negative	No plans to return anytime soon.
+;place	ambiance	 positive	This place is so much fun.
+;restaurant	restaurant	 positive	Our family never expected such incredible entertainment in a restaurant.
+;food	food	 positive	Our food was great too!
+;portions	food	 positive	And really large portions.
+;staff	service	 positive	The staff was the friendliest that have seen in New York.
+;null	restaurant	 positive	We will go back every time we are in the City.
+;jekyll and hyde	restaurant	 positive	If you want something really different than try Jekyll and Hyde.
+;null	ambiance	 positive	It is a lot of fun with live entertainment and all kinds of Disney type special effects.
+;food;portions	food food	 positive positive	The food was pretty tradional but it was hot and good with large portions.
+;null	restaurant	 positive	I highly recommend it.
+;place	ambiance	 positive	The place is a lot of fun.
+;null	restaurant	 positive	My six year old loved it.
+;characters	ambiance	 positive	The characters really make for an enjoyable experience.
+;food	food	 negative	The food however, is what one might expect.
+;null;null	food price	 negative negative	It is very overpriced and not very tasty.
+;jeckll and hydes	restaurant	 positive	However, I think Jeckll and Hydes t is one of those places that is fun to do once.
+;null	restaurant	 positive	We had a good time.
+;null	service	 negative	Went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them.
+;service	service	 negative	Service was slow had to wait to order and get food although not crowded.
+;drinks	price	 negative	Drinks way over priced.
+;food;null	food restaurant	 neutral negative	Food was good not great not worth the wait or another visit
+;pizza	food	 positive	Great pizza for lunch place.
+;service	service	 positive	Service was quick.
+;pizza	food	 positive	The pizza was great.
+;null	service	 positive	And it was quick which is very important.
+;iced tea	beverages	 positive	Have the iced tea.
+;null	beverages	 positive	It was wonderful.
+;fish;service	food service	 positive positive	Whenever you need a Sushi fix, Mizu will be there with quality fish and great service.
+;delivery	service	 positive	Delivery is fast too.
+;service;seating;delivery;sushi	service service service food	 positive positive positive positive	Great friendly service, Fast seating, Fast Delivery, Excellent sushi.
+;null;null	price food	 negative positive	A little overpriced but worth it once you take a bite.
+;bagel	food	 positive	Ess-A-Bagel (either by Sty-town or midtown) is by far the best bagel in NY.
+;bagels;bagels	food food	 positive positive	The bagels always warm, soft on the inside, crispy on the outside and enormous in size.
+;salads;cream cheeses	food food	 positive positive	They have a huge selection of different cream cheeses and all of their salads are great.
+;lox	food	 positive	The lox is always fresh too.
+;null	restaurant	 positive	Highly recommended to all!
+;food	food	 negative	Not impressed with the food.
+;resturant;resturant	price ambiance	 negative negative	Prices too high for this cramped and unappealing resturant.
+;ambiance	ambiance	 negative	Zero ambiance to boot.
+;place	restaurant	 negative	I thought this place was totally overrated.
+;null	restaurant	 neutral	Everything we had was good or ok....but definitely nothing great.
+;ambience;service	ambiance service	 positive negative	The ambience was nice, but service wasn't so great.
+;null;null	restaurant price	 negative negative	When you add it all together, it just doesn't seem worth it to me...especially considering the prices.
+;shabu-shabu restaurant	restaurant	 positive	This is the BEST Shabu-Shabu Restaurant in the Try-State Area.
+;food;feel	food ambiance	 positive positive	I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan.
+;shabu-shabu	food	 positive	Thius is a must for anyone who loves Shabu-Shabu.
+;atmosphere	ambiance	 positive	The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.
+;owner;staff;ambiance	restaurant restaurant ambiance	 positive positive positive	The owner and staff are all Japanese as well and that adds to the entire ambiance.
+;menu;null;null	food food food	 negative positive positive	Despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art.
+;null	restaurant	 positive	I must give it Yon out of Yon stars!
+;taxan	food	 positive	Taxan delicious!
+;null	restaurant	 positive	This restaurant was recommended by a local...as a matter of fact, he made the reservation for us and said we would not be disappointed!
+;null;service;food	price service food	 positive positive positive	The prices were CHEAP compared to the quality of service and food.
+;null	restaurant	 positive	We liked it so much, that we will always make it a point to dine here when we visit New York.
+;location;ambience;food	location ambiance food	 neutral neutral positive	The location and ambience is Ok but the food is what makes up for it.
+;null	food	 positive	There is a lot of variety even for people who eat vegetarian like me.
+;green curry with vegetables	food	 positive	Try green curry with vegetables.
+;null	food	 positive	The quantity is also very good, you will come out satisfied.
+;service	service	 neutral	The service is ok, some of the people didn't get what they asked for.
+;null	restaurant	 positive	I was there on sat. for my birthday and we had an excellent time.
+;ravioli	food	 positive	I had the best ravioli ever.
+;wine;service	beverages service	 positive positive	The wine the service was very good too.
+;null	price	 neutral	Moderate prices.
+;null	ambiance	 neutral	A little noise but I think that was because of our party!
+;trattoria;trattoria	ambiance restaurant	 positive positive	This quaint and romantic trattoria is at the top of my Manhattan restaurant list.
+;food;dishes;specials;regular menu-fare	food food food food	 positive positive positive positive	The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.
+;parmesean porcini souffle;lamb glazed with balsamic vinegar	food food	 positive positive	Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite.
+;candle-light;food;service;tables	ambiance food service ambiance	 positive positive positive negative	Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.
+;null	restaurant	 positive	A guaranteeed delight!
+;food;wine;food;wine	food beverages price price	 positive positive positive positive	I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.
+;marinara/arrabiatta sauce;mozzarella en carozza;null	food food food	 positive positive positive	If you go, try the marinara/arrabiatta sauce, the mozzarella en Carozza is mmmmmmmm..... everything is just delicious.
+;back room	ambiance	 positive	Check out the secret back room.
+;null	restaurant	 positive	I pray it stays open forever.
+;emilio	restaurant	 positive	Thank You Emilio.
+;food;service;null	food service price	 positive positive positive	I found the food, service and value exceptional everytime I have been there.
+;food	food	 positive	The food was authentic.
+;null	food	 positive	I felt as though I were eating in Paris.
+;service	service	 positive	The service was excellent - friendly and attentive.
+;null	price	 positive	The prices are wonderfully low.
+;wine choices	beverages	 positive	Very good wine choices.
+;pizza	food	 positive	Who has room for Cheesesticks with the best pizza in NYC!
+;pepperoni;family style salad	food food	 positive positive	Get the pepperoni - YUM - and a family style salad.
+;staff	service	 positive	Great staff.
+;service	service	 positive	Always great service!
+;null	restaurant	 positive	I go twice a month!
+;null	restaurant	 positive	Fantastic!
+;food	food	 positive	The food is good, I can't lie.
+;staff	service	 negative	But the staff was so horrible to us.
+;hostess;waitress	service service	 negative negative	The hostess and the waitress were incredibly rude and did everything they could to rush us out.
+;waitress	service	 negative	We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order.
+;place;food;service	price food service	 negative positive negative	This place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.
+;null	restaurant	 negative	Save yourself the time and trouble and skip this one!
+;amma	restaurant	 neutral	Amma is nothing special.
+;dishes;dishes	food price	 negative negative	I ate here a week ago and found most dishes average at best and too expensive.
+;null	restaurant	 negative	Will not be back.
+;vegetarian dishes;non-veg selections	food food	 negative positive	Don't dine at Tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.
+;decor;service	ambiance service	 positive negative	Decor is nice though service can be spotty.
+;place	restaurant	 neutral	This place is always packed.
+;food	food	 positive	Most importantly, food is excellent.
+;sea bass	food	 positive	Try the sea bass.
+;null	restaurant	 positive	Highly recommended.
+;dal bukhara	food	 positive	First of all Dal Bukhara Rocks.
+;food	food	 positive	I am happy i did the food was awsome.
+;null	food	 positive	JUST AWSOME.
+;kababs;dal bukhara	food food	 positive positive	and yes Dal Bukhara is so dam good and so are all the kababs.
+;null	restaurant	 positive	but overall i give it a 10
+;null	restaurant	 positive	10
+;haru on park s	restaurant	 negative	Haru on Park S is simply disgusting.
+;fish;rice	food food	 negative negative	The fish was not fresh and the rice tasted old and stale.
+;sushi	food	 negative	Quite frankly, this is some of the worst sushi I have ever tried.
+;null	restaurant	 negative	Will never be back.
+;sushi	food	 negative	honestly the worst sushi my husband and i had in our entire lives.
+;restaurant	restaurant	 negative	not sure why this restaurant would be rated that highly.
+;all-u-can-eat sushi	food	 negative	the all-u-can-eat sushi is definitely in very poor quality.
+;menu;ingredients;fish;rice	food food food food	 negative negative negative negative	limited menu, no-so-fresh ingredients, thinly-sliced fish, fall-apart rice. 
+;soy sauce;rice	food food	 negative negative	the only things u could really taste are the very salty soy sauce (even its low sodium), the vinegar-soaked rice, and the scallion on top of the fish. 
+;waitstaffs	service	 positive	the waitstaffs are nice though.
+;null	restaurant	 negative	wont come back again for sure!
+;roth's	restaurant	 negative	I have been to Roth's twice and both times were very disappointing.
+;service	service	 negative	Both times I was extremely dissappointed by the service, which was boarderline rude.
+;null	service	 negative	They wouldnt even let me finish my glass of wine before offering another.
+;null	service	 negative	Much of the time it seems like they do not care about you.
+;dinner	food	 negative	The dinner was ok, nothing I would have again.
+;eggs benedict	food	 negative	I had their eggs benedict for brunch, which were the worst in my entire life, I tried removing the hollondaise sauce completely that was how failed it was.
+;null	restaurant	 positive	This was a great surprise.
+;meal;room;null	food ambiance location	 positive positive positive	With the theater 2 blocks away we had a delicious meal in a beautiful room.
+;service	service	 positive	The service was attentive.
+;null	restaurant	 positive	I look forward to eating here again
+;planet thai	restaurant	 positive	Planet Thai is great!
+;food;drinks;atmosphere	food beverages ambiance	 positive positive positive	We love the food, drinks, and atmosphere!
+;svc;restaurant	service restaurant	 negative positive	The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!
+;pad thai;null	food price	 positive positive	Try the Pad Thai, it's fabulous and their prices are so cheap!
+;portions;food;null	food food price	 positive positive positive	Just because it's cheap does NOT mean the portions are small or the food is nasty, IT IS GREAT!
+;null	service	 negative	They forgot a sandwich, didn't include plastic forks, and didn't include pita with the hummus platter.
+;sandwiches;sandwiches	food price	 negative negative	Also, the sandwiches (nearing $7) didn't come with anything like chips or a side.
+;null;null	restaurant price	 negative negative	Overall, not worth the money.
+;atmosphere;null	ambiance restaurant	 positive negative	Eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.
+;chennai garden	restaurant	 positive	Chennai Garden is my favorite Indian restaurant in the city.
+;indian;indian	food price	 positive positive	They have authentic Indian at amazin prices.
+;dishes	food	 negative	This restaurant is VEGETARIAN; there are NO MEAT dishes whatsoever.
+;seats	ambiance	 negative	The seats are uncomfortable if you are sitting against the wall on wooden benches.
+;restaurant;restaurant	restaurant ambiance	 negative negative	It's a rather cramped and busy restaurant and it closes early.
+;cigar bar;staff	ambiance service	 positive positive	Patroon features a nice cigar bar and has great staff.
+;food;portion sizes	food food	 positive positive	The food is tasty and portion sizes are appropriate.
+;restaurant	restaurant	 positive	This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates.
+;place	restaurant	 negative	Not a great place for family or general dining.
+;place	restaurant	 positive	LLOOVVE THIS PLACE.
+;food	food	 positive	Food is excellent.
+;fish	food	 positive	Fish is so very fresh.
+;waitstaff	service	 positive	Waitstaff are very friendly.
+;yuka	restaurant	 positive	Love YUKA.
+;seafood;mermaid inn	food restaurant	 positive positive	Mermaid Inn is an overall good restaurant with really good seafood.
+;menu;dishes	food food	 negative positive	The menu is limited but almost all of the dishes are excellent.
+;lobster sandwich;spaghetti with scallops and shrimp	food food	 positive positive	The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great.
+;service;ambience	service ambiance	 positive positive	The service is good and ambience is good for a date or group outing.
+;restaurant	price	 negative	The only fallback on this restaurant is the prices.
+;seafood;seafood	food price	 positive negative	Even though its good seafood, the prices are too high.
+;lobster sandwich;lobster sandwich;lobster sandwich	food food price	 positive negative negative	The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.
+;null	restaurant	 positive	We were very pleasantly surprised.
+;food;halibut special;steak;service	food food food service	 positive positive positive positive	The food was delicious (I had a halibut special, my husband had steak), and the service was top-notch.
+;waiter	service	 positive	When my dessert came, there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift, and said he knew it was a special occassion of some sort.
+;waiter	service	 positive	Truly the mark of an attentive waiter.
+;restaurant	restaurant	 positive	I highly recommend the restaurant based on our experience last night.
+;foods	food	 negative	We ate at this Thai place following the reviews but very unhappy with the foods.
+;foods	food	 negative	We thought that this place is using too much of MSG cooking in the foods.
+;null	restaurant	 negative	They don't concern much of customer's health, just want to make money.
+;null	restaurant	 negative	please don't fool us.
+;jelly fish;drunken chicken;soupy dumplings;stir fry blue crab	food food food food	 positive positive positive positive	I recommend the jelly fish, drunken chicken and the soupy dumplings, certainly the stir fry blue crab.
+;food;waiters	price service	 positive positive	The food is so cheap and the waiters are nice.
+;null	restaurant	 neutral	Of course, it is crowded but who cares.
+;null	restaurant	 positive	Authentic Shanghai style and I cannot recommend a better Shanghai place in New York.
+;food	food	 positive	Have frequented 'ino for several years and the food remains excellent.
+;cheese plate;cheese plate;cheese plate	food food price	 positive positive positive	Cheese plate is a varied delight and great bargain at $10.
+;bruschettas;paninis;tramezzinis	food food food	 positive positive positive	The large selection of bruschettas, paninis, tramezzinis keep the palate from stagnating.
+;asparagus, truffle oil, parmesan bruschetta	food	 positive	(The asparagus, truffle oil, parmesan bruschetta is a winner!)
+;wine list;wine list	beverages price	 positive positive	Wine list is extensive without being over-priced.
+;specials	food	 positive	Be sure to try the seasonal, and always delicious, specials.
+;null	restaurant	 positive	Definitely a neighborhood favorite.
+;place	restaurant	 positive	I loved this place!!
+;atmosphere	ambiance	 positive	I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded.
+;food;food;place	food price ambiance	 positive positive positive	The food was very good, a great deal, and the place its self was great.
+;wait staff	service	 positive	The wait staff is very freindly, they make it feel like you're eating in a freindly little european town.
+;people;cafe noir	service restaurant	 negative positive	I like Cafe Noir dont get me wrong, it is jsut that the people who work there are evil and incompetent!!
+;service	service	 negative	The service was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served.
+;waitress	service	 negative	The waitress, seems to be more concerned of looking good than actually waitressing.
+;manager	service	 negative	After dinner the manager grabbed my boyfriend, asked him: Where are you from...maybe you dont know how things work in America...and in the end stormed away almost teareyed yelling that tips are the only thing they survive on.
+;waitress	service	 negative	We did tip, I guess the model/waitress just wanted more and complained to the manager.
+;staff;cafe noir	service restaurant	 negative positive	The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff, because despite the current one this is a great place.
+;pizza	food	 positive	Pizza here is consistently good.
+;salads	food	 positive	Salads are a delicious way to begin the meal.
+;calamari	food	 negative	You should pass on the calamari.
+;null	food	 negative	It is thick and slightly soggy.
+;decor	ambiance	 positive	Decor is charming.
+;service	service	 neutral	Service is average.
+;place	restaurant	 positive	What a great place.
+;ambience;null;food	ambiance price food	 positive positive positive	The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.
+;null	service	 neutral	I wasn't thrilled to have to wait on line for thirty minutes, but I guess that's the price you pay for a popular place.
+;thai cuisine	food	 positive	I would definitely recommend SEA if you like thai cuisine!
+;customer service	service	 negative	I was here a few weeks back and we had the worst customer service experience at a restaurant ever.
+;gentleman	service	 negative	A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.
+;null	service	 negative	When asked about how a certain dish was prepared in comparison to a similar at other thai restaurants, he replied this is not Mcdonald's, every place makes things differently 
+;null	service	 negative	While it is understandable that every place is indeed different, there was not a need to be uncourteous to customers and downright rude.
+;null	restaurant	 negative	Never again!
+;place	restaurant	 positive	I absolutely Loved this place.
+;atmosphere;dishes;service	ambiance food service	 positive positive positive	Excellent atmosphere, delicious dishes good and friendly service.
+;null	restaurant	 positive	this is can became on e of the NY Italian Food fare institutions.
+;null	restaurant	 positive	I think that it is absolutely brilliant and well runned business operation.
+;wine list	beverages	 positive	The wine list is also really nice.
+;null;food;drinks;staff;mileau	restaurant food beverages service ambiance	 positive positive positive positive positive	Everything was wonderful; food, drinks, staff, mileau.
+;place	restaurant	 positive	I would highly recommend this place!
+;casimir	restaurant	 positive	I have been to Casimir over 5 times and I have always had a great time there.
+;food;food	food price	 positive positive	The food is great and reasonably priced.
+;hostess	service	 negative	I have tried to make reservations, but both times, the hostess didn't have my name.
+;outside table	ambiance	 positive	If the weather is nice, try to snag an outside table.
+;staff;staff;unisex bathroom	service service ambiance	 positive negative negative	The staff has been nice, but they seemed really stressed and the unisex bathroom needs to be cleaned more often.
+;null	restaurant	 positive	My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent.
+;caviar;waitstaff	food service	 positive positive	From the spectacular caviar to the hospitable waitstaff, I felt like royalty and enjoyed every second of it.
+;waitstaff	service	 positive	Considering we were the last patrons there and it was after the closing time, the waitstaff did not rush us at all and made us feel comfortable and relaxed.
+;caviar;service	food service	 positive positive	I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service.
+;restaurant	restaurant	 positive	Nice Family owned traditional restaurant.
+;ingredients;null	food food	 positive positive	Fresh ingredients and everything is made to order.
+;null	restaurant	 positive	I was pleasantly surprised to find this gem in Hoboken.
+;staff	service	 positive	Friendly staff that actually lets you enjoy your meal and the company you're with.
+;food;salmon dish	food food	 positive positive	I found the food to be outstanding, particulary the salmon dish I had.
+;change mojito	beverages	 positive	I also ordered the Change Mojito, which was out of this world.
+;dim sum	food	 neutral	My friends settled for rice dishes, but we came back the following day to try the dim sum, which was good...not outstanding, but good.
+;back patio;music	ambiance ambiance	 positive positive	We ate out in the back patio, which is worth it as it's cool and the music is hear well there.
+;restaurant	restaurant	 positive	Overall, excellent restaurant!
+;food	food	 positive	The food was good.
+;place	ambiance	 positive	The place was nice and calm.
+;service	service	 negative	but the service was a bit slow.
+;buffet	food	 positive	The buffet had a nice selection.
+;food;dishes	food food	 positive positive	The food was average or above including some surprising tasty dishes.
+;service	service	 positive	Service was also very good.
+;null	restaurant	 positive	I would go back.
+;cheesecake;pastries	food food	 positive positive	I got an excellent piece of cheesecake and we had several other nice pastries.
+;food;null	food food	 negative positive	I would recommend Roxy's for that, but not for their food.
+;cheeseburgers	food	 neutral	My son and his girlfriend both wanted cheeseburgers and they were huge!
+;null	food	 negative	But, they were too big for the bun.
+;burgers	food	 negative	Consequently, their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them.
+;null	price	 negative	Also they were $15 each!
+;pastrami sandwich on a roll	food	 neutral	I had a huge pastrami sandwich on a roll.
+;null;null	price food	 neutral negative	It was $14 not really bad for a pound of Pastrami-but it didn't have much taste-I've had better for less elsewhere!
+;food;place	food ambiance	 negative positive	This place is really trendi but they have forgotten about the most important part of a  restaurant, the food.
+;food;spice	food food	 negative negative	The last two times I ordered from here my food was soo spicy that  I could barely eat it, and the spice took away from the flavor of the dish.
+;tom kha soup	food	 negative	And the Tom Kha soup was pathetic.
+;thai	food	 negative	If you want good authentic Thai this place is not the place to go.
+;food	food	 positive	We went here for lunch a couple of weeks ago on a Saturday, and I was thoroughly impressed with the food.
+;pesto pizza;spicy italian cheese	food food	 positive positive	The pesto pizza was excellent, thin-crust pizza with a nice amount of spicy Italian cheese that I'd never heard of before.
+;null	location	 positive	Conveniently located too, being right on Bedford ave.
+;back garden sitting area	ambiance	 positive	THe back garden sitting area is very pleasant, where you can see their personal herb garden.
+;null	restaurant	 positive	I will definetly be going back.
+;lobster sandwich	food	 positive	We had the lobster sandwich and it was FANTASTIC.
+;null;portion;french fries	food food food	 negative positive positive	My husband said he could've eaten several more, the portion was fine for me he even exclaimed that the french fries were the best he has had.
+;scallops;sauce	food food	 positive positive	We had the scallops as an appetizer and they were delicious and the sauce was wonderful.
+;martinis	beverages	 positive	We waited at the bar and had martinis that were just right.
+;null	restaurant	 positive	We will be back.
+;food	food	 positive	love the food.
+;japanese comfort food	food	 positive	it's the only place you can get yummy authentic japanese comfort food.
+;null	price	 positive	and you can't beat the prices.
+;null	restaurant	 positive	highly recommended.
+;place	restaurant	 positive	I've lived in NY for 5 years and this place has it all.
+;food;menu;service;setting	food food service ambiance	 positive positive positive positive	Great food, good size menu, great service and an unpretensious setting.
+;dishes;lamb sausages;sardines with biscuits;large whole shrimp;pistachio ice cream	food food food food food	 positive positive positive positive positive	The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).
+;place	restaurant	 positive	I'm glad I was introduced to this place and this is a rare gem in NY.
+;null;null;delivery	food food service	 positive positive positive	The freshest, best variety, and the fastest delivery.
+;null	price	 positive	Also very inexpensive.
+;null;null	restaurant price	 positive positive	A great choice at any cost and a great deal.
+;service;food	service food	 positive positive	The service was excellent and the food was delicious.
+;sushi;ceviche mix (special);crab dumplings;assorted sashimi;sushi;rolls;sake;banana tempura	food food food food food food beverages food	 positive positive positive positive positive positive positive positive	We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.
+;spot	restaurant	 positive	Definitely a great spot for a nice occasion or date.
+;thai food;delivery	food service	 positive negative	Average to good Thai food, but terrible delivery.
+;null	service	 negative	I've waited over one hour for food.
+;null	service	 negative	They were very abrupt with me when I called and actually claimed the food was late because they were out of rice.
+;thai restaurant	restaurant	 negative	A Thai restaurant out of rice during dinner?
+;food;null	food service	 negative negative	The food arrived 20 minutes after I called, cold and soggy.
+;place;place	price restaurant	 positive positive	This is a wonderful place on all stand points especially value ofr money.
+;service	service	 positive	An excellent service
+;waiter	service	 positive	We were greeted promptly by the waiter who was very nice and cordial.
+;null;dishes	service food	 positive positive	She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food.
+;food	food	 positive	The food looked very appetizing and delicious since it came on a variety of fancy plates.
+;gulab jamun (dessert)	food	 positive	We ended our great experience by having Gulab Jamun (dessert) recommended by the waiter.
+;restaurant	restaurant	 positive	I thanked my friend who recommended me this restaurant and will certainly recommend it to others.
+;service;food	service food	 positive positive	Service here was great, food was fantastic.
+;guacamole+shrimp appetizer;filet;frites	food food food	 positive positive negative	Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.
+;null	restaurant	 positive	Will absolutely visit again.
+;place	restaurant	 positive	You cannot go wrong with this place.
+;food;service	food service	 positive positive	The food is outstanding and the service is quick, friendly and very professional.
+;crowd;null	restaurant ambiance	 positive positive	Always a nice crowd, but never loud.
+;null	restaurant	 positive	Go here.
+;null	restaurant	 positive	Good for dates or with friends.
+;pizza place	restaurant	 positive	I am reluctant to write because I would not want my jem of a pizza place to become overcrowded.
+;null	restaurant	 positive	However, it is jus too good to not praise it.
+;pizza	food	 positive	By far, the best pizza in Manhattan.
+;crust;staff;ingredients	food service food	 positive positive positive	The crust is thin, the ingredients are fresh and the staff is friendly.
+;menu	food	 positive	The menu has so many fish items and oysters.
+;fish	food	 positive	The fish was really,really fresh.
+;mare	restaurant	 positive	We all agreed that mare is one of the best seafood restaurants in New York.
+;pizzeria	restaurant	 positive	I stumbled upon this great pizzeria as I explored my new neighborhood.
+;pizzas;pizzas	food price	 positive positive	All of the pizzas are terrific and the price is even better!
+;sophia pizza	food	 positive	I highly recommend the Sophia pizza.
+;null	food	 positive	It's to die for!
+;food;service	food service	 negative negative	The food was mediocre at best but it was the horrible service that made me vow never to go back.
+;waiter	service	 negative	Immediately after we paid, the waiter took the money and said, okay, you guys are outta here.
+;null	service	 negative	So rushing us out was absolutely unnecessary!
+;food;service	food service	 negative negative	For the people who want great food plus great service, Roxy is a place to AVOID!
+;sushi;sushi	food food	 positive negative	The first time the sushi was outstanding, the second time it was a little bland.
+;null	restaurant	 neutral	I'm sure I'll return for a final judgement tho.
+;blond wood decor;premium sake;service	ambiance beverages service	 positive positive positive	The blond wood decor is very soothing, the premium sake is excellent and the service is great.
+;mizu	restaurant	 positive	Mizu is the Japenese find in Grammercy.
+;kitchen food;sushi	food food	 positive positive	While their kitchen food is delicious, their Sushi is out of this world.
+;rolls	food	 positive	Mizu is home to creative and unique rolls not to found anywhere else.
+;cuisine;service	food service	 positive positive	Not only is the cuisine the best around, the service has always been attentive and charming.
+;mizu	restaurant	 positive	Warning: You may find it difficult to dine at other Japanese restaurants after a visit to Mizu!
+;people;food;thalia	service food ambiance	 positive negative positive	Thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up.
+;smoked salmon and roe appetizer	food	 negative	I ordered the smoked salmon and roe appetizer and it was off flavor.
+;entree;entree;dessert	food food food	 negative negative negative	The entree was bland and small, dessert was not inspired.
+;menu;menu	price food	 negative negative	I expected quite a bit more from such an expensive menu.
+;view;food	location food	 positive positive	The view is spectacular, and the food is great.
+;strawberry daiquiries	beverages	 positive	Wonderful strawberry daiquiries as well!
+;null	restaurant	 positive	Definitely worth the trip to Battery Park City!
+;null	restaurant	 positive	One of my favorite places in Manhattan.
+;taiwanese food;taiwanese food	food price	 positive positive	Authentic Taiwanese food that's cheap... what more could you ask for?
+;null	restaurant	 positive	(Besides that there should be more restaurants like it around the city).
+;cold appetizer dishes	food	 positive	The cold appetizer dishes taste like the way I remember them to taste when I was growing up in Taiwan.
+;food;food;outdoor atmosphere	food food ambiance	 positive positive positive	delicious simple food in nice outdoor atmosphere.
+;wait staff	service	 positive	Kind, attentive wait staff.
+;scallops;mahi mahi (on saffron risotto	food food	 positive positive	I really like both the scallops and the mahi mahi (on saffron risotto-yum!).
+;chicken and mashed potatos	food	 positive	My friend devoured her chicken and mashed potatos.
+;crab cakes	food	 positive	Delicious crab cakes too.
+;garden;food	ambiance food	 positive positive	Even if the food wasn't this good, the garden is a great place to sit outside and relax.
+;joint	restaurant	 positive	Great neighborhood joint.
+;selection of thin crust pizza;selection of thin crust pizza;pizza place;basil slice	food food restaurant food	 positive positive positive positive	This is a nice pizza place with good selection of thin crust pizza including the Basil slice.
+;calzones	food	 negative	Their calzones are horrific, bad, vomit-inducing, YUCK.
+;null	food	 negative	They smell like they stuff them with old canned vegetables like the spinach mushroom calzone.
+;counter service	service	 negative	The counter service is bad.
+;null	service	 negative	They charge different prices all the time.
+;null	service	 negative	They're rude at times, and not very friendly.
+;pizza 33	restaurant	 negative	NO PIZZA 33 for me!
+;null	food	 negative	Anybody who likes this place must be from a different planet, where greasy, dry and tasteless are complimentary.
+;dosas;dosas	food food	 negative negative	The dosas are skimpy, unattractive and drip with grease, and personally I'd drink popcorn topping before I'd eat another one of these.
+;sandwiches;sandwiches	food price	 negative negative	The sandwiches are dry, tasteless and way overpriced.
+;place;room;clerks	restaurant ambiance service	 negative negative negative	Calling the place Hampton Chutney Co. does warn you that these folks offer more style than substance, but in this unattractive room with unhelpful clerks there was a dearth of the former too.
+;place	restaurant	 positive	Seriously, this place kicks ass.
+;atmosphere;service;food	ambiance service food	 positive positive positive	The atmosphere is unheralded, the service impecible, and the food magnificant.
+;italian food	food	 positive	Best Italian food I ever had (and being Italian, that means alot).
+;null	restaurant	 positive	It is nearly impossible to get a table, so if you ever have the chance to go here for dinner, DO NOT pass it up.
+;place	ambiance	 positive	This is such a lovely, peaceful place to eat outside.
+;restaurant	location	 positive	The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty.
+;null	location	 positive	It is set far from the small street it's on, and there is no traffic noise.
+;food;basic dishes;drinks	food food beverages	 positive positive positive	The food is good, especially their more basic dishes, and the drinks are delicious.
+;place	location	 positive	This is a great place to take out-of-towners, and perfect for watching the sunset.
+;sushi	food	 positive	Great sushi experience.
+;null	price	 positive	Nice value.
+;apppetizers	food	 positive	Unique apppetizers.
+;sushimi cucumber roll	food	 positive	Try sushimi cucumber roll.
+;spreads;beverage selections;bagels	food beverages food	 positive positive positive	Good spreads, great beverage selections and bagels really tasty.
+;null	service	 negative	THE BIG COMPLAINT: NO TOASTING AVAILABLE.
+;null	service	 negative	Murray won't do it.
+;null	service	 negative	Won't or Can't is not in the service directory.
+;service	service	 negative	But who says Murray's is anything about service.
+;null	restaurant	 neutral	So close, but not good enough.
+;null	restaurant	 negative	Don't be fooled by crowds of people.
+;service	service	 negative	The service is awful.
+;place;place	restaurant price	 negative negative	This place is not worth the prices.
+;null	service	 negative	Also, don't plan on asking for your favorite roll, if it's not on the menu, you can't have it.
+;pizza 33	restaurant	 positive	Love Pizza 33..
+;pizza	food	 positive	I will be out with friends and all of a sudden I am hungry and I only crave one thing... their Pizza.
+;null	restaurant	 positive	It hits the spot every time
+;williamsburg spot	restaurant	 positive	This tiny Williamsburg spot is always pleasantly surprising.
+;pizza;proprietor	food service	 positive positive	The pizza is delicious and the proprietor is one of the nicest in NYC.
+;null	restaurant	 positive	I've been many time and have never been disappointed.
+;null	food	 positive	They even scoop it out nice (for those on a diet) not too much not to little.
+;cream cheeses;coffee	food beverages	 positive positive	The cream cheeses are out of this world and I love that coffee!!
+;null;null	service restaurant	 positive negative	A little crowded but they move that line really fast!
+;null;null	price restaurant	 negative positive	A little pricey but it really hits the spot on a Sunday morning!
+;bagels;null	food service	 neutral negative	Bagels are ok, but be sure not to make any special requests!
+;manager	service	 negative	I asked for an open faced cheese sandwich and the manager basically told me to take my business elsewhere!
+;null;bagels	food food	 negative positive	Be sure not to get anything other than bagels!..
+;turkey burgers	food	 negative	the turkey burgers are scary!
+;japanese food	food	 negative	The worst excuse for Japanese food I've ever encountered.
+;soup for the udon	food	 negative	The soup for the udon was soy sauce and water.
+;sushi	food	 negative	The sushi was awful!
+;rice	food	 negative	The rice was poor quality and was cooked so badly it was hard.
+;rice;sushi	food food	 negative negative	Furthermore, the rice had no seasoning, so the sushi was bland and disgusting.
+;fish	food	 negative	The fish was adequate, but inexpertly sliced.
+;japanese cuisine	food	 negative	It is obvious that no one in the restaurant has any idea about or experience with Japanese cuisine.
+;service	service	 positive	Good, fast service.
+;null	restaurant	 positive	I would highly recommend.
+;food;food	food price	 positive positive	Food is great and inexpensive.
+;location	location	 positive	The location is perfect.
+;null	restaurant	 positive	Give it a try and enjoy.
+;place	ambiance	 negative	Well, this place is so Ghetto its not even funny.
+;bottle minimun;music	price ambiance	 negative negative	If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you'll love it here.
+;null	restaurant	 negative	Would NEVER go back there.
+;pizza;margheritta slice	food food	 positive positive	Awsome Pizza especially the Margheritta slice.
+;null	service	 positive	Always busy but fast moving.
+;atmoshere;null	ambiance restaurant	 positive positive	Great atmoshere and worth every bit.
+;null	restaurant	 positive	Open late (well as late as I ever got there and I'm a night person)
+;staff;winnie	service service	 positive positive	Winnie and her staff are the best crew you can find serving you.
+;food;null	food price	 positive neutral	The food is reliable and the price is moderate.
+;null	restaurant	 positive	What more can you ask for?
+;thai food	food	 positive	For authentic Thai food, look no further than Toons.
+;pad thai;appetizer menu	food food	 positive positive	Try the Pad Thai, or sample anything on the appetizer menu...they're all delicious.
+;restaurant	restaurant	 positive	Everything about this restaurant was special.
+;service	service	 positive	The service was attentive, yet discreet.
+;null	food	 positive	The flavors robust and subtle.
+;brioche and lollies	food	 positive	The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal.
+;null	restaurant	 positive	I'm saving up for my next visit.
+;place	ambiance	 positive	The place was quiet and delightful.
+;service;food	service food	 positive positive	Service was good and food is wonderful.
+;salmon;crab salad	food food	 positive positive	I did not try the caviar but I tried their salmon and crab salad (they are all good)  
+;spot	restaurant	 positive	It is definitely a good spot for snacks and chat.
+;lucky strike	restaurant	 positive	As a retired hipster, I can say with some degree of certainty that for the last year Lucky Strike has been the best laid-back late night in the city.
+;wait staff	service	 positive	The wait staff is pleasant, fun, and for the most part gorgeous (in the wonderful aesthetic beautification way, not in that she's-way-cuter-than-me-that-b@#$* way).
+;food;mussels in spicy tomato sauce;fries	food food food	 positive positive positive	The food is yummy, especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries.
+;late night atmosphere	ambiance	 positive	But the best part about LS is the late night atmosphere, delightfully free of the BTs.
+;martini;martini;martini;vanilla shanty;setting;music	beverages beverages price beverages ambiance ambiance	 positive positive positive positive positive positive	You can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (I recommend the Vanilla Shanty, mmmm!) in a great homey setting with great music.
+;in-house lady dj	ambiance	 positive	The in-house lady DJ on Saturday nights has outrageously good taste in music, and moreover, takes requests.
+;place	restaurant	 positive	You can't go wrong with this place.
+;suan	restaurant	 positive	Suan is a great place that I often take my friends (classmates) too.
+;location;suan	location price	 positive positive	Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.
+;thai	food	 positive	I LOVE their Thai
+;noodles with shrimp and chicken and coconut juice	food	 positive	noodles with shrimp and chicken and coconut juice is the MUST!
+;suan	restaurant	 positive	I will go back to Suan soon!
+;terrace	ambiance	 positive	In summer-eat outside on a terrace (another great feature of Suan)!!!
+;staff	service	 positive	I cannot imagine a friendlier staff working in a restaurant.
+;indian food	food	 positive	I cannot imagine better Indian food in all of the city.
+;null	restaurant	 positive	I cannot imagine you not rushing out to eat there.
+;chef;staff	food service	 negative negative	During the course of the past 3 months, the chef and staff changed and it was not for the better.
+;null	restaurant	 negative	I wish they would change back to what it was before.
+;food	food	 negative	The food now is inconsistent.
+;place	restaurant	 positive	This is the kind of place you'd like to take all your friends to and still keep a secret.
+;setting	ambiance	 positive	The setting is casual and romantic.
+;null	price	 positive	Prices are very good.
+;food	food	 positive	The food is excellent! 
+;balsamic vinegar over icecream	food	 positive	if you're daring, try the balsamic vinegar over icecream, it's wonderful!
+;go go hamburgers	food	 negative	Do not get the Go Go Hamburgers, no matter what the reviews say.
+;null;null;null	food food price	 negative negative negative	They were such a rip-off ($8.95 for four small meat patties in steamed buns) and not worth trying.
+;dim sum;dim sum	price food	 negative positive	The rest of the dim sum, though pricey by Chinatown standards, is worth it.
+;null	food	 positive	Steamed fresh so brought hot hot hot to your table.
+;wait;atmosphere;null	service ambiance restaurant	 negative negative negative	The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative.
+;turnip cake;roast pork buns;egg custards	food food food	 negative negative negative	A few tips: skip the turnip cake, roast pork buns and egg custards.
+;null;null	price food	 negative negative	These are overpriced and you can get better just around the corner:
+;null	restaurant	 positive	I was pleasantly suprised.
+;food	food	 positive	The food was exceptional.
+;braised lamb shank in red wine	food	 positive	I choose to go with one of the special, the braised lamb shank in red wine, which was excellent.
+;service;atmosphere	service ambiance	 positive neutral	The service was friendly and the atmosphere was casual.
+;meal;restaurant	food ambiance	 positive neutral	The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal
+;interior decor;place	ambiance price	 positive positive	this little place has a cute interior decor and affordable city prices.
+;pad se ew chicken;pad thai	food food	 positive negative	the pad se ew chicken was delicious, however the pad thai was far too oily.
+;ginger house	restaurant	 positive	Have eaten at Ginger House several times, and it's always good.
+;fried dumplings	food	 positive	The fried dumplings are GREAT!
+;chinese restaurant	restaurant	 positive	Finally a reliable Chinese restaurant!
+;customer service	service	 negative	This place would be so much better served by being run by a group that actually understands customer service.
+;null	restaurant	 negative	The only thing you can do here is walk in and eat .. but planning an event, especially a small, intimate one, forget about it.
+;null	service	 negative	They are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place, but also become hostile!
+;null	service	 negative	Nobody at this restaurant will give firm answers about anything and in the end, not one person takes responsibility for anything.
+;management;null	service restaurant	 negative negative	Terrible, terrible management - deserves to be shut-down.
+;null	restaurant	 positive	Never fails to please.
+;bagels	food	 positive	delicious bagels, especially when right out of the oven.
+;spreads;toppings;spreads;toppings	food food price price	 positive positive negative negative	Spreads and toppings are great - though a bit pricey.
+;service	service	 positive	Service is fast and friendly.
+;null	service	 negative	Only drawback - they won't toast your bagel, and they don't make eggs for the bagel.
+;null	service	 positive	But that is highly forgivable.
+;null	restaurant	 neutral	Been there, done that, and New York, it's not that big a deal.
+;food;ambience	food ambiance	 negative negative	The food is decent at best, and the ambience, well, it's a matter of opinion, some may consider it to be a sweet thing, I thought it was just annoying.
+;null	restaurant	 negative	If celebrities make you sweat, then your in for a ride, but if your like most around these parts then you'll just yawn and wonder whats with all the hype.
+;rao	restaurant	 neutral	Rao is a good restaurant, but it's nothing special.
+;indian cuisine	food	 positive	But after last night, Spice Grill is the only place I'm eating indian cuisine.
+;shrimp appetizers	food	 positive	You must try the shrimp appetizers.
+;null	food	 positive	Even my Indian friend couldn't believe how good and tasty everything was.
+;ambience;staff	ambiance service	 positive positive	This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.
+;food;null;service	food price service	 positive positive positive	Great food, great prices, great service.
+;eats;eats	food price	 positive positive	If you are looking for a good quality, cheap eats - this is the place.
+;indian food	food	 positive	it's a perfect place to have a amanzing indian food.
+;cheff	food	 positive	I really loved the different and inovated touch that's the cheff gives to the food.
+;place;service	ambiance service	 positive positive	also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!
+;bagels	food	 negative	Their bagels are fine, but they are a little overcooked, and not really a 'special' bagel experience.
+;bagels;bagels	food food	 positive positive	Great bagels made the old-fashioned way.
+;service	service	 negative	Drawbacks: service is slow and they don't toast!
+;food	food	 positive	The food was absolutely amazing!!
+;baked clams octopus	food	 positive	The baked clams octopus we shared as appetizers were the best we've ever had!! 
+;lamb;dessert	food food	 positive positive	The lamb was tender so full of flavor, the dessert was divine!!
+;waiter	service	 positive	The waiter was attentive.
+;place;bar scene	ambiance ambiance	 positive positive	The place itself is beautiful the bar scene seems to be happening.
+;appetizers;waiter;potato stuff kanish	food service food	 neutral negative positive	Downtown Dinner 2002 - Prixe fix: Appetizers were ok, waiter gave me poor suggestion..try the potato stuff kanish best one.
+;salmon;chicken;servings for main entree	food food food	 negative positive negative	Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good.
+;dessert	food	 negative	Dessert is a joke...dont bother
+;service	service	 positive	Volare virgins or weekly regulars, everyone gets treated the same and you can't ask for more than that when the service is this friendly.
+;feel;portions;veal	ambiance food food	 positive positive positive	The restaurant has a Family feel, not least with regard to the portions which are enormous; the veal alone could have single-handedly solved third world famine.
+;anti-pasta;calamari;pasta mains;pasta mains	food food food food	 positive positive positive positive	The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.
+;wine list;meal	beverages price	 positive positive	The wine list is extensive and can easily hike up an otherwise reasonably priced meal.
+;null;measures of liquers	price beverages	 neutral positive	Still, any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house...
+;place	restaurant	 positive	Fantastic place.
+;null	ambiance	 positive	Cute and decorative.
+;null	restaurant	 positive	A pleasant surprise.
+;null	ambiance	 positive	Go there to relax and feel like your somewhere else.
+;lucky strike	restaurant	 positive	Lucky Strike is a great casual place to just grab a bite to eat.
+;food;decor;service	food ambiance service	 positive positive positive	Great food, great decor, great service.
+;null	restaurant	 positive	I recommend it!
+;spot	restaurant	 positive	This is the perfect spot for meeting friends, having lunch, dinner, pre-theatre or after-theatre drinks!
+;seasonal beer	beverages	 positive	(Always ask the bartender for the SEASONAL beer!!!
+;null	beverages	 positive	Guaranteed to be a tasty experience!)
+;spot	restaurant	 positive	Excellent spot for holiday get togethers with co-workers or friends that you haven't seen in a while.
+;heartland brewery	restaurant	 positive	I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED!
+;null	restaurant	 positive	All the people that I bring there go back on their own and bring THEIR friends!
+;null	restaurant	 positive	Go there once and oh yes...you will go back...you will...
+;place	restaurant	 positive	What a great place!
+;restaurant	ambiance	 positive	Not the typical NYC gimmick theme restaurant.
+;bar;food;beer;beer	ambiance food beverages beverages	 positive positive positive positive	A cool bar with great food, and tons of excellent beer.
+;null	service	 positive	And even with it's Pub atmosphere they were great to my kids too!
+;null	restaurant	 positive	Loved it!
+;shrimp scampi;antipasti	food food	 positive positive	The shrimp scampi was excellent and the antipasti were plentiful.
+;null;null	price restaurant	 negative positive	It is expensive but well worth the money.
+;corona	restaurant	 positive	If you venture off the island of Manhattan and can't seem to find a great Italian restaurant, drive to Corona.
+;food;service	food service	 positive positive	The only thing more wonderful than the food (which is exceptional) is the service.
+;waiters	service	 positive	The only thing the waiters don't do for you is wipe your chin when you leave.
+;null	restaurant	 positive	Wonderful at holiday time.
+;atomosphere	ambiance	 positive	Cozy romantic atomosphere with only around 15 tables at most.
+;service;service	service service	 positive negative	Service was very prompt but slightly rushed.
+;food	food	 neutral	Food was very good, but not what I would consider out of this world.
+;null;null	ambiance restaurant	 positive negative	Go here for a romantic dinner but not for an all out wow dining experience.
+;null	restaurant	 positive	My friend from Milan and myself were pleasantly surprised when we arrived and everyone spoke italian.
+;food	food	 negative	Too bad the food wasn't of the same heritage.
+;porcini mushroom pasta special;seafood tagliatelle	food food	 negative negative	The porcini mushroom pasta special was tasteless, so was the seafood tagliatelle.
+;null	food	 negative	A real dissapointment.
+;tiramisu	food	 negative	But that wasn't the icing on the cake: a tiramisu that resembled nothing I have ever had.
+;null	food	 negative	They should have called it mascarpone with chocolate chips-good but a far cry from what the name implies.
+;null	price	 negative	Priced at upper intermediate range.
+;place	restaurant	 positive	I really liked this place.
+;null	food	 positive	Everything I had was good, and I'm a eater.
+;null	price	 positive	It was pretty inexpensive too.
+;bbq ribs;bbq ribs	food food	 positive positive	This place has the best Chinese style BBQ ribs in the city.
+;rice dishes;congee (rice porridge)	food food	 positive positive	I also recommend the rice dishes or the different varieties of congee (rice porridge).
+;null	restaurant	 positive	It's great to go for a quick lunch either alone or with a friend.
+;place	restaurant	 negative	It's definately not a place to go if you want to impress someone.
+;food;decor;food	food ambiance price	 positive neutral positive	However, if you want great food at a great price and don't mind the decor, you can't beat this place.
+;service	service	 positive	Quick and friendly service.
+;null	restaurant	 positive	This is one of the best comfort food places in the city.
+;null	restaurant	 positive	It's somewhere you can eat and be happy.
+;main dining room;ceiling	ambiance ambiance	 positive positive	When you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside.
+;food;food;service	food food service	 positive positive positive	The food is wonderful, tasty and filling, and the service is professional and friendly.
+;patio	ambiance	 positive	I can't wait for summer, when they serve outside on their gigantic patio.
+;suan	restaurant	 positive	I recently tried Suan and I thought that it was great.
+;food;place;food	food restaurant price	 positive positive positive	This little place definitely exceeded my expectations and you sure get a lot of food for your money.
+;service;food;hot sauce	service food food	 positive positive positive	The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.
+;null	restaurant	 positive	I have to say that I am pleasantly suprised and I will most likely stop in again if I am in the neighborhood.
+;null	service	 positive	They all know you.
+;food	food	 positive	Good food.
+;drink	beverages	 positive	Good drink.
+;null	restaurant	 positive	How do you rate home?
+;cheescake	food	 positive	I have never had cheescake like this.
+;null	food	 positive	I thought I had died and gone to heaven.
+;spot;spot	restaurant restaurant	 positive positive	Great spot, whether looking for a couple of drinks or quiet dinner.
+;null;outdoor seating	ambiance ambiance	 positive positive	Warm and friendly in the winter and terrific outdoor seating in the warmer months.
+;food;selecion of wines;selecion of wines	food beverages price	 positive positive positive	The food is great and they have a good selecion of wines at reasonable prices.
+;null	restaurant	 positive	Have been several times and it never dissapoints.
+;null	restaurant	 negative	We were less than impressed.
+;ambiance;atmosphere;food;service	ambiance ambiance food service	 positive positive negative negative	While the ambiance and atmosphere were great, the food and service could have been a lot better.
+;chicken casserole;chicken casserole	food food	 negative negative	We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.
+;null	restaurant	 negative	Probably would not go again...
+;food	food	 positive	i've been to sapphire twice and both times the food was fine, if not good.
+;chicken;beef;lamb dishes	food food food	 positive positive positive	stick with the chicken, beef, and lamb dishes.
+;service;null	service restaurant	 positive positive	service is friendly, and never had a problem walking in and getting a table.
+;dessert	food	 negative	skip dessert.
+;reuben sandwich	food	 positive	Best Reuben sandwich ever!
+;null	food	 positive	A classic!
+;bloom's	restaurant	 positive	Don't miss Bloom's on your next trip to Manhatten.
+;place	restaurant	 positive	It was the first place we ate on our first trip to New York, and it will be the last place we stop as we head out of town on our next trip to New York.
+;bloom's	restaurant	 positive	Thanks Bloom's for a lovely trip.
+;food;sauces	food food	 negative negative	The food was not fresh, the sauces were bland and very oily.
+;null	food	 negative	It just wasn't Thai.
+;null	food	 negative	Was surprisingly disappointed.
+;pizza	food	 negative	Pizza was a little soggy.
+;ravioli;null	food price	 positive negative	Ravioli was good...but I have to say that I found everything a bit overpriced.
+;wines by the glass	beverages	 negative	Not enough wines by the glass either.
+;service;setting/atmosphere	service ambiance	 positive positive	Service, however, was excellent...and I liked the setting/atmosphere a lot. 
+;food;food	food price	 neutral negative	Food was just average...if they lowered the prices just a bit, it would be a bigger draw.
+;place	price	 positive	This place is a great bargain.
+;pakistani food	food	 positive	Authentic Pakistani food.
+;people	service	 positive	People are always friendly.
+;decor	ambiance	 neutral	Don't waste money on decor.
+;food;food	food price	 positive positive	Just straight up cheap, good food.
+;faan	restaurant	 positive	Faan is sooo good.
+;pad thai	food	 positive	The best pad thai i've ever had.
+;design;atmosphere	ambiance ambiance	 positive positive	The design and atmosphere is just as good.
+;bottles of wine;bottles of wine	price beverages	 positive positive	bottles of wine are cheap and good.
+;null	restaurant	 positive	What more could you want?
+;food	food	 negative	The food was actually aweful.
+;null	food	 negative	I'm not picky - but it was actually gross.
+;mussles;seabass;goat cheese salad;penne w/ chicken;null	food food food food food	 negative negative negative negative negative	The mussles were the fishiest things I've ever tasted, the seabass was bland, the goat cheese salad was missing the goat cheese, the penne w/ chicken had bones in it... It was disgusting.
+;atmosphere;service;desert	ambiance service food	 positive positive positive	Nice atmosphere, the service was very pleasant and the desert was good.
+;null	restaurant	 negative	Wouldn't recomend it for dinner!
+;null	restaurant	 positive	This is the perfect date spot for Williamsburg couples.
+;jukebox	ambiance	 positive	The jukebox plays everything from Italian Opera to The Strokes.
+;food;pastas;pizza	food food food	 positive positive positive	The food is amazing, rich pastas and fresh doughy pizza.
+;vibe;owner;service	ambiance service service	 positive positive positive	Best of all is the warm vibe, the owner is super friendly and service is fast.
+;null	restaurant	 neutral	If only they delivered, they'd make a mint!
+;drinks	beverages	 positive	go here for the drinks!
+;drinks;drinks	beverages price	 positive positive	the drinks are amazing and half off till 8pm.
+;usha	service	 positive	Ask for Usha, the nicest bartender in manhattan.
+;sassy lassi	beverages	 positive	My fav was the sassy lassi...
+;roti rolls	food	 positive	This is an amazing place to try some roti rolls.
+;unda (egg) rolls	food	 positive	I really recommend the very simple Unda (Egg) rolls.
+;spices;onions;eggs;roti	food food food food	 positive positive positive positive	Delicate spices, onions, eggs and a kick-ass roti.
+;null	food	 positive	Amazing!
+;toons	ambiance	 positive	Toons has recently been redone, so it's now a very attractive space.
+;food	food	 positive	The food's as good as ever.
+;thai food	food	 positive	In an area sadly lacking in decent Thai food, this is one of the best spots.
+;decor;service;food	ambiance service food	 positive positive positive	Went here last night - nice decor, good service, but the food was surprisingly excellent.
+;portions	food	 positive	The portions are HUGE, so it might be good to order three things to split (rather than one appetizer and entree per person) for two people.
+;null	restaurant	 positive	Can't wait to go back.
+;drumsticks over rice;sour spicy soup	food food	 positive positive	Best drumsticks over rice and sour spicy soup in town!
+;beef noodle soup	food	 positive	Beef noodle soup is good as well.
+;service;resturant	service ambiance	 positive positive	The service is good and the resturant is clean.
+;taiwanese food	food	 positive	Best Taiwanese food in NY!
+;rao's	restaurant	 positive	I have been to Rao's probably 15 times the past 3 years and it keeps getting better.
+;null	restaurant	 positive	For those that go once and don't enjoy it, all I can say is that they just don't get it.
+;service;atmosphere	service ambiance	 positive positive	Rao's has the best service and atmosphere in NYC.
+;null	restaurant	 neutral	Good luck getting a table.
+;place	restaurant	 positive	My roommate and I LOVE this place.
+;outdoor seating	ambiance	 positive	We recently decided to try this location, and to our delight, they have outdoor seating, perfect since I had my yorkie with me.
+;indoor	ambiance	 positive	Indoor was very cozy and cute.
+;portion;sushi	food food	 positive positive	The portion sizes here are huge, and the sushi is good.
+;staff	service	 positive	Staff is very accomodating.
+;dumplings;decor	food ambiance	 positive positive	Excellent dumplings served amid clean, chic decor.
+;$10 10-piece dim sum combo	food	 positive	I got the $10 10-piece dim sum combo, every bite of which was great.
+;null	price	 negative	But $1 for each small piece???
+;null	price	 negative	Not worth it.
+;null;null	restaurant price	 negative negative	I won't go back unless someone else is footing the bill.
+;decor	ambiance	 positive	The decor is very simple but comfortable.
+;food;food	food food	 positive negative	The food was delicious but do not come here on a empty stomach.
+;portions;food	food food	 negative positive	The portions are small but being that the food was so good makes up for that.
+;crabmeat lasagna;chocolate bread pudding	food food	 positive positive	You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.
+;staff	service	 positive	The staff there is very attentive and down to earth.
+;null	restaurant	 positive	I loved it and would go again.
+;indian food;service	food service	 positive positive	Great Indian food and the service is incredible.
+;owner	service	 positive	The owner truly caters to all your needs.
+;null	service	 positive	When family came in he gave them apps to test their palets, and then ordered for them.
+;null	service	 positive	Everyone was more then happy with his choices.
+;food;null	food price	 positive positive	Great food and the prices are very reasonable.
+;food	food	 positive	The food here does a great service to the name (Cantonese that is...).
+;egg noodles in the beef broth with shrimp dumplings and slices of bbq roast pork	food	 positive	I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork.
+;dish	food	 positive	This dish is my favorite and I always get it when I go there and never get tired of it.
+;congee;ow ley soh	food food	 positive positive	Try the congee and the donut like deep fried dough they call Ow Ley Soh, a delicious and sweet tasting bread.
+;chinese food;chinese food	food price	 positive positive	Simply some good tasting Chinese food at incredible prices...
+;service	service	 negative	Service is not what you are coming here for...
+;big wong	restaurant	 positive	Big Wong is a great place to eat and fill your stomach.
+;jazz duo	ambiance	 positive	whoever the jazz duo was, they were on POINT.
+;music;food;service;null	ambiance food service price	 positive positive positive positive	good music, great food, speedy service affordable prices.
+;wine by the glass	beverages	 positive	even the wine by the glass was good.
+;null;null	location restaurant	 neutral positive	its a little out of the way if you don't live in the neighborhood, but definitely worth the trip from wherever you are.
+;japanese tapas	food	 positive	Consistently good Japanese Tapas.
+;drinks;service	beverages service	 positive positive	Always good drinks and service is pretty good;
+;atmosphere	ambiance	 positive	Atmosphere is nice and relaxed too...
+;place	restaurant	 positive	A great place to meet up for some food and drinks...  
+;yakitori (bbq meats)	food	 positive	Yakitori (bbq meats) is tasty too.
+;fish;staff;sushi chef	food service restaurant	 negative negative negative	If you don't mind pre-sliced low quality fish, unfriendly staff and a sushi chef that looks like he is miserable then this is your place.
+;fish;fish;null	price food restaurant	 negative negative negative	Price and quality of fish alone will keep us from making a return visit.
+;chef	food	 negative	Wasn't going to share but I feel obligated...while sitting at the sushi bar dining we watched the chef accidentally drop a piece of Unagi on the floor and upon retrieving it from the floor proceed to use the piece in the delivery order he was preparing.
+;null	restaurant	 negative	No thanks!!!
+;place	restaurant	 positive	This place, which is only a few months old, is perhaps Queens' biggest secret!
+;decor;food;food;staff;rice avenue;rice avenue;rice avenue	ambiance food price service ambiance location price	 positive positive positive positive positive positive positive	Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!
+;waiter	service	 negative	We were seated outside and the waiter spilled red wine and hot tea on myself and my date.
+;null	service	 negative	We were then shooed inside.
+;waiter	service	 negative	One would think we'd get an apology or complimentary drinks - instead, we got a snobby waiter wouldn't even take our order for 15 minutes and gave us lip when we asked him to do so.
+;null	restaurant	 negative	We left, never to return.
+;food;wait-staff;service;management	price service service service	 negative negative negative negative	With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.
+;service;food;food	service price food	 negative negative negative	I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.
+;food;null	food price	 neutral neutral	The food is okay and the prices here are mediocre.
+;food;decor;baluchi's	food ambiance price	 positive positive positive	Baluchi's has solid food and a nice decor at reasonable prices.
+;manager	service	 negative	The only problem is that the manager is a complete incompetent.
+;service	service	 negative	He offers subpar service and has no personality.
+;null	service	 negative	In fact, it appears he is going to go postal at any moment.
+;service	service	 negative	There is no excuse for such lousy service!
+;nigiri	food	 neutral	I have never before eaten 40 pieces of relatively good nigiri.
+;null	food	 positive	You can do it here.
+;all you can eat sushi	price	 positive	$20 for all you can eat sushi cannot be beaten.
+;areo	restaurant	 positive	I went to Areo on a Sunday afternoon with four of my girlfriends, and spent three enjoyable hours there.
+;servers	service	 positive	Most of the servers are very attentive, friendly and quite attractive.
+;vibe;service;food	ambiance service food	 positive positive positive	The vibe is very relaxed and cozy, service was great and the food was excellent!
+;null	restaurant	 positive	Me and my girls will definitely go back.
+;food;view of the new york city skiline	food location	 positive positive	Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went.
+;null	location	 positive	I would highly recommand requesting a table by the window.
+;service;place	service ambiance	 positive positive	Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.
+;food	food	 positive	The food is great.
+;personal pans	food	 positive	Personal pans are the perfect size for those hungry nights.
+;null	restaurant	 positive	I heartily recommend.
+;delivery guys	service	 negative	There is a downside if you're ordering in -- the delivery guys have MAJOR attitude.
+;delivery guys	service	 negative	Never have I had such dramatic delivery guys (a lot of huffing and panting and muttering under breath b/c I live in a walkup) who always seem disappointed with their tips.
+;scene;place;location	ambiance ambiance location	 positive positive positive	Love the scene first off- the place has a character and nice light to it..very fortunate, location wise.
+;pizza;pizza	food food	 positive positive	The pizza was pretty good and huge.
+;null	price	 positive	The price very reasonable.
+;penne a la vodka	food	 positive	We were 4 and got the family size penne a la vodka which was tremendously gigantic portion...a bucket of food literally.
+;null	food	 negative	I would say that all was fine and tasty but the heaviness on my stomach someting that i can't not mention or undermine.
+;pasta penne;pasta penne	food food	 negative negative	The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol
+;la rosa	food	 positive	La Rosa waltzes in, and I think they are doing it the best.
+;wines;service;decor;selection	beverages service ambiance food	 positive positive positive positive	Interesting selection, good wines, service fine, fun decor.
+;null	restaurant	 positive	I love it.
+;null	restaurant	 positive	I plan on stopping by next week as well.
+;spot	restaurant	 positive	I found it on a cold night, the perfect spot to warm up.
+;service	service	 positive	I recieved prompt service with a smile.
+;null	ambiance	 positive	To me it exemplifies Soho, cute, artsy, interesting.
+;null	restaurant	 positive	Definately check it out!!!
+;place	restaurant	 positive	This place blew me away...by far my new favorite restaurant on the uppereast side.
+;wine list	beverages	 positive	The wine list is extensive and impressive.
+;atmosphere	ambiance	 positive	LOVE the atmosphere - felt like I was in Paris.
+;mussels;dessert;null	food food restaurant	 positive positive positive	The mussels were fantastic and so was the dessert...definitely going to be back very soon.
+;service;staff	service service	 positive positive	I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna.
+;vittorio;crew	service service	 positive positive	Over the years the host, Vittorio, and his crew, have always treated me as family--although with all the business this not-so-little gem does, it amazing he's even able to remember a consistent but not-so-frequent visitor.
+;dining garden;jazz bar;thin crust pizzas;lasagna menu	ambiance ambiance food food	 positive positive positive positive	I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!
+;place	restaurant	 positive	I lOVE THIS PLACE!
+;null	restaurant	 positive	Keep up the good work guys!
+;meal	food	 positive	I have to say I have never had a disapointing meal here.
+;dumplings	food	 positive	We could have made a meal of the yummy dumplings from the dumpling menu.
+;bbq salmon;sea bass;crispy duck	food food food	 positive positive positive	Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.
+;al di la	restaurant	 positive	Love Al Di La
+;place	restaurant	 positive	I recommend this place to everyone.
+;food	food	 positive	Great food.
+;null	restaurant	 positive	One of my favorite places in Brooklyn. 
+;pastas;risottos;sepia;braised rabbit	food food food food	 positive positive positive positive	The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+;null;null	price food	 negative negative	Overpriced and not tasty 
+;food	food	 negative	The food here was mediocre at best. 
+;null;fish and chips	price price	 negative negative	It was totally overpriced- fish and chips was about $15.... 
+;dog	food	 positive	Tasty Dog!
+;dog;establishment	food restaurant	 positive positive	An awesome organic dog, and a conscious eco friendly establishment.
+;null	food	 positive	One of the best hot dogs I have ever eaten.
+;null	restaurant	 positive	Can't wait to go back.
+;cypriot restaurant	restaurant	 positive	The Cypriot restaurant has a lot going for it.
+;pork souvlaki	food	 positive	But the best pork souvlaki I ever had is the main thing.
+;null	restaurant	 positive	Run don't walk.
+;pizza	food	 positive	Super YUMMY Pizza!
+;restaurant	ambiance	 positive	I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.
+;eggplant pizza;pastas	food food	 positive positive	I LOOOVE their eggplant pizza, as well as their pastas!
+;half/half pizza	food	 positive	We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!
+;null	restaurant	 positive	We had fun eating in there, we were there like around 3 a.m. in the morning!
+;null	restaurant	 positive	Will comeback for sure, wish they have it here in LA..
+;food;interior	food ambiance	 positive negative	Excellent food, although the interior could use some help.
+;space	ambiance	 negative	The space kind of feels like an Alice in Wonderland setting, without it trying to be that.
+;meal;meal	food price	 positive positive	I paid just about $60 for a good meal, though :)
+;sake	beverages	 positive	Great sake!
+;sushi	food	 positive	Reliable, Fresh Sushi
+;sashimi;rolls;rolls	food food food	 positive positive positive	The sashimi is always fresh and the rolls are innovative and delicious.
+;service	service	 positive	Have never had a problem with service save a missing rice once.
+;delivery	service	 negative	Delivery can be spot on or lacking depending on the weather and the day of the week.
+;delivery guy	service	 negative	Delivery guy sometimes get upset if you don't tip more than 10%.
+;sushi	food	 positive	Best. Sushi. Ever.
+;sushi	food	 positive	This place has ruined me for neighborhood sushi.
+;null;null	food food	 positive positive	Creative, consistent, fresh.
+;sashimi;millennium roll	food food	 positive positive	Excellent sashimi, and the millennium roll is beyond delicious.
+;null;null	price food	 negative positive	Not cheap but very yummy.
+;null	restaurant	 positive	Love it.
+;null	restaurant	 positive	Very, very nice
+;place;place	location restaurant	 neutral positive	The place is a bit hidden away, but once you get there, it's all worth it.
+;food;null	food restaurant	 positive positive	not only is the food
+;null	restaurant	 positive	Loved It
+;null	restaurant	 positive	We had a very nice time.
+;waiter;food;views of the city	service food location	 positive positive positive	The waiter was attentive, the food was delicious and the views of the city were great.
+;null	restaurant	 positive	I'd definitely go back again.
+;place	ambiance	 positive	Great place to relax and enjoy your dinner
+;atmosphere	ambiance	 positive	There is something about their atmosphere that makes me come back nearly every week.
+;place	restaurant	 positive	Place is open till late, no dress code.
+;food;seafood spaghetti	food food	 positive positive	Good food: my favorite is the seafood spaghetti.
+;null	restaurant	 positive	Highly recommended!
+;food;food	food price	 positive positive	Excellent food for great prices
+;null	restaurant	 positive	My husband and I have been sold on this from the first visit.
+;wait staff	service	 positive	The wait staff is very courteous and accomodating.
+;space;indo-chinese food	restaurant food	 negative positive	The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+;null	restaurant	 positive	There are no negatives to speak of.
+;null	restaurant	 positive	the bestt!
+;place	restaurant	 positive	my favorite place lol
+;chicken pasta	food	 positive	i love their chicken pasta cant remember the name but is sooo good
+;null	restaurant	 neutral	its alright
+;place;place	restaurant price	 positive positive	im not necessarily fanatical about this place, but it was a fun time for low pirces.
+;lobster	food	 neutral	lobster was good, nothing spectacular.
+;restaraunt	restaurant	 neutral	its just a fun place to go, not a five star restaraunt.
+;null	restaurant	 negative	Way below average
+;pizza	food	 negative	I think the pizza is so overrated and was under cooked.
+;staff;null	service food	 negative negative	Had no flavor and the staff is rude and not attentive.
+;null	restaurant	 negative	Would NEVER go back
+;place	restaurant	 positive	I love this place
+;null	food	 positive	I wasn't here for the pizza so I can't comment on that yet but what I had was very good.
+;service	service	 positive	The service was quick and friendly.
+;null	service	 positive	Everyone was smiling so that made me feel welcome.
+;restaurant;restaurant	restaurant ambiance	 positive positive	I thought the restaurant was nice and clean.
+;vitello alla marsala	food	 positive	I ordered the vitello alla marsala and I was pretty impressed.
+;veal;mushrooms	food food	 positive positive	The veal and the mushrooms were cooked perfectly.
+;potato balls	food	 positive	The potato balls were not dry at all... in fact it was buttery.
+;null	restaurant	 negative	The only downside... they only take cash which is OK if you know about it ahead of time.
+;null	restaurant	 positive	I'll be back for sure.
+;place	restaurant	 negative	WORST PLACE ON SMITH STREET IN BROOKLYN
+;bartender;service;food;waitresses	service service food service	 negative negative negative negative	Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.
+;place	restaurant	 negative	I would never recommend this place to anybody even for a casual dinner.
+;null	restaurant	 positive	awesome
+;food	food	 positive	the food is always fresh ...
+;japanese food;service	price service	 negative neutral	overpriced japanese food with mediocre service
+;null	restaurant	 negative	Went here on sat 1/26 and was disappointed.
+;chicken teriyaki	food	 negative	Chicken teriyaki had tomato or pimentos on top??
+;food	food	 negative	food was luke warm.
+;waitress	service	 negative	The waitress was not attentive at all.
+;dessert	food	 negative	I was looking for banana tempura for dessert and they dont have.
+;the four seasons	price	 negative	"Not because you are ""The Four Seasons""... – you are allowed to charge an arm and a leg for a romatic dinner."
+;food;service;the four seasons	food service restaurant	 positive positive negative	The food was excellent as well as service, however, I left The Four Seasons very dissappointed.
+;dinner	price	 negative	I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.
+;red dragon roll	food	 positive	Red Dragon Roll - my favorite thing to eat, of any food group - hands down
+;yamato;red dragon roll	restaurant food	 positive positive	Just go to Yamato and order the Red Dragon Roll.
+;null	food	 positive	If you don't like it, I don't know what to tell you.
+;seafood dynamite	food	 positive	The Seafood Dynamite is also otherworldly.
+;null	food	 positive	I'm not even going to bother to describe it; it speaks for itself.
+;sushi	food	 positive	Favorite Sushi in NYC
+;spot;sushi;service	ambiance food service	 positive positive positive	An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.
+;back garden area	ambiance	 positive	In the summer months, the back garden area is really nice.
+;rolls;japanese food;japanese food	food food food	 positive positive positive	The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+;dancing, white river and millenium rolls	food	 positive	The Dancing, White River and Millenium rolls are musts.
+;null	restaurant	 positive	SO GOOD
+;place	restaurant	 positive	I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE ...)
+;food	food	 negative	Gross food – Wow-
+;food	food	 negative	I can't remember the last time I had such gross food in New York.
+;quesadilla;quesadilla	food food	 negative negative	My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.
+;guacamole;guacamole	food price	 negative negative	And $11 for a plate of bland guacamole?
+;margaritas	beverages	 negative	Don't get me started on the margaritas, either.
+;null	beverages	 negative	Mine tasted like the bartender had forgotten to add the tequila.
+;null	restaurant	 negative	Save your money and your time and go somewhere else.
+;place	restaurant	 negative	Oh, and I never write reviews--I just was so moved by how bad this place was, I felt it was my duty to spread the word.
+;indian food	food	 positive	Great Indian Food!
+;null	service	 positive	When I got there the place was packed but they made sure to seat me quickly.
+;food;place;place	food ambiance price	 positive positive positive	The food was good, the place was clean and affordable.
+;indian place	restaurant	 positive	I noticed alot of indian people eatting there which is a great sign for an indian place!
+;null;null;food;null	restaurant ambiance food restaurant	 positive positive positive positive	This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .
+;staff	service	 positive	The staff is very good.
+;drink menu	beverages	 positive	Love their drink menu.
+;place;place	ambiance restaurant	 positive positive	I highly recommend this beautiful place.
+;null	restaurant	 positive	Nice for one time special occasion.
+;null	service	 positive	They honored reservation on Sunday afternoon very well. 
+;voss bottles of water	price	 negative	We were offered water for the table but were not told the Voss bottles of water were $8 a piece.
+;food	food	 neutral	Food was OK.
+;view of river and nyc	location	 positive	Nice view of river and NYC.
+;null	restaurant	 positive	I come here enjoy very much with husband.
+;null	restaurant	 positive	Remind me of home.
+;survice	service	 positive	Great survice
+;null	food	 positive	MMMMMMMMMmmmmmm so delicious
+;egyptian restaurant	ambiance	 positive	A beautifully designed dreamy Egyptian restaurant that gets sceney at night.
+;baba ganoush;belly dancers	food ambiance	 positive positive	Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+;hookah	ambiance	 positive	Oh, and there's hookah.
+;raymond	service	 positive	Raymond the bartender rocks!
+;pacifico	restaurant	 positive	Pacifico is a great place to casually hang out.
+;drinks;raymond	beverages service	 positive positive	The drinks are great, especially when made by Raymond.
+;omlette for brunch	food	 positive	The omlette for brunch is great...
+;spinach	food	 positive	the spinach is fresh, definately not frozen...
+;quacamole;wings with chimmichuri	food food	 positive positive	quacamole at pacifico is yummy, as are the wings with chimmichuri.
+;chicken in the salads	food	 negative	A weakness is the chicken in the salads.
+;null	food	 negative	It's just average, just shredded, no seasoning on it.
+;portobello and asparagus mole	food	 negative	Also, I personally wasn't a fan of the portobello and asparagus mole.
+;food;food;people	food price service	 neutral positive positive	Overall, decent food at a good price, with friendly people.
+;indian restaurant	restaurant	 positive	Best Indian Restaurant in the City
+;decor;food	ambiance food	 negative positive	Decor needs to be upgraded but the food is amazing!
+;gyros	food	 positive	This small Astoria souvlaki spot makes what many consider the best gyros in New York.
+;food;gyro meat;sausages;ingredients	food food food food	 positive positive positive positive	What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.
+;greek and cypriot dishes;gyro	food food	 positive positive	All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted.
+;restaurant	restaurant	 positive	Best restaurant in Brooklyn
+;null	restaurant	 positive	The best!
+;food;service;place	food service restaurant	 positive positive positive	Great food, amazing service, this place is a class act.
+;veal	food	 positive	The veal was incredible last night.
+;null	food	 positive	Fresh, mind blowing flavors.
+;place	restaurant	 positive	This place is a must visit!
+;null;null	food food	 positive positive	Delicious, creative and fun.
+;null	restaurant	 positive	Got a date? Go here!
+;null	restaurant	 positive	Every time I have a special occasion with my boyfriend I have a hard time going anywhere else.
+;null	ambiance	 positive	It is so romantic.
+;null	ambiance	 positive	Its dark, and cozy.. there is always jazz music playing when we go.
+;booths	ambiance	 positive	Most of the booths allow you to sit next to eachother without looking like 'that' couple.
+;food	food	 positive	The food is all shared so we get to order together and eat together.
+;dishes;dish	food food	 positive negative	I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).
+;null	restaurant	 positive	Once you try it for a special occasion beware.. you can't stop!
+;null	restaurant	 positive	You'll be ther for every anniversary, birthday, valentines day...
+;null	restaurant	 positive	For a Fabulous Wedding!
+;water's edge	restaurant	 positive	My daughter's wedding reception at Water's Edge received the highest compliments from our guests.
+;atmosphere;rooms;views;food	ambiance ambiance location food	 positive positive positive positive	Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+;service	service	 positive	Service was wonderful;
+;null	service	 positive	everyone was cheerfully cooperative and helpful.
+;paul	service	 positive	Paul, the maitre d', was totally professional and always on top of things.
+;water's edge	restaurant	 positive	Thank you everyone at Water's Edge.
+;null	restaurant	 negative	would NOT go back.
+;service;bathroom	service ambiance	 negative negative	Service ok but unfriendly,filthy bathroom.
+;view;food;null	location food price	 neutral negative negative	The high prices you're going to pay is for the view not for the food.
+;bar drinks	beverages	 negative	The bar drinks were Eh, ok to say the least.
+;stuff tilapia	food	 negative	The stuff tilapia was horrid...tasted like cardboard.
+;dessert	food	 negative	We thought the dessert would be better, Wrong!
+;null;null	restaurant price	 negative negative	$170 down the toilet...
+;mens bathroom	ambiance	 negative	oh speaking of bathroom , the mens bathroom was disgusting.
+;null	ambiance	 negative	The floor was wet, the trash can filled with hand towels n all over the floor, no soap, and no hand towels left.
+;null	restaurant	 positive	Good Experience
+;wine list;staff	beverages service	 positive negative	The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.
+;bread;appetizer of olives	food food	 negative negative	"The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing."
+;main course	food	 positive	However, our main course was wonderful.
+;fish;filet	food food	 positive positive	I had fish and my husband had the filet - both of which exceeded our expectations.
+;pear torte;staff	food service	 positive negative	The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.
+;waitress	service	 negative	When we inquired about ports - the waitress listed off several but did not know taste variations or cost.
+;null;location;location	service price restaurant	 negative neutral neutral	Not what I would expect for the price and prestige of this location.
+;restaurant;restaurant;staff	restaurant ambiance service	 positive positive negative	All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.
+;seating	ambiance	 positive	short and sweet – seating is great:it's romantic,cozy and private.
+;boths	ambiance	 positive	The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.
+;service;service button;waiter	service service service	 positive positive negative	The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+;food	food	 neutral	The food was ok and fair nothing to go crazy.
+;looks;meals	ambiance food	 positive negative	Over all the looks of the place exceeds the actual meals.
+;restaurant;restaurant;food	price ambiance food	 negative neutral negative	So what you really end up paying for is the restaurant not the food.
+;null;null	restaurant restaurant	 negative positive	Will prob. not return but it is a great dinning experience to try atleast once.
+;null	restaurant	 positive	Impressed...
+;food;service	food service	 positive positive	Subtle food and service
+;service;food	service food	 positive positive	Noodle pudding is exactly the type of service and food I enjoy.
+;greg	service	 positive	Servers are all different, Greg is my favorite.
+;server	service	 positive	Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner.
+;runner	service	 positive	This is the first place I've been that a runner remembers my order... hope he likes his job because I have half a mind to steal him for my restaurant.
+;food;bev	price price	 positive positive	Prices are fair across the board for both food and bev.
+;servers	service	 positive	I go out to eat and like my courses, servers are patient and never rush courses or force another drink.
+;dogs;toppings	food food	 positive positive	amazing fresh dogs but best of all endless toppings!!!
+;trimmings	food	 positive	this place had ALL the trimmings and i mean all.
+;null	food	 positive	peppers, onions, relish, chilli, cheeses, you NAME it.
+;place;hot dog	restaurant food	 positive positive	amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!
+;null	restaurant	 positive	BEST DINING EXPERIENCE IN THE WEST VILLAGE!
+;casa la femme	restaurant	 positive	Stepping into Casa La Femme last night was a true experience unlike any other in New York!
+;decor;food;null;null	ambiance food service restaurant	 positive positive positive positive	Highly impressed from the decor to the food to the hospitality to the great night I had!
+;cocktail with citrus vodka and lemon and lime juice and mint leaves	beverages	 positive	The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for!
+;food;null	food service	 positive neutral	Food took some time to prepare, all worth waiting for.
+;belly dancing show	ambiance	 positive	We were drawn into the belly dancing show that captivated the crowd.
+;restaurant	restaurant	 positive	I never write on these sites but this restaurant is def worth commending!
+;null	restaurant	 positive	Great find in the West Village!
+;food	food	 negative	Maggot in the food!
+;menu;waiter;food	food service food	 positive positive neutral	The menu looked great, and the waiter was very nice, but when the food came, it was average.
+;mushroom sauce	food	 negative	Nevertheless, I finished my plate, and that's when I found a maggot in mushroom sauce at the bottom.
+;manager;manager	service service	 positive negative	I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for).
+;null	service	 negative	When the bill came, nothing was comped, so I told the manager very politely that we were willing to pay for the wine, but I didn't think I should have to pay for food with a maggot in it.
+;manager	service	 negative	The manager finally said he would comp the two glasses of wine (which cost less than the food), and made it seem like a big concession.
+;null	service	 negative	We paid and left because we didn't feel like arguing any more.
+;food	food	 negative	I have worked in restaurants and cook a lot, and there is no way a maggot should be able to get into well prepared food.
+;restaurant;customer service	restaurant service	 positive negative	For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.
+;null	food	 negative	Unhygienic
+;null	restaurant	 negative	I do not recommend.
+;food	food	 negative	I got hair in my food 2 times of then !
+;place;place	restaurant price	 positive positive	Great place, great value.
+;food;food;food	food food price	 positive positive positive	The food is flavorful, plentiful and reasonably priced.
+;atmosphere	ambiance	 positive	The atmosphere is relaxed and casual.
+;place	restaurant	 positive	It's a great place to order from or sit-in.
+;null	restaurant	 positive	Awesome
+;null;null	price restaurant	 positive positive	Inexpensive, unassuming, great time!
+;sushi	food	 positive	Sushi experience was unbelievable with my fiance.
+;null	restaurant	 positive	Try it!
+;null	restaurant	 positive	Very pleased
+;rolls;rolls	food food	 positive positive	Good creative rolls!
+;yamato	restaurant	 positive	Yamato is an excellent place to go if youre not into sashimi, or if you have friends who doesnt like sushi much.
+;rolls;triple color and norwegetan rolls;triple color and norwegetan rolls	food food food	 positive positive positive	They have great rolls, the triple color and norwegetan rolls, are awesome and filling.
+;dessert;special roll;regular roll	food food food	 positive positive positive	One special roll and one regular roll is enough to fill you up, but save room for dessert!
+;banana chocolate dessert;green tea tempura	food food	 positive positive	They have a delicious banana chocolate dessert, as well as a great green tea tempura.
+;appetizers	food	 positive	The appetizers are also delicious!
+;food	food	 positive	Amazing food.
+;interior	ambiance	 negative	Mazing interior.
+;food	food	 positive	Great food!
+;modern japanese	food	 positive	I've had my fair share of modern Japanese and this spot delivers.
+;atmosphere;scheme of mirrors	ambiance ambiance	 negative negative	The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.
+;null	ambiance	 negative	If you're into being lost when you're just five feet from your table then hey, that's a good thing.
+;modern japanese food;mirrors	food ambiance	 positive negative	Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.
+;indo chinese food	food	 positive	Indo Chinese food, pretty good...
+;place;chinese style indian food	ambiance food	 neutral positive	Not a very fancy place but very good Chinese style Indian food.
+;chicken lollipop;dishes;chilli chicken	food food food	 positive negative negative	The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.
+;food	food	 negative	My mom originally introduced me to this place, but even she (being Indian) feels the food can be somewhat over the top spicy and far too oily.
+;null	restaurant	 positive	Still we keep going back :)
+;food	food	 negative	I was speechless by the horrible food.
+;food	food	 negative	I attended a holiday dinner at the restaurant, and the food was majorly disappointing.
+;chef;vegetarian dish;vegetarian dish	service food food	 negative negative negative	Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).
+;null	restaurant	 negative	I was so stunned, and I left the dinner hungry and majorly disappointing.
+;place	restaurant	 negative	This place survives on reputation alone.
+;null	restaurant	 negative	I will NEVER return.
+;null	restaurant	 positive	Best In ALL of NYC
+;restaurant	restaurant	 positive	This is the MOST wonderful restaurant in all of New York City, not just Brooklyn...
+;food	food	 positive	for 7 years they have put out the most tasty, most delicious food and kept it that way...
+;null;meal;service	restaurant food service	 positive positive positive	never swaying, never a bad meal, never bad service...
+;null	restaurant	 positive	you should travel from the Bronx to try it...
+;food;wine list;service;neighborhood	food beverages service location	 positive positive positive positive	great food, great wine list, great service in a great neighborhood...
+;null	food	 positive	so delicious!!!!!!
+;patsy's pizza	restaurant	 positive	Patsy's Pizza = true love
+;pizza	food	 positive	Hands down the best pizza on the planet.
+;null	food	 positive	In about 12 minutes, the thing is gone.
+;hot dogs	food	 positive	great hot dogs..
+;hot dogs	food	 positive	the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside.
+;toppings;place	food restaurant	 positive positive	great toppings definitely a place you need to check out for late night munchies or a mid day boost!
+;null	food	 positive	great taste
+;null	food	 positive	Great, original taste.
+;dishes;null	food restaurant	 negative positive	For me dishes a little oily, but overall dining experience good.
+;service;dish	service price	 positive positive	Helpful service and average price per dish $10.
+;decor	ambiance	 negative	The only thing that strikes you is the decor?(not very pleasant).
+;food	food	 positive	great food
+;indian chinese food	food	 positive	This place has great indian chinese food.
+;null;null	food price	 positive positive	The flavors are amazing and the value is phenomenal.
+;place	restaurant	 negative	Be prepared to wait, because the place is pretty tiny.
+;null	restaurant	 neutral	Also, they do not take credit card so come with cash!
+;place;food	ambiance food	 negative positive	Even though the place is not beautiful, the food speaks for itself.
+;indian chinese	food	 positive	Best Indian Chinese in the city, by far!
+;null	restaurant	 positive	AMAZING MY FAVORITE!!!
+;village underground	restaurant	 positive	I came across Village Underground by accident, now I go there all the time.
+;martinis;martinis	beverages price	 positive positive	The martinis are amazing and very fairly priced.
+;service;waiters	service service	 positive positive	THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC.
+;dj;null	ambiance restaurant	 positive positive	The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back.
+;null	service	 positive	You can get a table without a reservation if you get there early I they don't make you by bottles.
+;null	service	 positive	Which lets face it....at times it's a good thing.
+;null;null	price restaurant	 positive positive	In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!
+;null	restaurant	 positive	Highly recommended!
+;null	restaurant	 positive	One of the best, if not THE best, restaurants in Park Slope (and NY in general)
+;menu	food	 positive	Everything on the menu is great. 
+;establishment	restaurant	 positive	This establishment is the real deal. 
+;null;food;null	ambiance food restaurant	 positive positive positive	Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.
+;dinner for two	price	 negative	But $500 for a dinner for two that didn't include Wine?
+;appetizers	food	 positive	Look, the appetizers were really good.
+;entree	food	 positive	The entree was also very good.
+;null	price	 negative	Can't argue about that, but they are clearly over priced.
+;environment;null;null	ambiance restaurant price	 neutral neutral negative	What you are paying for is the environment and the name.
+;place;place	ambiance price	 positive negative	Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while.
+;null	food	 negative	Which of course is not real Kobe but Wagyu beef.
+;null	restaurant	 negative	Surprised that a place of this caliber would advertise it as Kobe.
+;vanison	food	 neutral	Vanison was good but not amazing.
+;bison	food	 positive	Bison was quite excellent however.
+;dessert	food	 negative	Dessert: pure disaster.
+;null	food	 negative	Just not good at all.
+;null;null	food food	 negative negative	Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.
+;restaurant;restaurant	price restaurant	 negative negative	I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it.
+;the four seasons;the four seasons	restaurant price	 neutral negative	"The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say ""I've been to the four seasons restaurant""."
+;null;null	restaurant price	 negative negative	I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it.
+;food;dessserts	food food	 positive negative	All in all, the food was great (except for the dessserts).
+;environment;null	ambiance restaurant	 neutral neutral	The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.
+;food	food	 negative	If you are going for the food, it will not be worth it.
+;service	service	 negative	You would think they would make up for it with service, sadly, no.
+;service;null	service price	 negative negative	Service was just ok, it is not what you'd expect for $500.
+;null;null	restaurant price	 negative negative	Terrible Waste of money.. scammers
+;casa la femme	restaurant	 negative	I agree that dining at Casa La Femme is like no other dining experience!
+;null;null	restaurant price	 negative negative	I am actually offended to have spent so much money on such a bad experience.
+;casa la femme;casa la femme	restaurant price	 negative negative	I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.
+;null;null	restaurant price	 negative negative	Our visit their to say the least, was an unpleasant and costly experience!
+;null;null	restaurant price	 negative negative	And even more so unpleasant because it was so costly for such an unpleasant experience.
+;wait	service	 neutral	We did arrive late for our reservation so I can not complain too much about the wait for a table.
+;null	service	 negative	Although we were told 10-15 minutes and it was more like 45 minutes.
+;null	restaurant	 positive	We were ushered to the bar to wait momentarily and upon arrival were so excited.
+;place	ambiance	 positive	The place is beautiful!
+;hostess	service	 positive	The hostess was very pleasant.
+;drinks;drinks	beverages price	 negative negative	However, our $14 drinks were were horrible!
+;null	service	 negative	Once we finally got a table, despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed!
+;null	restaurant	 negative	Our experience did not ever get any better.
+;null	service	 negative	For each course we waited over 1/2 hour to 45 minutes and were never offered a drink.
+;waiter	service	 negative	We also asked for Hooka six times and the waiter kept telling us one minute and never returning with the Hooka.
+;waiter	service	 negative	After the 4th time i asked again and the waiter than said after our dinner.
+;null	service	 negative	We asked for beverages and never received them.
+;waiter	service	 negative	We asked for sides which the waiter than admitted that he forgot to put in that part of our order.
+;chicken	food	 negative	My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin.
+;dinner;dinner	food price	 negative negative	I would not expect this for a $55 dinner.
+;null	service	 negative	By the time we finished our dinner we still had not received one beverage NOR hooka!
+;null	service	 negative	What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka.. some of which we never received!
+;null	service	 negative	The only beverage we did receive was water in dirty glasses!
+;null;null	service restaurant	 negative negative	To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.
+;food;null;null	food price restaurant	 negative negative negative	By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!
+;meal;null	food price	 negative negative	If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!
+;restaurant;restaurant	restaurant price	 negative negative	I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.
+;null;null;null	restaurant price service	 negative negative negative	MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!
+;null	restaurant	 negative	I wish I COULD be refunded!
+;null	restaurant	 negative	Don't go with a larger group than 4! 
+;null	service	 positive	At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us.
+;menu	food	 neutral	The menu is fairly simple without much descriptions. 
+;beer	beverages	 negative	There was no tap beer that evening, which was a disappointment. 
+;selection of bottled beer	beverages	 negative	Not much of a selection of bottled beer either, we went with Brahma. 
+;fried oysters and clams;fried oysters and clams;null	food food service	 positive negative positive	The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). 
+;lobster knuckles;lobster knuckles	food food	 neutral negative	The lobster knuckles (special of the day) were ok, but pretty tasteless.
+";""salt encrusted shrimp"" appetizer"	food	 negative	"I believe there were 2 shrimp in the ""salt encrusted shrimp"" appetizer. "
+;null	service	 negative	"She replied ""well it would be more convenient for us if you ordered now, since you are a larger party, and it might get crowded."" "
+;null	service	 neutral	The food arrived in about 15 minutes. 
+;thai style fried sea bass	food	 positive	I had the Thai style Fried Sea Bass...which was very good. 
+;food;grilled mahi mahi;grilled mahi mahi	food food food	 positive negative negative	Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! 
+;lobster roll	food	 positive	I heard the lobster roll was excellent. 
+;null	service	 negative	They seemed to continue to rush us along, taking plates without asking if we were done (my sister still had her fork in hand). 
+;food;food	food price	 positive negative	All in all the food was good - a little on the expensive side, but fresh. 
+;service	service	 negative	"Service not the friendliest to our ""large party""! "
+;null	restaurant	 negative	Probably would not go back here.
+;indian food	food	 positive	Great Indian food
+;food	food	 positive	Food was amazing - I love Indian food and eat it quite regularly, but I can say this is one of the best I've had.
+;indian food;indian food	food food	 neutral positive	"Very ""normal Indian food"", but done really well."
+;place;place;chicken tikka masala;feel	restaurant price price ambiance	 positive negative negative negative	I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.
+;waiters	service	 negative	Also, waiters try to push more food on you, like suggest things as if they are complimentary when they actually cost $.
+;null;null	service price	 negative negative	I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).
+;indian food;place	food price	 positive negative	But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food
+;null	restaurant	 positive	One of the BEST
+;bukhara grill	restaurant	 positive	"Bukhara Grill, the tagline says it all.. ""INDIAN SPICE RAVE"""
+;lunch buffet;lunch buffet	price food	 negative positive	The lunch buffet is expensive but is deff worth it.
+;service;dinner	service food	 positive positive	We have gone for dinner only a few times but the same great quality and service is given.
+;bukhara	restaurant	 positive	Bukhara is on my top 5 Indian places in NYC
+;null	restaurant	 negative	Wretched and retching
+;food;service	food service	 negative negative	I have never been so disgusted by both food an service.
+;null	service	 negative	For starters they delivered us someone else's order.
+;kimchee;korean fair	food food	 negative negative	However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin.
+;food;null	food service	 negative negative	My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation.
+;null	service	 negative	None was made so i hung up.
+;null	food	 negative	Less than three minutes passed before I found myself doubled over the toilet.
+;meal;null	food service	 negative negative	My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant.
+;restaurant	restaurant	 negative	It wasn't as if this restaurant had any major bragging points before hand, but now it's simply repulsive.
+;null	food	 negative	Eat at your own risk.
+;place;place	ambiance restaurant	 positive positive	Gorgeous place ideal for a romantic dinner
+;four course prix fix menu;white organza tent	food ambiance	 positive positive	I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.
+;service;waiter	service service	 positive positive	The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!
+;casa la femme	restaurant	 positive	I completely recommend Casa La Femme for any special occasion and to REALLY impress your date.
+;null	restaurant	 negative	More Williamsburg Garbage
+;null	service	 negative	The dishes came out around 5 minutes apart.
+;bibimbap;stone bowl	food food	 neutral negative	The bibimbap was average, but the stone bowl wasn't even close to sizzling.
+;stone bowl	price	 negative	Too bad I had paid an extra $2 for the stone bowl.
+;nakgi-bokum	food	 negative	The nakgi-bokum was horrible.
+;stir-fried squid	food	 negative	Easily the worst stir-fried squid I've ever tasted.
+;sauce	food	 negative	The sauce tasted more like Chinese fast food than decent Korean.
+;side dishes;side dishes	food food	 neutral neutral	The side dishes were passable, and I did get a refill upon request.
+;service	service	 negative	The real problem I had with this place was the complete lack of service.
+;null	service	 negative	She just nodded and walked off.
+;null	service	 negative	As to my comment about the food, no apology or acknowledgment was made.
+;dish	food	 negative	My wife had barely touched that mess of a dish.
+;null	service	 negative	We were charged full price.
+;null	restaurant	 positive	Lives up to the hype
+;null	restaurant	 neutral	We've tried before but it always packed and doesn't take reservations.
+;null	restaurant	 positive	It was well worth the wait.
+;risotto	food	 positive	The wife had the risotto which was amazing.
+;null;null	food food	 negative positive	It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal.
+;farro salad;mashed yukon potatoes	food food	 positive positive	The farro salad and the mashed yukon potatoes were also extremely tasty.
+;east village pizza;margherita pizza	restaurant food	 positive positive	i love margherita pizza – i looove east village pizza
+;place	restaurant	 positive	Love this place, every time we are in the city this is one of the places we always go.
+;slice of nyc pizza	food	 neutral	A quintessential slice of NYC pizza.
+;crust;sauce;cheese	food food food	 positive positive positive	The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.
+;margherita pizza;null	food food	 positive positive	Personally I like the margherita pizza better, but they are all good.
+;restaurant	ambiance	 positive	Possibly the Most Romantic Restaurant in the City
+;modern japanese brasserie;modern japanese brasserie	restaurant ambiance	 positive positive	This is undoubtedly my favorite modern Japanese brasserie (that don’t serve sushi), and in my opinion, one of the most romantic restaurants in the city!
+;spot;unmarked wooden doors;décor	location ambiance ambiance	 neutral positive positive	Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city.
+;private booths;glass ceilings	ambiance ambiance	 positive positive	If you’re planning to come here, make sure that your date is someone whom you really like since you’ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).
+;null;waiter	ambiance service	 positive positive	It’s just you and your date and an occasional cute ‘excuse me’ before the waiter opens the little curtain to your booth!
+;bbe $29 fixe prix menu;bbe $29 fixe prix menu	price food	 positive positive	My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!
+;sashimi amuse bouche	food	 positive	We started off with a delightful sashimi amuse bouche.
+;grilled black cod;grilled salmon dish	food food	 positive positive	I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better.
+;sake’s	beverages	 positive	The sake’s complimented the courses very well and is successfully easing me into the sake world.
+;frozen black sesame mousse;matcha (powdered green tea) and blueberry cheesecake	food food	 neutral positive	For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.
+;brasserie;brasserie	restaurant price	 positive positive	Maybe it was the great company (I had friends visiting from Philly – yes, it was not a date this time) or the super reasonable price point, but I just can’t say enough good things about this brasserie.
+;zenkichi;zenkichi	restaurant ambiance	 positive positive	I don’t usually visit the same establishment more than once, what more twice, but I’ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner.
+;null	restaurant	 negative	Terrible would be a compliment!
+;service	service	 negative	The service leaves much to be desired, from feeling like you are rushed the place your order, to being ignored the rest of the night.
+;null	service	 negative	We paid a fixed pricce but got nothing!!
+;null	service	 negative	We never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating.
+;service;drinks;pita bread;null	service price price service	 negative negative negative negative	They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!
+;null	restaurant	 negative	Stay away
+;shabu shabu	food	 positive	Great Shabu Shabu
+;null	restaurant	 positive	I love it.
+;dishes	food	 neutral	I tried a couple other dishes but wasn't too impressed.
+;shabu shabu	food	 positive	But for the Shabu Shabu, you won't find much better in NY.
+;meat;sauces;service;meal;kimchi;salad	food food service food price price	 positive positive positive positive positive positive	The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.
+;korean food;fusion twists;pork belly tacos	food food food	 positive positive positive	Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.
+;hot dogs;pork croquette sandwich;bun	food food food	 positive positive positive	The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.
+;view	location	 neutral	Restaurant with a view
+;food	food	 positive	The food tasted very good.
+;family seafood entree	food	 positive	The family seafood entree was very good.
+;main entree	food	 positive	The main entree was also very good.
+;food;food;null	food price restaurant	 positive negative positive	Price is high but the food is good, so I would come back again.
+;place	restaurant	 negative	This place doesn't make any sense
+;null	restaurant	 negative	Just want to warn you all - don't waste your time and money.
+;decor;mirrored walls	ambiance ambiance	 negative negative	This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional...
+;place;food	ambiance food	 negative negative	This place is not inviting and the food is totally weird.
+;japanese tapas	food	 negative	The concept of japanese tapas is newly created and clearly doesn't work.
+;food	food	 negative	The food they serve is not comforting, not appetizing and uncooked.
+;food	food	 positive	Good Food
+;food;sitting space	food ambiance	 positive negative	The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner.
+;place;place	restaurant ambiance	 positive positive	Over all it was a very nice romantic place .
+;null	restaurant	 positive	Loved it
+;pacifico	restaurant	 positive	A coworker and I tried Pacifico after work a few Fridays and loved it.
+;atmosphere	ambiance	 positive	The atmosphere was great.
+;food;margaritas	food beverages	 positive neutral	The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about.
+;waitress	service	 neutral	Our waitress wasn't mean, but not especially warm or attentive either.
+;restaurant	restaurant	 positive	I must say I am surprised by the bad reviews of the restaurant earlier in the year, though.
+;patio;null	ambiance restaurant	 positive positive	Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio.
+;null	restaurant	 negative	Dumbfoundingly Poor
+;null	restaurant	 negative	This was, from start to finish, a mind-bogglingly uncomfortable experience.
+;null	service	 negative	Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn.
+;servers	service	 negative	The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention.
+;null	service	 negative	Polite acknowledgement is out;
+;null	service	 negative	supercilious scorn is in.
+;null	service	 negative	And how many times can you pick up the same perfectly aligned set of napkins, inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent?
+;server;appetizer	service food	 negative positive	A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).
+;food;null	food service	 positive negative	Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest.
+;fit-out;furnishings;wine list;null	ambiance ambiance beverages service	 positive positive positive negative	The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)
+;null;null;null	price restaurant service	 negative negative negative	At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture.
+;null	restaurant	 negative	On that scale, it's a world-beater.
+;palce	restaurant	 negative	How is this palce still open?
+;null	restaurant	 negative	I honestly don't even know where to begin.
+;null	service	 positive	We arrived and were seated immediately, which made us both happy.
+;null;meals	restaurant food	 positive negative	Everything was going good until we got our meals.
+;chicken	food	 negative	I took one look at the chicken and I was appalled.
+;null;spinach	food food	 negative negative	It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes.
+;salmon;salmon	food price	 negative negative	I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms.
+;waitress	service	 negative	At this point, the waitress comes over and asks us if everything was okay, I was literally so shocked that I was speechless and didn't say anything, and guess what, the waitress WALKED away.
+;spinach	food	 negative	So, I switch with my boyfriend again to see if maybe I could stomach the meat and spinach again, but the spinach was so undercooked that I just could not bite through it.
+;null	food	 negative	I couldn't even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach.
+;null	food	 negative	So I decide to report back to the waitress because it was completely inedible.
+;null	service	 negative	"Guess what, I waited for TWENTY minutes before she came over and when she finally did, she says, ""oh well, I wish you would have said something earlier"" No apology, nothing."
+;null	service	 negative	After that she simply took our plates, walked away, came back another TWENTY minutes later with the bill and the chicken on it!!!!!!!!!!!!
+;null	service	 negative	No desert menu, no apology, nothing!!!!!!
+;manager	service	 negative	This is where it really really gets bad: the manager said, there is absolutely nothing we can do, it's a matter of taste that she didn't like it, and I cannot comp it.
+;null	service	 negative	Again, no apology, no is there anything else I can get you, no can I get you a drink to make up for it, nothing!!!!
+;null	service	 negative	The level of rudeness was preposterous.
+;manager;drinks;appetizers	service beverages food	 negative positive positive	The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.
+;null	restaurant	 negative	I HAVE NEVER EVER HAD SUCH AN UNPLEASANT EXPERIENCE.
+;staff	service	 negative	THIS STAFF SHOULD BE FIRED.
+;margherita pizza	food	 positive	cirspy crust margherita pizza
+;pizza	food	 positive	it was really good pizza.
+;crust;pizza	food food	 positive positive	the crust was imazingly cooked well and pizza was fully loaded:):):)
+;null	restaurant	 positive	you know what i mean all the positives things happening there made mw write this review.
+;restaurant	restaurant	 negative	Single Worst Restaurant in Manhattan
+;decor;pita;hummus;grilled octopus	ambiance food food food	 positive positive positive positive	I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.
+;place	restaurant	 negative	If I could give 0 stars I would do so for this place.
+;null	restaurant	 negative	The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews.
+;null	restaurant	 negative	Well...they can run but they can't hide.
+;place	restaurant	 negative	This place...god where do i begin.
+;scene	ambiance	 positive	It is quite a spectacular scene i'll give them that.
+;decor;eggplant;eggplant;null	ambiance food price service	 neutral negative negative negative	The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!
+;place	restaurant	 negative	How this place survives the competitive west village market in this economy, or any other for that matter, is beyond me.
+;hot dogs	food	 positive	Great Hot Dogs!
+;food;bark	food restaurant	 positive neutral	Though it's been crowded most times I've gone here, Bark always delivers on their food.
+;hot dogs;slamwich	food food	 positive positive	The hot dogs are top notch, and they're Slamwich is amazing!
+;bark;null	restaurant food	 positive positive	Going to Bark is always worth the train ride, and will make your tongue and belly very happy!
+;menu	price	 negative	Only complaint is the pricing--I believe it would be more reasonable to pay a dollar less on each item listed on the menu.
+;spot;food	restaurant food	 positive positive	But nonetheless--great spot, great food.
+;food;front of house staff	food service	 positive negative	Fabulous food - if the front of house staff don't put you off – 
+;null	price	 negative	It's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years. 
+;waiters;front of house staff;fish dishes	service service food	 positive negative positive	Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. 
+;bfc;front of house staff;null	restaurant service service	 negative negative negative	As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!
+;girl	service	 negative	The frizzy retro girl (with winged/ Dame Edna glasses) will yell at you if you try to order a drink. 
+;null	service	 negative	"I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she ""had a BBQ to go to"" that night - WTF??"
+;staff	service	 negative	I'd be horrified if my staff were turning away customers so early and so rudely!
+;girl	service	 negative	"There's another girl who I can't describe, she is about 5'6"" with brown hair, who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said, so her uninvited opinions are often out of context and nothing to do with what you're *really* talking about. "
+;null	service	 negative	I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal. 
+;null	service	 negative	Again, I'd be super upset if that were my employee.
+;service;null	service price	 negative negative	Considering you will spend at least $60 a head, I expect better service. 
+;null	service	 negative	So, if you're walking by and thinking about dining, you might want to see who's going to be seating you first...
+;maitre-d	service	 negative	"Maitre-D-""Eat and get out"""
+;food;service;maitre-d	food service service	 positive positive negative	The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant.
+;bottle of wine	beverages	 positive	While finishing our meals which included a high-end bottle of wine, our son's fiance joined us for a glass of wine and dessert.
+;frontman	service	 negative	This guy refused to seat her and she left, followed shortly by the four of us, but not before I told him that in my 40 years of world travel, including Paris, that I had never seen such a display of bad behavior by a frontman in a restaurant.
+;null	service	 negative	His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening.
+;maitre-d	service	 negative	"A word to the wise: you can't dine here and disturb the maitre-D's sense of "" table turnover"", as whacked as it is, or else."
+;null	service	 negative	If you go here, do it on his off-night.
+;meal	food	 positive	Best meal in a long time!
+;mussles;calamari	food food	 positive positive	Mussles and calamari were superb Saturday evening.
+;lamb special	food	 positive	I had the Lamb special which was perfect.
+;flank steak	food	 positive	My father had the flank steak which was very good, and my mother had the swordfish.
+;the four seasons restaurant	restaurant	 positive	The Four Seasons restaurant is a great experience.
+;food;environment	food ambiance	 positive positive	The food is great and the environment is even better.
+;null	restaurant	 positive	Everyone must come here at least once.
+;null	restaurant	 positive	Highly recommend it!
+;hot dogs	food	 positive	Taking Hot Dogs to the next level
+;bark;hot dog	price food	 negative positive	At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog.
+;hot dog;hot dog	food food	 positive positive	Here the hot dog is elevated to the level of a real entree with numerous variations available.
+;atmosphere	ambiance	 positive	Great Atmosphere
+;fish tacos;null	food food	 positive neutral	I highly recommend the fish tacos, everything else was ok.
+;atmosphere;fire place;null	ambiance ambiance ambiance	 positive positive negative	Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.
+;service;management	service service	 negative negative	Poor service and management
+;place	restaurant	 negative	Don’t go to this place!
+;casa la femme	restaurant	 negative	Had an awful experience at Casa la Femme on a Saturday dinner.
+;null	service	 negative	Appetizers took nearly an hour.
+;null	service	 negative	When the main course finally arrived (another 45mins) half of our order was missing.
+;null	service	 negative	Never got an explanation as to what was going on.
+;manager	service	 negative	The manager was rude and handled the situation extremely poorly.
+;null	service	 negative	When we threatened to leave, we were offered a meager discount even though half the order was missing.
+;null	service	 negative	On the way out, we heard of other guests complaining about similar issues.
+;restaurant;null	price service	 negative negative	Can’t believe how an expensive NYC restaurant can be so disrespectful to its clients.
+;null	restaurant	 negative	What a hassle!
+;food	food	 neutral	The food is very good, but not outstanding.
+;staff;null;wait	service food service	 negative negative negative	There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.
+;null	service	 negative	On our last visit, they skipped over our name on the list, leaving us waiting an extra hour for a table.
+;staff	service	 negative	Mistakes happen, but they are usually accompanied by an apology, perhaps even a glass of wine...but not the grunt that we received from the Al Di La staff.
+;null	price	 negative	Expensive
+;bread;salad;salad	food price food	 negative negative negative	The bread was stale, the salad was overpriced and empty.
+;pasta;pasta;pasta	food food food	 positive negative negative	The pasta was well cooked, didn't have enough sauce though or flavor.
+;null	service	 negative	So rude!!!
+;null	restaurant	 negative	I was one of the people that went for this horrible experience.
+;hostess;null	service service	 negative negative	The hostess was rude and I got a distinct feeling that they did not want to serve us.
+;bartender	service	 negative	The only thing that my friend left out is that when we sat down at the bar the bartender disappeared.
+;waitress	service	 negative	I asked for a menu and the same waitress looked at my like I was insane.
+;waitress	service	 negative	"I was shocked that my friends wanted to stay after the waitress said, ""can I help you"" and ""how many are in your party."""
+;null	service	 negative	The three of us standing in front of her should have been an indication of how many of us there were.
+;null	restaurant	 negative	We didn't look like the other patrons in there so unfortunately I think that may have been part of the problem.
+;staff;customer service	service service	 negative negative	Shame on this place for the horrible rude staff and non-existent customer service.
+;staff	service	 negative	bad staff
+;place	restaurant	 positive	I generally like this place.
+;food	food	 positive	The food is good.
+;space	ambiance	 positive	The design of the space is good.
+;service	service	 negative	But the service is HORRID!
+;waitress;waiter	service service	 negative negative	I was there for brunch recently, and we were tag teamed by a waitress and a waiter.
+;waiter	service	 negative	The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand.
+;null	service	 negative	I can't believe that it was, but please put the bag down before delivering food!
+;waitress	service	 negative	The waitress came to check in on us every few minutes, and began to clear the plates while half of us were still eating (a big pet peeve of mine that happens almost everywhere, so I try to ignore it).
+;null	service	 negative	I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table.
+;null	service	 negative	She then put the check down without asking if we were done, and came to check on the bill every two minutes, even though we were one of three occupied tables.
+;place;staff	restaurant service	 negative negative	I wish I could like this place more, and I wish someone would retrain the staff.

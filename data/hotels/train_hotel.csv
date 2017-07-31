@@ -20,7 +20,7 @@ aspect term	category	polarity	text
 ;null	 location	 positive	Very easy to walk to restaurants, even to walk to North Beach.
 ;hotel	 hotel	 positive	Fantastic hotel - will be going back asap!
 ;chairs	 hotel	 neutral	Due to the comfy chairs I usually fell asleep.
-;causeway bay;jardines's bazaar;times square	 location location location	 positive positive positive	We loved its location in Causeway Bay-a stone's throw from the Causeway Bay MTR, great food outlets at Jardine's Bazaar, good shopping at Times Square.
+;causeway bay;jardine's bazaar;times square	 location location location	 positive positive positive	We loved its location in Causeway Bay-a stone's throw from the Causeway Bay MTR, great food outlets at Jardine's Bazaar, good shopping at Times Square.
 ;reservation	 service	 negative	When I asked the concierge to help get a reservation to a new restaurant in the city she wasn't aware of it.
 ;hall;fire alarm	 hotel hotel	 negative negative	Very loud party group down the hall and fire alarm went off in the middle of the night.
 ;front desk staff;bellmen;housekeepers	 checkin checkin service	 positive positive positive	From the front desk staff to the bellmen to the housekeepers --- we felt like we were among Ohana (Hawaiian for family).
@@ -32,7 +32,7 @@ aspect term	category	polarity	text
 ;bathroom	 rooms	 negative	The rooms were very well furnished but the bathroom in one of them was poor for a 4star hotel.
 ; restaurant	 food	 negative	The restaurant was pretty terrible - the worst nasi goreng I had in 2 weeks by far.
 ;hotel	 hotel	 positive	Overall, I would highly recommend this hotel.
-;notels	 hotel	 positive	It's really one of the nicest hotels anywhere and the best airport hotel.
+;hotels	 hotel	 positive	It's really one of the nicest hotels anywhere and the best airport hotel.
 ;clean;rooms	 cleanliness rooms	 positive positive	Rooms: Very nice, clean, clean, clean.
 ;renovations	 hotel	 negative	BUT, this hotel made NO mention of any renovations on their website.
 ;staff	 service	 positive	Also the staff are very friendly and it is based near a variety of restaurants/bars and clubs.
@@ -254,7 +254,7 @@ aspect term	category	polarity	text
 ;room;garden view	 rooms rooms	 negative negative	Then brought to yet another room 2nd floor garden view, bearly acceptable.....The room we requested and paid for would not be ready until the next day.??????????
 ;restaurant	 hotel	 negative	The restaurant attached to the hotel, however, is quite mediocre and very noisy, with unresponsive staff.
 ;duty manager	 service	 positive	The duty manager spoke to me in person and advised me to go to my room whilst he sorted this out within 5 minutes I was on the phone to the hotels sub contracted doctor who advised me to travel to see him as it would be quicker and cheaper.
-;check in;rooms;null	 checkin rooms service	 negative negative negative	At first the check in person at the convenience store would not give me another room stating that everything was taken until we realized that the toilet was leaking into the bedroom.
+;check in;room;null	 checkin rooms service	 negative negative negative	At first the check in person at the convenience store would not give me another room stating that everything was taken until we realized that the toilet was leaking into the bedroom.
 ;null	 hotel	 negative	you are supposed to be dining there) to be very frustrating.
 ;rooms;bathroom	 cleanliness rooms	 positive positive	The rooms were clean and the bathroom was completely up to date.
 ;null	 hotel	 neutral	Not the greatest
@@ -313,7 +313,7 @@ aspect term	category	polarity	text
 ;hotel	 hotel	 positive	My new favorite hotel!
 ;located	 location	 positive	it is located a 10 minute walk to the mtero system and close to major streets so that you can take the buses if you are brave enough.
 ;cafe	 food	 positive	The cafe had opened downstairs so we were able to grab something light and easy for breaky.
-;null;staff	 building service	 positive positive	It's a beautifully designed, well appointed and friendly staffed hotel.
+;null;staff	 building service	 positive positive	It's a beautifully designed, well appointed and friendly staff hotel.
 ;staff	 service	 positive	Staff were always pleasant and helpful.
 ;null	 hotel	 positive	Very Nice!
 ;room	 rooms	 neutral	Quiet for the most part, the room was adequate but could use some minor remodeling.
@@ -377,7 +377,7 @@ aspect term	category	polarity	text
 ;french quarter area	 location	 positive	Just stayed 2 nights recently, hardly stayed in the room as we walked all around the Old and New French Quarter area.
 ;room	 rooms	 negative	There is a lot of high tech inside the room but some is just too high tech and not useful and even dangerous.
 ;hotel;freeways	 location location	 positive positive	Hotel is near freeways, so central to getting around.
-;	 rooms	 negative	If you must stay here check out the room first before you hand over your credit card.
+;room	 rooms	 negative	If you must stay here check out the room first before you hand over your credit card.
 ;dinner reservation system	 hotel	 negative	The more frustrating kink was the hotel's dinner reservation system.
 ;room;balcony;boboli gardens;uffizi	 rooms rooms rooms rooms	 positive positive positive positive	The room was a great room - had a balcony and view of the Boboli Gardens and the Uffizi.
 ;hotel	 hotel	 positive	Overall, a great hotel in a city where I'm sure it's easy to pick a bad one.
@@ -395,7 +395,7 @@ aspect term	category	polarity	text
 ;mold	 rooms	 negative	It was extremely humid so I imagine it's quite difficult for things to dry properly there... hence the mold.
 ;hotel	 hotel	 neutral	Although most of the reviews of this hotel tell a fairly accurate picture- central, basic.
 ;room;plasma t.v.	 rooms rooms	 positive positive	My room had a 42 inch plasma t.v. which was nice.
-;breakfast	 food	 positive	The breakfasts were some of the best we had throughout our trip.
+;breakfasts	 food	 positive	The breakfasts were some of the best we had throughout our trip.
 ;null	 rooms	 positive	Miller-Harris smellies.
 ;resort	 hotel	 neutral	If you think you are going to a American/Canadian 4-5 star resort you would be fooling yourself.
 ;8th floor	 rooms	 positive	We were on 8th floor, so very little street noise- asked to be away from kids!
@@ -448,7 +448,7 @@ aspect term	category	polarity	text
 ;check-in	 checkin	 positive	Check-in was quick and very easy.
 ;reviews	 hotel	 positive	After reading all of the negative reviews, I took a chance anyway and was very pleased.
 ;service	 service	 positive	The service was second to none.....if you can't be pleased here than you can't be pleased anywhere.
-;location;staff	 location service	 positive positive	Perfect locaion, wonderful staff!
+;location;staff	 location service	 positive positive	Perfect location, wonderful staff!
 ;deal	 value	 positive	He gave us a good deal of Euro 90 for double executive room (incl. buffet breakfast and taxes).
 ;location;prices	 location value	 positive negative	The prices were high, but the location can't be beat.
 ;rooms	 rooms	 positive	The rooms are large.
@@ -460,7 +460,7 @@ aspect term	category	polarity	text
 ;null	 value	 neutral	I paid $55.00/night (booked online through a different site).
 ;noise	 hotel	 negative	If you are at all sensitive to noise, then it is very important that you get a room in the back of the hotel.
 ;waikiki parc	 hotel	 positive	If you're looking for a reasonably priced nice hotel steps away from the beach, I would recommend staying at the Waikiki Parc.
-;pikpockets;gypsies	 hotel hotel	 negative negative	Watch out for the pickpockets, and gypsies carrying babies !They will put a newspaper on the table and pick up anything under it !!! Dont get caught on the pea under the cup trick ! Its a big scam by an organised gang.
+;pickpockets;gypsies	 hotel hotel	 negative negative	Watch out for the pickpockets, and gypsies carrying babies !They will put a newspaper on the table and pick up anything under it !!! Dont get caught on the pea under the cup trick ! Its a big scam by an organised gang.
 ;location	 location	 positive	The hotel is in a great location!
 ;null	 rooms	 neutral	Not a huge issue but worth noting.
 ;air conditioning	 rooms	 positive	Great air conditioning...and we needed it as it was very hot.
@@ -601,7 +601,7 @@ aspect term	category	polarity	text
 ;front desk;service	 checkin service	 negative negative	Service: abysmal (you are supposed to be assigned a peronal assistant to cater to your every whim...I got a phone number which was always busy and a front desk that could care less).
 ;staff;location;rooms	 checkin location rooms	 negative positive neutral	The hotel itself is a nice location and the rooms are ok but the staff sucks.
 ;room	 rooms	 positive	We stayed in room 408 and it was great.
-;	 service	 positive	The staff are absolutely lovely.
+;staff	 service	 positive	The staff are absolutely lovely.
 ;null	 service	 negative	Despite very careful bookings through our agent Studylink on arrival (late, with tired students) we found that the hotel had put us in rooms where students were expected to share beds- claiming that this was normal practice.
 ;arrival;departure	 hotel hotel	 positive positive	Everything from our arrival to departure went smoothly.
 ;hotel	 hotel	 positive	I loved this hotel and would recommend it to anyone.
@@ -624,7 +624,6 @@ aspect term	category	polarity	text
 ;location	 location	 positive	The location of the hotel is very central--and I look forward to my next stay at the Ritz-Carlton Phoenix.
 ;null	 hotel	 neutral	I don't know if this is a common occurrence when vacationing but it happened to them.
 ;staff	 service	 positive	The staff were marvellous - very friendly and helpful - can also endorse the review regarding bell boy desk - they were a laugh a minute and everybody loves British football!!
-;atmosphere	 hotel	 negative	Only one complaint, and that it was very disturbing was there was a large group of students that arrived the day after we did and they had just completly took over everything in the resort the pools, the restaurants the pool mats the bars they were loud and roudy up all thhrough the night singing banging on peoples doors in the wee hours of the night wasting the drinks by throwing them on each other just a lack of respect for everyone around them including the staff and other guests.
 ;hotel	 building	 positive	The hotel has completed $70 million in renovations, and it shows.
 ;null	 hotel	 positive	But the place where you rest your head at the end of your vacation day should bring you peace.
 ;old bullfighting arena;hill of montjuic;art museum;fountain;botanical gardens;museums;spanish village;cable car;castle	 location location location location location location location location location	 neutral neutral neutral neutral neutral neutral neutral neutral neutral	Sometime in the future the old bullfighting arena at Plaza Espanya will be turned into a mall, but for now the only thing you can walk to from the hotel is the hill of Montjuic, which has the art museum, the fountain that is lit up at night, various botanical gardens, various smaller museums, the Spanish Village, and the cable car up to the castle.
@@ -648,7 +647,7 @@ aspect term	category	polarity	text
 ;mexican restaurant;brazilbeverage servicefront lobby bar	 food food	 positive positive	We never tried the mexican restaurant or the brazilBeverage ServiceFront Lobby bar - Very good in the night.
 ;bridges	 building	 positive	They have bridges going across the pool at different spots, just beautiful.
 ;pool;gym;null	 building building hotel	 neutral neutral neutral	Pool is a bit small but adequate, the gym well equipped but not used much.
-;bars;restaurants;shower room	 location location rooms	 positive positive positive	Ours had a walk in shower room- very luxurious for a 4 star and air conditioning- which we did need in Feb as hotel was a bit too hot for us.This hotel is surrounded by great little bars and resturants- stay off Santa Ana for value and is walking distance to all the other major points of interest.
+;bars;resturants;shower room	 location location rooms	 positive positive positive	Ours had a walk in shower room- very luxurious for a 4 star and air conditioning- which we did need in Feb as hotel was a bit too hot for us.This hotel is surrounded by great little bars and resturants- stay off Santa Ana for value and is walking distance to all the other major points of interest.
 ;hotel	 hotel	 positive	We found it to be a nice hotel.
 ;diamond palace hotel	 hotel	 neutral	I spent four nights at Diamond Palace Hotel while attending a conference in San Juan.
 ;null	 hotel	 positive	Very convenient.
@@ -668,7 +667,7 @@ aspect term	category	polarity	text
 ;resort	 hotel	 negative	I dont know if this is a way to save money when the resort is slow or what but definitely unacceptable at a supposed 5 star resort.
 ;ants;service	 cleanliness service	 negative negative	Only compaints are that the service is a little slow during busy times and during one of my stays there were three or four tiny ants on the floor.
 ;ear plugs	 rooms	 negative	However, if you plan to take an afternoon nap, bring ear plugs.
-;	 building	 positive	It adds a cosy feel without losing the sleekness.
+;null	 building	 positive	It adds a cosy feel without losing the sleekness.
 ;staff	 service	 positive	The staff were always pleasant polite and we would definately recommend the Holiday Inn Express' all over the world and stay there again.
 ;room service	 value	 negative	I ordered room service one day ($28, ouch!),
 ;null	 hotel	 neutral	I am not particularly drawn to trendy.
@@ -768,7 +767,6 @@ aspect term	category	polarity	text
 ;hotel;null	 hotel service	 positive positive	Just ask him and he has the answers !!We will return to this wonderful , splendid hotel soon !
 ;northeast	 location	 negative	Now if they could only move the hotel 15km to the northeast....
 ;rooms;service	 rooms service	 positive positive	Great Service And Lovely Rooms
-;clean;beds;people	 cleanliness rooms service	 positive negative positive	It鈥檚 a RoomIt鈥檚 DryIt鈥檚 SecureThe people are friendly enoughIt鈥檚 CheepThe Sheets are cleanClean ToiletsOn the Bad Side :Three Single beds and a Matress in the roomIn need of decoration Beds look like they come from a prisonStairs are so steep near the top they are more like a carpeted ladder on steroids.
 ;rooms	 rooms	 neutral	You could hear the doors shut in the adjacent rooms as well, but overall it was a great experience for Times Square during the Christmas season.
 ;clean	 cleanliness	 positive	The rooms are very clean and are the perfect base while exploring the city, ask for a room at the front of the hotel as you get your own personal little balcony.
 ;null	 hotel	 positive	As lots of others have said already, all stuff is great and helpful.
@@ -805,7 +803,7 @@ aspect term	category	polarity	text
 ;location	 location	 positive	It was a perfect location, allowing us to get out quickly to see the sights, and make easy visits back for a rest or to freshen up.
 ;null	 checkin	 negative	He was helpful in saying that he would make a note in his computer system for verification of reasons we couldnt stay, not sure if this actually occured but we will see.
 ;clean;breakfast;price	 cleanliness food value	 positive neutral positive	Good price ($200) for a clean, safe, mid-town room (2 double beds) that includes breakfast.
-;;	 value service	 positive positive	Contrary to other reviews, I found the prices at both the restaurant and the lounge to be comparable and fair considering the location of the hotel in the Financial District and the level of service and quality provided.
+;prices;service	 value service	 positive positive	Contrary to other reviews, I found the prices at both the restaurant and the lounge to be comparable and fair considering the location of the hotel in the Financial District and the level of service and quality provided.
 ;fruits;nuts;banana bread;flowers	 checkin checkin checkin checkin	 positive positive positive positive	When we checked into our room we received the most wonderful platter of fruits, nuts and banana bread and a fantastic display of fresh flowers.
 ;null	 service	 negative	but we were not offered refills once during breakfast.
 ;5 min walk	 location	 positive	Esperanza main strip is only 5 min walk from hotel.
@@ -853,7 +851,7 @@ aspect term	category	polarity	text
 ;null	 hotel	 positive	All in all and excellent place to stay and highly recommended.
 ;null	 service	 positive	They are always smiling and try to make you feel special.
 ;decor;staff	 building service	 positive positive	The hotel had fun modern decor, and the staff were very friendly, intelligent, helpful, and uniformly young (nearly all under 40 years).
-;	 hotel	 negative	Stay away from THe Clift Hotel.
+;null	 hotel	 negative	Stay away from THe Clift Hotel.
 ;experience	 hotel	 positive	Wonderful Experience My brother got married on Sunday
 ;rooms	 rooms	 positive	The rooms are recently renovated, and much improved.
 ;area	 location	 neutral	It's not in the prettiest part of town, but the area is quite safe and is abviously being redeveloped with trendy apartments.
@@ -897,7 +895,7 @@ aspect term	category	polarity	text
 ;null	 hotel	 neutral	No snorkeling right on the hotel's beach (too many waves and no reef), so you have to book a separate excursion.
 ;tripadvisor	 hotel	 positive	Thanks, tripadvisor, for making reviews available...I did lots of research on-line to get the best place for the best price for our hotel room in New York.
 ;breakfast;null	 food value	 positive positive	They also do a nice free breakfast snack of coffee/ tea and muffins and bagels.
-;wall paper;bathtub;shade pulls;bedspread;windows	 cleanliness cleanliness cleanliness cleanliness cleanliness	 negative negative negative negative negative	e. wall paper coming off walls, bathtub stained, shade pulls very dirty, stained bedspead and cruddy/filthy windows.
+;wall paper;bathtub;shade pulls;bedspread;windows	 cleanliness cleanliness cleanliness cleanliness cleanliness	 negative negative negative negative negative	e. wall paper coming off walls, bathtub stained, shade pulls very dirty, stained bedspread and cruddy/filthy windows.
 ;null;bathroom	 cleanliness rooms	 positive positive	The bathroom was huge, spotless and beautiful!
 ;null	 service	 positive	Every night the kids were involved in putting on little shows.
 ;animation team	 hotel	 positive	The animation team was fantastic.
@@ -970,7 +968,7 @@ aspect term	category	polarity	text
 ;beach;pool	 location location	 positive positive	We spent our days going back and forth between the beach (absolutely beautiful clear water and white soft, sand) and the pool.
 ;hotel	 hotel	 positive	Very good hotel
 ;eating area	 building	 negative	It was good to have that area, but there wasn't anywhere really comfortable to sit either in eating area or your room.
-;furnishing;bar;beer	 rooms rooms food	 positive positive negative	Very nice furnishings, free mini bar, the beer was awful but we enjoyed the water, juice and coke.
+;furnishings;bar;beer	 rooms rooms food	 positive positive negative	Very nice furnishings, free mini bar, the beer was awful but we enjoyed the water, juice and coke.
 ;room	 rooms	 negative	When we saw our room, we were not pleased.
 ;rooms;free internet	 rooms value	 positive positive	The rooms all have cable TV and there's free internet access in the lobby.
 ;cleaning	 cleanliness	 negative	The room cleaning was questionable though as they did not remove empty water bottles the whole time we stayed.
@@ -980,9 +978,8 @@ aspect term	category	polarity	text
 ;restaurant	 food	 neutral	The restaurant on property was ok - but did not bill to your room.
 ;staff	 service	 positive	Staff were friendly and helpful - free safe in lock up behind the reception desk which is very useful as you need to make sure that you do not take anything of much value with you as there are many pick-pockets around.
 ;bed;day bed;tv area;bathroom;shower;jacuzzi tub	 rooms rooms rooms rooms rooms rooms	 positive positive positive positive positive positive	It had a king sized bed, a separate day bed in the tv area and a huge bathroom with shower and separate jacuzzi tub.
-;;;	 hotel business value	 positive positive negative	I would stay here again on points of for business, but if it was my own money I might look around before booking it.
 ;noise;windows	 rooms rooms	 positive positive	You can let in outdoor noise or block it out with their windows.
-;service	 service	 positive	the guest servicesdepartment delivered champaigne and put rose pedals on our bed at night.
+;guest services department	 service	 positive	the guest services department delivered champaigne and put rose pedals on our bed at night.
 ;parking =free	 value	 positive	per room (parking =free) and 12,5鈧?
 ;palace	 hotel	 positive	We were pleasantly surprised when we were upgraded from the Beach Resort to the Palace.
 ;null	 hotel	 positive	Good Times -
@@ -1034,10 +1031,10 @@ aspect term	category	polarity	text
 ;null	 hotel	 positive	Easter holidays and all I can say is that the place was great.
 ;null;null	 checkin service	 positive positive	Nothing was too much trouble.
 ;palapa	 hotel	 neutral	We didn't always get there early or leave towels on the chairs and we were still able to find palapa covered seating, it just would take a lil bit of walking back and forth and possibly sitting in an area too far from the water or the bar.
-;clean;rooms	 cleanliness rooms	 positive positive	Room was comfortable, quite spacious, well appointed and very clean.
+;clean;room	 cleanliness rooms	 positive positive	Room was comfortable, quite spacious, well appointed and very clean.
 ;null	 hotel	 positive	BPappealed to me as a single parent, traveling with a teenage son.
 ;beds;bedding	 rooms rooms	 positive positive	The obviously new beds and bedding were super-luxurious.
-;service	 service	 neutral	ServiceNo complaints here.
+;service	 service	 neutral	Service No complaints here.
 ;hotel	 hotel	 positive	really special This was our first time staying in this hotel one word covers it all
 ;null	 hotel	 positive	We will definitely stay here again.
 ;waikiki;beach	 location location	 positive positive	Waikiki is small and you can walk to the beach in a short time.
@@ -1047,7 +1044,7 @@ aspect term	category	polarity	text
 ;cc warning	 hotel	 negative	Warning, they falsely charged my CC WARNING!
 ;null	 rooms	 positive	It was lovely, and looked very recently done.
 ;hotel	 hotel	 positive	It is safe to walk except take care at night.I would recommend the hotel for first time visitors.
-;amenities;ironing board;pants hangers;tissues;soap;face washcloth;tv;alarm clock;wi-fi	 rooms rooms rooms rooms rooms rooms rooms rooms rooms	 negative negative negative negative negative negative negative negative negative	Some of the lack of amenities in the $450/night junior suite in which I stayed:No ironing boardNo pants hangersVery few tissues (a small package of 4)A 1x1 bar of soapNo face washclothsOne English channel on TVNo alarm clockNo secured Wi-Fi and have to get new username/pswd each day
+;amenities;ironing board;pants hangers;tissues;soap;face washcloths;tv;alarm clock;wi-fi	 rooms rooms rooms rooms rooms rooms rooms rooms rooms	 negative negative negative negative negative negative negative negative negative	Some of the lack of amenities in the $450/night junior suite in which I stayed:No ironing boardNo pants hangersVery few tissues (a small package of 4)A 1x1 bar of soap No face washcloths One English channel on TV No alarm clockNo secured Wi-Fi and have to get new username/pswd each day
 ;location	 location	 positive	It was the perfect location for shopping,too.
 ;room;bed;terrace;tv;bathroom	 rooms rooms rooms rooms rooms	 positive positive positive positive positive	The room was great, huge bed, lovely terrace overlooking the Gran Via, huge tv and lovely bathroom.
 ;mini disco	 hotel	 positive	There is mini disco that the kids really enjoyed.
@@ -1109,7 +1106,7 @@ aspect term	category	polarity	text
 ;breakfast	 food	 neutral	Breakfast was a bit better, and we realize this is not fast food, America, etcetera..
 ;location	 location	 positive	Great Location!!!
 ;null	 service	 negative	A couple who ordered food after us were given complimentary drinks because of the wait, but we weren't.
-;accomodations;price	 hotel value	 positive positive	I'm guessing this is one of best accomadations near Esperanza for this price range.
+;accomodations;price	 hotel value	 positive positive	I'm guessing this is one of best accomodations near Esperanza for this price range.
 ;lounge;wireless internet	 building hotel	 positive positive	There is free wireless Internet access in the rooms and another nice touch is the free glass of wine served between 5 and 6 - this ensures the guests gravitate to the lounge and creates a warm, friendly atmosphere.
 ;barcelona hotel	 hotel	 neutral	Barcelona hotel Stayed here for 4 days in September.
 ;null	 hotel	 neutral	The upgrade will allow access to free Continental Breakfast and afternoon cocktails.
@@ -1239,7 +1236,7 @@ aspect term	category	polarity	text
 ;location;town hall train station;downtown area;darling harbor;circular quay;executive lounge	 location location location location location location	 positive positive positive positive positive positive	Some earlier reviews describe this as sterile and I can see that some people might see it that way.Location is good for business and holiday; close to Town Hall train station, walk to downtown area, Darling Harbor or Circular Quay.I can use the executive lounge which serves complimentary cooked and continental breakfasts, snacks and drinks during the day until late.
 ;walls and floors	 rooms	 negative	Very thin walls and floors, could hear your neighbours all around.
 ;cheap	 value	 negative	This hotel ain't cheap, but it is in the middle of a very touristy area.
-;staff	 service	 positive	StaffImmediate upgrade to larger triple with excellent views.
+;staff	 service	 positive	Staff Immediate upgrade to larger triple with excellent views.
 ;diamond head;noise	 rooms rooms	 negative negative	The only drawback about the hotel is that the rooms located on the South side of the buidling facing Diamond Head are subject to some pretty terrible noise.
 ;rooms	 rooms	 negative	Rooms in punta cana don't really have views.
 ;toilets;phone	 rooms rooms	 negative negative	Our neighbor's phone rang and we could here his conversation, and the toilets flushing.
@@ -1382,7 +1379,7 @@ aspect term	category	polarity	text
 ;establishment	 hotel	 negative	Unfortunately this establishment falls a bit short.
 ;a-train	 hotel	 negative	Luckily that was my last night at the A-Train.
 ;value	 value	 positive	All in all , very good value for money , especially considering the saving on taxis which can amount to almost the price per day for this hotel
-;breakfast	 food	 positive	The breakfasts are great - fresh fruit, bagels, muffins, hot eggs and sausage, etc.
+;breakfasts	 food	 positive	The breakfasts are great - fresh fruit, bagels, muffins, hot eggs and sausage, etc.
 ;parking	 hotel	 negative	This would be a great home-base for exploring the Fisherman's Wharf area.A note for the budget-conscious: the parking rates are outrageous - $39/day plus tax (and tip) for valet parking.
 ;bed sheets;room;null	 cleanliness cleanliness service	 negative negative negative	you can buy drinks from outside the hotel for l.60 euro. bed sheets were never changed during that week and room was never cleaned.
 ;desk staff	 service	 positive	The desk staff are great but if you need anything special ask for Leonor who will go out of her way to get what you need.
@@ -1466,7 +1463,7 @@ aspect term	category	polarity	text
 ;null	 building	 neutral	We were in Gravina II which I think might be a newer section on the 5th floor.
 ;null	 service	 positive	From pressing the lift buttons for you to helping you in and out of taxi's, to there genuine pleasure in serving you.
 ;rooms	 rooms	 negative	However, just a couple of small things - one of our triple rooms was really small, only fit as a double and there was no mirror in the bedroom at all, just the bathroom mirror so it was a bit of hassle when 3 women were getting ready to go out.
-;room;view	 rooms rooms	 negative negative	We were on the third floor looking over the roof - hardly any view of the ocean at all.
+;roof;view	 rooms rooms	 negative negative	We were on the third floor looking over the roof - hardly any view of the ocean at all.
 ;spa/swimming pool;location;rates	 building location value	 positive positive positive	Great location, lovely spa/swimming pool, etc.Slightly put out by the fact that we booked months in advance for an Earlybird rate, to find there were cheaper rates.
 ;hawaiian hotel	 hotel	 positive	We will definately stay at our favouite Hawaiian hotel again.
 ;chinatown;little italy	 location location	 positive positive	Good location close to Chinatown and Little Italy.
@@ -1493,7 +1490,7 @@ aspect term	category	polarity	text
 ;hotel	 hotel	 positive	Lovely Hotel Cannot speak highly enough of The London Bridge Hotel.
 ;rooms	 rooms	 neutral	We read about a musty smell in the rooms.
 ;null	 value	 positive	Our minibus which the hotel booked for us returning to the airport only cost 55 euro's between 6 of us.
-;lnul	 hotel	 negative	We wanted to make this trip special, fun, and the resort ruined it.
+;resort	 hotel	 negative	We wanted to make this trip special, fun, and the resort ruined it.
 ;null;null	 food value	 negative negative	To think we had to pay a mandatory $76 per day per person for that slop.
 ;room	 rooms	 positive	Our room had a small chair that had a swing table on the arm and a foot rest that slid out, perfect for working on the laptop.
 ;traffic	 hotel	 negative	We stayed in the front and the traffic and other street noise was very loud.
@@ -1582,7 +1579,7 @@ aspect term	category	polarity	text
 ;tip	 service	 negative	Half way through someone came over to help since he was looking for a tip.
 ;restuarant;lola	 food food	 neutral neutral	The attached restuarant, Lola, served breakfast (and lunch and dinner, which we did not try), and seems to be open late.
 ;complaints	 hotel	 neutral	PRINCIPEWe left for Punta Cana Dec 13 out of edmonton.....Concerning this resort I have no real complaints.
-;food;pricely	 food value	 positive positive	Nice food due to the French Chef on staff, but pricey.
+;food;null	 food value	 positive positive	Nice food due to the French Chef on staff, but pricey.
 ;hotel	 value	 positive	We booked this hotel after reading several reviews as it seemed like the best deal when we compared the rates to the downtown hotels.
 ;comments	 hotel	 positive	Muy Bien To all of the people that worry about the comments - Dont'
 ;owners;location;service	 hotel location service	 positive positive positive	Great owners, service, location
@@ -1726,7 +1723,7 @@ aspect term	category	polarity	text
 ;bedroom	 hotel	 neutral	We booked a one bedroom suite which was on the 8th floor.
 ;null;water	 hotel rooms	 positive negative	One day we had no hot water at all.Mostly though it was a positive experience.
 ;null	 hotel	 negative	There aren't enough to go around!
-;pools	 hotel	 neutral	PoolsThree on site, but one was closed for repairs at the far end of the resort.
+;pools	 hotel	 neutral	Pools Three on site, but one was closed for repairs at the far end of the resort.
 ;service	 service	 negative	Bad Service for Up-Scale Hotel
 ;null;hotel	 hotel service	 positive positive	Fabulous, Friendly Hotel
 ;rooms	 rooms	 neutral	If you are traveling with younger kids you might want your rooms closer to the Dominica for the pool and beach activities.
@@ -1856,7 +1853,7 @@ aspect term	category	polarity	text
 ;location	 location	 positive	The location is quite good.
 ;restaurants	 food	 positive	The restaurants were all good.
 ;resort	 hotel	 positive	What an AMAZING resort!
-;romm	 rooms	 positive	The room was 4-star, but the lack of services (e.g. pool, gift shop) make the entire property a 3.5 star.
+;room	 rooms	 positive	The room was 4-star, but the lack of services (e.g. pool, gift shop) make the entire property a 3.5 star.
 ;beef	 food	 positive	This resort you know your eating beef.
 ;location;staff	 location service	 positive positive	Friendly staff, great location
 ;supreme buffet;breakfast	 food food	 neutral neutral	The Supreme buffet is pretty good for breakfast, but many items are cold.
@@ -1935,7 +1932,7 @@ aspect term	category	polarity	text
 ;null	 hotel	 positive	Outstanding!
 ;room	 rooms	 negative	very ugly room.
 ;location;soundproofed	 location rooms	 positive positive	Perfect location near all the great bars and restaurants, and yet superbly soundproofed so no noise to disturb you if you ever decide to go to bed!
-;break	 food	 positive	The resturant serves a good buffet breakfast for around $12 which is well worth it.
+;breakfast	 food	 positive	The resturant serves a good buffet breakfast for around $12 which is well worth it.
 ;clean;rooms	 cleanliness rooms	 positive positive	Our rooms honestly were a bit smaller then I was expecting but very clean , nice and AC worked great.
 ;concierge;front staff	 service service	 positive positive	The concierge was very informative and the front staff very polite.
 ;start-up meal	 food	 positive	Scrambled eggs, breakfast meat, cereals, yogurt, bagels, muffins, oatmeal, Starbucks coffee and Tazo teas...all made for a great start-up meal.
@@ -1990,7 +1987,7 @@ aspect term	category	polarity	text
 ;restaurants;buffet;rooms;towels;service	 food food rooms rooms service	 positive positive positive positive positive	Great service, great rooms, soft towels, good restaurants, great buffet.
 ;bars;cafes	 location location	 positive positive	There are lots of lovely local bars and cafes near the hotel 鈥?
 ;clean;staff	 cleanliness service	 positive positive	Aside from my dealings with the owner (who was less than hospitable and crossed out my entry in their guest book), the staff were great and the hotel was clean and modern.
-;location	 location	 positive	It was also very nicely tucked on a side street so it was always very quiet.
+;null	 location	 positive	It was also very nicely tucked on a side street so it was always very quiet.
 ;service staff	 service	 positive	Service staff were very polite and helpful.
 ;lift	 building	 negative	As mentioned in previous reviews, there is no lift.
 ;breakfast	 food	 positive	Big breakfast included.
@@ -2090,7 +2087,7 @@ aspect term	category	polarity	text
 ;null	 hotel	 positive	The Lenox?
 ;location	 location	 negative	But the location was just unacceptable for a pleasure trip.
 ;null	 hotel	 positive	Fantastic!
-;hotel;$55.oo per night	 hotel value	 positive positive	I highly recommend the hotel, especially at the priceline rate of $55.00 per night (+ tax and fees).
+;hotel;priceline rate	 hotel value	 positive positive	I highly recommend the hotel, especially at the priceline rate of $55.00 per night (+ tax and fees).
 ;hotel	 building	 positive	The hotel has a Starbucks, Ruth Chris Steakhouse and The Cheesecake Factory.
 ;null	 service	 negative	This occured 4 times.
 ;free internet	 hotel	 positive	However if you are travelling with a laptop they provide free internet in the rooms (decent speed ~2mbps) ask at reception for pass code.
@@ -2122,7 +2119,7 @@ aspect term	category	polarity	text
 ;prices	 value	 negative	However, for the prices that this establishment charges, there are far better values like the Argonaut or right across the street, the Holiday Inn Express.
 ;null	 hotel	 neutral	Tip: if you want a beach chair at the beach or pool, go there before 9am or so and put your magazine or towel on your chair.
 ;room	 rooms	 positive	The room was more than adequate for our needs.
-;rep	 service	 positive	The repfrom Go Go another Hector was also great.
+;rep	 service	 positive	The rep from Go Go another Hector was also great.
 ;null	 hotel	 negative	Israel, paid 2 months in advance just to find out they over bookd pepole for the hotel and they are very sorry but you can't stay here.
 ;clean;room;internet	 cleanliness rooms rooms	 positive positive positive	Our room is spacious with internet access, cozy modern-minimalis design and clean.
 ;pic-pocketing	 location	 positive	Also this is a safer area than say- Sol and the Gran Via-where I saw an attempt at pic-pocketing etc at night time.
@@ -2131,7 +2128,7 @@ aspect term	category	polarity	text
 ;room;room	 cleanliness rooms	 positive positive	The room was clean and quiet.
 ;neighborhood	 location	 neutral	Its not in a great neighborhood, but hey, most of New Orleans isn't a great neighborhood and the bums are everywhere.
 ;front desk	 checkin	 negative	When we arrived back at the hotel we had to wait outside for about an hour and a half because the lady at the front desk did not buzz us in.
-;clean;accomodations	 cleanliness rooms	 positive positive	The acommodations were simple but very clean with a small fridge and a microwave in the room.
+;clean;acommodations	 cleanliness rooms	 positive positive	The acommodations were simple but very clean with a small fridge and a microwave in the room.
 ;sitting room	 rooms	 positive	The sitting room off to the side of the room was the best part; plasma screen on the wall, armoire for hanging up clothes, a mini bar and a loveseat.
 ;clean;room	 cleanliness rooms	 positive positive	Our room has always been very clean, quiet, and comfortable.
 ;hotels	 hotel	 negative	In fact, of the 5 hotels we stayed at in total the Millennium Plaza was the only one which did not offer free WIFI.
@@ -2244,7 +2241,7 @@ aspect term	category	polarity	text
 ;room	 rooms	 positive	We had a room with double and single bed and it was a reasonable size.
 ;hotel	 hotel	 positive	great hotel Just back today from 3 days staying at the owl hotel.
 ;null	 location	 positive	The flight went to Girona, so we got the bus to the station and you could see the hotel from the entrance, only 2 mins walk.
-;beach	 location	 positive	BeachAbsolutely beautiful!
+;beach	 location	 positive	Beach Absolutely beautiful!
 ;majestic colonial	 hotel	 neutral	My husband and I, along with some friends, just returned from the Majestic Colonial.
 ;room;staff	 rooms service	 positive positive	The staff was so friendly and helpful, and our room was above average, considering the norm for hotels in Europe.
 ;lobby	 building	 positive	The lobby level has a coffee lounge that serves light snacks and is a nice gathering spot.
@@ -2252,13 +2249,13 @@ aspect term	category	polarity	text
 ;outram park	 location	 neutral	The hotel is located near Outram Park.
 ;null	 hotel	 negative	Not exactly a gem
 ;null	 rooms	 negative	My only complaint is street noise.
-;coomon areas	 cleanliness	 negative	The grounds were beautiful, but we noticed some cups in several common areas.... and these same cups remained until the date of our departure.
+;common areas	 cleanliness	 negative	The grounds were beautiful, but we noticed some cups in several common areas.... and these same cups remained until the date of our departure.
 ;mattress	 checkin	 negative	Asked for another mattress because it was like you are sleeping on a stone.
 ;courtyard room	 rooms	 positive	Stay in courtyard room-very quiet.
 ;taxi service	 service	 positive	For visiting sites in other areas of the city (we loved visiting Frido Kahlo's Blue House in Coyoacan), the hotel will arrange for taxi service.
 ;null	 hotel	 positive	A complete steal.
 ;front desk	 service	 negative	The folks at the front desk were very poor on listening to our needs and were extremely uncooperative.
-;clean;room	 cleanliness rooms	 positive positive	The rooms were above average for NYC and the were very clean.
+;clean;rooms	 cleanliness rooms	 positive positive	The rooms were above average for NYC and the were very clean.
 ;fitness club;treadmills;weights;weight machines;pool;jacuzzi;sauna;shiatsu massage services	 building building building building building building building building	 positive positive positive positive positive positive positive positive	The hotel has an awesome fitness club with treadmills, free weights, weight machines, pool, jacuzzi, sauna and shiatsu massage services if you need it (Masako is the shiatsu lady, very nice to speak with her, she gave me some good suggestions for Japanese restaurants in the hotel and out).
 ;null	 rooms	 positive	Ours was perfect.
 ;resort	 hotel	 positive	As I said I would recommend this resort to anyone wanting to relax, be totally pampered, and enjoy some of the benefits of the good life.
@@ -2270,7 +2267,7 @@ aspect term	category	polarity	text
 ;hotel	 hotel	 positive	I am not sure I can gush enough about this fine hotel.
 ;null	 hotel	 positive	We loved the beaches on Vieques and the lack of crowds made it all the more wonderful.
 ;horseback riding	 hotel	 negative	The horseback riding which is included is a joke..
-;	 location	 positive	Location is brilliant, right next to the bustling Clarke Quay with its many bars and restaurants.
+;location	 location	 positive	Location is brilliant, right next to the bustling Clarke Quay with its many bars and restaurants.
 ;null	 service	 positive	In addition, you get two laundry vouchers for complimentary shirt wash and press (really handy) and a drinks voucher, which is perfect for a quick glass of wine before you hit the sack.I have spent many a night in the Highlander Bar which is possibly the tackiest Scottish theme bar in the world, but apparently a favourite of John Lennon and Yoko Ono (The Okura's Presidential Suite was home for the lovely couple during their time in Tokyo, I am told).
 ;service;bell-man	 service service	 neutral neutral	The best service of the whole stay was from the bell-man.
 ;beach	 hotel	 positive	They loved sitting out on the beach in their own private area.
@@ -2681,7 +2678,7 @@ aspect term	category	polarity	text
 ;mongkok mtr	 location	 positive	Close to the Mongkok MTR so convenient.
 ;hotel	 hotel	 positive	Brilliant Hotel - would recommend to anyone
 ;null	 hotel	 negative	Never Again Where do
-;breakfasts;room;null	 food rooms service	 positive positive positive	Good clean rooms, breakfasts were more than ample and served well.
+;breakfasts;rooms;null	 food rooms service	 positive positive positive	Good clean rooms, breakfasts were more than ample and served well.
 ;parking	 value	 negative	PARKING: is $43 plus tax per day; watch out!!
 ;room	 rooms	 negative	There was only one problem which was a little letdown:there was a connecting door to the room next to us and at around4 o麓clock in the morning people were talking so loud, that we could not sleep any longer.
 ;null	 service	 negative	We ordered pizza one night, and it never came, nor did we see our waiter after ordering d the situation.
@@ -2818,14 +2815,14 @@ aspect term	category	polarity	text
 ;clean;breakfast;bath robe;slippers;staff	 cleanliness food rooms rooms service	 positive negative positive positive positive	The second period was spent in a standard room which was also large, clean and with many extras - slippers , bath robe , hairdryer etc.The staff were very helpful and the only thing I did not like was the breakfast which is optional.
 ;staff	 service	 neutral	The hotel itself was interesting since it is 'round', the staff were polite but the hotel itself is understaffed.
 ;staff	 service	 positive	All in all, c is a first rate hotel, with a caring and dedicated staff who went out of their way to make us comfortable and happy.
-;room	 rooms	 negative	The bedding situation consisted of two twin size beds that we tried to put together but, one was higher than the other, some way to consummate a marriage?
+;bedding situation	 rooms	 negative	The bedding situation consisted of two twin size beds that we tried to put together but, one was higher than the other, some way to consummate a marriage?
 ;hotel	 hotel	 positive	Excellent family-run hotel
 ;hotel	 hotel	 positive	I highly recommend this hotel and would love to stay there again!
 ;trader joe's market	 location	 positive	There is even a Trader Joe's market nearby and we got some microwaveable stuff for dinner one night and saved a TON of money.
 ;room	 rooms	 positive	We had a room facing Magazine street which had 18ft ceilings and windows to match - beautiful.
 ;lunch	 food	 positive	We never had lunch there, but I'm sure it was good also.
 ;value	 value	 positive	Final note, FOR THE MONEY ($159/nt) and the fact that it's right across the road from the main beach, it's a decent value for a nice location.
-;furnishing and fittings	 rooms	 neutral	The furnishings and fittings are still in good condition.
+;furnishings and fittings	 rooms	 neutral	The furnishings and fittings are still in good condition.
 ;hotel	 hotel	 positive	Coolest Hotel on the Planet
 ;views;staff;rooms	 location service rooms	 positive positive positive	Perfect rooms, wonderful views, attentive staff and San Francisco.
 ;wyndham boston	 hotel	 positive	I spent 11 nights in the Wyndham Boston, and found it to be an excellent hotel.
@@ -2838,7 +2835,7 @@ aspect term	category	polarity	text
 ;attractions	 location	 positive	Many attractions are also accessible just by walking.
 ;null	 hotel	 positive	Pleasantly surprised!
 ;beach chairs	 hotel	 positive	They also rent beach chairs, coolers and beach towels.
-;bedroom	 rooms	 positive	Oh by the way, bedrooms have a free pillow menu!
+;bedrooms	 rooms	 positive	Oh by the way, bedrooms have a free pillow menu!
 ;breakfast	 food	 positive	Breakfast was large and wonderful.
 ;hotel;null	 building cleanliness	 positive positive	The hotel was extremely clean and well kept.
 ;null	 hotel	 positive	We did not want to leave.
